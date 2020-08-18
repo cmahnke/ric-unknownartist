@@ -1,0 +1,60 @@
+@import "observer.scss";
+
+.preview-image-list {
+    list-style-type: none;
+    margin: auto;
+    width: 50%;
+}
+
+.preview-image-list li div {
+    display: inline-block;
+    border: 1px solid gray;
+    box-shadow: 6px 6px 3px grey;
+    text-align: center;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.preview-image-list li div a {
+    text-align: center;
+    border-bottom: none;
+
+}
+
+.preview-image-list li div img {
+    padding: 15px;
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+    margin: 0px;
+}
+
+.preview-image-list li div p {
+
+
+}
+
+.tag-cloud {
+        margin-bottom: 20px;
+}
+
+.static-content-image {
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.static-content-image img {
+    margin: 10px auto 10px auto;
+}
+
+.static-content-image p {
+    margin: auto;
+    border: 1px solid gray;
+    box-shadow: 6px 6px 3px grey;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+    width: 40%;
+}

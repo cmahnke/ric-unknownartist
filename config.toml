@@ -26,7 +26,7 @@ linkTumblr = true
     [[menu.main]]
         name = "Further hints"
         weight = 3
-        url = "further-hints/"
+        url = "hints/"
 
     [[menu.main]]
         name = "Known works"
@@ -42,6 +42,9 @@ linkTumblr = true
         name = "About"
         weight = 6
         url = "about/"
+
+[markup.goldmark.renderer]
+    unsafe= true
 
 [module]
     [[module.mounts]]
