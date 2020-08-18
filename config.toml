@@ -1,0 +1,57 @@
+baseURL = "https://ric-unknownartist.projektemacher.org/"
+languageCode = "en"
+title = "Ric - An unknown artist"
+publishDir = "docs"
+canonifyurls = true
+languagecode = "en"
+defaultcontentlanguage = "en"
+disablePathToLower = true
+theme = "observer-hugo"
+
+[params]
+logo = "/images/logo.png"
+linkTumblr = true
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        weight = 1
+        url = "/"
+
+    [[menu.main]]
+        name = "Ric"
+        weight = 2
+        url = "ric/"
+
+    [[menu.main]]
+        name = "Further hints"
+        weight = 3
+        url = "further-hints/"
+
+    [[menu.main]]
+        name = "Known works"
+        weight = 4
+        url = "known-works/"
+
+    [[menu.main]]
+        name = "Map"
+        weight = 5
+        url = "map/"
+
+    [[menu.main]]
+        name = "About"
+        weight = 6
+        url = "about/"
+
+[module]
+    [[module.mounts]]
+        source = "assets/scss"
+        target = "assets/scss"
+
+    [[module.mounts]]
+        source = "node_modules/jquery/dist"
+        target = "assets/js/jquery"
+
+    [[module.mounts]]
+        source = "static"
+        target = "static"
