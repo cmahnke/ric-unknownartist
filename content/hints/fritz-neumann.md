@@ -63,7 +63,7 @@ There are some signatures of some of our candidates available on the net. Note t
 Works by (some) Fritz Neumann’s
 -------------------------------
 
-Some examples are posted on this blog and tagged as [“Fritz Neumann”](/tagged/fritz-neumann). This list isn’t complete and it won’t be. These are just to examples to distinguish between different styles
+Some examples are posted on this blog and tagged as [“Fritz Neumann”](/tags/fritz-neumann). This list isn’t complete and it won’t be. These are just to examples to distinguish between different styles
 
 What we know about him
 ======================

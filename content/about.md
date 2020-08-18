@@ -56,7 +56,7 @@ Acknowledgements
 ----------------
 
 *   Thanks to Simon for his work on the [original blog](http://ric-unknownartist.blogspot.com)
-*   This blog uses the tag cloud provided by [drunkonschadenfreude](https://drunkonschadenfreude.com/)
+
 
 My other blogs
 ==============

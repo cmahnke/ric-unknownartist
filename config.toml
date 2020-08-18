@@ -11,6 +11,7 @@ theme = "observer-hugo"
 [params]
 logo = "/images/logo.png"
 linkTumblr = true
+hideTitle = true
 
 [menu]
     [[menu.main]]
@@ -31,7 +32,7 @@ linkTumblr = true
     [[menu.main]]
         name = "Known works"
         weight = 4
-        url = "known-works/"
+        url = "works/"
 
     [[menu.main]]
         name = "Map"
