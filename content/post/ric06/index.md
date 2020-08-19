@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric06
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469496942/ric06
+resources:
+- src: "_blogspot-06.jpg"
 ---
-{{< figure src="tumblr_poekik5hqu1vky613o1_400.png" >}} 
 
 **Short description:** Sailing Boats
 
 **Notes:** Also quite common
 
 [Other entries for this work](/tags/Ric-06)
-

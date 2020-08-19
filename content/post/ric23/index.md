@@ -5,8 +5,9 @@ tags:
 - Ric
 title: ric23
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
+resources:
+- src: "_blogspot-23.jpg"
 ---
-{{< figure src="tumblr_poel2rn2p11vky613o1_1280.jpg" >}} 
 
 **Short description:** Fishing net hung up to dry in the setting sun
 
@@ -15,4 +16,3 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
 See [Lotsearch](https://www.lotsearch.de/lot/ric-um-1970-fischernetz-bei-sonnenuntergang-oel-holz-66-x-34-cm-rahmen-34182846?perPage=50)
 
 [Other entries for this work](/tags/Ric-23)
-

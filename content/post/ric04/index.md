@@ -6,8 +6,9 @@ tags:
 - Ric
 title: ric04
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469485442/ric04
+resources:
+- src: "_blogspot-04.jpg"
 ---
-{{< figure src="tumblr_poekghy9gz1vky613o1_640.png" >}} 
 
 **Short description:** Ships (fishing boats) at a harbour
 

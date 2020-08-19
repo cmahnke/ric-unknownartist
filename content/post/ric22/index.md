@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric22
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469594072/ric22
+resources:
+- src: "_blogspot-22.jpg"
 ---
-{{< figure src="tumblr_poekzq3A901vky613o1_1280.jpg" >}} 
 
 **Short description:** Three sailing boats (spinnaker)
 
 **Notes:**
 
 [Other entries for this work](/tags/Ric-22)
-

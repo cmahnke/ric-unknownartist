@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric08
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469508052/ric08
+resources:
+- src: "_blogspot-08.jpg"
 ---
-{{< figure src="tumblr_poekkkEFDq1vky613o1_400.png" >}} 
 
 **Short description:** Sailing boat next to a harbour / slip
 
 **Notes:**
 
 [Other entries for this work](/tags/Ric-08)
-

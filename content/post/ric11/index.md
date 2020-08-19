@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric11
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469524202/ric11
+resources:
+- src: "_blogspot-11.jpg"
 ---
-{{< figure src="tumblr_poeknflxon1vky613o1_400.png" >}} 
 
 **Short description:** Fishing nets and a ship
 
 **Notes:** No better image available
 
 [Other entries for this work](/tags/Ric-11)
-

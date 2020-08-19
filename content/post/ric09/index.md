@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric09
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469534337/ric09
+resources:
+- src: "_blogspot-09.jpg"
 ---
-{{< figure src="tumblr_poekpbEYy11vky613o1_1280.png" >}} 
 
 **Short description:** Three birds
 
 **Notes:**
 
 [Other entries for this work](/tags/Ric-09)
-

@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric20
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469585077/ric20
+resources:
+- src: "_blogspot-20.jpg"
 ---
-{{< figure src="tumblr_poeky75atX1vky613o1_500.png" >}} 
 
 **Short description:** An alley
 
 **Notes:**
 
 [Other entries for this work](/tags/Ric-20)
-

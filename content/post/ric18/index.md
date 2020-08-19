@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric18
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469576457/ric18
+resources:
+- src: "_blogspot-18.jpg"
 ---
-{{< figure src="tumblr_poekwn6gKz1vky613o1_500.png" >}} 
 
 **Short description:** A marabu
 
 **Notes:**
 
 [Other entries for this work](/tags/Ric-18)
-

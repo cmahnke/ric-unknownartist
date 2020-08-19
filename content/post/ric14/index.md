@@ -6,12 +6,12 @@ tags:
 - Ric
 title: ric14
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469551082/ric14
+resources:
+- src: "_blogspot-14.jpg"
 ---
-{{< figure src="tumblr_poeks56cRl1vky613o1_500.png" >}} 
 
 **Short description:** A latern next to a stair (alley)
 
 **Notes:** &nbsp;Low quality image
 
 [Other entries for this work](/tags/Ric-14)
-

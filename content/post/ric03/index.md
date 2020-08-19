@@ -6,8 +6,10 @@ tags:
 - Ric
 title: ric03
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469467147/ric03
+resources:
+- src: "_blogspot-03.jpg"
+
 ---
-{{< figure src="tumblr_poekd5vZpG1vky613o1_1280.png" >}}  
 
 **Short description:** Sailing ship next to a harbour / town
 

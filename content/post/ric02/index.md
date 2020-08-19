@@ -6,8 +6,10 @@ tags:
 - Ric
 title: ric02
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469477637/ric02
+resources:
+- src: "_blogspot-02.jpg"
+
 ---
-{{< figure src="tumblr_poekf42vud1vky613o1_1280.jpg" >}} 
 
 **Short description:** &nbsp;Two sailings boats
 
@@ -17,4 +19,3 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469477637/ric02
 - Similar to [Ric 17](/tags/Ric-17)
 
 [Other entries for this work](/tags/Ric-02)
-
