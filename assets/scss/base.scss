@@ -1,5 +1,13 @@
 @import "observer.scss";
 
+.blog-title p {
+    margin-bottom: 14px;
+    margin-top: 14px;
+    font-size: 36px;
+    text-align: center;
+    font-family: 'Gibson', sans-serif, futura, helvetica, arial, sans-serif;
+}
+
 .preview-image-list {
     list-style-type: none;
     margin: auto;
@@ -61,4 +69,12 @@
 
 .tumblr-url {
     display: none;
+}
+
+#page {
+    border: 0px solid;
+    max-width: 900px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
 }

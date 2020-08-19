@@ -12,6 +12,7 @@ theme = "observer-hugo"
 logo = "/images/logo.png"
 linkTumblr = true
 hideTitle = true
+widePosts = true
 
 [menu]
     [[menu.main]]

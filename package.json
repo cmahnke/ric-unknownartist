@@ -1,11 +1,15 @@
 {
   "scripts": {
     "build": "hugo",
+    "logo": "node_modules/.bin/pngcrush -ow static/images/logo.png ",
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {
     "jquery": "^3.5.1",
     "pdfjs-dist": "^2.4.456",
     "pdfobject": "^2.1.1"
+  },
+  "devDependencies": {
+    "pngcrush": "^2.1.0"
   }
 }
