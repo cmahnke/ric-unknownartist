@@ -7,16 +7,15 @@ tags:
 - Signature
 title: short description sailing boats notes slightly
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183603799352/short-description-sailing-boats-notes-slightly
+resources:
+- src: "IMG_0894.JPG"
+- src: "IMG_0893.JPG"
+- src: "IMG_0890.JPG"
+- src: "IMG_0891.JPG"
 ---
-{{< figure src="tumblr_popho9GZqN1vky613o3_1280.jpg" >}} 
-{{< figure src="tumblr_popho9GZqN1vky613o4_1280.jpg" >}} 
-{{< figure src="tumblr_popho9GZqN1vky613o2_1280.jpg" >}} 
-{{< figure src="tumblr_popho9GZqN1vky613o1_1280.jpg" >}} 
-  
 
 **Short description:** Sailing boats
 
 **Notes:** Slightly different colouring then [other versions](/tags/Ric-07).
 
 [Other entries for this work](/tags/Ric-07)
-
