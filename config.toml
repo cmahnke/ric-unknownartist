@@ -13,6 +13,7 @@ logo = "/images/logo.png"
 linkTumblr = true
 hideTitle = true
 widePosts = true
+enableImageViewer = true 
 
 [menu]
     [[menu.main]]
