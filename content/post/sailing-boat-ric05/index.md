@@ -6,6 +6,8 @@ tags:
 - Ric
 title: short description sailing boat notes found on
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499552452/short-description-sailing-boat-notes-found-on
+alias:
+- 183499552452
 resources:
 - src: "u2v350.jpg"
 ---

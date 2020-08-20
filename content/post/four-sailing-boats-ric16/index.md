@@ -7,7 +7,9 @@ tags:
 - Stamp
 title: short description three sailing boats
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555972/short-description-three-sailing-boats
-source: fineprintedinc
+alias:
+- 183499555972
+source: https://fineprintedinc.com/ric-pencil-signed-cubist-sailboats-1960s-811-p.asp
 resources:
 - src: "ric-pencil-signed-cubist-sailboats-1960-s-811-p.jpg"
 - src: "ric-pencil-signed-cubist-sailboats-1960-s-4-811-p.jpg"

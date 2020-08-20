@@ -8,6 +8,7 @@ tags:
 - Signature
 title: short description sailing boats notes sold
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183501026812/short-description-sailing-boats-notes-sold
+alias: 183501026812
 resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-2.jpg"

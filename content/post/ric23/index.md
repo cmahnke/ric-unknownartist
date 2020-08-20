@@ -5,6 +5,8 @@ tags:
 - Ric
 title: ric23
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
+alias:
+- 183469611577
 resources:
 - src: "_blogspot-23.jpg"
 ---

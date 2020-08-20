@@ -4,6 +4,8 @@ tags:
 - Fritz Neumann
 title: short description two prints from one plate
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183592197152/short-description-two-prints-from-one-plate
+alias:
+- 183592197152
 resources:
 - src: "12we-kopie.jpg"
 - src: "Hermann-Fritz-Neumann-Germany-Elmshorn-1858-Dresden-1920-Ali-Baba-Wirehaired-Fox-Terrier.jpg"

@@ -6,6 +6,8 @@ tags:
 - Ric
 title: short description sailing ship next to a harbour
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499556947/short-description-sailing-ship-next-to-a-harbour
+alias:
+- 183499556947
 resources:
 - src: "19-s-l1600.jpg"
 ---

@@ -6,6 +6,8 @@ tags:
 - Ric 07
 title: short description sailing boats notes taken
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183633242049/short-description-sailing-boats-notes-taken
+alias:
+- 183633242049
 source: https://auctionet.com/de/639077-oidentifierad-konstnar-etsning-signerad-ric
 resources:
 - src: "IMG_0891.JPG"

@@ -1,3 +1,11 @@
+# Add a new post
+
+The following will create a new draft
+
+```
+hugo new post/post-title/index.md
+```
+
 # Tumblr import to Jekyll
 
 ```
@@ -10,6 +18,15 @@
       "rewrite_urls"   => false   # whether to write pages that redirect from the old Tumblr paths to the new Jekyll paths
     })'
 ```
+
+# Initializing generated files for offline usage
+
+```
+yarn
+yarn logo
+./scripts/setup.sh
+```
+
 
 # Starting hugo
 

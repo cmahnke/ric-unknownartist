@@ -5,6 +5,8 @@ tags:
 - Stamp
 title: short description two dogs fox terrier notes
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183582606652/short-description-two-dogs-fox-terrier-notes
+alias:
+- 183582606652
 resources:
 - src: "P3390772.jpg"
 - src: "P3390777.jpg"

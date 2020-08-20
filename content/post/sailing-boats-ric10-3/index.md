@@ -8,6 +8,8 @@ tags:
 - eBay
 title: short description sailing boats notes taken from
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183726997179/short-description-sailing-boats-notes-taken-from
+alias:
+- 183726997179
 source: https://www.ebay.de/itm/303041003818?ViewItem=&item=303041003818
 resources:
 - src: "s-l1600.jpg"

@@ -7,6 +7,8 @@ tags:
 - Signature
 title: short description sailing boat notes see antik
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183516900367/short-description-sailing-boat-notes-see-antik
+alias:
+- 183516900367
 resources:
 - src: "Segelboote_Ric_0x.jpg"
 - src: "Segelboote_Ric_1x.jpg"

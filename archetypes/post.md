@@ -1,5 +1,6 @@
 ---
 date: {{ .Date }}
+draft: true
 tags:
 - Ric
 title: "{{ replace .Name "-" " " | title }}"

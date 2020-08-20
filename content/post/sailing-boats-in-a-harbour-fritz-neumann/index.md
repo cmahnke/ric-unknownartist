@@ -5,6 +5,8 @@ tags:
 - Stamp
 title: short description sailing boats in a harbour
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183582046002/short-description-sailing-boats-in-a-harbour
+alias:
+- 183582046002
 resources:
 - src: "IMG_0882.JPG"
 - src: "IMG_0884.JPG"

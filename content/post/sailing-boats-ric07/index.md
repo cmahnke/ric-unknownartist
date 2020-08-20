@@ -7,6 +7,8 @@ tags:
 - Signature
 title: short description sailing boats notes slightly
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183603799352/short-description-sailing-boats-notes-slightly
+alias:
+- 183603799352
 resources:
 - src: "IMG_0894.JPG"
 - src: "IMG_0893.JPG"

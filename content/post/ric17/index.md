@@ -6,6 +6,8 @@ tags:
 - Taken from Blogspot
 title: ric17
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469567082/ric17
+alias:
+- 183469567082
 resources:
 - src: "_blogspot-17.jpg"
 ---

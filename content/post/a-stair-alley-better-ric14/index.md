@@ -7,6 +7,8 @@ tags:
 - Signature
 title: short description a stair alley notes better
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183603798812/short-description-a-stair-alley-notes-better
+alias:
+- 183603798812
 resources:
 - src: "IMG_0897.JPG"
 - src: "IMG_0895.JPG"

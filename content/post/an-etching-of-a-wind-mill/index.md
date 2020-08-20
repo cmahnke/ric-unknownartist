@@ -6,6 +6,8 @@ tags:
 - eBay
 title: short description an etching of a wind mill by
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183702884249/short-description-an-etching-of-a-wind-mill-by
+alias:
+- 183702884249
 resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-2.jpg"

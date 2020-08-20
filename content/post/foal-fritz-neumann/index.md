@@ -1,5 +1,6 @@
 ---
 date: "2019-12-25T12:33:31Z"
+title: Print of a foal by Fritz Neumann
 tags:
 - Fritz Neumann
 resources:

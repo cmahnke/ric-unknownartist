@@ -4,6 +4,8 @@ tags:
 - Fritz Neumann
 title: description another work by our fritz neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183548567747/description-another-work-by-our-fritz-neumann
+alias:
+- 183548567747
 resources:
 - src: "_57.JPG"
 - src: "_57-2.JPG"

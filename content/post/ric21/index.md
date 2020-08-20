@@ -6,6 +6,8 @@ tags:
 - Ric
 title: ric21
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469588842/ric21
+alias:
+- 183469588842
 resources:
 - src: "_blogspot-21.jpg"
 ---

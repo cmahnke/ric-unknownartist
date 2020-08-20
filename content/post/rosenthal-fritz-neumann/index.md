@@ -4,6 +4,8 @@ tags:
 - Fritz Neumann
 title: Am Wind
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183548096912/notes-found-on-lauritzcom-there-are-many-other
+alias:
+- 183548096912
 resources:
 - src: "5C018872344973EAAA40D7FD8F2F29EF.jpeg"
 - src: "2B2C0E16C4F17887B4344F41D0C03F5E.jpeg"

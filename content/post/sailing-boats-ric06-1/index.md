@@ -5,7 +5,6 @@ tags:
 - Stamp
 - Ric
 - Signature
-title: short description sailing boats notes sold
 resources:
 - src: "_57-4.jpg"
 - src: "_57-2.jpg"
@@ -16,6 +15,6 @@ resources:
 
 **Short description:** Sailing Boats
 
-**Notes:** Sold originaly in Paderborn, see label.
+**Notes:** Sold originally in Paderborn, see label.
 
 [Other entries for this work](/tags/Ric-06)
