@@ -13,9 +13,6 @@ resources:
 - src: "IMG_0891.JPG"
 - src: "hd_item_639077_ec4e98b85b.JPG"
 ---
-{{< figure src="tumblr_porfme8O8m1vky613o2_1280.jpg" >}}
-{{< figure src="tumblr_porfme8O8m1vky613o1_1280.jpg" >}}
-
 
 **Short description:** Sailing boats
 

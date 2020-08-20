@@ -7,12 +7,12 @@ title: The different signatures of our Fritz Neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183675057762/the-different-signatures-of-our-fritz-neumann
 alias:
 - 183675057762
-resources:
-- src: "Terrier-signature2.png"
-- src: "Two-terrier-signature.png"
-- src: "Terrier-signature-1.png"
-- src: "IMG_0883.JPG"
+disableImageViewer: true
 ---
+{{< figure src="Terrier-signature2.png" >}}
+{{< figure src="Two-terrier-signature.png" >}}
+{{< figure src="Terrier-signature-1.png" >}}
+{{< figure src="IMG_0883.JPG" >}}
 
 The different signatures of “our” Fritz Neumann, sources:
 
