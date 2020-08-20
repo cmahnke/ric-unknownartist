@@ -31,5 +31,5 @@ yarn logo
 # Starting hugo
 
 ```
-/usr/local/bin/hugo server -D --debug --disableFastRender --renderToDisk --ignoreCache  --gc
+/usr/local/bin/hugo server -D -F --debug --disableFastRender --renderToDisk --ignoreCache  --gc
 ```
