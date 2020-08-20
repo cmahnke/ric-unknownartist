@@ -11,7 +11,6 @@ alias:
 resources:
 - src: "19-s-l1600.jpg"
 ---
-{{< figure src="tumblr_poh1e2y96M1vky613o1_1280.jpg" >}}
 
 **Short description:** Sailing ship next to a harbour / town
 
