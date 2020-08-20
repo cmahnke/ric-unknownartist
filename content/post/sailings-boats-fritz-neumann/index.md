@@ -15,3 +15,5 @@ resources:
 **Short description:** Another work of sailing boats by Fritz Neumann.
 
 **Notes:** Found on [eBay](https://www.ebay.de/itm/Ric-Neumann-Ankernde-Yacht-mit-altem-Rahmen-hinter-Glas/164337910448?hash=item26434d82b0:g:GLEAAOSw2TFfHwIX). There is a sticker on the back, but it's unreadable.
+
+**Interestingly, the picture is attributed to a Ric Neumann**
