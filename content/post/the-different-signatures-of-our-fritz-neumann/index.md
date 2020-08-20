@@ -9,14 +9,14 @@ alias:
 - 183675057762
 disableImageViewer: true
 ---
-{{< figure src="Terrier-signature2.png" >}}
-{{< figure src="Two-terrier-signature.png" >}}
-{{< figure src="Terrier-signature-1.png" >}}
-{{< figure src="IMG_0883.JPG" >}}
+{{< figure src="Terrier-signature2.png" class="shadow" link="/post/183582046002" >}}
+{{< figure src="Two-terrier-signature.png" class="shadow" link="/post/183582046002" >}}
+{{< figure src="Terrier-signature-1.png" class="shadow" link="/post/183592197152" >}}
+{{< figure src="IMG_0883.JPG" class="shadow" class="shadow" link="/post/183592197152" >}}
 
 The different signatures of “our” Fritz Neumann, sources:
 
 - [Sailing boats in a harbour](/post/183582046002)
-- [Two terriers](/post/183582606652)
+- [Two terriers](/post/183582046002)
 - [Terrier](/post/183592197152)
 - [Terrier](/post/183592197152)

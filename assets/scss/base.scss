@@ -78,3 +78,26 @@
     padding-right: 50px;
     margin: auto;
 }
+
+.shadow {
+    box-shadow: 3px 5px 4px rgba(136, 136, 136, 0.7);
+}
+
+.caption {
+    figure {
+        width: fit-content;
+        margin: auto;
+
+        a {
+            img {
+                margin: 30px auto 15px;
+            }
+        }
+
+        figcaption {
+            p {
+                padding: 1rem;
+            }
+        }
+    }
+}

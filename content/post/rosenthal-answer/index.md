@@ -2,8 +2,7 @@
 date: "2020-03-20T12:32:56Z"
 tags:
 - Fritz Neumann
-- Signature
-- Stamp
+- Status
 title: An answer from Rosenthal
 ---
 
