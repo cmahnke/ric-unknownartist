@@ -5,13 +5,12 @@ tags:
 - Signature
 title: short description two prints by fritz neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183678121235/short-description-two-prints-by-fritz-neumann
+resources:
+- src: "3320_5.jpg"
+- src: "3320_5_1476107202.jpg"
+- src: "3320_5_1476107208.jpg"
 ---
-{{< figure src="tumblr_povmdtiDlY1vky613o2_1280.jpg" >}} 
-{{< figure src="tumblr_povmdtiDlY1vky613o3_1280.jpg" >}} 
-{{< figure src="tumblr_povmdtiDlY1vky613o1_1280.jpg" >}} 
-  
 
 **Short description** : Two prints by Fritz Neumann, sailings boats and a black-headed gull.
 
 **Notes** : Works by our Fritz Neumann with&nbsp;typical maritime subjects.&nbsp;
-
