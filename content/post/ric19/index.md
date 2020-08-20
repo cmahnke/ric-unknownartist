@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469580377/ric19
 alias:
 - 183469580377
 resources:
-- src: "_blogspot-19.jpg"
+- src: "_blogspot-19.png"
 ---
 
 **Short description:** Sailing ship next to a harbour / town

@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469555407/ric15
 -alias:
 - 183469555407
 resources:
-- src: "_blogspot-15.jpg"
+- src: "_blogspot-15.png"
 ---
 
 **Short description:** People on the shore next to a sailing boat

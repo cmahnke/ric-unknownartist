@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469524202/ric11
 alias:
 - 183469524202
 resources:
-- src: "_blogspot-11.jpg"
+- src: "_blogspot-11.png"
 ---
 
 **Short description:** Fishing nets and a ship

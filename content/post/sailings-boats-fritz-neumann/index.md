@@ -8,8 +8,8 @@ place: Büchen, Deutschland
 title: "Another work of sailing boats by Fritz Neumann"
 resources:
 - src: "s-l1600-1.jpg"
-- src: "s-l1600-3"
-- src: "s-l1600-4"
+- src: "s-l1600-3.jpg"
+- src: "s-l1600-4.jpg"
 ---
 
 **Short description:** Another work of sailing boats by Fritz Neumann.

@@ -8,7 +8,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
 alias:
 - 183469611577
 resources:
-- src: "_blogspot-23.jpg"
+- src: "1-118-10470.jpg"
 ---
 
 **Short description:** Fishing net hung up to dry in the setting sun

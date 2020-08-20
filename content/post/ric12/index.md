@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469542862/ric12
 alias:
 - 183469542862
 resources:
-- src: "_blogspot-12.jpg"
+- src: "_blogspot-12.png"
 ---
 
 **Short description:** Alley with three lamps

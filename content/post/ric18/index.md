@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469576457/ric18
 alias:
 - 183469576457
 resources:
-- src: "_blogspot-18.jpg"
+- src: "_blogspot-18.png"
 ---
 
 **Short description:** A marabu

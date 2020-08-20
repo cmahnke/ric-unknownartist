@@ -8,9 +8,9 @@ tags:
 source: charish
 title: Large sailing ship by Ric
 resources:
-- src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3373.jpg"
-- src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-2131.jpg"
-- src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3163.jpg"
+- src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3373.jpeg"
+- src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-2131.jpeg"
+- src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3163.jpeg"
 ---
 
 **Short description**:&nbsp;Large sailing ship

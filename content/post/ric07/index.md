@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469502697/ric07
 alias:
 - 183469502697
 resources:
-- src: "_blogspot-07.jpg"
+- src: "_blogspot-07.png"
 ---
 
 **Short description:** &nbsp;Two sailings boats

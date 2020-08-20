@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469551082/ric14
 alias:
 - 183469551082
 resources:
-- src: "_blogspot-14.jpg"
+- src: "_blogspot-14.png"
 ---
 
 **Short description:** A latern next to a stair (alley)

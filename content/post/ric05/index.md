@@ -9,7 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183469491482/ric05
 alias:
 - 183469491482
 resources:
-- src: "_blogspot-05.jpg"
+- src: "_blogspot-05.png"
 ---
 
 **Short description:** Sailing boat

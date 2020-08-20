@@ -6,11 +6,11 @@ tags:
 - Ric
 - Signature
 resources:
-- src: "_57-4.jpg"
-- src: "_57-2.jpg"
-- src: "_57-3.jpg"
+- src: "_57-4.jpeg"
+- src: "_57-2.jpeg"
+- src: "_57-3.jpeg"
 - src: "_57.jpg"
-- src: "_57-1.jpg"
+- src: "_57-1.jpeg"
 ---
 
 **Short description:** Sailing Boats
