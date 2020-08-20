@@ -2,7 +2,7 @@
 date: "2019-12-25T12:33:44Z"
 tags:
 - Ric
-- Sig
+- Signature
 - Ric 26
 - eBay
 source: https://www.ebay.de/itm/402008313142

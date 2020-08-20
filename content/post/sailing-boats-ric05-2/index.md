@@ -2,7 +2,7 @@
 date: "2019-12-25T19:30:44Z"
 tags:
 - Ric
-- Sig
+- Signature
 - Stamp
 - Ric 05
 - eBay
