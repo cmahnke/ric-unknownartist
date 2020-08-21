@@ -1,8 +1,9 @@
 ---
-title: Links
+title: External links
 date: 2020-08-18T19:01:09+02:00
 metaPage: true
 displayInList: false
+disableImageViewer: true
 ---
 Links on Ric
 ============

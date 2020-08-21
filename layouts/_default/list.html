@@ -1,0 +1,10 @@
+{{ define "title" }}
+  {{- .Title }} · {{ .Site.Title -}}
+{{ end }}
+{{ define "content" }}
+  {{ if and (eq .Kind "section") (ne .Section "post") -}} 
+    {{ partial "section.html" . }}
+  {{ else }}
+    {{ partial "list.html" . }}
+  {{ end }}
+{{ end }}

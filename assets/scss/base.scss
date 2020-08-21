@@ -1,46 +1,55 @@
+$font-header: Montserrat;
 @import "observer.scss";
 
-.blog-title p {
-    margin-bottom: 14px;
-    margin-top: 14px;
-    font-size: 36px;
-    text-align: center;
-    font-family: 'Gibson', sans-serif, futura, helvetica, arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.blog-title {
+    h1 {
+        font-weight: 700;
+
+        margin-bottom: 14px;
+        margin-top: 14px;
+        font-size: 36px;
+        text-align: center;
+        font-family: $font-header, futura, sans-serif, helvetica, arial, sans-serif;
+    }
 }
 
 .preview-image-list {
     list-style-type: none;
-    margin: auto;
+    padding: 1em;
+    margin: 2em auto 2em auto;
     width: 50%;
-}
 
-.preview-image-list li div {
-    display: inline-block;
-    border: 1px solid gray;
-    box-shadow: 6px 6px 3px grey;
-    text-align: center;
-    padding-bottom: 15px;
-    margin-bottom: 20px;
-    background: white;
-}
+    li {
+        .static-content-image {
+            background: #fff;
+        }
 
-.preview-image-list li div a {
-    text-align: center;
-    border-bottom: none;
+        div {
+            display: inline-block;
+            border: 1px solid gray;
+            box-shadow: 6px 6px 3px grey;
+            text-align: center;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+            background: white;
 
-}
+            a {
+                text-align: center;
+                border-bottom: none;
 
-.preview-image-list li div img {
-    padding: 15px;
-    max-width: 200px;
-    max-height: 200px;
-    display: block;
-    margin: 0px;
-}
+            }
 
-.preview-image-list li div p {
-
-
+            img {
+                padding: 15px;
+                max-width: 200px;
+                max-height: 200px;
+                display: block;
+                margin: 0px;
+            }
+        }
+    }
 }
 
 .tag-cloud {
@@ -48,23 +57,24 @@
 }
 
 .static-content-image {
-    margin-top: 25px;
-    margin-bottom: 15px;
-}
-
-.static-content-image img {
-    margin: 10px auto 10px auto;
-}
-
-.static-content-image p {
-    margin: auto;
+    margin: 0.5rem auto 1rem auto !important;
     border: 1px solid gray;
     box-shadow: 6px 6px 3px grey;
-    text-align: center;
-    padding: 10px;
-    margin-bottom: 10px;
-    padding-bottom: 15px;
-    width: 40%;
+    padding: 0 1rem;
+
+    img {
+        margin: 1rem auto 0 auto;
+    }
+
+    figcaption {
+        text-align: center;
+        padding: 0 .5rem .5rem .5rem;
+
+        p {
+            margin-bottom: unset;
+        }
+    }
+
 }
 
 .tumblr-url {
@@ -81,6 +91,10 @@
 
 .shadow {
     box-shadow: 3px 5px 4px rgba(136, 136, 136, 0.7);
+
+    img {
+        padding: 1rem;
+    }
 }
 
 .caption {
@@ -101,4 +115,17 @@
             }
         }
     }
+}
+
+.tagcloud {
+    margin-bottom: 1rem;
+}
+
+.error404 {
+    margin: 1em 0 5em 0;
+}
+
+.map {
+    margin: auto;
+    display: block;
 }

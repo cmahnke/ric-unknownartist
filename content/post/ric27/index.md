@@ -15,6 +15,6 @@ source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Co
 
 **Notes** : Taken from [eBay](https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-STREETSCENE-/143672853431).
 
-**The description on eBay is very interesting, there will be a [post](/post/mystery-solved-question-mark) about it.**
+**The description on eBay is very interesting, there will be a [post](/post/mystery-solved) about it.**
 
 [Other entries for this work](/tags/Ric-27)

@@ -40,6 +40,8 @@ More about this blog
 Tags
 ----
 
+{{< tagcloud >}}
+
 To-do list
 ----------
 
@@ -51,8 +53,11 @@ To-do list
 Acknowledgements
 ----------------
 
+(In chronological order)
+
 *   Thanks to Simon for his work on the [original blog](http://ric-unknownartist.blogspot.com)
-*   Thanks to [Wolfgang Barina](http://www.wolfgang-barina.de/) for some links he provided 
+*   Thanks to [Gerbrand Caspers](https://gerrie-thefriendlyghost.blogspot.com/) for his support and for encouraging me
+*   Thanks to [Wolfgang Barina](http://www.wolfgang-barina.de/) for some links he provided
 
 
 My other blogs

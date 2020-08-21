@@ -1,14 +1,15 @@
 ---
-title: Fritz Neumann
+title: The Fritz Neumann trace
 date: 2020-08-18T19:01:09+02:00
 metaPage: true
 displayInList: false
+disableImageViewer: true
 ---
 The Fritz Neumann trace was originally [discovered by Simon](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html): Fritz Neumann used the same paper stamp mark (posts which feature some detail photographs of the stamp mark are [tagged](/tags/Stamp)).
 
-{{< figure src="/post/this-is-the-stamp-mark-used-on-the-prints-of-ric/stamp1.svg" class="shadow" width="400px" caption="A drawing of the blind stamp" >}}
+{{< figure src="/post/this-is-the-stamp-mark-used-on-the-prints-of-ric/stamp1.svg" class="shadow" width="250px" caption="A drawing of the blind stamp" >}}
 
-{{< figure src="/post/second-jcb-stamp/Stamp2.svg" width="400px" class="shadow" caption="A second version of the blind stamp" >}}
+{{< figure src="/post/second-jcb-stamp/Stamp2.svg" width="250px" class="shadow" caption="A second version of the blind stamp" >}}
 
 It’s not clear yet, what this mark means. It could be added by the paper manufacturer (not very likely since in some cases it looks like it has been applied after the printing process), the printer or maybe it’s a sign of the printing studio.
 
@@ -31,7 +32,7 @@ To be able to distinguish between the work of our candidates we use a code (_FN1
 
 *   Fritz Neumann (1928 - 2014) - _FN4_ - [Death note](https://aspetos.com/de/parten/niedersachsen/oldenburg-oldenburg-kreisfreie-stadt/fritz-neumann). A short biography is [available](http://derschy.de/Biografien/M-N) in German. There seem to be a [printed catalogue](https://books.google.de/books/about/Fritz_Neumann.html?id=bXdcAAAACAAJ) with some of his works.
 
-    ![](https://64.media.tumblr.com/59e1b3085f8a0707eec0d6e07581bb5a/tumblr_inline_poizxhSF8f1qbu6tt_500.jpg) Book on Fritz Neumann
+    {{< figure src="book-cover.jpg" class="shadow" width="400px" caption="Book on Fritz Neumann" >}}
 
     He is listed on the [list of past exhibitions](http://www.kunstverein-nordenham.de/verzeichnis.html) of the Kunstverein Nordenham (A city near Oldenburg in the north of Germany). And there are several hits if you search for him in the [archive of the local newspaper](https://epaper.nwzonline.de/archiv/) of Oldenburg.
 
@@ -45,19 +46,20 @@ There are some signatures of some of our candidates available on the net. Note t
 *   FN1: No clearly attributed sample yet
 *   FN2:
 
-    ![](https://64.media.tumblr.com/2e47bffaaaddf735fb8ac4f8744f83cf/tumblr_pokwj4eIDu1vky613o1_540.jpg) Signature of Fritz Neumann (1881 - 1919), taken from [this post](/post/a-signature-of-fitz-neumann-1881-1919-taken)
+    {{< figure src="/post/a-signature-of-fitz-neumann-1881-1919-taken/s0064330-007.jpg" width="400px" class="shadow" caption="Signature of Fritz Neumann (1881 - 1919), taken from [this post](/post/a-signature-of-fitz-neumann-1881-1919-taken)" >}}
+
 
 *   FN3: Can probably be ignored, no sample yet
 *   FN4: No sample yet
 *   FNX: This is the signature we’re looking for:
 
-    ![](https://64.media.tumblr.com/a83cd115015901707afb82f26d332903/tumblr_ponpi6gQIl1vky613o2_1280.jpg) Signature our Fritz Neumann, taken from [this post](/post/183582046002)
+    {{< figure src="sig1.jpg" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/sailing-boats-in-a-harbour)" >}}
 
-    ![](https://64.media.tumblr.com/1741a65a0c4bdb8c731d5ce742b95d95/tumblr_povn1qAYgG1vky613o2_540.png) Signature our Fritz Neumann, taken from [this post](/post/183582606652)
+    {{< figure src="sig2.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-dogs-fox-terrier)" >}}
 
-    ![](https://64.media.tumblr.com/c32732027095a68673315e1df9342492/tumblr_povn1qAYgG1vky613o1_400.png) Signature our Fritz Neumann, taken from [this post](/post/183592197152)
+    {{< figure src="sig3.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}
 
-    ![](https://64.media.tumblr.com/dfb99820bafc2197234684d3c452d06e/tumblr_povn1qAYgG1vky613o3_1280.png) Signature our Fritz Neumann, taken from [this post](/post/183592197152)
+    {{< figure src="sig4.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}
 
 
 Works by (some) Fritz Neumann’s

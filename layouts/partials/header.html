@@ -2,12 +2,12 @@
   <div class="links">
     {{ partial "menu.html" .}}
   </div>
+  <a href="/">
     <div class="blog-title">
-      <a href="/">
-          {{ if .Site.Params.logo }}
-            <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}"/>
-          {{ end }}
-          <p><a href="/">{{ .Site.Title }}</p>
-      </a>
+      {{ if .Site.Params.logo }}
+        <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }} Logo"/>
+      {{ end }}
+      <h1>{{ .Site.Title }}</h1>
     </div>
+  </a>
   </div>
