@@ -4,11 +4,11 @@ date: 2020-08-18T19:01:09+02:00
 metaPage: true
 displayInList: false
 ---
-The Fritz Neumann trace was originally [discovered by Simon](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html): Fritz Neumann used the same paper stamp mark (posts which feature some detail photographs of the stamp mark are [tagged](/tagged/Stamp)).
+The Fritz Neumann trace was originally [discovered by Simon](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html): Fritz Neumann used the same paper stamp mark (posts which feature some detail photographs of the stamp mark are [tagged](/tags/Stamp)).
 
-![](https://64.media.tumblr.com/013bb87cfc9386df6e6086ae994c814e/tumblr_pomp6aYonF1vky613o2_r1_400.png) A drawing of the stamp mark
+{{< figure src="/post/this-is-the-stamp-mark-used-on-the-prints-of-ric/stamp1.svg" class="shadow" width="400px" caption="A drawing of the blind stamp" >}}
 
- Place holder for the second mark
+{{< figure src="/post/second-jcb-stamp/Stamp2.svg" width="400px" class="shadow" caption="A second version of the blind stamp" >}}
 
 It’s not clear yet, what this mark means. It could be added by the paper manufacturer (not very likely since in some cases it looks like it has been applied after the printing process), the printer or maybe it’s a sign of the printing studio.
 
@@ -40,24 +40,24 @@ To be able to distinguish between the work of our candidates we use a code (_FN1
 Signatures
 ----------
 
-There are some signatures of some of our candidates available on the net. Note that wrong attributions even by experts make this assignments unreliable. There are some additional samples on the [original blog entry](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html).
+There are some signatures of some of our candidates available on the net. Note that wrong attributions, even by experts, make this assignments unreliable. Some additional samples can be found on the [original blog entry](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html).
 
 *   FN1: No clearly attributed sample yet
 *   FN2:
 
-    ![](https://64.media.tumblr.com/2e47bffaaaddf735fb8ac4f8744f83cf/tumblr_pokwj4eIDu1vky613o1_540.jpg) Signature of Fritz Neumann (1881 - 1919)
+    ![](https://64.media.tumblr.com/2e47bffaaaddf735fb8ac4f8744f83cf/tumblr_pokwj4eIDu1vky613o1_540.jpg) Signature of Fritz Neumann (1881 - 1919), taken from [this post](/post/a-signature-of-fitz-neumann-1881-1919-taken)
 
 *   FN3: Can probably be ignored, no sample yet
 *   FN4: No sample yet
 *   FNX: This is the signature we’re looking for:
 
-    ![](https://64.media.tumblr.com/a83cd115015901707afb82f26d332903/tumblr_ponpi6gQIl1vky613o2_1280.jpg) Signature our Fritz Neumann, taken from [this post](https://ric-unknownartist.tumblr.com/post/183582046002)
+    ![](https://64.media.tumblr.com/a83cd115015901707afb82f26d332903/tumblr_ponpi6gQIl1vky613o2_1280.jpg) Signature our Fritz Neumann, taken from [this post](/post/183582046002)
 
-    ![](https://64.media.tumblr.com/1741a65a0c4bdb8c731d5ce742b95d95/tumblr_povn1qAYgG1vky613o2_540.png) Signature our Fritz Neumann, taken from [this post](https://ric-unknownartist.tumblr.com/post/183582606652)
+    ![](https://64.media.tumblr.com/1741a65a0c4bdb8c731d5ce742b95d95/tumblr_povn1qAYgG1vky613o2_540.png) Signature our Fritz Neumann, taken from [this post](/post/183582606652)
 
-    ![](https://64.media.tumblr.com/c32732027095a68673315e1df9342492/tumblr_povn1qAYgG1vky613o1_400.png) Signature our Fritz Neumann, taken from [this post](https://ric-unknownartist.tumblr.com/post/183592197152)
+    ![](https://64.media.tumblr.com/c32732027095a68673315e1df9342492/tumblr_povn1qAYgG1vky613o1_400.png) Signature our Fritz Neumann, taken from [this post](/post/183592197152)
 
-    ![](https://64.media.tumblr.com/dfb99820bafc2197234684d3c452d06e/tumblr_povn1qAYgG1vky613o3_1280.png) Signature our Fritz Neumann, taken from [this post](https://ric-unknownartist.tumblr.com/post/183592197152)
+    ![](https://64.media.tumblr.com/dfb99820bafc2197234684d3c452d06e/tumblr_povn1qAYgG1vky613o3_1280.png) Signature our Fritz Neumann, taken from [this post](/post/183592197152)
 
 
 Works by (some) Fritz Neumann’s

@@ -3,6 +3,7 @@ date: "2020-03-20T12:32:56Z"
 tags:
 - Fritz Neumann
 - Status
+- Hint
 title: An answer from Rosenthal
 ---
 

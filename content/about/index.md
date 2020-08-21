@@ -25,7 +25,7 @@ Each print will be presented in it’s own entry, every time a new copy is found
 Questions?
 ----------
 
-I’m happy to answer questions using the [link above](https://ric-unknownartist.tumblr.com/ask). But keep in mind that I’m not authorised expert or art dealer.
+I’m happy to answer questions using [mail](mailto:ric-unknownartist@projektemacher.org). But keep in mind that I’m not expert or art dealer.
 
 Why Ric?
 --------
@@ -43,19 +43,16 @@ Tags
 To-do list
 ----------
 
-*   Technical things
-    *   Include some [Lightbox](https://lokeshdhakar.com/projects/lightbox2/) functionality
-    *   Check if full resolution is available
-*   With regards to contents
-    *   More on Fritz Neumann
-    *   Contact known art dealers, manufacturers of works related to Ric and Fritz Neumann
-    *   Contact the owner of the [Linosaurus blog](http://gerrie-thefriendlyghost.blogspot.com) on Hermann Fritz Neumann
-    *   Get the [Book](/hints/fritz-neumann#book) on one of the Fritz Neumann’s - _ordered_
+*   More on Fritz Neumann
+*   Contact known art dealers, manufacturers of works related to Ric and Fritz Neumann
+*   Contact the owner of the [Linosaurus blog](http://gerrie-thefriendlyghost.blogspot.com) on Hermann Fritz Neumann
+*   Get the [Book](/hints/fritz-neumann#book) on one of the Fritz Neumann’s - _ordered_
 
 Acknowledgements
 ----------------
 
 *   Thanks to Simon for his work on the [original blog](http://ric-unknownartist.blogspot.com)
+*   Thanks to [Wolfgang Barina](http://www.wolfgang-barina.de/) for some links he provided 
 
 
 My other blogs
