@@ -7,13 +7,17 @@ languagecode = "en"
 defaultcontentlanguage = "en"
 disablePathToLower = true
 theme = "observer-hugo"
+author = "Christian Mahnke"
+keywords = "Ric, artist, unknown, Fritz Neumann, JCB"
+description = "This blog tries to help to solve the mystery „Who was Ric?“"
 
 [params]
 logo = "/images/logo.png"
+svgIcon = "/images/favicon.svg"
 linkTumblr = true
 hideTitle = true
 widePosts = true
-enableImageViewer = true 
+enableImageViewer = true
 
 [menu]
     [[menu.main]]

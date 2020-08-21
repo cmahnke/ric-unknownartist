@@ -7,9 +7,9 @@ disableImageViewer: true
 ---
 The Fritz Neumann trace was originally [discovered by Simon](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html): Fritz Neumann used the same paper stamp mark (posts which feature some detail photographs of the stamp mark are [tagged](/tags/Stamp)).
 
-{{< figure src="/post/this-is-the-stamp-mark-used-on-the-prints-of-ric/stamp1.svg" class="shadow" width="250px" caption="A drawing of the blind stamp" >}}
+{{< figure src="/post/this-is-the-stamp-mark-used-on-the-prints-of-ric/stamp1.svg" class="static-content-image" width="250px" caption="A drawing of the blind stamp" >}}
 
-{{< figure src="/post/second-jcb-stamp/Stamp2.svg" width="250px" class="shadow" caption="A second version of the blind stamp" >}}
+{{< figure src="/post/second-jcb-stamp/Stamp2.svg" width="250px" class="static-content-image" caption="A second version of the blind stamp" >}}
 
 It’s not clear yet, what this mark means. It could be added by the paper manufacturer (not very likely since in some cases it looks like it has been applied after the printing process), the printer or maybe it’s a sign of the printing studio.
 
@@ -32,7 +32,7 @@ To be able to distinguish between the work of our candidates we use a code (_FN1
 
 *   Fritz Neumann (1928 - 2014) - _FN4_ - [Death note](https://aspetos.com/de/parten/niedersachsen/oldenburg-oldenburg-kreisfreie-stadt/fritz-neumann). A short biography is [available](http://derschy.de/Biografien/M-N) in German. There seem to be a [printed catalogue](https://books.google.de/books/about/Fritz_Neumann.html?id=bXdcAAAACAAJ) with some of his works.
 
-    {{< figure src="book-cover.jpg" class="shadow" width="400px" caption="Book on Fritz Neumann" >}}
+    {{< figure src="book-cover.jpg" class="static-content-image" width="400px" caption="Book on Fritz Neumann" >}}
 
     He is listed on the [list of past exhibitions](http://www.kunstverein-nordenham.de/verzeichnis.html) of the Kunstverein Nordenham (A city near Oldenburg in the north of Germany). And there are several hits if you search for him in the [archive of the local newspaper](https://epaper.nwzonline.de/archiv/) of Oldenburg.
 
@@ -46,20 +46,20 @@ There are some signatures of some of our candidates available on the net. Note t
 *   FN1: No clearly attributed sample yet
 *   FN2:
 
-    {{< figure src="/post/a-signature-of-fitz-neumann-1881-1919-taken/s0064330-007.jpg" width="400px" class="shadow" caption="Signature of Fritz Neumann (1881 - 1919), taken from [this post](/post/a-signature-of-fitz-neumann-1881-1919-taken)" >}}
+    {{< figure src="/post/a-signature-of-fitz-neumann-1881-1919-taken/s0064330-007.jpg" width="400px" class="static-content-image" caption="Signature of Fritz Neumann (1881 - 1919), taken from [this post](/post/a-signature-of-fitz-neumann-1881-1919-taken)" >}}
 
 
 *   FN3: Can probably be ignored, no sample yet
 *   FN4: No sample yet
 *   FNX: This is the signature we’re looking for:
 
-    {{< figure src="sig1.jpg" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/sailing-boats-in-a-harbour)" >}}
+    {{< figure src="sig1.jpg" width="400px" class="static-content-image" caption="Signature our Fritz Neumann, taken from [this post](/post/sailing-boats-in-a-harbour)" >}}
 
-    {{< figure src="sig2.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-dogs-fox-terrier)" >}}
+    {{< figure src="sig2.png" width="400px" class="static-content-image" caption="Signature our Fritz Neumann, taken from [this post](/post/two-dogs-fox-terrier)" >}}
 
-    {{< figure src="sig3.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}
+    {{< figure src="sig3.png" width="400px" class="static-content-image" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}
 
-    {{< figure src="sig4.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}
+    {{< figure src="sig4.png" width="400px" class="static-content-image" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}
 
 
 Works by (some) Fritz Neumann’s
