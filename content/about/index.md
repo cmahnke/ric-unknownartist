@@ -41,7 +41,6 @@ Some years later I found another print of Ric at a flea market, I didn’t like 
 
 *   More on Fritz Neumann
 *   Contact known art dealers, manufacturers of works related to Ric and Fritz Neumann
-*   Contact the owner of the [Linosaurus blog](http://gerrie-thefriendlyghost.blogspot.com) on Hermann Fritz Neumann
 *   Integrate the findings of [Mark Strong](/post/mystery-solved)
 
 ## Acknowledgements

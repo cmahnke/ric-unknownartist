@@ -15,4 +15,4 @@ Every regular reader will spot the error in the screen shot above really quick:
 
 {{< figure src="fritz-neumann-skerry-cruisers-off-laboe.jpg" class="shadow" link="http://www.artnet.de/k%C3%BCnstler/fritz-neumann/skerry-cruisers-off-laboe-Wu_wLnK9-nzfZ_kT8ot29Q2" >}}
 
-There is higher resolution image available at [veryimportantlot.com](https://veryimportantlot.com/de/lot/view/scharenkreuzer-vor-laboe-322462).
+There is a higher resolution image available at [veryimportantlot.com](https://veryimportantlot.com/de/lot/view/scharenkreuzer-vor-laboe-322462).
