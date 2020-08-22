@@ -3,12 +3,13 @@
 After the checkout you need to run
 
 ```
+git clone https://github.com/cmahnke/ric-unknownartist.git
+cd ric-unknownartist
 git submodules init
 git submodule update --recursive --remote
 ./scripts/setup.sh
 yarn
 ```
-
 
 # Add a new post
 
@@ -18,25 +19,12 @@ The following will create a new draft
 hugo new post/post-title/index.md
 ```
 
-# Tumblr import to Jekyll
-
-```
-/usr/local/opt/ruby/bin/ruby -r rubygems -e 'require "jekyll-import";
-    JekyllImport::Importers::Tumblr.run({
-      "url"            => "https://ric-unknownartist.tumblr.com/",
-      "format"         => "md", # or "md"
-      "grab_images"    => true,  # whether to download images as well.
-      "add_highlights" => false,  # whether to wrap code blocks (indented 4 spaces) in a Liquid "highlight" tag
-      "rewrite_urls"   => false   # whether to write pages that redirect from the old Tumblr paths to the new Jekyll paths
-    })'
-```
-
 # Initializing generated files for offline usage
 
 ```
+./scripts/setup.sh
 yarn
 yarn logo
-./scripts/setup.sh
 ```
 
 

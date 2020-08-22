@@ -9,7 +9,7 @@ disableImageViewer: true
 
 Most of his works seem to appear in Europe, more specifically in Germany. If you find something with a tag of a gallery (like on [this](post/sailing-boats-ric06) one), please let me know!
 
-Most of the subjects relate to maritime things like sailing ships and boats, harbors and fishing nets. A second motive seem to be small streets and alleys, sometimes next to an harbor. The third group of subjects are birds. One striking exception is [Ric 21 (the Gedächniskiche in Berlin)](/tags/Ric-21).
+Most of the subjects relate to maritime things like sailing ships and boats, harbours and fishing nets. A second motive seem to be small streets and alleys, sometimes next to an harbour. The third group of subjects are birds. One striking exception is [Ric 21 (the Gedächniskiche in Berlin)](/tags/Ric-21).
 
 Judging by the motives, the style of the frames and external assessment, he was probably active between the 50ies (see [Ric 21](/tags/Ric-21)) and 70ies (see [Ric 23](/tags/Ric-23))
 

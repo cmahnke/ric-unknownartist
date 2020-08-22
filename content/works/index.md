@@ -71,14 +71,16 @@ Additions
 ---------
 <ul class="preview-image-list" style="background: #ccffcc; box-shadow: 0px 0px 10px 7px #ccffcc;">
 
-<li><li>{{< post-image section="post" post="ric24" width="250" link="/tags/Ric-24" caption="RIC 24" class="static-content-image" >}}</li></li>
+<li>{{< post-image section="post" post="ric24" width="250" link="/tags/Ric-24" caption="RIC 24" class="static-content-image" >}}</li>
 
-<li><li>{{< post-image section="post" post="ric25" width="250" link="/tags/Ric-25" caption="RIC 25" class="static-content-image" >}}</li></li>
+<li>{{< post-image section="post" post="ric25" width="250" link="/tags/Ric-25" caption="RIC 25" class="static-content-image" >}}</li>
 
-<li><li>{{< post-image section="post" post="ric26" width="250" link="/tags/Ric-26" caption="RIC 26" class="static-content-image" >}}</li></li>
+<li>{{< post-image section="post" post="ric26" width="250" link="/tags/Ric-26" caption="RIC 26" class="static-content-image" >}}</li>
 
-<li><li>{{< post-image section="post" post="ric27" width="250" link="/tags/Ric-27" caption="RIC 27" class="static-content-image" >}}</li></li>
+<li>{{< post-image section="post" post="ric27" width="250" link="/tags/Ric-27" caption="RIC 27" class="static-content-image" >}}</li>
 
-<li><li>{{< post-image section="post" post="ric28" width="250" link="/tags/Ric-28" caption="RIC 28" class="static-content-image" >}}</li></li>
+<li>{{< post-image section="post" post="ric28" width="250" link="/tags/Ric-28" caption="RIC 28" class="static-content-image" >}}</li>
+
+<li>{{< post-image section="post" post="ric29" width="250" link="/tags/Ric-29" caption="RIC 29" class="static-content-image" >}}</li>
 
 </ul>
