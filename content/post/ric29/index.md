@@ -4,7 +4,7 @@ tags:
 - Ric
 - Ric 29
 - eBay
-title: "Yet another new work of Ric discovered!"
+title: "Yet yet another new work of Ric discovered!"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-LES-PONT-DES-ARTS-Paris-/133441517510?hash=item1f11bbf7c6
 description: I'm not sure if "yet yet" is valid English, but there have been several new entries to the list in the last few days.
 resources:
