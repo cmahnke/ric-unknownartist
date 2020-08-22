@@ -9,14 +9,13 @@ alias:
 - 183675057762
 disableImageViewer: true
 ---
-{{< figure src="Terrier-signature2.png" class="shadow" link="/post/183582046002" >}}
-{{< figure src="Two-terrier-signature.png" class="shadow" link="/post/183582046002" >}}
-{{< figure src="Terrier-signature-1.png" class="shadow" link="/post/183592197152" >}}
-{{< figure src="IMG_0883.JPG" class="shadow" class="shadow" link="/post/183592197152" >}}
 
-The different signatures of “our” Fritz Neumann, sources:
+One possibility to distinguish between our different Fritz Neumann's is to compare the signature. The following list shows examples of Fritz Neumanns signatures, the source images are linked in the image caption:
 
-- [Sailing boats in a harbour](/post/183582046002)
-- [Two terriers](/post/183582046002)
-- [Terrier](/post/183592197152)
-- [Terrier](/post/183592197152)
+{{< figure src="/hints/fritz-neumann/sig1.jpg" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/sailing-boats-in-a-harbour)" >}}
+
+{{< figure src="/hints/fritz-neumann/sig2.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-dogs-fox-terrier)" >}}
+
+{{< figure src="/hints/fritz-neumann/sig3.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}
+
+{{< figure src="/hints/fritz-neumann/sig4.png" width="400px" class="shadow" caption="Signature our Fritz Neumann, taken from [this post](/post/two-prints-from-one-plate)" >}}

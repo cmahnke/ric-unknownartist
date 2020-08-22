@@ -1,3 +1,15 @@
+# Checkout and setup
+
+After the checkout you need to run
+
+```
+git submodules init
+git submodule update --recursive --remote
+./scripts/setup.sh
+yarn
+```
+
+
 # Add a new post
 
 The following will create a new draft
