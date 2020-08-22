@@ -6,13 +6,13 @@ tags:
 - eBay
 title: "The Ric mystery has been solved!"
 resources:
-- src: "s-l1600-1.jpg"
-- src: "s-l1600-2.jpg"
-- src: "s-l1600-3.jpg"
-- src: "s-l1600-4.jpg"
-- src: "s-l1600-5.jpg"
-- src: "s-l1600-6.jpg"
-- src: "s-l1600-7.jpg"
+- src: "Fritz_Neumann_RIC_Signed_Letter_For_Pseudonym_Sept_24_1963.jpg"
+- src: "JC_Blumenberg_WalterTetzlaff_March_21_1956_CroppedLogo.jpg"
+- src: "JC_Blumenberg_WalterTetzlaff_March_21_1956_CroppedLogo_Only.jpg"
+- src: "JC_Blumenberg_WalterTetzlaff_April_18_1973_CroppedLogo.jpg"
+- src: "JC_Blumenberg_WalterTetzlaff_April_18_1973_CroppedLogo_Only.jpg"
+- src: "Fritz_Neumann_Sept_24_1963_CroppedLogo.jpg"
+- src: "Fritz_Neumann_Sept_24_1963_CroppedLogo_Only.jpg"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-STREETSCENE-/143672853431
 ---
 
