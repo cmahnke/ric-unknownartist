@@ -4,7 +4,7 @@ tags:
 - Ric
 - Ric 24
 - eBay
-title: "Albergo Ric24"
+title: "Albergo - Ric24"
 resources:
 - src: "s-l1600.jpg"
 source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-ALBERGO-MILAN-ITALY-/133483534360?hash=item1f143d1818
