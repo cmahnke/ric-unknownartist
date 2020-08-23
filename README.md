@@ -1,4 +1,4 @@
-Ric -unknown artist
+Ric - unknown artist
 ===================
 
 # Checkout and setup
@@ -28,7 +28,6 @@ Run the following script to generate assets
 ```
 ./scripts/setup.sh
 ```
-
 
 # Starting hugo
 
