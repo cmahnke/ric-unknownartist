@@ -54,6 +54,20 @@ Tags with less then three occurrences aren't shown
 *   Thanks to [Wolfgang Barina](http://www.wolfgang-barina.de/) for some links he provided
 *   Thanks to Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/) for finding Ric and granting permission to use his text and images.
 
+## Colophon
+
+This page(s) have been generated with [Hugo](https://gohugo.io/). The Theme is a customized version of [Observer von Zack Sultan](http://zacksultan.com) for Tumblr. Futura and Georgia are used as fonts - if installed on your computer.
+
+The following JavaScript and CSS frameworks are used:
+* [jQuery](https://jquery.com/)
+* [jQuery lightgallery](https://sachinchoolur.github.io/lightGallery/) - for the fullscreen image view.
+
+The [Tagcloud](http://www.johann-oberdorfer.eu/blog/2020/02/23/20-02-23_tag_cloud_for_hugo/) and the [lightGallery](https://sachinchoolur.github.io/lightGallery/) are taken from the provided links.
+
+The logo shows Ric's signature.
+
+The page is hosted by [GitHub](https://github.com/).
+
 # Contact
 
 "Ric - An unknown artist" is a blog made by **Christian Mahnke**.

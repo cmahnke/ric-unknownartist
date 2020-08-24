@@ -159,3 +159,14 @@ $font-header: Montserrat;
     margin-top: 3em;
     margin-bottom: 1em;
 }
+
+@media screen and (max-width: 740px) {
+    #page {
+        padding-left: unset;
+        padding-right: unset;
+    }
+
+    #content {
+        width: unset;
+    }
+}
