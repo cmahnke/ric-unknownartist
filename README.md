@@ -1,3 +1,6 @@
+Ric - unknown artist
+===================
+
 # Checkout and setup
 
 After the checkout you need to run
@@ -8,7 +11,6 @@ cd ric-unknownartist
 git submodules init
 git submodule update --recursive --remote
 ./scripts/setup.sh
-yarn
 ```
 
 # Add a new post
@@ -19,14 +21,13 @@ The following will create a new draft
 hugo new post/post-title/index.md
 ```
 
-# Initializing generated files for offline usage
+# Setup for local (offine) development
+
+Run the following script to generate assets
 
 ```
 ./scripts/setup.sh
-yarn
-yarn logo
 ```
-
 
 # Starting hugo
 
