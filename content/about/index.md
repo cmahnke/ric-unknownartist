@@ -56,7 +56,7 @@ Tags with less then three occurrences aren't shown
 
 ## Colophon
 
-This page(s) have been generated with [Hugo](https://gohugo.io/). The Theme is a customized version of [Observer von Zack Sultan](http://zacksultan.com) for Tumblr. Futura and Georgia are used as fonts - if installed on your computer.
+This page(s) have been generated with [Hugo](https://gohugo.io/). The Theme is a customized version of [Observer von Zack Sultan](http://zacksultan.com) for Tumblr. [Montserrat](github.com/JulietaUla/Montserrat) and [Calluna Regular](https://www.exljbris.com/calluna.html) are used as fonts - if installed on your computer.
 
 The following JavaScript and CSS frameworks are used:
 * [jQuery](https://jquery.com/)
