@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "jquery": "^3.5.1",
+    "lg-fullscreen": "^1.2.1",
     "lightgallery": "^1.7.3",
     "pdfjs-dist": "^2.4.456",
     "pdfobject": "^2.1.1"

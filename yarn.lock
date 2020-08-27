@@ -720,6 +720,13 @@ keyv@3.0.0:
   dependencies:
     json-buffer "3.0.0"
 
+lg-fullscreen@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/lg-fullscreen/-/lg-fullscreen-1.2.1.tgz#9402aae62ce22148e13bee2fb177f2195dbbfbd6"
+  integrity sha512-mntHGBHEKWfbz/ZiFkWQhBgxzm8ZtWUcgI83GOv9uxmtGi5G9mhTxplkHODHNt9+Ss+IHYZJav/UTjcGPIcSVw==
+  dependencies:
+    jquery ">=1.7.0"
+
 lightgallery@^1.7.3:
   version "1.7.3"
   resolved "https://registry.yarnpkg.com/lightgallery/-/lightgallery-1.7.3.tgz#26a465395bcaf5a70e98d11e9b9d843c5300e736"
