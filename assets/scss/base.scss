@@ -179,6 +179,13 @@ $font-menu: 'Calluna Regular', georgia, serif;
     font-family: $font-menu !important;
     font-weight: 200;
     font-size: large;
+/*
+    @media screen and (max-width: 550px) {
+        .links .menu-title a {
+            font-size: 1rem;
+        }
+    }
+*/
 }
 
 @media screen and (max-width: 740px) {
