@@ -139,7 +139,8 @@ $font-menu: 'Calluna Regular', georgia, serif;
 
 .caption {
     figure {
-        width: fit-content;
+        width: max-content;
+        max-width: 95%;
         margin: auto;
 
         a {
@@ -205,4 +206,5 @@ $font-menu: 'Calluna Regular', georgia, serif;
 
 .caption {
     font-size: 19px;
+
 }

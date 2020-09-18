@@ -35,7 +35,7 @@ Some years later I found another print of Ric at a flea market, I didn’t like 
 
 ## Tags
 
-Tags with less then three occurrences aren't shown
+Tags with less then three occurrences aren't shown.
 
 {{< tagcloud >}}
 
