@@ -1,6 +1,5 @@
 ---
 date: 2020-09-29T19:08:00+02:00
-draft: true
 tags:
 - Fritz Neumann
 title: "Fritz Neumann Birch Way"
