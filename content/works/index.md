@@ -83,4 +83,8 @@ Additions
 
 <li>{{< post-image section="post" post="ric29" width="250" link="/tags/Ric-29" caption="RIC 29" class="static-content-image" >}}</li>
 
+<li>{{< post-image section="post" post="ric30" width="250" link="/tags/Ric-30" caption="RIC 30" class="static-content-image" >}}</li>
+
+<li>{{< post-image section="post" post="ric31" width="250" link="/tags/Ric-31" caption="RIC 31" class="static-content-image" >}}</li>
+
 </ul>
