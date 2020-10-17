@@ -5,7 +5,7 @@ metaPage: true
 displayInList: false
 disableImageViewer: true
 ---
-<s>It’s currently unknown who’s behind the signature “RIC”.</s> **Update: [The mystery is solved!](/ric/mystery-solved)** There seem to exist paintings by “Ric”, but most currently known works are prints. some Internet sites are quite misleading about the technique he used. Some are stated to be (colour) wood block prints, but they are almost certainly colourized etchings. Quite striking, “Ric” never seem to number his prints. This can be taken as a sign that they have been reprinted quite often.
+<s>It’s currently unknown who’s behind the signature “RIC”.</s> **[Update 1. October 2020]: [The mystery is solved!](/ric/mystery-solved)** There seem to exist paintings by “Ric”, but most currently known works are prints. some Internet sites are quite misleading about the technique he used. Some are stated to be (colour) wood block prints, but they are almost certainly colourized etchings. Quite striking, “Ric” never seem to number his prints. This can be taken as a sign that they have been reprinted quite often.
 
 Most of his works seem to appear in Europe, more specifically in Germany. If you find something with a tag of a gallery (like on [this](post/sailing-boats-ric06) one), please let me know!
 

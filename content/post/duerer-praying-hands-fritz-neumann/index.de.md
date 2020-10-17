@@ -13,6 +13,6 @@ resources:
 source: ebay
 ---
 
-**Short description:** An etching after Albrecht Dürer's ["Preying Hands"](https://en.wikipedia.org/wiki/Praying_Hands_(D%C3%BCrer)) by Fritz Neumann. Even if the motif and style doesn't match, the signature does.
+**Kurze Beschreibung:** Eine Radierung nach Albrecht Dürer's ["Betende Hände"](https://de.wikipedia.org/wiki/Betende_H%C3%A4nde) von Fritz Neumann. Auch wenn das Motiv und die Machart nicht passen, die Signatur stimmt.
 
-**Notes:** &nbsp; No blind stamp visible.
+**Anmerkungen:** &nbsp; Keine Prägemarke sichtbar.
