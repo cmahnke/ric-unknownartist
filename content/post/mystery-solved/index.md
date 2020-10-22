@@ -21,4 +21,4 @@ While doing the migration away from Tumblr and adding old drafts I also checked 
 
 Images by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-**[Update 1. October 2020]: this entry is now always the first, new entries start below.**
+**[Update 1. October 2020]: This entry is now always the first, new entries start below.**

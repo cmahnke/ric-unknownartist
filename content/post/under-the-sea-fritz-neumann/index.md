@@ -18,4 +18,4 @@ resources:
 
 Images by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-**The description on eBay is very interesting, there will be a [post](/post/mystery-solved) about it.**
+**The description on eBay is very interesting, there is a [post](/post/mystery-solved) about it.**

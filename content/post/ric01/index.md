@@ -12,7 +12,7 @@ resources:
 - src: "_blogspot-01.jpg"
 ---
 
-**Short description:** Two sailing boats (spinnaker)
+**Short description:** Two sailing boats ([Spinnaker](https://en.wikipedia.org/wiki/Spinnaker))
 
 **Notes:** &nbsp;
 

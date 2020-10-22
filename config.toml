@@ -56,6 +56,9 @@ enablePDFViewer = false
 [markup.goldmark.renderer]
     unsafe= true
 
+[imaging]
+    quality = 95
+
 [module]
     [[module.mounts]]
         source = "assets/scss"

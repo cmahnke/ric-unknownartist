@@ -5,7 +5,7 @@ tags:
 - eBay
 - Ric
 - Stamp
-title: Four sailing boats (Ric 22)
+title: short description three sailing boats
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555972/short-description-three-sailing-boats
 alias:
 - 183499555972
@@ -17,8 +17,8 @@ resources:
 - src: "ric-pencil-signed-cubist-sailboats-1960-s-2-811-p.jpg"
 ---
 
-**Short description:** Four sailing boats ([Spinnaker](https://en.wikipedia.org/wiki/Spinnaker))
+**Kurze Beschreibung:** Vier Segelboote ([Spinnaker](https://de.wikipedia.org/wiki/Spinnaker))
 
-**Notes:**
+**Anmerkungen:**
 
-[Other entries for this work](/tags/Ric-22)
+[Weitere Einträge für dieses Werk](/tags/Ric-22)

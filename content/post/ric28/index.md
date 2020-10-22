@@ -17,6 +17,6 @@ source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Co
 
 Image by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-**The description on eBay is very interesting, there will be a [post](/post/mystery-solved) about it.**
+**The description on eBay is very interesting, there is a [post](/post/mystery-solved) about it.**
 
 [Other entries for this work](/tags/Ric-28)
