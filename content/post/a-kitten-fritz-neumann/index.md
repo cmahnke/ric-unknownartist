@@ -2,7 +2,7 @@
 date: "2019-03-20T21:27:32Z"
 tags:
 - Fritz Neumann
-title: short description a kitten notes taken from
+title: A kitten by Fritz Neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183592077032/short-description-a-kitten-notes-taken-from
 alias:
 - 183592077032

@@ -2,7 +2,7 @@
 date: "2019-03-20T21:33:27Z"
 tags:
 - Fritz Neumann
-title: short description two prints from one plate
+title: Two prints from one plate (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183592197152/short-description-two-prints-from-one-plate
 alias:
 - 183592197152

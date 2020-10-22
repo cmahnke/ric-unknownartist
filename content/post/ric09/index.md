@@ -4,7 +4,7 @@ tags:
 - Ric 09
 - Taken from Blogspot
 - Ric
-title: ric09
+title: Ric 09
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469534337/ric09
 alias:
 - 183469534337

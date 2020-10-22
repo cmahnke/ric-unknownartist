@@ -4,7 +4,7 @@ tags:
 - Ric 20
 - Taken from Blogspot
 - Ric
-title: ric20
+title: Ric 20
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469585077/ric20
 alias:
 - 183469585077

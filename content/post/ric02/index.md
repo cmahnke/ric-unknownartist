@@ -4,7 +4,7 @@ tags:
 - Ric 02
 - Taken from Blogspot
 - Ric
-title: ric02
+title: Ric 02
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469477637/ric02
 alias:
 - 183469477637

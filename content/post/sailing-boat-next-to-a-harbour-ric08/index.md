@@ -4,7 +4,7 @@ tags:
 - Ric 08
 - eBay
 - Ric
-title: short description sailing boat next to a harbour
+title: Sailing boat next to a harbour (Ric 08)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499557752/short-description-sailing-boat-next-to-a-harbour
 alias:
 - 183499557752

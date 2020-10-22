@@ -2,7 +2,7 @@
 date: "2019-03-18T21:21:18Z"
 tags:
 - Fritz Neumann
-title: Am Wind
+title: Am Wind (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183548096912/notes-found-on-lauritzcom-there-are-many-other
 alias:
 - 183548096912

@@ -5,7 +5,7 @@ tags:
 - Stamp
 - Ric
 - Signature
-title: short description sailing boat notes see antik
+title: Sailing boat (Ric 05)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183516900367/short-description-sailing-boat-notes-see-antik
 alias:
 - 183516900367

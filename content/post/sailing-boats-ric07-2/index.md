@@ -4,7 +4,7 @@ tags:
 - Ric
 - Signature
 - Ric 07
-title: short description sailing boats notes taken
+title: Sailing boats (Ric 07)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183633242049/short-description-sailing-boats-notes-taken
 alias:
 - 183633242049

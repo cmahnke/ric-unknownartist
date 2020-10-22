@@ -2,7 +2,7 @@
 date: "2019-03-18T21:44:57Z"
 tags:
 - Fritz Neumann
-title: description another work by our fritz neumann
+title: Another work by our Fritz Neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183548567747/description-another-work-by-our-fritz-neumann
 alias:
 - 183548567747

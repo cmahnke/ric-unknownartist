@@ -5,6 +5,7 @@ tags:
 - Stamp
 - Ric
 - Signature
+title: Sailing boats (Ric 06)
 resources:
 - src: "_57-4.jpeg"
 - src: "_57-2.jpeg"

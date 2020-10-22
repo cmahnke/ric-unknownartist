@@ -3,7 +3,7 @@ date: "2019-03-15T11:28:01Z"
 tags:
 - Ric 23
 - Ric
-title: ric23
+title: Ric 23
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
 alias:
 - 183469611577

@@ -4,7 +4,7 @@ tags:
 - Ric 19
 - Ric
 - Taken from Blogspot
-title: ric19
+title: Ric 19
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469580377/ric19
 alias:
 - 183469580377

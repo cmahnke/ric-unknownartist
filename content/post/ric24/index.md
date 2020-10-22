@@ -4,7 +4,7 @@ tags:
 - Ric 24
 - eBay
 - Ric
-title: ric24
+title: Ric 24
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469623317/ric24
 alias:
 - 183469623317

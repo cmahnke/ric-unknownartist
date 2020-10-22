@@ -6,7 +6,7 @@ tags:
 - Stamp
 - Ric 10
 - eBay
-title: short description sailing boats notes taken from
+title: Sailing boats (Ric 10)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183726997179/short-description-sailing-boats-notes-taken-from
 alias:
 - 183726997179

@@ -4,7 +4,7 @@ tags:
 - Ric 09
 - Ric
 - Signature
-title: short description three birds notes see antik
+title: Three birds (Ric 09)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499551357/short-description-three-birds-notes-see-antik
 alias:
 - 183499551357

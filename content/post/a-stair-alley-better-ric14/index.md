@@ -5,7 +5,7 @@ tags:
 - Ric
 - Stamp
 - Signature
-title: short description a stair alley notes better
+title: A stair alley (Ric 14)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183603798812/short-description-a-stair-alley-notes-better
 alias:
 - 183603798812

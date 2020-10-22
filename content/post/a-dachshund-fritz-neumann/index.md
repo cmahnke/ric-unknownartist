@@ -2,7 +2,7 @@
 date: "2019-03-20T21:13:48Z"
 tags:
 - Fritz Neumann
-title: short description a dachshund notes taken from
+title: A dachshund (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183591808247/short-description-a-dachshund-notes-taken-from
 alias:
 - 183591808247

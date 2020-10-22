@@ -4,7 +4,7 @@ tags:
 - Ric 16
 - eBay
 - Ric
-title: short description two sailings boats notes
+title: Two sailings boats (Ric 16)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183498399732/short-description-two-sailings-boats-notes
 alias:
 - 183498399732

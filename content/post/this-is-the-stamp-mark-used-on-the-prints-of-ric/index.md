@@ -3,7 +3,7 @@ date: "2019-03-19T20:37:22Z"
 tags:
 - Status
 - Stamp
-title: this is the stamp mark used on the prints of ric
+title: This is the stamp mark used on the prints of Ric
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183569495882/this-is-the-stamp-mark-used-on-the-prints-of-ric
 alias:
 - 183569495882

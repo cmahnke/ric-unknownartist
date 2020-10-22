@@ -3,7 +3,7 @@ date: "2019-03-20T10:54:19Z"
 tags:
 - Fritz Neumann
 - Stamp
-title: short description two dogs fox terrier notes
+title: Two dogs - fox terrier (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183582606652/short-description-two-dogs-fox-terrier-notes
 alias:
 - 183582606652

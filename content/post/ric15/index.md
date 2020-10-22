@@ -4,7 +4,7 @@ tags:
 - Ric 15
 - Taken from Blogspot
 - Ric
-title: ric15
+title: Ric 15
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469555407/ric15
 -alias:
 - 183469555407

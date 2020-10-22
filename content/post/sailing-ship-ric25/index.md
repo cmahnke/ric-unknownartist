@@ -6,7 +6,7 @@ tags:
 - Stamp
 - Ric 25
 source: charish
-title: Large sailing ship by Ric
+title: Large sailing ship by Ric (Ric 25)
 resources:
 - src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3373.jpeg"
 - src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-2131.jpeg"

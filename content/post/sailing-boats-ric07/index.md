@@ -5,7 +5,7 @@ tags:
 - Ric 07
 - Stamp
 - Signature
-title: short description sailing boats notes slightly
+title: Sailing boats (Ric 07)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183603799352/short-description-sailing-boats-notes-slightly
 alias:
 - 183603799352

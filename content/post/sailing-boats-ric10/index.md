@@ -4,7 +4,7 @@ tags:
 - Ric 10
 - eBay
 - Ric
-title: short description sailing boats notes found on
+title: Sailing boats (Ric 10)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555272/short-description-sailing-boats-notes-found-on
 alias:
 - 183499555272

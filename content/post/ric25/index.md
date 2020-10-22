@@ -4,7 +4,7 @@ tags:
 - Ric 25
 - eBay
 - Ric
-title: ric25
+title: Ric 25
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183498396317/short-description-sailing-ship-notes-found-on
 alias:
 - 183498396317

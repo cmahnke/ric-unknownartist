@@ -4,7 +4,7 @@ tags:
 - Ric 22
 - Taken from Blogspot
 - Ric
-title: ric22
+title: Ric 22
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469594072/ric22
 alias:
 - 183469594072

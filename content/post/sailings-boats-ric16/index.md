@@ -6,7 +6,7 @@ tags:
 - Stamp
 - Ric 16
 source: charish
-title: Sailing boats by Ric
+title: Sailing boats by Ric (Ric 16)
 resources:
 - src: "mid-20th-c-modern-sailboats-etching-8429.png"
 - src: "mid-20th-c-modern-sailboats-etching-1186.png"
