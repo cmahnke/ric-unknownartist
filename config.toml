@@ -5,6 +5,7 @@ publishDir = "docs"
 canonifyurls = true
 languagecode = "en"
 defaultcontentlanguage = "en"
+DefaultContentLanguage = "en"
 disablePathToLower = true
 theme = "observer-hugo"
 
@@ -22,36 +23,80 @@ widePosts = true
 enableImageViewer = true
 enablePDFViewer = false
 
-[menu]
-    [[menu.main]]
-        name = "Home"
-        weight = 1
-        url = "/"
 
-    [[menu.main]]
-        name = "Ric"
-        weight = 2
-        url = "ric/"
+[languages]
+    [languages.en]
+        languagename = "English"
 
-    [[menu.main]]
-        name = "Further hints"
-        weight = 3
-        url = "hints/"
+        [languages.en.menu]
 
-    [[menu.main]]
-        name = "Known works"
-        weight = 4
-        url = "works/"
+            [[languages.en.menu.main]]
+                name = "Home"
+                weight = 1
+                url = "/"
 
-    [[menu.main]]
-        name = "Map"
-        weight = 5
-        url = "map/"
+            [[languages.en.menu.main]]
+                name = "Ric"
+                weight = 2
+                url = "ric/"
 
-    [[menu.main]]
-        name = "About"
-        weight = 6
-        url = "about/"
+            [[languages.en.menu.main]]
+                name = "Further hints"
+                weight = 3
+                url = "hints/"
+
+            [[languages.en.menu.main]]
+                name = "Known works"
+                weight = 4
+                url = "works/"
+
+            [[languages.en.menu.main]]
+                name = "Map"
+                weight = 5
+                url = "map/"
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 6
+                url = "about/"
+
+
+    [languages.de]
+        languagename = "Deutsch"
+
+        [languages.de.params]
+
+        [languages.de.menu]
+
+            [[languages.de.menu.main]]
+                name = "Home"
+                weight = 1
+                url = "/"
+
+            [[languages.de.menu.main]]
+                name = "Ric"
+                weight = 2
+                url = "ric/"
+
+            [[languages.de.menu.main]]
+                name = "Further hints"
+                weight = 3
+                url = "hints/"
+
+            [[languages.de.menu.main]]
+                name = "Known works"
+                weight = 4
+                url = "works/"
+
+            [[languages.de.menu.main]]
+                name = "Map"
+                weight = 5
+                url = "map/"
+
+            [[languages.de.menu.main]]
+                name = "About"
+                weight = 6
+                url = "about/"
 
 [markup.goldmark.renderer]
     unsafe= true
