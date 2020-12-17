@@ -18,6 +18,16 @@ $font-menu: 'Calluna Regular', georgia, serif;
   text-rendering: optimizeLegibility;
 }
 
+/* spinnaker-regular - latin */
+@font-face {
+  font-family: 'Spinnaker';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/spinnaker-v12-latin-regular.woff2') format('woff2'),
+       url('/fonts/spinnaker-v12-latin-regular.woff') format('woff'),
+       url('/fonts/spinnaker-v12-latin-regular.ttf') format('truetype');
+}
+
 .blog-title {
     h1 {
         font-weight: 700;

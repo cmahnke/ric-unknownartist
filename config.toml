@@ -8,6 +8,7 @@ defaultcontentlanguage = "en"
 DefaultContentLanguage = "en"
 disablePathToLower = true
 theme = "observer-hugo"
+timeout = 120000
 
 [params]
 author = "Christian Mahnke"
