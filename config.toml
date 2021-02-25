@@ -11,18 +11,19 @@ theme = "observer-hugo"
 timeout = 120000
 
 [params]
-author = "Christian Mahnke"
-keywords = "Ric, artist, unknown, Fritz Neumann, JCB"
-description = "This blog tries to help to solve the mystery „Who was Ric?“"
-menuTitleShort = "Ric"
-logo = "/images/logo.png"
-svgIcon = "/images/favicon.svg"
-stylesheets = ["https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"]
-linkTumblr = true
-hideTitle = true
-widePosts = true
-enableImageViewer = true
-enablePDFViewer = false
+    author = "Christian Mahnke"
+    keywords = "Ric, artist, unknown, Fritz Neumann, JCB"
+    description = "This blog tries to help to solve the mystery „Who was Ric?“"
+    menuTitleShort = "Ric"
+    logo = "/images/logo.png"
+    svgIcon = "/images/favicon.svg"
+    stylesheets = ["https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap"]
+    linkTumblr = true
+    hideTitle = true
+    widePosts = true
+    enableImageViewer = true
+    enablePDFViewer = false
+    copyrightYears = "MMXXI"
 
 
 [languages]
