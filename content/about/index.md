@@ -72,7 +72,7 @@ The page is hosted by [GitHub](https://github.com/).
 
 # Contact
 
-"Ric - An unknown artist" is a blog made by **Christian Mahnke**.
+"Ric - An unknown artist" is a blog made by **[Christian Mahnke](https://christianmahnke.de/)**.
 
 Contact is possible via [E-Mail](mailto:ric-unknownartist@projektemacher.org).
 
