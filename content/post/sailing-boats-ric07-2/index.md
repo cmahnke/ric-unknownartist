@@ -1,5 +1,5 @@
 ---
-date: "2019-03-22T19:30:25Z"
+date: 2019-03-22T19:30:25Z
 tags:
 - Ric
 - Signature

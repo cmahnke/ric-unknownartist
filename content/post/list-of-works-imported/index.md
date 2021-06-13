@@ -1,5 +1,5 @@
 ---
-date: "2019-03-16T17:33:02Z"
+date: 2019-03-16T17:33:02Z
 tags:
 - Status
 title: List of works imported

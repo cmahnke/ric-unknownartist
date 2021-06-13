@@ -1,5 +1,5 @@
 ---
-date: "2020-03-20T12:32:56Z"
+date: 2020-03-20T12:32:56Z
 tags:
 - Fritz Neumann
 - Status

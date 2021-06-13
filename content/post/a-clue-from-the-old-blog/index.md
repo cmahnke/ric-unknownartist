@@ -1,6 +1,6 @@
 ---
 title: "A clue from the old blog"
-date: "2019-12-25T11:33:44Z"
+date: 2019-12-25T11:33:44Z
 tags:
 - Ric
 - Hint

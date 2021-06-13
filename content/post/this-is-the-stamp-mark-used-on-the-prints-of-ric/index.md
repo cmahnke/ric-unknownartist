@@ -1,5 +1,5 @@
 ---
-date: "2019-03-19T20:37:22Z"
+date: 2019-03-19T20:37:22Z
 tags:
 - Status
 - Stamp

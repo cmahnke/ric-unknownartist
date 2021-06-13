@@ -1,5 +1,5 @@
 ---
-date: "2019-03-20T21:33:27Z"
+date: 2019-03-20T21:33:27Z
 tags:
 - Fritz Neumann
 title: Two prints from one plate (Fritz Neumann)

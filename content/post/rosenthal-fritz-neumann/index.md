@@ -1,5 +1,5 @@
 ---
-date: "2019-03-18T21:21:18Z"
+date: 2019-03-18T21:21:18Z
 tags:
 - Fritz Neumann
 title: Am Wind (Fritz Neumann)

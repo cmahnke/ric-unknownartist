@@ -1,5 +1,5 @@
 ---
-date: "2019-03-18T21:44:57Z"
+date: 2019-03-18T21:44:57Z
 tags:
 - Fritz Neumann
 title: Another work by our Fritz Neumann

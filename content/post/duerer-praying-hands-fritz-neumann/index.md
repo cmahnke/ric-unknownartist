@@ -1,5 +1,5 @@
 ---
-date: "2019-03-20T10:48:31Z"
+date: 2019-03-20T10:48:31Z
 title: Dürers "Praying Hands" - Fritz Neumann
 tags:
 - Fritz Neumann

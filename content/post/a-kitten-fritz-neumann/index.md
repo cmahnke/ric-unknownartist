@@ -1,5 +1,5 @@
 ---
-date: "2019-03-20T21:27:32Z"
+date: 2019-03-20T21:27:32Z
 tags:
 - Fritz Neumann
 title: A kitten by Fritz Neumann

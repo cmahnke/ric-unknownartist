@@ -1,5 +1,5 @@
 ---
-date: "2019-03-20T21:13:48Z"
+date: 2019-03-20T21:13:48Z
 tags:
 - Fritz Neumann
 title: A dachshund (Fritz Neumann)

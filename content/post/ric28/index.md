@@ -1,5 +1,5 @@
 ---
-date: "2020-08-20T17:33:44Z"
+date: 2020-08-20T17:33:44Z
 tags:
 - Ric
 - Signature

@@ -1,5 +1,5 @@
 ---
-date: "2019-03-16T21:32:35Z"
+date: 2019-03-16T21:32:35Z
 tags:
 - Status
 title: Additional photos uploaded

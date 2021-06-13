@@ -1,5 +1,5 @@
 ---
-date: "2020-06-05T06:32:31Z"
+date: 2020-06-05T06:32:31Z
 tags:
 - eBay
 - Fritz Neumann

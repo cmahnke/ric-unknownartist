@@ -1,5 +1,5 @@
 ---
-date: "2019-03-20T10:54:19Z"
+date: 2019-03-20T10:54:19Z
 tags:
 - Fritz Neumann
 - Stamp

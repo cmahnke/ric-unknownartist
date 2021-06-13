@@ -1,5 +1,5 @@
 ---
-date: "2019-03-15T11:26:12Z"
+date: 2019-03-15T11:26:12Z
 tags:
 - Ric 22
 - Taken from Blogspot

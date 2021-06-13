@@ -1,5 +1,5 @@
 ---
-date: "2019-03-24T16:55:45Z"
+date: 2019-03-24T16:55:45Z
 tags:
 - Fritz Neumann
 - Signature
