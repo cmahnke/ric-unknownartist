@@ -1,5 +1,5 @@
 ---
-date: "2020-08-20T18:32:44Z"
+date: 2020-08-20T18:32:44Z
 title: "The Ric mystery has been solved!"
 metaPage: true
 displayInList: false
