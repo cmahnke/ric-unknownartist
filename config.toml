@@ -120,13 +120,13 @@ timeout = 120000
         target = "assets/js/lightgallery"
 
     [[module.mounts]]
-        source = "node_modules/lightgallery/dist/css"
+        source = "node_modules/lightgallery/css"
         target = "assets/css/lightgallery"
 
     [[module.mounts]]
-        source = "node_modules/lightgallery/dist/fonts"
+        source = "node_modules/lightgallery/fonts"
         target = "static/fonts/lightgallery"
 
     [[module.mounts]]
-        source = "node_modules/lightgallery/dist/img"
+        source = "node_modules/lightgallery/images"
         target = "static/images/lightgallery"
