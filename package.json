@@ -9,7 +9,7 @@
     "lg-fullscreen": "^1.2.1",
     "lightgallery": "^1.7.3",
     "pdfjs-dist": "^2.16.105",
-    "pdfobject": "^2.1.1"
+    "pdfobject": "^2.2.8"
   },
   "devDependencies": {
     "pngcrush": "^3.0.0"
