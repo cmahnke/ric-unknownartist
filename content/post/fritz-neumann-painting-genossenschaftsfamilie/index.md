@@ -1,9 +1,9 @@
 ---
-date: 2023-05-28T09:50:31Z
+date: 2023-05-28T09:50:31+02:00
 tags:
 - eBay
 - Fritz Neumann
-title: Cover of Genossenschaftsfamilie Nr. 16 August 1935
+title: "Cover of Genossenschaftsfamilie Nr. 16 August 1935"
 source: https://www.ebay.com/itm/325640736520
 resources:
 - src: "cover.jpg"
