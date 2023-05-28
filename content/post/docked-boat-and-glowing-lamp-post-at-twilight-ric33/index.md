@@ -8,7 +8,7 @@ tags:
 title: Another new Ric found by Mark Strong
 source: https://www.ebay.com/itm/134264241066
 resources:
-- src: "12UntDockedBoat_And_GlowingLampPostAtTwilight_Neumann.jpeg"
+- src: "12UntDockedBoat_And_GlowingLampPostAtTwilight_Neumann.jpg"
 ---
 
 **Short description:** Docked Boat and Glowing Lamp Post at Twilight

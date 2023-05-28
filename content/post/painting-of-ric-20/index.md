@@ -8,7 +8,7 @@ tags:
 - Signature
 title: A painting of Ric 20
 resources:
-- src: "RIC.painting.jpeg"
+- src: "ric-painting.jpg"
 ---
 
 **Short description:** This is a painting of the motive found on [Ric 20](/tags/Ric-20/). The title is probably "Treppengasse", which is in [Altenburg](https://en.wikipedia.org/wiki/Altenburg), Germany.
