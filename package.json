@@ -11,6 +11,6 @@
     "pdfobject": "^2.2.12"
   },
   "devDependencies": {
-    "pngcrush": "^3.0.0"
+    "pngcrush-bin": "^7.0.0"
   }
 }
