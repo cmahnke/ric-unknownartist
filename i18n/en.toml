@@ -1,3 +1,6 @@
+[source]
+other = "Source"
+
 # Pagination
 [next_page]
 other = "Next"

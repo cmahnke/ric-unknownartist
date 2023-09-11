@@ -17,4 +17,4 @@ He created some sections on [meibohmfinearts.com](http://meibohmfinearts.com/) i
 
 His different findings deserve some additional pages or posts on this blog as well, for now I'll let him speak:
 
-{{< quote file="ric/mystery-solved/ebay-description.md" from="Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/)" >}}
+{{< quote file="ric/mystery-solved/ebay-description.md" from="Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/)" />}}

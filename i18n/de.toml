@@ -1,3 +1,6 @@
+[source]
+other = "Quelle"
+
 # Pagination
 [next_page]
 other = "Vor"
