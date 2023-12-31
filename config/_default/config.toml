@@ -12,3 +12,4 @@
     enableImageViewer = true
     enablePDFViewer = false
     copyrightYears = "MMXXI - MMXXIII"
+    disableScale = true
