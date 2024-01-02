@@ -18,6 +18,16 @@ Based on my own experience:
 
 Keep in mind that these prices apply on framed sheets, so a unframed sheet is worth from 10€ to 30€
 
-If you encounter an offer on eBay or a similar platform, which is above 70 € framed, it's certainly to expensive.
+If you encounter an offer on Kleinanzeigen (formerly eBay Kleinanzeigen) or a similar platform, which is above 70 € framed, it's certainly to expensive.
+
+There are some exceptions to this rules:
+* When you're not from northern Germany and can only purchase online
+* There seem to be some prints more or less exclusive to [Meibohm Fine Arts](http://meibohmfinearts.com/), see this [list](tags/Meibohm-Fine-Arts/)
 
 In the end depends on how much you're willing to pay...
+
+## Links
+
+These Links should provide some realistic price expectations
+
+* [Auction.net](https://auctionet.com/de/639077-oidentifierad-konstnar-radierung-signiert-ric)

@@ -5,6 +5,7 @@ tags:
 - Signature
 - Ric 28
 - eBay
+- Meibohm Fine Arts
 title: "Yet another new work of Ric discovered!"
 resources:
 - src: "s-l1600.jpg"

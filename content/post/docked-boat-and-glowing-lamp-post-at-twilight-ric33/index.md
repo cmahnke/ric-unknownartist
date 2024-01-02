@@ -5,6 +5,7 @@ tags:
 - Ric 33
 - eBay
 - Signature
+- Meibohm Fine Arts
 title: Another new Ric found by Mark Strong
 source: https://www.ebay.com/itm/134264241066
 resources:
