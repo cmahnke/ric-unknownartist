@@ -39,7 +39,7 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: hugo
+        run: hugo --printI18nWarnings --printUnusedTemplates
 
       - name: Puppeteer
         run: |
