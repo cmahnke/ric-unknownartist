@@ -20,3 +20,11 @@ convert static/images/favicon-16.png static/images/favicon-32.png static/images/
 # NPM dependencies
 yarn install
 yarn run logo
+
+# Language files
+mv i18n/de.toml i18n/ric-unknownartist.de.toml
+mv i18n/en.toml i18n/ric-unknownartist.en.toml
+cp -n themes/projektemacher-base/i18n/* i18n/
+python themes/projektemacher-base/scripts/merge-toml.py -d i18n/*.de.toml > i18n/de.toml
+python themes/projektemacher-base/scripts/merge-toml.py -d i18n/*.en.toml > i18n/en.toml
+#./themes/projektemacher-base/scripts/init/i18n.sh i18n

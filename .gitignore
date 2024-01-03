@@ -9,3 +9,13 @@ static/images/cm.png
 static/images/favicon*
 static/images/logo.png
 **/.DS_Store
+i18n/i18n.de.toml
+i18n/i18n.en.toml
+i18n/iiif.de.toml
+i18n/iiif.en.toml
+i18n/tags.de.toml
+i18n/tags.en.toml
+i18n/theme.de.toml
+i18n/theme.en.toml
+i18n/ric-unknownartist.de.toml
+i18n/ric-unknownartist.en.toml

@@ -22,7 +22,7 @@ If you encounter an offer on Kleinanzeigen (formerly eBay Kleinanzeigen) or a si
 
 There are some exceptions to this rules:
 * When you're not from northern Germany and can only purchase online
-* There seem to be some prints more or less exclusive to [Meibohm Fine Arts](http://meibohmfinearts.com/), see this [list](tags/Meibohm-Fine-Arts/)
+* There seem to be some prints more or less exclusive to [Meibohm Fine Arts](http://meibohmfinearts.com/), see this [list](/tags/Meibohm-Fine-Arts/)
 
 In the end depends on how much you're willing to pay...
 
