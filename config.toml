@@ -112,6 +112,9 @@ defaultMarkdownHandler = 'goldmark'
 [imaging]
     quality = 95
 
+[sitemap]
+  changeFreq = 'weekly'
+
 [module]
     [[module.mounts]]
         source = "assets/scss"
