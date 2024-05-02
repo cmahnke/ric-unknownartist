@@ -55,7 +55,7 @@ jobs:
           ./themes/projektemacher-base/scripts/init/package.json.sh
           ./themes/projektemacher-base/scripts/github/check-js-errors.sh
 
-      - name: Achive links
+      - name: Archive links
         run: python ./themes/projektemacher-base/scripts/archive.py -d docs/ -e ric-unknownartist.projektemacher.org,projektemacher.org
 
       - name: Deploy site
