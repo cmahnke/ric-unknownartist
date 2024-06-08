@@ -76,6 +76,10 @@ The page is hosted by [GitHub](https://github.com/).
 
 Contact is possible via [E-Mail](mailto:ric-unknownartist@projektemacher.org).
 
+# Privacy policy
+
+The privacy policy is available [here](/privacy).
+
 ## My other blogs
 
 My other blogs are listed on [Projektemacher.org](https://projektemacher.org/blogs/).
