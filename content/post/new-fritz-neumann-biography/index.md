@@ -5,7 +5,7 @@ tags:
 title: "Fritz Neumann biographies"
 ---
 
-I've found two Fritz Neumann biographies:
+I've found two Fritz Neumann biographies and a change to the German Wikipedia:
 
 # Freundeskreis Bildende Kunst Oldenburg e.V.
 
