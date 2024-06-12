@@ -7,7 +7,7 @@ title: "Fritz Neumann biographies"
 
 I've found two Fritz Neumann biographies:
 
-# Freundeskreis Kunst
+# Freundeskreis Bildende Kunst Oldenburg e.V.
 
 By Dr. Arie Hartog of the Gerhard-Marcks-House Bremen:
 
