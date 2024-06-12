@@ -1,9 +1,10 @@
 ---
-date: 2024-06-12T21:33:00+02:00
+date: 2024-06-26T21:33:00+02:00
 tags:
 - Fritz Neumann
 title: "Fritz Neumann Boats"
 source: https://www.ebay.de/itm/266094049481
+place: Cologne
 resources:
 - src: "img001.jpg"
 - src: "img002.jpg"
