@@ -13,6 +13,6 @@ source: ebay
 place: Wilhelmshaven
 ---
 
-**Short description:** A print of a foal by Fritz Neumann
+**Short description:** A colourised print of a foal by Fritz Neumann
 
 **Notes:** &nbsp; Found on eBay
