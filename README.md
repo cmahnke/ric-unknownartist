@@ -34,3 +34,11 @@ Run the following script to generate assets
 ```
 /usr/local/bin/hugo server -D -F --debug --disableFastRender --renderToDisk --ignoreCache  --gc
 ```
+
+# TODO
+
+## Links
+
+* https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
+* https://de.wikipedia.org/w/index.php?title=Fritz_Neumann&oldid=226050386
+* https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz
