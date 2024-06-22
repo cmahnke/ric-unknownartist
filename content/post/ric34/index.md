@@ -2,7 +2,7 @@
 date: 2024-06-22T18:32:42+02:00
 tags:
 - Ric
-- Ric 32
+- Ric 34
 - eBay
 title: "A new work of Ric discovered!"
 source: https://www.ebay.de/itm/145006855670

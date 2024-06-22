@@ -91,5 +91,6 @@ Additions
 
 <li>{{< post-image section="post" post="docked-boat-and-glowing-lamp-post-at-twilight-ric33" width="250" link="/tags/Ric-33" caption="RIC 33" class="static-content-image" >}}</li>
 
+<li>{{< post-image section="post" post="ric34" width="250" link="/tags/Ric-34" caption="RIC 34" class="static-content-image" >}}</li>
 
 </ul>
