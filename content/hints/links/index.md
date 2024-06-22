@@ -15,6 +15,14 @@ Blogs
 *   [A blog entry on Fritz Neumann on “The Linosaurus”](http://gerrie-thefriendlyghost.blogspot.com/2012/02/mystery-prints.html)
 *   [Another entry on “The Linosaurus”](http://gerrie-thefriendlyghost.blogspot.com/2012/02/mystery-prints-continued.html)
 
+Biographies
+-----------
+
+*   By Dr. Arie Hartog of the Gerhard-Marcks-House Bremen:
+   *   [German original article](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz)
+   *   [Automatic English translation (by Google Translate)](https://freundeskreis--kunst-de.translate.goog/?kuenstler_oldenburg=neumann-fritz&_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en&_x_tr_pto)
+* [askART: Artist Biography & Facts: Fritz Neumann](https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx) (The full article requires a registration / subscription:)
+
 eBay searches 
 -------------
 
