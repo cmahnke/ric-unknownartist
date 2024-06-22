@@ -19,8 +19,8 @@ Biographies
 -----------
 
 *   By Dr. Arie Hartog of the Gerhard-Marcks-House Bremen:
-   *   [German original article](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz)
-   *   [Automatic English translation (by Google Translate)](https://freundeskreis--kunst-de.translate.goog/?kuenstler_oldenburg=neumann-fritz&_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en&_x_tr_pto)
+    *   [German original article](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz)
+    *   [Automatic English translation (by Google Translate)](https://freundeskreis--kunst-de.translate.goog/?kuenstler_oldenburg=neumann-fritz&_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=en&_x_tr_pto)
 * [askART: Artist Biography & Facts: Fritz Neumann](https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx) (The full article requires a registration / subscription:)
 
 eBay searches 
@@ -34,4 +34,4 @@ eBay searches 
 Google searches
 ---------------
 
-*  [google image search for “Ric etching”](https://www.google.com/search?q=ric+etching&safe=off&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiV1pHxianrAhVLNOwKHYcZBhYQ_AUoAXoECAsQAw&biw=1280&bih=873)
+*  [Google image search for “Ric etching”](https://www.google.com/search?q=ric+etching&safe=off&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiV1pHxianrAhVLNOwKHYcZBhYQ_AUoAXoECAsQAw&biw=1280&bih=873)
