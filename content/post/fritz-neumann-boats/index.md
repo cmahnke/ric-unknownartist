@@ -13,4 +13,4 @@ resources:
 
 **Short description:** A colourised etching of boats by Fritz Neumann.
 
-**Notes:** &nbsp; Found on eBay
+**Notes:** &nbsp; Found on [eBay](https://www.ebay.de/itm/266094049481)
