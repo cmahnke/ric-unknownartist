@@ -14,6 +14,6 @@ resources:
 
 **Short description:** Ships (fishing boats) at a harbour
 
-**Notes:** No better image available yet
+**Notes:** Better image [available](/post/sailings-boats-ric04).
 
 [Other entries for this work](/tags/Ric-04)
