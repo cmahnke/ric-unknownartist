@@ -93,7 +93,6 @@ defaultMarkdownHandler = 'goldmark'
         unsafe= true
 
     [markup.goldmark.extensions]
-        #typographer = true
         attribute = true
         strikethrough = true
 
