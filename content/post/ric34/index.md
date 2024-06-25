@@ -19,4 +19,4 @@ resources:
 
 **Short description:** A previously unknown Ric showing the gallery "Zur Fischerin" in Lindau / Lake Constance
 
-**Notes:** Available on [eBay](https://www.ebay.de/itm/145006855670). Current web site of [“Zur Fischerin”](https://www.ebay.de/itm/145006855670)
+**Notes:** Available on [eBay](https://www.ebay.de/itm/145006855670). Current web site of [“Zur Fischerin”](https://www.ebay.de/itm/145006855670), a similar [view on Google Maps](https://maps.app.goo.gl/8fCPHvWj1Vf9aLg37).
