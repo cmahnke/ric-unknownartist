@@ -2,6 +2,7 @@
 date: 2024-06-26T21:33:00+02:00
 tags:
 - Fritz Neumann
+- Etching
 title: "Fritz Neumann Boats"
 source: https://www.ebay.de/itm/266094049481
 place: Cologne

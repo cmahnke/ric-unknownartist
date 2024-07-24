@@ -13,7 +13,7 @@ resources:
 - src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3163.jpeg"
 ---
 
-**Short description**:&nbsp;Large sailing ship
+**Short description**: Large sailing ship
 
 **Notes** :
 

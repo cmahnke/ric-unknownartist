@@ -7,6 +7,6 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183497058477/list-of-works
 alias:
 - 183497058477
 ---
-The list of works by&nbsp;“Ric” has been copied from the [original page](http://ric-unknownartist.blogspot.com/p/blog-page.html). They are accessible via tags from the “Known works” page, that way future posts will be assigned to the according entry automatically. The posts with contents from the original blog had been tagged with [“Taken from Blogspot”](/tags/Taken-from-Blogspot).
+The list of works by "Ric" has been copied from the [original page](http://ric-unknownartist.blogspot.com/p/blog-page.html). They are accessible via tags from the “Known works” page, that way future posts will be assigned to the according entry automatically. The posts with contents from the original blog had been tagged with [“Taken from Blogspot”](/tags/Taken-from-Blogspot).
 
 Also the some of the texts ([About](/about), [Ric](/ric)) are finished.

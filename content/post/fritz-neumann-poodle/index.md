@@ -2,6 +2,7 @@
 date: 2024-05-20T21:33:00+02:00
 tags:
 - Fritz Neumann
+- Etching
 title: "Fritz Neumann Poodle"
 resources:
 - src: "img001.jpg"

@@ -3,6 +3,7 @@ date: 2019-12-25T12:33:31Z
 title: Print of a foal by Fritz Neumann
 tags:
 - Fritz Neumann
+- Etching
 resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-2.jpg"
