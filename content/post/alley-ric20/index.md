@@ -4,6 +4,7 @@ tags:
 - Ric
 - Ric 20
 - eBay
+- Meibohm Fine Arts
 title: "Alley - Ric20"
 source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Etching-TREPPENGASSE-ALTENBURG-GERMANY-/133483534353?hash=item1f143d1811
 resources:
