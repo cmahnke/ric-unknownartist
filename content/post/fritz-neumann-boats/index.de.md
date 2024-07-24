@@ -2,7 +2,7 @@
 date: 2024-06-26T21:33:00+02:00
 tags:
 - Fritz Neumann
-title: "Fritz Neumann Boats"
+title: "Fritz Neumann Boote"
 source: https://www.ebay.de/itm/266094049481
 place: Cologne
 resources:
@@ -11,6 +11,6 @@ resources:
 - src: "img003.jpg"
 ---
 
-**Short description:** A colourised etching of boats by Fritz Neumann.
+**Kurze Beschreibung:** Eine kolorierte Radierung von Booten von Fritz Neumann.
 
-**Notes:** Found on [eBay](https://www.ebay.de/itm/266094049481)
+**Anmerkungen:** Gefunden bei [eBay](https://www.ebay.de/itm/266094049481)
