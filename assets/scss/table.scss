@@ -1,0 +1,18 @@
+table {
+  width: 100%;
+  tr {
+
+    th {
+      font-size: larger;
+      text-align: left;
+    }
+
+    &>th {
+      border-bottom: 2px solid rgba(136, 136, 136, .5);
+    }
+
+    td {
+
+    }
+  }
+}
