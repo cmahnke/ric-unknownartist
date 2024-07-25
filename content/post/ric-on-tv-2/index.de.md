@@ -11,7 +11,7 @@ Nachdem mir schon [aufgefallen](/post/ric-on-tv) war, dass Ric auch einen Auftri
 
 Kerstin Ramcke, die Produzentin des Kieler Tatorts hat dankenswerterweise die Anfrage direkt beantwortet. Diese Antwort gebe ich hier wieder:
 
-{{< quote >}}
+{{< quote from="Kerstin Ramcke" >}}
 Der Drehort "Präsidium" war damals die Militärtechnische Schule in Kiel (Arkonastrasse). An diesem Motiv haben wir bis 2017 die Büros gedreht[...]
 {{< /quote >}}
 
