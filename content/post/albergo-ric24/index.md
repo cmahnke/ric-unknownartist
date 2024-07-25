@@ -4,6 +4,7 @@ tags:
 - Ric
 - Ric 24
 - eBay
+- Meibohm Fine Arts
 title: "Albergo - Ric24"
 resources:
 - src: "s-l1600.jpg"
@@ -13,6 +14,7 @@ source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Et
 **Short description:** An alley in front of a harbour
 
 **Notes:** Taken from [eBay](http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-ALBERGO-MILAN-ITALY-/133483534360?hash=item1f143d1818). The title of the listing suggests [Milan](https://en.wikipedia.org/wiki/Milan), Italy.
+But Milan has no harbour...
 
 Image by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
