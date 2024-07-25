@@ -48,6 +48,7 @@ https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356869/fragment/page=1121
 
 https://digital.zlb.de/viewer/berliner-adressbuecher/
 
+https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236
 
 ## Functionality
 * Translate to German
