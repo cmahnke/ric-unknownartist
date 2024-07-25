@@ -12,7 +12,7 @@ After I had already [noticed](/post/ric-on-tv) that Ric also had an appearance i
 Kerstin Ramcke, the producer of the Kieler Tatort, thankfully answered the enquiry directly. I am reproducing her answer here:
 
 {{< quote >}}
-The ‘Presidium’ location was the military technical school in Kiel (Arkonastrasse). We filmed the offices at this location until 2017[...]
+The ‘Praesidium’ location was the military technical school in Kiel (Arkonastrasse). We filmed the offices at this location until 2017[...]
 {{< /quote >}}
 
 Original in German:

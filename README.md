@@ -41,7 +41,13 @@ Run the following script to generate assets
 
 * https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
 * https://de.wikipedia.org/w/index.php?title=Fritz_Neumann&oldid=226050386
-* https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz
+* https://www.herder.de/hk/hefte/archiv/2020/7-2020/blumenbergs-engel-zum-100-geburtstag-des-philosophen-hans-blumenberg/
+
+
+https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356869/fragment/page=1121
+
+https://digital.zlb.de/viewer/berliner-adressbuecher/
+
 
 ## Functionality
 * Translate to German
