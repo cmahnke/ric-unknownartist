@@ -31,6 +31,6 @@ But first, let's start a bit of cleanup:
 
 It's interesting to see how many people and pages have adopted the link between Fritz Neumann (1928–2014) and Ric.
 
-Keep in mind, it'S certain that some Fritz Neumann is Ric, just not the one who was born in 1928.
+Keep in mind, it's certain that some Fritz Neumann is Ric, just not the one who was born in 1928.
 
 The page will be updated in the next weeks...
