@@ -4,7 +4,7 @@ tags:
 - Fritz Neumann
 - Etching
 - Stamp
-title: A dachshund (Fritz Neumann)
+title: Ein Dachshund (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183591808247/short-description-a-dachshund-notes-taken-from
 alias:
 - 183591808247
@@ -13,6 +13,6 @@ resources:
 source: http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/
 ---
 
-**Short description** : A dachshund
+**Kurze Beschreibung** : Ein Dachshund
 
-**Notes** : Taken from [Cofart.be](http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/). The stamp mark is clearly visible.
+**Anmerkungen** : Gefunden bei [Cofart.be](http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/). Die Prägemarke ist gut sichtbar.

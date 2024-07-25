@@ -20,4 +20,12 @@ Mein Vater - Fritz Neumann - ist leider nicht identisch mit dem Maler "Ric". Sch
 
 **Also beginnt die Suche von neuem!**
 
-Die Seite wird in den nächsten Wochen aktualisiert
+Aber zuerst wollen wir ein wenig aufräumen:
+* Meibohm Fine Arts wird die [Seite über Ric / Fritz Neumann](https://www.meibohmfinearts.com/artists/details/2873) aktualisieren.
+* Eine [Änderung](https://de.wikipedia.org/w/index.php?title=Fritz_Neumann&oldid=229488522&diff=cur) in der deutschen Wikipedia wartet auf die Genehmigung
+
+Es ist interessant zu sehen, wie viele Leute und Seiten die Verbindung zwischen Fritz Neumann (1928-2014) und Ric übernommen haben.
+
+Denkt daran, dass ein Fritz Neumann mit Sicherheit Ric ist, nur nicht derjenige, der 1928 geboren wurde.
+
+Die Seite wird in den nächsten Wochen aktualisiert...
