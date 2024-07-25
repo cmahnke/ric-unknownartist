@@ -12,7 +12,7 @@ resources:
 
 **Short description:** Firebird or "Feuervogel"
 
-**Notes** : Taken from [eBay](http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c-1960s-Color-Etching-FEUERVOGEL-FIREBIRD-/143672853423?hash=item217391c3af).
+**Notes:** Taken from [eBay](http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c-1960s-Color-Etching-FEUERVOGEL-FIREBIRD-/143672853423?hash=item217391c3af).
 
 Image by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 

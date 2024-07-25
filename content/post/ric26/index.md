@@ -17,6 +17,6 @@ resources:
 
 **Short description:** A bird, maybe a [Marabou](https://en.wikipedia.org/wiki/Marabou_stork)
 
-**Notes** : Taken from eBay.
+**Notes:** Taken from eBay.
 
 [Other entries for this work](/tags/Ric-26)

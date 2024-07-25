@@ -14,6 +14,6 @@ resources:
 - src: "IMG_0885.JPG"
 ---
 
-**Short Description** : Sailing boats in a harbour / near a shore
+**Short Description:** Sailing boats in a harbour / near a shore
 
-**Notes** : Another maritime subject by Fritz Neumann, on the back is a sticker reading&nbsp;“Echt Aquarell” (Original aquarelle). But this is clearly a colourised print, since there is a platemark.
+**Notes** : Another maritime subject by Fritz Neumann, on the back is a sticker reading "Echt Aquarell" (Original aquarelle). But this is clearly a colourised print, since there is a platemark.

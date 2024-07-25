@@ -12,9 +12,9 @@ resources:
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-HARBOR-SCENE-BOATS-/133483534358
 ---
 
-**Short description** Another scene of ships in a harbour
+**Short description:** Another scene of ships in a harbour
 
-**Notes** : Taken from [eBay](https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-HARBOR-SCENE-BOATS-/133483534358).
+**Notes:** Taken from [eBay](https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-HARBOR-SCENE-BOATS-/133483534358).
 
 Image by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 

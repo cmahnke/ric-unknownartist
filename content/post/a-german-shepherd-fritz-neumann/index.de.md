@@ -14,6 +14,6 @@ resources:
 - src: "Stempel.png"
 ---
 
-**Kurze Beschreibung** : Ein deutscher Schäferhund.
+**Kurze Beschreibung:** Ein deutscher Schäferhund.
 
-**Anmerkungen** : In Göttingen gekauft.
+**Anmerkungen:** In Göttingen gekauft.

@@ -4,6 +4,7 @@ tags:
 - Fritz Neumann
 - Signature
 - eBay
+- Etching
 title: An etching of a wind mill by (some) Fritz Neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183702884249/short-description-an-etching-of-a-wind-mill-by
 alias:
@@ -14,6 +15,6 @@ resources:
 - src: "s-l1600-3.jpg"
 ---
 
-**Short description** : An etching of a wind mill by (some) Fritz Neumann
+**Short description:** An etching of a wind mill by (some) Fritz Neumann
 
-**Notes** : Taken from [eBay](https://www.ebay.de/itm/362258538496), probably not "our" Fritz Neumann.
+**Notes:** Taken from [eBay](https://www.ebay.de/itm/362258538496), probably not "our" Fritz Neumann.

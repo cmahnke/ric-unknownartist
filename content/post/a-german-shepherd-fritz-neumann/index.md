@@ -14,6 +14,6 @@ resources:
 - src: "Stempel.png"
 ---
 
-**Short description** : A German Shepherd
+**Short description:** A German Shepherd
 
-**Notes** : Bought in Göttingen.
+**Notes:** Bought in Göttingen.

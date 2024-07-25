@@ -13,6 +13,6 @@ resources:
 source: http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/
 ---
 
-**Kurze Beschreibung** : Ein Dachshund
+**Kurze Beschreibung:** Ein Dachshund
 
-**Anmerkungen** : Gefunden bei [Cofart.be](http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/). Die Prägemarke ist gut sichtbar.
+**Anmerkungen:** Gefunden bei [Cofart.be](http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/). Die Prägemarke ist gut sichtbar.

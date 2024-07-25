@@ -13,6 +13,6 @@ resources:
 source: http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/
 ---
 
-**Short description** : A dachshund
+**Short description:** A dachshund
 
-**Notes** : Taken from [Cofart.be](http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/). The stamp mark is clearly visible.
+**Notes:** Taken from [Cofart.be](http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/). The stamp mark is clearly visible.

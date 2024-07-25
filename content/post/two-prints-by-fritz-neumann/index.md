@@ -13,6 +13,6 @@ resources:
 - src: "3320_5_1476107208.jpg"
 ---
 
-**Short description** : Two prints by Fritz Neumann, sailings boats and a black-headed gull.
+**Short description:** Two prints by Fritz Neumann, sailings boats and a black-headed gull.
 
-**Notes** : Works by our Fritz Neumann wit typical maritime subjects.
+**Notes:** Works by our Fritz Neumann wit typical maritime subjects.

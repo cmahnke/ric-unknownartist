@@ -11,4 +11,4 @@ resources:
 
 **Short description:** A postcard by Fritz Neumann
 
-**Notes:** &nbsp; Found on [Ansichtskarten-Center](http://www.ansichtskarten-center.de/kunst-architektur/scherenschnitte-druck/kuenstlerkarte-scherenschnitt-segelboot-kreuzer-handschnitt-von-fritz-neumann-gute)
+**Notes:** Found on [Ansichtskarten-Center](http://www.ansichtskarten-center.de/kunst-architektur/scherenschnitte-druck/kuenstlerkarte-scherenschnitt-segelboot-kreuzer-handschnitt-von-fritz-neumann-gute)

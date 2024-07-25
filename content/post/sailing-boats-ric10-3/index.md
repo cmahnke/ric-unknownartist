@@ -18,8 +18,8 @@ resources:
 - src: "s-l1600-3.jpg"
 ---
 
-**Short description** :&nbsp;Sailing Boats
+**Short description:** Sailing Boats
 
-**Notes** : Taken from [eBay](https://www.ebay.de/itm/303041003818?ViewItem=&item=303041003818).
+**Notes:** Taken from [eBay](https://www.ebay.de/itm/303041003818?ViewItem=&item=303041003818).
 
 [Other entries for this work](/tags/Ric-10)

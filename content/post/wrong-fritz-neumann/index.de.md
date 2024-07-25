@@ -2,7 +2,7 @@
 date: 2020-03-21T12:32:56Z
 tags:
 - Fritz Neumann
-title: ine weitere falsche Zuschreibung
+title: Eine weitere falsche Zuschreibung
 disableImageViewer: true
 source: http://www.artnet.de/k%C3%BCnstler/fritz-neumann/
 ---
