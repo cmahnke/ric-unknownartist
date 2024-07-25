@@ -4,7 +4,7 @@ tags:
 - Ric 05
 - eBay
 - Ric
-title: Sailing boat (Ric 05)
+title: Segelboot(e) (Ric 05)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499552452/short-description-sailing-boat-notes-found-on
 alias:
 - 183499552452
@@ -12,8 +12,8 @@ resources:
 - src: "u2v350.jpg"
 ---
 
-**Short description:** Sailing boat
+**Kurze Beschreibung:** Segelboot(e)
 
-**Notes:** Found on eBay.
+**Anmerkungen:** Gefunden bei eBay.
 
-[Other entries for this work](/tags/Ric-05)
+[Andere Einträge für dieses Werk](/tags/Ric-05)
