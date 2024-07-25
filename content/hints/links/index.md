@@ -15,7 +15,7 @@ Blogs
 *   [A blog entry on Fritz Neumann on “The Linosaurus”](http://gerrie-thefriendlyghost.blogspot.com/2012/02/mystery-prints.html)
 *   [Another entry on “The Linosaurus”](http://gerrie-thefriendlyghost.blogspot.com/2012/02/mystery-prints-continued.html)
 
-Biographies
+Biographies of Fritz Neumann (1928–2014)
 -----------
 
 *   By Dr. Arie Hartog of the Gerhard-Marcks-House Bremen:

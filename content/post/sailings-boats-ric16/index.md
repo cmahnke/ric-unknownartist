@@ -14,8 +14,8 @@ resources:
 - src: "mid-20th-c-modern-sailboats-etching-7516.png"
 ---
 
-**Short description**: Sailing boats
+**Short description:** Sailing boats
 
-**Notes** :
+**Notes:**
 
 [Other entries for this work](/tags/Ric-16)

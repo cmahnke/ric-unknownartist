@@ -6,9 +6,9 @@ displayInList: false
 ---
 # Introduction
 
-This blog tries to help to solve the mystery „Who was Ric“.
+This blog tries to help to solve the mystery "Who was Ric".
 
-**[Update 1. October 2020]: [The mystery has been solved](/post/mystery-solved)**
+**[Update 26. July 2024]: [The solution of the mystery didn't work out](/post/mystery-again), this is the old [article](/post/mystery-solved)**
 
 It’s about an unknown artist who signed his works just with the name „Ric“. It tries to collect all findings on the net. There had been a previous attempt to collect information, but it has stalled. The author of this blog was in contact with the one of the predecessor and all hints and informations had been incorporated here.
 
