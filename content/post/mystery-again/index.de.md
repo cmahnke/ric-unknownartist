@@ -4,9 +4,11 @@ tags:
 - Fritz Neumann
 - Ric
 - Status
-title: "Fritz Neumann (1928–2014) is not Ric!"
+title: "Fritz Neumann (1928–2014) ist nicht Ric!"
 sticky: true
 ---
+
+# Fritz Neumann (1928–2014) ist nicht Ric!
 
 Während meines Urlaubs habe ich einige Nachforschungen zu einem der [letzten Beiträge](/post/new-fritz-neumann-biography/) angestellt: Ich habe mich mit dem [Freudeskreis Kunst Olsenburg](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz) in Verbindung gesetzt. Sie haben meine Fragen an Andreas Neumann, den Sohn von Fritz Neumann (1928-2014), weitergeleitet.
 
