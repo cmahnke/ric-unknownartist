@@ -16,4 +16,4 @@ place: Wilhelmshaven
 
 **Short description:** A colourised print of a foal by Fritz Neumann
 
-**Notes:** &nbsp; Found on eBay
+**Notes:** Found on eBay

@@ -11,4 +11,4 @@ resources:
 
 **Short description:** A postcard by Fritz Neumann
 
-**Notes:** &nbsp; Found on [eBay](https://www.ebay.de/itm/156164746631)
+**Notes:** Found on [eBay](https://www.ebay.de/itm/156164746631)

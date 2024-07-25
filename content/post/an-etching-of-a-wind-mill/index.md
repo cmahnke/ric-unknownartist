@@ -16,4 +16,4 @@ resources:
 
 **Short description** : An etching of a wind mill by (some) Fritz Neumann
 
-**Notes** : Taken from [eBay](https://www.ebay.de/itm/362258538496), probably not&nbsp;“our” Fritz Neumann.
+**Notes** : Taken from [eBay](https://www.ebay.de/itm/362258538496), probably not "our" Fritz Neumann.

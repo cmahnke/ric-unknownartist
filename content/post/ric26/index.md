@@ -15,7 +15,7 @@ resources:
 - src: "s-l1600.jpg"
 ---
 
-**Short description** :&nbsp;A bird, maybe a [Marabou](https://en.wikipedia.org/wiki/Marabou_stork)
+**Short description:** A bird, maybe a [Marabou](https://en.wikipedia.org/wiki/Marabou_stork)
 
 **Notes** : Taken from eBay.
 
