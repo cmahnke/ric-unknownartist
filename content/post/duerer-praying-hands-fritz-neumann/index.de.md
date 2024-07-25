@@ -16,4 +16,4 @@ source: ebay
 
 **Kurze Beschreibung:** Eine Radierung nach Albrecht Dürer's ["Betende Hände"](https://de.wikipedia.org/wiki/Betende_H%C3%A4nde) von Fritz Neumann. Auch wenn das Motiv und die Machart nicht passen, die Signatur stimmt.
 
-**Anmerkungen:** &nbsp; Keine Prägemarke sichtbar.
+**Anmerkungen:** Keine Prägemarke sichtbar.

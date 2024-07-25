@@ -14,7 +14,7 @@ resources:
 - src: "mid-20th-c-modern-sailboats-etching-7516.png"
 ---
 
-**Short description**:&nbsp;Sailing boats
+**Short description**: Sailing boats
 
 **Notes** :
 

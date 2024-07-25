@@ -19,7 +19,7 @@ resources:
 - src: "s-l1600.jpg"
 ---
 
-**Short description** :&nbsp;Sailing Boats
+**Short description:** Sailing Boats
 
 **Notes** : Taken from [eBay](https://www.ebay.co.uk/itm/Unknown-Artist-RIC-Etching-Cubist-Midcentury-MCM-Sailboat-Maritime-JCB/193218427336?hash=item2cfcb739c8:g:hzYAAOSw0LldyxW1).
 

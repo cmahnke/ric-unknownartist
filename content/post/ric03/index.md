@@ -15,6 +15,6 @@ resources:
 
 **Short description:** Sailing ship next to a harbour / town
 
-**Notes:** &nbsp;Similar to [Ric 17](/tags/Ric-17), but this one is signed a bit different.
+**Notes:** Similar to [Ric 17](/tags/Ric-17), but this one is signed a bit different.
 
 [Other entries for this work](/tags/Ric-03)

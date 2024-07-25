@@ -13,9 +13,9 @@ resources:
 source: https://www.worthpoint.com/worthopedia/ric-signed-original-modernist-etching-307017596
 ---
 
-**Short description:** &nbsp;Two sailings boats
+**Short description:** Two sailings boats
 
-**Notes:** &nbsp;
+**Notes:**
 
 - Similar to [Ric 07](/tags/Ric-07)
 - Similar to [Ric 17](/tags/Ric-17)

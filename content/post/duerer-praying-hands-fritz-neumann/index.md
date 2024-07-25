@@ -16,4 +16,4 @@ source: ebay
 
 **Short description:** An etching after Albrecht Dürer's ["Preying Hands"](https://en.wikipedia.org/wiki/Praying_Hands_(D%C3%BCrer)) by Fritz Neumann. Even if the motif and style doesn't match, the signature does.
 
-**Notes:** &nbsp; No blind stamp visible.
+**Notes:** No blind stamp visible.

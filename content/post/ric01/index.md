@@ -14,6 +14,6 @@ resources:
 
 **Short description:** Two sailing boats ([Spinnaker](https://en.wikipedia.org/wiki/Spinnaker))
 
-**Notes:** &nbsp;
+**Notes:**
 
 [Other entries for this work](/tags/Ric-01)

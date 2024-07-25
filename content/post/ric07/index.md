@@ -12,9 +12,9 @@ resources:
 - src: "_blogspot-07.png"
 ---
 
-**Short description:** &nbsp;Two sailings boats
+**Short description:** Two sailings boats
 
-**Notes:** &nbsp;
+**Notes:**
 
 - Similar to [Ric 02](/tags/Ric-07)
 - Similar to [Ric 17](/tags/Ric-17)

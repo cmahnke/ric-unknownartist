@@ -14,6 +14,6 @@ resources:
 
 **Short description:** A latern next to a stair (alley)
 
-**Notes:** &nbsp;Low quality image
+**Notes:** Low quality image
 
 [Other entries for this work](/tags/Ric-14)
