@@ -4,6 +4,7 @@ tags:
 - Ric
 - Ric 18
 - eBay
+- Meibohm Fine Arts
 title: "Firebird - Ric18 - found on eBay"
 source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c-1960s-Color-Etching-FEUERVOGEL-FIREBIRD-/143672853423?hash=item217391c3af
 resources:
