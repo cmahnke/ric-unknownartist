@@ -13,7 +13,7 @@ resources:
 source: http://www.cofart.be/wp-content/uploads/2015/12/Hermann-Fritz-Neumann-Germany-Elmshorn-1858-Dresden-1920-Ali-Baba-Wirehaired-Fox-Terrier.jpg
 ---
 
-**Short description** : Two prints from one plate, another fox terrier.
+**Short description:** Two prints from one plate, another fox terrier.
 
-**Notes** : The first is taken from the [Linosaurus Blog](http://gerrie-thefriendlyghost.blogspot.com/2016/04/margarete-donath-quest-for-forgotten_15.html). Note the mark under the signature, Holsten Gate variant.  
+**Notes:** The first is taken from the [Linosaurus Blog](http://gerrie-thefriendlyghost.blogspot.com/2016/04/margarete-donath-quest-for-forgotten_15.html). Note the mark under the signature, Holsten Gate variant.  
 The second is taken from [Cofart.be](http://www.cofart.be/wp-content/uploads/2015/12/Hermann-Fritz-Neumann-Germany-Elmshorn-1858-Dresden-1920-Ali-Baba-Wirehaired-Fox-Terrier.jpg). The colourisation above the eye is different. Note that the signature is different and it has a title (”Ali Baba”), no stamp mark visible.
