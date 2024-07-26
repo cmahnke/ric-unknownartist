@@ -12,8 +12,8 @@ resources:
 - src: "_blogspot-03.png"
 ---
 
-**Short description:** Sailing ship next to a harbour / town
+**Kurz Beschreibung:** Segelschiff neben einem Hafen / einer Stadt
 
-**Notes:** Similar to [Ric 17](/tags/Ric-17), but this one is drawn a bit different.
+**Anmerkungen:** Ähnlich wie [Ric 17](/tags/Ric-17), aber dieses ist etwas anders ausgeführt.
 
-[Other entries for this work](/tags/Ric-03)
+[Andere Einträge für dieses Werk](/tags/Ric-03)
