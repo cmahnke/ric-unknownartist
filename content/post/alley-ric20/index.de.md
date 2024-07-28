@@ -20,5 +20,3 @@ Bild von Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/).
 **Die Beschreibung bei eBay ist sehr interessant, es gibt einen [post](/post/mystery-solved) darüber.
 
 [Andere Einträge zu diesem Werk](/tags/Ric-20)
-
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
