@@ -44,8 +44,8 @@ Tags with less then three occurrences aren't shown.
 ## To-do list
 
 *   More on Fritz Neumann
-*   Contact known art dealers, manufacturers of works related to Ric and Fritz Neumann
-*   Integrate the findings of [Mark Strong](/post/mystery-solved)
+*   Add German translation
+*   Improve Tags
 
 ## Acknowledgements
 
