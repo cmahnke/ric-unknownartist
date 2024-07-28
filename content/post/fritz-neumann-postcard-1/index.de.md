@@ -7,9 +7,9 @@ tags:
 resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-1.jpg"
-title: Postcard by Fritz Neumann 1
+title: Postkarte von Fritz Neumann 1
 ---
 
-**Short description:** A postcard by Fritz Neumann
+**Kurze Beschreibung:** Eine Postkarte von Fritz Neumann
 
-**Notes:** Found on [eBay](https://www.ebay.de/itm/135098484862)
+**Anmerkungen:** Gefunden bei [eBay](https://www.ebay.de/itm/135098484862)

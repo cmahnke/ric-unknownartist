@@ -7,6 +7,7 @@ tags:
 resources:
 - src: "AK_10548193_gr_1.jpg"
 - src: "AK_10548193_gr_2.jpg"
+title: A postcard by Fritz Neumann
 ---
 
 **Short description:** A postcard by Fritz Neumann

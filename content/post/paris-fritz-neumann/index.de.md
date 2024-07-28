@@ -12,6 +12,6 @@ resources:
 - src: "_57-1.jpeg"
 ---
 
-**Kurzbeschreibung:** Paris, Montmartre mit der [Herz-Jesu-Basilika](https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris), gemeinhin als Sacré-Cœur-Basilika bekannt, im Hintergrund.
+**Kurze Beschreibung:** Paris, Montmartre mit der [Herz-Jesu-Basilika](https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris), gemeinhin als Sacré-Cœur-Basilika bekannt, im Hintergrund.
 
 **Anmerkungen:** Gefunden von [Wolfgang Barina](http://www.wolfgang-barina.de/) auf [eBay Kleinanzeigen](https://www.ebay-kleinanzeigen.de/s-anzeige/alter-druck-im-rahmen-alter-holzdruck-signiert-altes-bild/1400008402-240-8144)
