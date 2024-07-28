@@ -52,6 +52,11 @@ https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2
 
 ## Functionality
 * Translate to German
+  * 90% done
+```
+find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
+```
 * Add lang switch to theme
-* Use Tags from `projektemacher-base`
-  * Fix Case of tags
+* Add tag list mappings / aliases
+  * Stamp: BlindEmbossing
+  * Taken From Blogspot": SourceBlogspot
