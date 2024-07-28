@@ -4,7 +4,7 @@ tags:
 - Ric 12
 - eBay
 - Ric
-title: short description alley with three lamps notes
+title: Gasse mit drei Lampen (Ric 12)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499559772/short-description-alley-with-three-lamps-notes
 alias:
 - 183499559772

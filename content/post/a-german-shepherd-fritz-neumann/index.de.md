@@ -4,7 +4,7 @@ tags:
 - Fritz Neumann
 - Signature
 - Stamp
-title: short description a german shepherd notes bought
+title: Ein deutscher Schäferhund (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/184220725262/short-description-a-german-shepherd-notes-bought
 alias:
 - 184220725262

@@ -4,7 +4,7 @@ tags:
 - Ric 06
 - eBay
 - Signature
-title: Dreio Boote (Ric 06)
+title: Drei Boote (Ric 06)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499558837/short-description-three-boats-notes-found-on
 alias:
 - 183499558837
