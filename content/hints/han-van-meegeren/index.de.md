@@ -10,4 +10,3 @@ Vor kurzem habe ich einen weiteren [Hinweis](/post/a-clue-from-the-old-blog) gef
 
 In dem Kommentar wird das Werk "Hirsch mit Rehkitz" erwähnt. Mit der Google-Bildersuche kann man einige Versionen davon finden, aber die Qualität ist zu schlecht, um die Behauptungen des Kommentators zu verifizieren.
 
-Übersetzt mit DeepL.com (kostenlose Version)

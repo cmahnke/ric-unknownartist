@@ -5,7 +5,7 @@ tags:
 - eBay
 - Ric
 - Stamp
-title: short description three sailing boats
+title: Vier Segelboote (Ric 22)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555972/short-description-three-sailing-boats
 alias:
 - 183499555972
