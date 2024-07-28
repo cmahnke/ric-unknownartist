@@ -6,7 +6,7 @@ tags:
 - Ric 28
 - eBay
 - Meibohm Fine Arts
-title: "Yet another new work of Ric discovered!"
+title: "Wieder ein neues Werk von Ric entdeckt!"
 resources:
 - src: "s-l1600.jpg"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-HARBOR-SCENE-BOATS-/133483534358

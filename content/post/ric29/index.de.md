@@ -5,9 +5,9 @@ tags:
 - Ric 29
 - eBay
 - Meibohm Fine Arts
-title: "Yet yet another new work of Ric discovered!"
+title: "Noch ein weiteres neues Werk von Ric entdeckt!"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-LES-PONT-DES-ARTS-Paris-/133441517510?hash=item1f11bbf7c6
-description: I'm not sure if "yet yet" is valid English, but there have been several new entries to the list in the last few days.
+description: In den letzten Tagen gab es mehrere neue Einträge in der Liste.
 resources:
 - src: "s-l1600.jpg"
 ---

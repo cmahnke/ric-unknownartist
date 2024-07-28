@@ -6,7 +6,7 @@ tags:
 - Ric 26
 - eBay
 source: https://www.ebay.de/itm/402008313142
-title: "New work of Ric discovered!"
+title: "Neues Werk von Ric entdeckt!"
 resources:
 - src: "s-l1600-2.jpg"
 - src: "s-l1600-3.jpg"
