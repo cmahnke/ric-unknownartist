@@ -50,4 +50,4 @@ The following episodes, which are still to be viewed, result from the specified 
 
 After these hints it went very quickly, in the first case on the list, "Tango for Borowski", after about 3.5 minutes (more precisely: 00:03:38) I saw this...
 
-{{< figure src="Tango-für-Borowski-0-03-38.jpg" class="shadow" caption="Screenshot of [Tango für Borowski](https://de.wikipedia.org/wiki/Tatort:_Tango_f%C3%BCr_Borowski)" >}}
+{{< figure src="Tango-fuer-Borowski-0-03-38.jpg" class="shadow" caption="Screenshot of [Tango für Borowski](https://de.wikipedia.org/wiki/Tatort:_Tango_f%C3%BCr_Borowski)" >}}

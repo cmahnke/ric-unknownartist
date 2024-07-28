@@ -45,4 +45,4 @@ Aus dem Angegeben Zeitraum ergeben sich die folgenden Folgen, die noch zu sichte
 
 Nach diesen Hinweisen ging es sehr schnell, im ersten Fall auf der Liste, "Tango für Borowski", nach ca. 3,5 Minuten (genauer: 00:03:38) sah ich dies...
 
-{{< figure src="Tango-für-Borowski-0-03-38.jpg" class="shadow" caption="Screenshot of [Tango für Borowski](https://de.wikipedia.org/wiki/Tatort:_Tango_f%C3%BCr_Borowski)" >}}
+{{< figure src="Tango-fuer-Borowski-0-03-38.jpg" class="shadow" caption="Screenshot of [Tango für Borowski](https://de.wikipedia.org/wiki/Tatort:_Tango_f%C3%BCr_Borowski)" >}}
