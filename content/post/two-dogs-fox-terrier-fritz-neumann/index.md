@@ -3,7 +3,7 @@ date: 2019-03-20T10:54:19Z
 tags:
 - Fritz Neumann
 - Stamp
-title: Two dogs - fox terrier (Fritz Neumann)
+title: Zwei Hunde - Foxterrier (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183582606652/short-description-two-dogs-fox-terrier-notes
 alias:
 - 183582606652
@@ -14,6 +14,8 @@ resources:
 - src: "P3390771.jpg"
 ---
 
-**Short description:** Two dogs, fox terrier.
+**Kurze Beschreibung:** Zwei Hunde, Foxterrier.
 
-**Notes:** Taken from [eBay](https://www.ebay.de/itm/HERMANN-FRITZ-NEUMANN-kol-Radierung-1910-20-ZWEI-FOXTERRIER-/372190490460). This one is quite interesting, it’s attributed to Hermann Fritz Neumann and should be quite old. It also features the stamp mark, but in another form: The letters "J", "C" and "B" are not overlapping, and are put in the middle of the [Holstentor](https://en.wikipedia.org/wiki/Holstentor).
+**Anmerkungen:** Entnommen von [eBay] (https://www.ebay.de/itm/HERMANN-FRITZ-NEUMANN-kol-Radierung-1910-20-ZWEI-FOXTERRIER-/372190490460). Dieses Exemplar ist recht interessant, es wird Hermann Fritz Neumann zugeschrieben und dürfte recht alt sein. Er zeigt auch die Stempelmarke, aber in einer anderen Form: Die Buchstaben "J", "C" und "B" überschneiden sich nicht, sondern sind in der Mitte des [Holstentors](https://en.wikipedia.org/wiki/Holstentor) angebracht.
+
+Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
