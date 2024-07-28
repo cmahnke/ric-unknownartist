@@ -14,7 +14,7 @@ resources:
 - src: "E65BEB165D7F9031A2DADEA795984676.jpeg"
 ---
 
-**Description:** A tile with a print called "Am Wind" made by Rosenthal
+**Short description:** A tile with a print called "Am Wind" made by Rosenthal
 
 **Notes:** Found on [lauritz.com](https://www.lauritz.com/de/auktion/rosenthal-porzellanbild-am-wind-nach-fritz-neumann/i2951240/#). There are many other examples available on the net ([Google Image Search](https://www.google.com/search?q=fritz+neumann+rosenthal&safe=off&tbm=isch)). According to [this page](https://www.theoldstuff.com/en/porcelain-marks/category/51-rosenthal-marks?start=20), the mark shown had been used by Rosenthal between 1939 and 1956. Another hint from t[his page](http://www.retroselect.com/Rosenthal/Rosenthal.htm) is confirming this by the used style of the underline.
 
