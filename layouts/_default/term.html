@@ -1,7 +1,15 @@
 {{- define "title" -}}
-  {{- .Title }} · {{ .Site.Title -}}
+  {{- $title := .Page.Title -}}
+  {{- if ne (i18n $title) "" -}}
+    {{- $title = (i18n $title) -}}
+  {{- end -}}
+  {{- .Title }} · {{ $title -}}
 {{- end }}
 {{- define "content" }}
-  <h1 class="term">{{ i18n "allEntries" }} "{{ .Page.Title }}"</h1>
+  {{- $title := .Page.Title -}}
+  {{- if ne (i18n $title) "" -}}
+    {{- $title = (i18n $title) -}}
+  {{- end -}}
+  <h1 class="term">{{ i18n "allEntries" }} "{{ $title }}"</h1>
   {{- partial "list.html" . -}}
 {{- end -}}
