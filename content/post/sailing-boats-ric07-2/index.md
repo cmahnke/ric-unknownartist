@@ -9,6 +9,7 @@ tumblr_url: https://ric-unknownartist.tumblr.com/post/183633242049/short-descrip
 alias:
 - 183633242049
 source: https://auctionet.com/de/639077-oidentifierad-konstnar-etsning-signerad-ric
+place: Norrköping, Schweden
 resources:
 - src: "IMG_0891.JPG"
 - src: "hd_item_639077_ec4e98b85b.JPG"
