@@ -13,6 +13,6 @@ resources:
 
 **Kurze Beschreibung:** Eine kolorierte Radierung eines Pferdekopfs
 
-**Anmerkungen:** Bei [eBay](source: https://www.ebay.de/itm/144093927618) gefunden
+**Anmerkungen:** Bei [eBay](https://www.ebay.de/itm/144093927618) gefunden
 
 Bild von Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/).
