@@ -61,5 +61,3 @@ https://digital.zlb.de/viewer/berliner-adressbuecher/
 find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
 ```
 * Add lang switch to theme
-* Add tag list mappings / aliases
-  * Include heading descriptions from tag pages

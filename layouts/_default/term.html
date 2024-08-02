@@ -11,5 +11,8 @@
     {{- $title = (i18n $title) -}}
   {{- end -}}
   <h1 class="term">{{ i18n "allEntries" }} "{{ $title }}"</h1>
+  {{- with .Content -}}
+    <div class="term-description">{{- . -}}</div>
+  {{- end -}}
   {{- partial "list.html" . -}}
 {{- end -}}
