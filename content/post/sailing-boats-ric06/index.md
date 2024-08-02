@@ -3,7 +3,7 @@ date: 2019-03-16T21:11:37Z
 tags:
 - Ric 06
 - eBay
-- Stamp
+- BlindEmbossing
 - Ric
 - Signature
 title: Sailing boats (Ric 06)

@@ -2,7 +2,7 @@
 date: 2019-03-19T20:37:22Z
 tags:
 - Status
-- Stamp
+- BlindEmbossing
 title: Dies ist der Prägestempel, die auf den Drucken von Ric
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183569495882/this-is-the-stamp-mark-used-on-the-prints-of-ric
 alias:

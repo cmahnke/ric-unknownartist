@@ -2,7 +2,7 @@
 date: 2020-04-04T16:54:22Z
 tags:
 - Status
-- Stamp
+- BlindEmbossing
 title: Another version of the "JCB" blind stamp
 disableImageViewer: true
 ---

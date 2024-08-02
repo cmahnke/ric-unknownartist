@@ -2,7 +2,7 @@
 date: 2019-03-19T21:49:21Z
 tags:
 - Fritz Neumann
-- Stamp
+- BlindEmbossing
 title: Sailing boats in a harbour (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183582046002/short-description-sailing-boats-in-a-harbour
 alias:

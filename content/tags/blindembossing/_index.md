@@ -1,9 +1,10 @@
 ---
-title: Blind embossing
+title: Blind Embossing
 metaPage: true
 displayInList: false
 disableImageViewer: true
 aliases:
 - /tags/stamp
-draft: true
 ---
+
+This list contains posts with a stamp mark or blind embossing.

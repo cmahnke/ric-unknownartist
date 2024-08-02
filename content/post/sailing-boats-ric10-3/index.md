@@ -3,7 +3,7 @@ date: 2019-03-26T19:30:44Z
 tags:
 - Ric
 - Signature
-- Stamp
+- BlindEmbossing
 - Ric 10
 - eBay
 title: Sailing boats (Ric 10)

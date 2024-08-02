@@ -86,7 +86,7 @@ enableGitInfo = true
                 url = "about/"
 
 [markup]
-defaultMarkdownHandler = 'goldmark'
+  defaultMarkdownHandler = 'goldmark'
 
 [markup.goldmark]
     [markup.goldmark.renderer]
@@ -152,3 +152,6 @@ defaultMarkdownHandler = 'goldmark'
 
 [build]
   writeStats = true
+
+[taxonomies]
+  tag = "tags"

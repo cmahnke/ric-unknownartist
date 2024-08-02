@@ -3,7 +3,7 @@ date: 2019-04-16T08:14:56Z
 tags:
 - Fritz Neumann
 - Signature
-- Stamp
+- BlindEmbossing
 title: A german shepherd (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/184220725262/short-description-a-german-shepherd-notes-bought
 alias:

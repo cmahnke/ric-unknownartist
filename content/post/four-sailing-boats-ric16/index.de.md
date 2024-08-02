@@ -4,7 +4,7 @@ tags:
 - Ric 22
 - eBay
 - Ric
-- Stamp
+- BlindEmbossing
 title: Vier Segelboote (Ric 22)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555972/short-description-three-sailing-boats
 alias:

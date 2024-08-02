@@ -3,7 +3,7 @@ date: 2019-03-16T20:17:44Z
 tags:
 - Ric
 - Signature
-- Stamp
+- BlindEmbossing
 - Ric 16
 source: charish
 title: Segelboote von Ric (Ric 16)

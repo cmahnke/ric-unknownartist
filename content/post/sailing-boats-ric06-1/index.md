@@ -2,7 +2,7 @@
 date: 2020-02-17T21:11:37Z
 tags:
 - Ric 06
-- Stamp
+- BlindEmbossing
 - Ric
 - Signature
 title: Sailing boats (Ric 06)

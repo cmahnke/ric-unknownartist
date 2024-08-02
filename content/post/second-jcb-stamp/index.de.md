@@ -2,7 +2,7 @@
 date: 2020-04-04T16:54:22Z
 tags:
 - Status
-- Stamp
+- BlindEmbossing
 title: Eine andere Version des "JCB" Prägestempels
 disableImageViewer: true
 ---

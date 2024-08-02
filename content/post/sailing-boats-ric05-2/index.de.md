@@ -3,7 +3,7 @@ date: 2019-12-25T19:30:44Z
 tags:
 - Ric
 - Signature
-- Stamp
+- BlindEmbossing
 - Ric 05
 - eBay
 source: https://www.ebay.co.uk/itm/Unknown-Artist-RIC-Etching-Cubist-Midcentury-MCM-Sailboat-Maritime-JCB/193218427336?hash=item2cfcb739c8:g:hzYAAOSw0LldyxW1

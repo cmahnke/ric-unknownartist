@@ -2,7 +2,7 @@
 date: 2019-03-17T14:28:35Z
 tags:
 - Ric 05
-- Stamp
+- BlindEmbossing
 - Ric
 - Signature
 title: Segelboot (Ric 05)

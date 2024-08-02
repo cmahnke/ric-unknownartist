@@ -3,7 +3,7 @@ date: 2019-03-21T08:59:07Z
 tags:
 - Ric 14
 - Ric
-- Stamp
+- BlindEmbossing
 - Signature
 title: A stair alley (Ric 14)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183603798812/short-description-a-stair-alley-notes-better
