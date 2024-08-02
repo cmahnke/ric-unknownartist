@@ -11,10 +11,12 @@ resources:
 - src: "ric-painting.jpg"
 ---
 
-**Short description:** This is a painting of the motive found on [Ric 20](/tags/Ric-20/). The title is probably "Treppengasse", which is in [Altenburg](https://en.wikipedia.org/wiki/Altenburg), Germany.
+**Short description:** This is a painting of the motive found on [Ric 20](/tags/ric-20/). The title is probably "Treppengasse", which is in [Altenburg](https://en.wikipedia.org/wiki/Altenburg), Germany.
 
 Since it's a painting and not another copy of the etching, it get's it's own number (Ric 32).
 
 **Notes:** Found by Andra Robertson at an estate sale, send to me by mail.
 
 Image by Andra Robertson
+
+See also [Ric 32](/tags/ric-32)
