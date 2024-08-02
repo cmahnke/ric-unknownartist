@@ -16,4 +16,4 @@ resources:
 
 **Notes:** Image has a very low quality
 
-[Other entries for this work](/tags/Ric-13)
+[Other entries for this work](/tags/ric-13)

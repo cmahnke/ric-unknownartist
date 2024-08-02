@@ -23,4 +23,4 @@ resources:
 
 **Notes** : Taken from [eBay](https://www.ebay.co.uk/itm/Unknown-Artist-RIC-Etching-Cubist-Midcentury-MCM-Sailboat-Maritime-JCB/193218427336?hash=item2cfcb739c8:g:hzYAAOSw0LldyxW1).
 
-[Other entries for this work](/tags/Ric-05)
+[Other entries for this work](/tags/ric-05)

@@ -14,6 +14,6 @@ resources:
 
 **Short description:** Sailing ship next to a harbour / town
 
-**Notes:** Similar to [Ric 03](/tags/Ric-03), but this one is signed a bit different. Maybe this one isn’t a print?
+**Notes:** Similar to [Ric 03](/tags/ric-03), but this one is signed a bit different. Maybe this one isn’t a print?
 
-[Other entries for this work](/tags/Ric-19)
+[Other entries for this work](/tags/ric-19)

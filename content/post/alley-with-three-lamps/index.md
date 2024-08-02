@@ -18,4 +18,4 @@ resources:
 
 **Notes:** The name of the images is “Drei Lampen Gasse, Paris” (Three latern alley, Paris). One of only a few named prints currently known.
 
-[Other entries for this work](/tags/Ric-12)
+[Other entries for this work](/tags/ric-12)

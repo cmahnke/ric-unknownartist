@@ -13,6 +13,6 @@ resources:
 
 **Short description:** Two sailings boats
 
-**Notes:** Higher resolution images are [available](/tags/Ric-16)
+**Notes:** Higher resolution images are [available](/tags/ric-16)
 
-[Other entries for this work](/tags/Ric-16)
+[Other entries for this work](/tags/ric-16)

@@ -18,4 +18,4 @@ resources:
 
 Image by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-[Other entries for this work](/tags/Ric-30)
+[Other entries for this work](/tags/ric-30)

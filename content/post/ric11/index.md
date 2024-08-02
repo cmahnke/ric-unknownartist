@@ -16,4 +16,4 @@ resources:
 
 **Notes:** No better image available
 
-[Other entries for this work](/tags/Ric-11)
+[Other entries for this work](/tags/ric-11)

@@ -18,4 +18,4 @@ resources:
 
 **Notes:** Sold originally in Paderborn, see label.
 
-[Other entries for this work](/tags/Ric-06)
+[Other entries for this work](/tags/ric-06)

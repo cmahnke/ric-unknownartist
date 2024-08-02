@@ -21,4 +21,4 @@ resources:
 
 **Notes:** Sold originaly in Bremerhaven, see label. The [shop](http://www.xn--gustav-von-hfen-clb.de/) still seem to exist.
 
-[Other entries for this work](/tags/Ric-06)
+[Other entries for this work](/tags/ric-06)

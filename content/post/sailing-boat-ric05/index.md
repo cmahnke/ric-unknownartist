@@ -16,4 +16,4 @@ resources:
 
 **Notes:** Gefunden bei eBay.
 
-[Other entries for this work](/tags/Ric-05)
+[Other entries for this work](/tags/ric-05)

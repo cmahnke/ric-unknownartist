@@ -19,4 +19,4 @@ resources:
 
 **Anmerkungen:** Entnommen von eBay.
 
-[Andere Einträge für dieses Werk](/tags/Ric-26)
+[Andere Einträge für dieses Werk](/tags/ric-26)

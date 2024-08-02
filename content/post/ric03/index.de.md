@@ -14,6 +14,6 @@ resources:
 
 **Kurz Beschreibung:** Segelschiff neben einem Hafen / einer Stadt
 
-**Anmerkungen:** Ähnlich wie [Ric 17](/tags/Ric-17), aber dieses ist etwas anders ausgeführt.
+**Anmerkungen:** Ähnlich wie [Ric 17](/tags/ric-17), aber dieses ist etwas anders ausgeführt.
 
-[Andere Einträge für dieses Werk](/tags/Ric-03)
+[Andere Einträge für dieses Werk](/tags/ric-03)

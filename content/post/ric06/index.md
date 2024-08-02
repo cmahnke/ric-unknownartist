@@ -16,4 +16,4 @@ resources:
 
 **Notes:** Also quite common
 
-[Other entries for this work](/tags/Ric-06)
+[Other entries for this work](/tags/ric-06)

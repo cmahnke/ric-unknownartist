@@ -16,4 +16,4 @@ resources:
 
 **Notes:** There seem to be no title on the lower left, but the image is cropped
 
-[Other entries for this work](/tags/Ric-12)
+[Other entries for this work](/tags/ric-12)

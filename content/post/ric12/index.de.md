@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Unten links scheint es keinen Titel zu geben, aber das Bild ist beschnitten
 
-[Weitere Einträge zu diesem Werk](/tags/Ric-12)
+[Weitere Einträge zu diesem Werk](/tags/ric-12)

@@ -22,4 +22,4 @@ resources:
 
 **Notes:** Taken from [eBay](https://www.ebay.de/itm/303041003818?ViewItem=&item=303041003818).
 
-[Andere Einträge für dieses Werk](/tags/Ric-10)
+[Andere Einträge für dieses Werk](/tags/ric-10)

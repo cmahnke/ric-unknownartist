@@ -16,4 +16,4 @@ resources:
 
 **Notes:** Better image [available](/post/sailings-boats-ric04).
 
-[Other entries for this work](/tags/Ric-04)
+[Other entries for this work](/tags/ric-04)

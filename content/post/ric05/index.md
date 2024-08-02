@@ -14,6 +14,6 @@ resources:
 
 **Short description:** Sailing boat
 
-**Notes:** This is one of the most common prints, see [Ric 05](/tags/Ric-05)
+**Notes:** This is one of the most common prints, see [Ric 05](/tags/ric-05)
 
-[Other entries for this work](/tags/Ric-05)
+[Other entries for this work](/tags/ric-05)

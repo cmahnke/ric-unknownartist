@@ -16,4 +16,4 @@ resources:
 
 **Notes:**
 
-[Other entries for this work](/tags/Ric-18)
+[Other entries for this work](/tags/ric-18)

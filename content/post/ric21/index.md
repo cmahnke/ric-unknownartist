@@ -16,4 +16,4 @@ resources:
 
 **Notes:** Quite unusual motive. Probably seen from [Tauentzienstraße](https://goo.gl/maps/eN1pcgB69sG2). Also see [this picture](http://www.bilderbuch-berlin.net/Fotos/315460) from 1965 and look at the laterns
 
-[Other entries for this work](/tags/Ric-21)
+[Other entries for this work](/tags/ric-21)

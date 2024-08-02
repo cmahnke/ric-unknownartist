@@ -18,4 +18,4 @@ resources:
 
 **Anmerkungen:** Der Name des Bildes ist “Drei Lampen Gasse, Paris”. Einer von wenigen Drucken mit einem Titel.
 
-[Weitere Einträge für dieses Werk](/tags/Ric-12)
+[Weitere Einträge für dieses Werk](/tags/ric-12)

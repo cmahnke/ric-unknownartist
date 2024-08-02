@@ -17,4 +17,4 @@ resources:
 
 **Anmerkungen** :
 
-[Andere Einträge für dieses Werk](/tags/Ric-25)
+[Andere Einträge für dieses Werk](/tags/ric-25)

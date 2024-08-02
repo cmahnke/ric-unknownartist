@@ -23,4 +23,4 @@ resources:
 
 **Notes:** Found on [eBay](https://www.ebay.de/itm/156169926540)
 
-[Other entries for this work](/tags/Ric-04)
+[Other entries for this work](/tags/ric-04)

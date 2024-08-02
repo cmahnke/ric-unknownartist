@@ -14,6 +14,6 @@ resources:
 
 **Kurze Beschreibung:** Segelboot
 
-**Anmerkungen:** Dies ist einer der häufigsten Drucke, siehe [Ric 05](/tags/Ric-05)
+**Anmerkungen:** Dies ist einer der häufigsten Drucke, siehe [Ric 05](/tags/ric-05)
 
-[Andere Einträge für dieses Werk](/tags/Ric-05)
+[Andere Einträge für dieses Werk](/tags/ric-05)

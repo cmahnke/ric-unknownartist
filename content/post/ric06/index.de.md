@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Auch recht häufig
 
-[Andere Einträge für dieses Werk](/tags/Ric-06)
+[Andere Einträge für dieses Werk](/tags/ric-06)

@@ -20,4 +20,4 @@ Bild von Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
 **Die Beschreibung auf eBay ist sehr interessant, es gibt einen [Beitrag](/post/mystery-solved) darüber.**
 
-[Andere Einträge zu diesem Werk](/tags/Ric-28)
+[Andere Einträge zu diesem Werk](/tags/ric-28)

@@ -17,6 +17,6 @@ resources:
 
 **Short description:** A stair (alley)
 
-**Notes:** Better quality then the first entry for [this](/tags/Ric-14).
+**Notes:** Better quality then the first entry for [this](/tags/ric-14).
 
-[Other entries for this work](/tags/Ric-14)
+[Other entries for this work](/tags/ric-14)

@@ -17,7 +17,7 @@ source: https://www.worthpoint.com/worthopedia/ric-signed-original-modernist-etc
 
 **Anmerkungen:**
 
-- Ähnlich wie [Ric 07](/tags/Ric-07)
-- Ähnlich zu [Ric 17](/tags/Ric-17)
+- Ähnlich wie [Ric 07](/tags/ric-07)
+- Ähnlich zu [Ric 17](/tags/ric-17)
 
-[Andere Einträge für dieses Werk](/tags/Ric-02)
+[Andere Einträge für dieses Werk](/tags/ric-02)

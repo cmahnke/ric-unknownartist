@@ -18,4 +18,4 @@ resources:
 
 **Notes:** Three images found on eBay
 
-[Other entries for this work](/tags/Ric-24)
+[Other entries for this work](/tags/ric-24)

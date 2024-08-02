@@ -18,6 +18,6 @@ resources:
 
 **Short description:** Sailing boats
 
-**Notes:** Slightly different colouring then [other versions](/tags/Ric-07).
+**Notes:** Slightly different colouring then [other versions](/tags/ric-07).
 
-[Other entries for this work](/tags/Ric-07)
+[Other entries for this work](/tags/ric-07)

@@ -16,6 +16,6 @@ resources:
 
 **Anmerkungen:** Gefunden bei [eBay](https://www.ebay.de/itm/235585314197). Der Titel anderer Werke könnte Treppengasse lauten, aber dies sollte als nicht bestätigt angesehen werden.
 
-[Andere Einträge zu diesem Werk](/tags/Ric-20)
+[Andere Einträge zu diesem Werk](/tags/ric-20)
 
-Siehe auch [Ric 32](/tags/Ric-32)
+Siehe auch [Ric 32](/tags/ric-32)

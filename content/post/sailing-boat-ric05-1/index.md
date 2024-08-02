@@ -19,4 +19,4 @@ resources:
 
 **Notes:** See [Antik Bayreuth](http://www.antikbayreuth.de/kuenstlerverzeichnis/Kunstler_Q_bis_S/RIC_Radierung_Vogel/ric_radierung_vogel.html)
 
-[Other entries for this work](/tags/Ric-05)
+[Other entries for this work](/tags/ric-05)

@@ -13,6 +13,6 @@ resources:
 
 **Kurze Beschreibung:** Zwei Segelboote
 
-**Anmerkungen:** Bilder mit höherer Auflösung sind [verfügbar](/tags/Ric-16)
+**Anmerkungen:** Bilder mit höherer Auflösung sind [verfügbar](/tags/ric-16)
 
-[Andere Einträge für dieses Werk](/tags/Ric-16)
+[Andere Einträge für dieses Werk](/tags/ric-16)

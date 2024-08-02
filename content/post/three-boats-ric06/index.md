@@ -18,4 +18,4 @@ resources:
 
 **Notes:** Found on eBay and on [Worthpoint](https://www.worthpoint.com/worthopedia/midcentury-modern-signed-ric-original-1853971802)
 
-[Other entries for this work](/tags/Ric-06)
+[Other entries for this work](/tags/ric-06)

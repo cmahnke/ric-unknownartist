@@ -19,4 +19,4 @@ Image by Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
 **The description on eBay is very interesting, there is a [post](/post/mystery-solved) about it.**
 
-[Other entries for this work](/tags/Ric-18)
+[Other entries for this work](/tags/ric-18)

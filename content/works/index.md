@@ -10,7 +10,7 @@ Since most of these works are prints some could be grouped together by the plate
 
 Works starting with “RIC 23” have been found later via Google Images search and on eBay.  Each work has it’s own page including more images and informations, if available.
 
-Each image below link to a list of posts tagged with the identifier of the subject. A list of all entries is [available as well](/tags/Ric).
+Each image below link to a list of posts tagged with the identifier of the subject. A list of all entries is [available as well](/tags/ric).
 
 Original list
 -------------

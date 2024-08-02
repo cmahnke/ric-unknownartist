@@ -14,6 +14,6 @@ resources:
 
 **Short description:** Sailing ship next to a harbour / town
 
-**Notes:** Found on eBay. Similar to [Ric 17](/tags/Ric-17), but this one is signed a bit different.
+**Notes:** Found on eBay. Similar to [Ric 17](/tags/ric-17), but this one is signed a bit different.
 
-[Other entries for this work](/tags/Ric-03)
+[Other entries for this work](/tags/ric-03)

@@ -14,6 +14,6 @@ resources:
 
 **Kurze Beschreibung:** Segelboot
 
-**Anmerkungen:** Bilder mit höherer Auflösung sind [verfügbar](/tags/Ric-10)
+**Anmerkungen:** Bilder mit höherer Auflösung sind [verfügbar](/tags/ric-10)
 
-[Andere Einträge für dieses Werk](/tags/Ric-10)
+[Andere Einträge für dieses Werk](/tags/ric-10)

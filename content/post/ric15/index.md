@@ -16,4 +16,4 @@ resources:
 
 **Notes:** Unusual rounded style, low image quality
 
-[Other entries for this work](/tags/Ric-15)
+[Other entries for this work](/tags/ric-15)

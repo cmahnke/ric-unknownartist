@@ -16,7 +16,7 @@ resources:
 
 **Notes:**
 
-- Similar to [Ric 02](/tags/Ric-02)
-- Similar to [Ric 07](/tags/Ric-07)
+- Similar to [Ric 02](/tags/ric-02)
+- Similar to [Ric 07](/tags/ric-07)
 
-[Other entries for this work](/tags/Ric-17)
+[Other entries for this work](/tags/ric-17)

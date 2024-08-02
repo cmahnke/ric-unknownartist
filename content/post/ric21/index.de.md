@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Ziemlich ungewöhnliches Motiv. Wahrscheinlich von der [Tauentzienstraße](https://goo.gl/maps/eN1pcgB69sG2) aus gesehen. Siehe auch [dieses Bild](http://www.bilderbuch-berlin.net/Fotos/315460) aus dem Jahr 1965, besonders die Laternen.
 
-[Weitere Einträge zu diesem Werk](/tags/Ric-21)
+[Weitere Einträge zu diesem Werk](/tags/ric-21)

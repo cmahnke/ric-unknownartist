@@ -16,6 +16,6 @@ resources:
 
 **Short description:** Sailing boats
 
-**Notes:** Taken from [auctionet.com](https://auctionet.com/de/639077-oidentifierad-konstnar-etsning-signerad-ric). Slightly different colouring then [other versions](/tags/Ric-07).
+**Notes:** Taken from [auctionet.com](https://auctionet.com/de/639077-oidentifierad-konstnar-etsning-signerad-ric). Slightly different colouring then [other versions](/tags/ric-07).
 
-[Other entries for this work](/tags/Ric-07)
+[Other entries for this work](/tags/ric-07)

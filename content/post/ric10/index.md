@@ -14,6 +14,6 @@ resources:
 
 **Short description:** Sailing Boat
 
-**Notes:** Higher resolution images are [available](/tags/Ric-10)
+**Notes:** Higher resolution images are [available](/tags/ric-10)
 
-[Other entries for this work](/tags/Ric-10)
+[Other entries for this work](/tags/ric-10)
