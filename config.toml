@@ -89,8 +89,10 @@ enableGitInfo = true
   defaultMarkdownHandler = 'goldmark'
 
 [markup.goldmark]
+    duplicateResourceFiles = true
+
     [markup.goldmark.renderer]
-        unsafe= true
+        unsafe = true
 
     [markup.goldmark.extensions]
         attribute = true
