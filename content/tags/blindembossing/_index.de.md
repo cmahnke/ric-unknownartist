@@ -1,5 +1,5 @@
 ---
-title: Blind Embossing
+title: Blind Prägung
 metaPage: true
 displayInList: false
 disableImageViewer: true

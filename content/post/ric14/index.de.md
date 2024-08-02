@@ -2,7 +2,7 @@
 date: 2019-03-15T11:21:41Z
 tags:
 - Ric 14
-- Taken from Blogspot
+- SourceBlogspot
 - Ric
 title: Ric 14
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469551082/ric14

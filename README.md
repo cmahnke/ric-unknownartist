@@ -62,4 +62,4 @@ find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md"
 ```
 * Add lang switch to theme
 * Add tag list mappings / aliases
-  * Taken From Blogspot": SourceBlogspot
+  * Include heading descriptions from tag pages

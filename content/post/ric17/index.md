@@ -3,7 +3,7 @@ date: 2019-03-15T11:23:25Z
 tags:
 - Ric 17
 - Ric
-- Taken from Blogspot
+- SourceBlogspot
 title: Ric 17
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469567082/ric17
 alias:

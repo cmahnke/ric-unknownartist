@@ -1,7 +1,7 @@
 ---
 date: 2019-03-15T11:07:34Z
 tags:
-- Taken from Blogspot
+- SourceBlogspot
 - Ric
 - Ric 01
 title: Ric 01
