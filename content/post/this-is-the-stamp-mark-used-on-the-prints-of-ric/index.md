@@ -13,4 +13,4 @@ disableImageViewer: true
 
 This is the stamp mark (blind stamp) used on the prints of Ric and Fritz Neumann. There is now a [dedicated page](/hints/fritz-neumann) on this trace. It will be updated in the next few days with more examples and traces.
 
-You can also look at the [pages tagged with "Stamp"](/tags/Stamp).
+You can also look at the [pages tagged with "Blind embossing"](/tags/blindembossing).

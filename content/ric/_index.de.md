@@ -9,11 +9,11 @@ Es ist derzeit nicht bekannt, wer hinter der Signatur "RIC" steckt.</s> <s>**[Up
 
 Die meisten seiner Werke scheinen in Europa zu erscheinen, genauer gesagt in Deutschland. Wenn Sie etwas mit dem Hinweis auf eine Galerie finden (wie auf [diesem](post/sailing-boats-ric06)), lassen Sie es mich bitte wissen!
 
-Die meisten der Motive beziehen sich auf maritime Dinge wie Segelschiffe und Boote, Häfen und Fischernetze. Ein zweites Motiv scheinen kleine Straßen und Gassen zu sein, manchmal in der Nähe eines Hafens. Die dritte Gruppe von Motiven sind Vögel. Eine auffällige Ausnahme ist [Ric 21 (die Gedächniskiche in Berlin)](/tags/Ric-21).
+Die meisten der Motive beziehen sich auf maritime Dinge wie Segelschiffe und Boote, Häfen und Fischernetze. Ein zweites Motiv scheinen kleine Straßen und Gassen zu sein, manchmal in der Nähe eines Hafens. Die dritte Gruppe von Motiven sind Vögel. Eine auffällige Ausnahme ist [Ric 21 (die Gedächniskiche in Berlin)](/tags/ric-21).
 
-Nach den Motiven, dem Stil der Rahmen und der äußeren Beurteilung zu urteilen, war er wahrscheinlich zwischen den 50er (siehe [Ric 21](/tags/Ric-21)) und 70er Jahren (siehe [Ric 23](/tags/Ric-23)) tätig.
+Nach den Motiven, dem Stil der Rahmen und der äußeren Beurteilung zu urteilen, war er wahrscheinlich zwischen den 50er (siehe [Ric 21](/tags/ric-21)) und 70er Jahren (siehe [Ric 23](/tags/ric-23)) tätig.
 
-Zwei Zeichen sind ein guter Indikator für Werke von ihm. Zum einen die Signatur, meist unten rechts. Und zweitens eine Stempelmarke unten links. Die Marke könnte ein [Hinweis](/hints/fritz-neumann) auf seine Identität sein. Beiträge, die einige Detailfotos des Stempelabdrucks enthalten, werden mit [tagged](/tags/Stamp) gekennzeichnet.
+Zwei Zeichen sind ein guter Indikator für Werke von ihm. Zum einen die Signatur, meist unten rechts. Und zweitens eine Stempelmarke unten links. Die Marke könnte ein [Hinweis](/hints/fritz-neumann) auf seine Identität sein. Beiträge, die einige Detailfotos des Stempelabdrucks enthalten, werden mit [tagged](/tags/blindembossing) gekennzeichnet.
 
 {{< figure src="signature.png" caption="Ric’s Signature" width="300px" class="static-content-image" >}}
 
