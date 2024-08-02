@@ -14,4 +14,4 @@ resources:
 
 **Kurze Beschreibung:** Eine kolorierte Radierung eines Reihers von Fritz Neumann.
 
-**Anmerkungen:** Bei eBay gefunden
+**Anmerkungen:** Bei [eBay](https://www.ebay.de/itm/334171535067) gefunden

@@ -14,4 +14,4 @@ resources:
 
 **Short description:** A colourised etching of a heron by Fritz Neumann.
 
-**Notes:** Found on eBay
+**Notes:** Found on [eBay](https://www.ebay.de/itm/334171535067)
