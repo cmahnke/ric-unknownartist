@@ -14,4 +14,4 @@ resources:
 
 **Short description:** A colourised print of terriers by Fritz Neumann.
 
-**Notes:** Found on eBay
+**Notes:** Found on [eBay](https://www.ebay.de/itm/204578771394)

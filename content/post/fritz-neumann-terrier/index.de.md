@@ -14,4 +14,4 @@ resources:
 
 **Kurze Beschreibung:** Eine kolorierte Radierung mit Terriern von Fritz Neumann.
 
-**Anmerkungen:** Gefunden auf eBay
+**Anmerkungen:** Gefunden auf [eBay](https://www.ebay.de/itm/204578771394)
