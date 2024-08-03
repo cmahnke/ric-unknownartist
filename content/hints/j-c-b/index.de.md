@@ -26,34 +26,32 @@ Neben der Veröffentlichung von Anzeigen im Börsenblatt gab der Verlag auch Kat
 * In der Bibliothek der Nordwest-Universität [Verlagsprospekte aus den Jahren 1920 bis 1940] (https://findingaids.library.northwestern.edu/repositories/7/archival_objects/507010)
 * Im Quellenabschnitt des deutschen Wikipedia-Artikels über [Erns Zipperer](https://de.wikipedia.org/wiki/Ernst_Zipperer) wird einer erwähnt, der 1963 veröffendlicht wurde
 
+Der letztere könnte einige Werke von Ric enthalten.
 
+Es gibt weitere Beispiele für das Verlagsprogramm, wie dieses hier:
 
-The later one might contain some works of Ric.
+{{< figure src="hd_item_1930368_16e5904ad1.jpg" width="650px" link="https://auctionet.com/de/1930368-grafik-max-streckenbach-jc-blumenberg" caption="Ein Druck eines Gemäldes von [Max Streckenbach, Eckernförde](https://www.museum-eckernfoerde.de/das-museum/unsere-sammlung/streckenbach/), verlegt von J.C. Blumenberg" >}}
 
-There are other examples for the publishing programme, like this one:
+Da [Hans Blumenberg](https://en.wikipedia.org/wiki/Hans_Blumenberg), Sohn des Verlagsgründers, als Philosoph bekannt wurde, ist sein schriftlicher Nachlass erhalten geblieben und wird vom Deutschen Literaturarchiv Marbach verwahrt. Zwei Briefe zwischen ihm und dem Verlag sind für [1944 und 1946] katalogisiert (https://kalliope-verbund.info/de/findingaid_index?fa.id=DE-2498-BF00016610&lastparam=true.). Wenn man tiefer gräbt, kann man auch Briefe zwischen ihm und Walter Tetzlaff vom Verlag finden.
 
-{{< figure src="hd_item_1930368_16e5904ad1.jpg" width="650px" link="https://auctionet.com/de/1930368-grafik-max-streckenbach-jc-blumenberg" caption="A print of a painting by [Max Streckenbach, Eckernförde](https://www.museum-eckernfoerde.de/das-museum/unsere-sammlung/streckenbach/), published by J.C. Blumenberg" >}}
+Aus Biographien ([1](https://www.herder.de/hk/hefte/archiv/2020/7-2020/blumenbergs-engel-zum-100-geburtstag-des-philosophen-hans-blumenberg/) und [2](https://ikaz-communio.de/ojs/index.php/ikaz/article/view/6115/6037)) von ihm kann man auch einige weitere Informationen über den Verlag seines Vaters erhalten:
 
-Since [Hans Blumenberg](https://en.wikipedia.org/wiki/Hans_Blumenberg), son of the founder of the publishing house, became famous as a philosopher his written legacy has been preserved and is held by Deutsches Literaturarchiv Marbach. Two letters between him and the publishing house are catalogued for [1944 and 1946](https://kalliope-verbund.info/de/findingaid_index?fa.id=DE-2498-BF00016610&lastparam=true.). When digging deeper one can also find letters between him and Walter Tetzlaff of the publishing house.
+Josef Carl Blumenberg wurde in Hildesheim geboren und in St. Godehard getauft. Er besuchte vom 1. April 1891 bis zum 2. April 1894 das Hildesheimer Josephinum und benötigte drei Kalenderjahre für zwei Schuljahre. Er musste die sechste Klasse wiederholen mit dem Vermerk: "Der Schüler zeigt so wenig Begabung und Lernwillen, dass den Eltern geraten wird, ihn von der Schule zu nehmen." Joseph Blumenberg absolvierte eine Buchhändlerlehre im Verlagshaus von Georg Olms in Hildesheim und sammelte in Brügge Erfahrungen im internationalen Kunsthandel. 1914 meldete er sich als so genannter deutscher Auswanderer freiwillig an die Front.  Für seinen Militärdienst wurde er mit dem Eisernen Kreuz und dem Ehrenkreuz für Frontkämpfer ausgezeichnet.  Nach dem Ersten Weltkrieg gründete er in Lübeck, das damals zum Bistum Osnabrück gehörte, den "Kunstverlag J.C. Blumenberg - Import Export" und heiratete am 6. September 1919 in der St. Hedwigs-Kathedrale in Berlin. Seine Frau brachte das Lübecker Grundstück Hansestraße 6 in die Ehe ein. Es ging am 3. März 1938 durch Schenkungsurkunde in den Besitz ihres Mannes über und wurde 1948 verkauft.
+Else Blumenberg (1882-1945) wurde als Schreier aus Rosenberg in Oberschlesien geboren. Sie wurde die Mutter von zwei Söhnen. Bei ihrer Hochzeit konvertierte sie vom Judentum zum Katholizismus. Else Blumenberg hatte fünf Schwestern, die nicht konvertierten. Drei von ihnen wurden ermordet.
+Nach dem [Bombenangriff auf Lübeck (28. März 1942)](https://en.wikipedia.org/wiki/Bombing_of_L%C3%BCbeck_in_World_War_II) erwirbt er ein großes Grundstück mit Wohnhaus und Garage in Bargteheide, an der Bahnlinie nach Hamburg gelegen, "Am Bahnhof 1".
+Die Situation der Familie verschlechtert sich dramatisch, als Else Blumenberg am 13. April 1942 einen Strafbefehl erhält, weil sie den zweiten vorgeschriebenen Vornamen "Sara" nicht in ihre Papiere eintragen lässt. Sie wurde für vierzehn Tage in das Frauengefängnis Lauerhof in Lübeck eingewiesen. Am 1. Februar 1945 wurde Else Blumenberg zu einer ärztlichen Untersuchung zur Feststellung ihrer Arbeitsfähigkeit eingewiesen; sie starb am 10. November 1945 (nach Kriegsende) in der neurologischen Abteilung des Krankenhauses Eppendorf.
 
-From biographies ([1](https://www.herder.de/hk/hefte/archiv/2020/7-2020/blumenbergs-engel-zum-100-geburtstag-des-philosophen-hans-blumenberg/) and [2](https://ikaz-communio.de/ojs/index.php/ikaz/article/view/6115/6037)) of him one can also get some more information on the publishing house his father:
+Die Blumenbergs waren praktizierende Katholiken, obwohl Lübeck eine protestantische Stadt ist. Das Verlagsprogramm bestand aus religiöser Gebrauchskunst wie Schutzengelbildern für Kirchen, Klöster und Krankenhäuser, Andachtsbildern für Taufen und Konfirmationen, Hochzeiten und Beerdigungen sowie Reproduktionen von Gemälden.
 
-Josef Carl Blumenberg was born in Hildesheim and baptised in St. Godehard. He attended the Hildesheim Josephinum from 1 April 1891 to 2 April 1894, taking three calendar years for two school years. He had to repeat the sixth class with the note: "The pupil shows so little aptitude and desire to study that the parents are advised to withdraw him from the school." Joseph Blumenberg completed an apprenticeship as a bookseller at Georg Olms' publishing house in Hildesheim and gained experience in the international art trade in Bruges. In 1914, he volunteered for the front as a so-called German expatriate.  His military service was honoured with the Iron Cross and the Cross of Honour for Frontline Combatants.  After the First World War, he founded the "Kunstverlag J.C. Blumenberg - Import Export" in Lübeck, which at the time belonged to the diocese of Osnabrück, and married on 6 September 1919 in St. Hedwig's Cathedral in Berlin. His wife brought the Lübeck property at Hansestraße 6 into the marriage. It became the property of her husband on 3 March 1938 via a deed of gift and was sold in 1948.
-Else Blumenberg (1882-1945) was born Schreier from Rosenberg in Upper Silesia. She became the mother of two sons. She converted from Judaism to Catholicism at her wedding. Else Blumenberg had five sisters who did not convert. Three of them were murdered.
-After the [bomb attack on Lübeck (28 March 1942)](https://en.wikipedia.org/wiki/Bombing_of_L%C3%BCbeck_in_World_War_II), he acquires a large property with a residential building and garage in Bargteheide, located on the railway line to Hamburg, "Am Bahnhof 1".
-The family's situation worsened dramatically when, on 13 April 1942, Else Blumenberg was given a penalty order for not having the second prescribed first name "Sara" entered on her documents. She was sent to the Lauerhof women's prison in Lübeck for a fortnight. On 1 February 1945, Else Blumenberg was ordered to undergo a medical examination to determine her ability to work; she died on 10 November 1945 (after the end of the war) in the neurological ward of Eppendorf Hospital.
+Mark Strong von [Meibohm Fine Arts](https://www.meibohmfinearts.com/) hat [großartige Nachforschungen](https://www.meibohmfinearts.com/artists/details/2874) über diesen Verlag angestellt.
 
-The Blumenbergs were practising Catholics, although Lübeck is a Protestant city. The publishing programme consisted of religious utility art such as guardian angel pictures for churches, monasteries and hospitals, devotional pictures for baptisms and confirmations, weddings and funerals and reproductions of paintings.
+Er hat auch mehrere Dokumente aus dem Firmenarchiv veröffentlicht, die einen Einblick in die verschiedenen Standorte des Verlags geben:
 
-Mark Strong from [Meibohm Fine Arts](https://www.meibohmfinearts.com/) has done [great research](https://www.meibohmfinearts.com/artists/details/2874) on this publisher.
+{{< figure src="JC_Blumenberg_WalterTetzlaff_März_21_1956_CroppedLogo_Sm.jpg" width="650px" link="https://www.meibohmfinearts.com/artists/details/2874" caption="Mitte der fünfziger Jahre, Bargteheide 40km südwestlich von Lübeck" >}}
 
-He also publish several document from the company archive, which give an insight to the different locations of the publisher:
+{{< figure src="JC_Blumenberg_WalterTetzlaff_April_18_1973_CroppedLogo_Sm.jpg" width="650px" link="https://www.meibohmfinearts.com/artists/details/2874" caption="Mitte der siebziger Jahre, Heiligenhafen 70km nördlich von Lübeck, etwa 100km von Bargteheide entfernt" >}}
 
-{{< figure src="JC_Blumenberg_WalterTetzlaff_March_21_1956_CroppedLogo_Sm.jpg" width="650px" link="https://www.meibohmfinearts.com/artists/details/2874" caption="In the mid fifties, Bargteheide 40km south west of Lübeck" >}}
-
-{{< figure src="JC_Blumenberg_WalterTetzlaff_April_18_1973_CroppedLogo_Sm.jpg" width="650px" link="https://www.meibohmfinearts.com/artists/details/2874" caption="In the mid seventies, Heiligenhafen 70km north of Lübeck, about 100km away from Bargteheide" >}}
-
-As well as two old logos of the publisher:
+Sowie zwei alte Logos des Verlages:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
