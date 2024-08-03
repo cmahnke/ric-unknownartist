@@ -12,7 +12,7 @@ This blog tries to help to solve the mystery "Who was Ric".
 
 It’s about an unknown artist who signed his works just with the name „Ric“. It tries to collect all findings on the net. There had been a previous attempt to collect information, but it has stalled. The author of this blog was in contact with the one of the predecessor and all hints and informations had been incorporated here.
 
-To make sure this blog won’t add more confusion, I decided to reuse the naming already in use, see the [list of known works](/works).
+To make sure this blog won’t add confusion, I decided to reuse the naming already in use, see the [list of known works](/works).
 
 The current goal is to extend the list of known works, to investigate some [clues](/hints) a bit further and to rule out some others. Several approaches will be used to gather some more information and to preserve existing:
 
@@ -25,7 +25,7 @@ Each print will be presented in it’s own entry, every time a new copy is found
 
 ## Questions?
 
-I’m happy to answer questions using [mail](mailto:ric-unknownartist@projektemacher.org). But keep in mind that I’m not expert or art dealer.
+I’m happy to answer questions using [mail](mailto:ric-unknownartist@projektemacher.org). But keep in mind that I’m not an art dealer.
 
 ## Why Ric?
 
@@ -45,7 +45,6 @@ Tags with less then three occurrences aren't shown.
 
 *   More on Fritz Neumann
 *   Add German translation
-*   Improve Tags
 
 ## Acknowledgements
 
