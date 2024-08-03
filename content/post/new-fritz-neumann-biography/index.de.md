@@ -5,6 +5,8 @@ tags:
 title: "Fritz Neumann Biographien"
 ---
 
+**[Update 26. Juli 2024]: [Die Lösung des Rätsels ist leider falsch](/de/post/mystery-again), dieser Fritz Neumann (1928–2014) ist nicht Ric**
+
 Ich habe zwei Fritz-Neumann-Biografien und eine Änderung in der deutschen Wikipedia gefunden:
 
 # Freundeskreis Bildende Kunst Oldenburg e.V.
