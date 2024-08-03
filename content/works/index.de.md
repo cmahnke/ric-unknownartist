@@ -4,18 +4,18 @@ date: 2020-08-18T19:01:09+02:00
 metaPage: true
 displayInList: false
 ---
-This page lists the currently known works including different images for each, the naming follows the [original blog](http://ric-unknownartist.blogspot.com/). The works with the names “RIC 01” to “RIC 22” are the ones from the original blog. The first picture an each page is from this blog as well.
+Diese Seite listet die derzeit bekannten Werke mit jeweils verschiedenen Bildern auf, die Namensgebung folgt dem [Original-Blog](http://ric-unknownartist.blogspot.com/). Die Werke mit den Bezeichnungen "RIC 01" bis "RIC 22" sind die aus dem Original-Blog. Das erste Bild auf jeder Seite ist ebenfalls aus diesem Blog.
 
-Since most of these works are prints some could be grouped together by the plates having been used.
+Da es sich bei den meisten dieser Werke um Drucke handelt, können einige nach den verwendeten Platten gruppiert werden.
 
-Works starting with “RIC 23” have been found later via Google Images search and on eBay. Each work has it’s own page including more images and informations, if available.
+Werke, die mit "RIC 23" beginnen, wurden später über die Google-Bildersuche und bei eBay gefunden. Jedes Werk hat seine eigene Seite mit weiteren Bildern und Informationen, falls verfügbar.
 
-Each image below link to a list of posts tagged with the identifier of the subject. A list of all entries is [available as well](/tags/ric).
+Jedes Bild unten verlinkt zu einer Liste von Einträgen, die mit der Kennung des Werks versehen sind. Eine Liste aller Einträge ist [ebenfalls verfügbar](/tags/ric).
 
 Original list
 -------------
 
-The posts with contents from the original blog had been tagged with [“Taken from Blogspot”](/tags/sourceblogspot).
+Die Beiträge mit Inhalten aus dem ursprünglichen Blog wurden mit ["Taken from Blogspot"](/tags/sourceblogspot) getaggt.
 
 
 
