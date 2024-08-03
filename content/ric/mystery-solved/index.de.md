@@ -21,4 +21,4 @@ Seine verschiedenen Erkenntnisse verdienen auch in diesem Blog einige zusätzlic
 
 {{< quote file="ric/mystery-solved/ebay-description.de.md" from="Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/)" />}}
 
-Die original Version des Textes ist in der [Englischen Version der Seite zu lesen](/ric/mystery-solved/)
+Die Original version des Textes ist in der [englischen Version der Seite zu lesen](/ric/mystery-solved/)

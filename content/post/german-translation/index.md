@@ -1,5 +1,5 @@
 ---
-date: 2024-08-03T22:09:56Z
+date: 2024-08-03T20:09:56+02:00
 tags:
 - Status
 title: German translation
