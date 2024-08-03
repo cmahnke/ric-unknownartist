@@ -10,7 +10,7 @@ sticky: true
 
 # Fritz Neumann (1928–2014) ist nicht Ric!
 
-Während meines Urlaubs habe ich einige Nachforschungen zu einem der [letzten Beiträge](/de/post/new-fritz-neumann-biography/) angestellt: Ich habe mich mit dem [Freudeskreis Kunst Olsenburg](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz) in Verbindung gesetzt. Sie haben meine Fragen an Andreas Neumann, den Sohn von Fritz Neumann (1928-2014), weitergeleitet.
+Während meines Urlaubs habe ich einige Nachforschungen zu einem der [letzten Beiträge](/de/post/new-fritz-neumann-biography/) angestellt: Ich habe mich mit dem [Freudeskreis Kunst Oldenburg](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz) in Verbindung gesetzt. Sie haben meine Fragen an Andreas Neumann, den Sohn von Fritz Neumann (1928-2014), weitergeleitet.
 
 Er hat mir die folgende Antwort geschickt:
 
@@ -26,6 +26,6 @@ Aber zuerst wollen wir ein wenig aufräumen:
 
 Es ist interessant zu sehen, wie viele Leute und Seiten die Verbindung zwischen Fritz Neumann (1928-2014) und Ric übernommen haben.
 
-Denkt daran, dass ein Fritz Neumann mit Sicherheit Ric ist, nur nicht derjenige, der 1928 geboren wurde.
+**Denkt daran, dass ein Fritz Neumann mit Sicherheit Ric ist, nur nicht derjenige, der 1928 geboren wurde.**
 
 Die Seite wird in den nächsten Wochen aktualisiert...

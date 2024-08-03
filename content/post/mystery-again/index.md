@@ -10,7 +10,7 @@ sticky: true
 
 # Fritz Neumann (1928–2014) is not Ric!
 
-During my vacation I did some research on one of the [last posts](/post/new-fritz-neumann-biography/): I've contacted the [Freudeskreis Kunst Olsenburg](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz). They forwarded my questions to Andreas Neumann, the son of Fritz Neumann (1928–2014).
+During my vacation I did some research on one of the [last posts](/post/new-fritz-neumann-biography/): I've contacted the [Freudeskreis Kunst Oldenburg](https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz). They forwarded my questions to Andreas Neumann, the son of Fritz Neumann (1928–2014).
 
 He send me the following reply:
 
@@ -31,6 +31,6 @@ But first, let's start a bit of cleanup:
 
 It's interesting to see how many people and pages have adopted the link between Fritz Neumann (1928–2014) and Ric.
 
-Keep in mind, it's certain that some Fritz Neumann is Ric, just not the one who was born in 1928.
+**Keep in mind, it's certain that some Fritz Neumann is Ric, just not the one who was born in 1928.**
 
 The page will be updated in the next weeks...

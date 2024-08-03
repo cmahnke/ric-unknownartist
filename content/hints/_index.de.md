@@ -1,5 +1,5 @@
 ---
-title: Hints
+title: Weitere Hinweise
 date: 2020-08-18T19:01:09+02:00
 metaPage: true
 displayInList: false
