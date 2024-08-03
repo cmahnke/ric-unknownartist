@@ -14,6 +14,6 @@ resources:
 
 **Kurze Beschreibung:** Segelschiff neben einem Hafen / einer Stadt
 
-**Anmerkungen:** Ähnlich wie [Ric 03](/tags/ric-03), aber dieses ist ein wenig anders signiert. Vielleicht ist dieses Bild kein Druck?
+**Anmerkungen:** Ähnlich wie [Ric 03](/de/tags/ric-03), aber dieses ist ein wenig anders signiert. Vielleicht ist dieses Bild kein Druck?
 
-[Andere Einträge für dieses Werk](/tags/ric-19)
+[Andere Einträge für dieses Werk](/de/tags/ric-19)

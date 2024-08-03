@@ -14,6 +14,6 @@ resources:
 
 **Kurze Beschreibung:** Schiffe (Fischerboote) in einem Hafen
 
-**Anmerkungen:** Besseres Bild [verfügbar](/post/sailings-boats-ric04).
+**Anmerkungen:** Besseres Bild [verfügbar](/de/post/sailings-boats-ric04).
 
-[Andere Einträge für dieses Werk](/tags/ric-04)
+[Andere Einträge für dieses Werk](/de/tags/ric-04)

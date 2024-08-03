@@ -11,7 +11,7 @@ resources:
 - src: "ric-painting.jpg"
 ---
 
-**Kurze Beschreibung:** Dies ist ein Gemälde des Motivs, das auf [Ric 20](/tags/ric-20/) gefunden wurde. Der Titel ist wahrscheinlich „Treppengasse“, die sich in [Altenburg](https://en.wikipedia.org/wiki/Altenburg), Deutschland befindet.
+**Kurze Beschreibung:** Dies ist ein Gemälde des Motivs, das auf [Ric 20](/de/tags/ric-20/) gefunden wurde. Der Titel ist wahrscheinlich „Treppengasse“, die sich in [Altenburg](https://en.wikipedia.org/wiki/Altenburg), Deutschland befindet.
 
 Da es sich um ein Gemälde und nicht um eine weitere Kopie der Radierung handelt, bekommt es eine eigene Nummer (Ric 32).
 
@@ -19,4 +19,4 @@ Da es sich um ein Gemälde und nicht um eine weitere Kopie der Radierung handelt
 
 Bild von Andra Robertson
 
-Siehe auch [Ric 32](/tags/ric-32)
+Siehe auch [Ric 32](/de/tags/ric-32)

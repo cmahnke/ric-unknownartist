@@ -18,6 +18,6 @@ source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Co
 
 Bild von Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-**Die Beschreibung auf eBay ist sehr interessant, es gibt einen [Beitrag](/post/mystery-solved) darüber.**
+**Die Beschreibung auf eBay ist sehr interessant, es gibt einen [Beitrag](/de/post/mystery-solved) darüber.**
 
-[Andere Einträge zu diesem Werk](/tags/ric-28)
+[Andere Einträge zu diesem Werk](/de/tags/ric-28)

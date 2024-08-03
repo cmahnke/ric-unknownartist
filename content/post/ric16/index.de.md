@@ -15,4 +15,4 @@ resources:
 
 **Anmerkungen:** Bilder mit höherer Auflösung sind [verfügbar](/tags/ric-16)
 
-[Andere Einträge für dieses Werk](/tags/ric-16)
+[Andere Einträge für dieses Werk](/de/tags/ric-16)

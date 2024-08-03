@@ -81,4 +81,9 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 ```
 find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
 ```
+  * Fix links
+```
+find content -name "*dex.de.md" -print -exec grep -E ']\(/[^d]' {} \;
+```
+
 * Add lang switch to theme

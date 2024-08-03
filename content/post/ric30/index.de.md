@@ -18,4 +18,4 @@ resources:
 
 Bild von Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-[Andere Einträge für dieses Werk](/tags/ric-30)
+[Weitere Einträge zu diesem Werk](/de/tags/ric-30)

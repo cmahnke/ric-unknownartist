@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Bild von schlechter Qualität
 
-[Andere Einträge für dieses Werk](/tags/ric-14)
+[Andere Einträge für dieses Werk](/de/tags/ric-14)

@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Ungewöhnlich runder Stil, schlechte Bildqualität
 
-[Andere Einträge für dieses Werk](/tags/ric-15)
+[Andere Einträge für dieses Werk](/de/tags/ric-15)

@@ -17,4 +17,4 @@ resources:
 
 Siehe [Lotsearch](https://www.lotsearch.de/lot/ric-um-1970-fischernetz-bei-sonnenuntergang-oel-holz-66-x-34-cm-rahmen-34182846?perPage=50)
 
-[Andere Einträge für dieses Werk](/tags/ric-23)
+[Andere Einträge für dieses Werk](/de/tags/ric-23)

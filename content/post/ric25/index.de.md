@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Gefunden bei eBay
 
-[Andere Einträge für dieses Werk](/tags/ric-25)
+[Andere Einträge für dieses Werk](/de/tags/ric-25)
