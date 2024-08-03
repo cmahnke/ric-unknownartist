@@ -1,5 +1,5 @@
 ---
-title: Known works
+title: Bekannte Werke
 date: 2020-08-18T19:01:09+02:00
 metaPage: true
 displayInList: false
@@ -12,8 +12,8 @@ Werke, die mit "RIC 23" beginnen, wurden später über die Google-Bildersuche un
 
 Jedes Bild unten verlinkt zu einer Liste von Einträgen, die mit der Kennung des Werks versehen sind. Eine Liste aller Einträge ist [ebenfalls verfügbar](/tags/ric).
 
-Original list
--------------
+Original Liste
+--------------
 
 Die Beiträge mit Inhalten aus dem ursprünglichen Blog wurden mit ["Taken from Blogspot"](/tags/sourceblogspot) getaggt.
 
