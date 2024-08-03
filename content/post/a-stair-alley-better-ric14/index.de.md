@@ -17,6 +17,6 @@ resources:
 
 **Kurze Beschreibung:** Eine Treppe (Straße / Weg)
 
-**Anmerkungen:** Bessere Qualität als der erste Eintrag für dieses [Werk](/tags/ric-14).
+**Anmerkungen:** Bessere Qualität als der erste Eintrag für dieses [Werk](/de/tags/ric-14).
 
-[Andere eEinträge für dieses Werk](/tags/ric-14)
+[Andere eEinträge für dieses Werk](/de/tags/ric-14)

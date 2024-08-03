@@ -17,6 +17,6 @@ resources:
 
 Bild von Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-**Die Beschreibung bei eBay ist sehr interessant, es wird einen [Beitrag](/post/mystery-solved) darüber geben.**
+**Die Beschreibung bei eBay ist sehr interessant, es wird einen [Beitrag](/de/post/mystery-solved) darüber geben.**
 
-[Andere Einträge zu diesem Werk](/tags/ric-09)
+[Andere Einträge zu diesem Werk](/de/tags/ric-09)

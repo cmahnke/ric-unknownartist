@@ -41,7 +41,6 @@ Run the following script to generate assets
 
 ### More Ric
 
-
 * Two images
   * https://auctionet.com/de/986026-farben-2-stk-signiert-ric
   * Crafoord Auktioner Lund

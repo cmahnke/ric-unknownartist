@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Gefunden auf [auctionet.com](https://auctionet.com/de/2206073-fritz-neumann-farbradierung-signiert-ric).
 
-[Andere Einträge für dieses Werk](/tags/ric-08)
+[Andere Einträge für dieses Werk](/de/tags/ric-08)

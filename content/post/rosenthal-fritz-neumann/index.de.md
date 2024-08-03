@@ -18,4 +18,4 @@ resources:
 
 **Anmerkungen:** Gefunden auf [lauritz.com](https://www.lauritz.com/de/auktion/rosenthal-porzellanbild-am-wind-nach-fritz-neumann/i2951240/#). Es gibt viele weitere Beispiele im Netz ([Google Image Search](https://www.google.com/search?q=fritz+neumann+rosenthal&safe=off&tbm=isch)). Nach [dieser Seite](https://www.theoldstuff.com/en/porcelain-marks/category/51-rosenthal-marks?start=20) wurde die abgebildete Marke von Rosenthal zwischen 1939 und 1956 verwendet. Ein weiterer Hinweis auf [dieser Seite](http://www.retroselect.com/Rosenthal/Rosenthal.htm) bestätigt dies durch den verwendeten Stil des Unterstrichs.
 
-**Update:** [Rosenthal hat meine Anfrage beantwortet](/post/rosenthal-answer)
+**Update:** [Rosenthal hat meine Anfrage beantwortet](/de/post/rosenthal-answer)

@@ -21,4 +21,4 @@ resources:
 
 **Anmerkungen:**
 
-[Weitere Einträge für dieses Werk](/tags/ric-22)
+[Weitere Einträge für dieses Werk](/de/tags/ric-22)

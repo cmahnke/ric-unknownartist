@@ -17,6 +17,6 @@ resources:
 
 **Kurze Beschreibung:** Segelboote
 
-**Anmerkungen:** Gefunden bei [auctionet.com](https://auctionet.com/de/639077-oidentifierad-konstnar-etsning-signerad-ric). Etwas andere Farbgebung als [andere Versionen](/tags/ric-07).
+**Anmerkungen:** Gefunden bei [auctionet.com](https://auctionet.com/de/639077-oidentifierad-konstnar-etsning-signerad-ric). Etwas andere Farbgebung als [andere Versionen](/de/tags/ric-07).
 
-[Andere Einträge für dieses Werk](/tags/ric-07)
+[Andere Einträge für dieses Werk](/de/tags/ric-07)

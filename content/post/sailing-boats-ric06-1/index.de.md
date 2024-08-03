@@ -18,4 +18,4 @@ resources:
 
 **Anmerkungen:** Ursprünglich in Paderborn verkauft, siehe Etikett.
 
-[Andere Einträge für dieses Werk](/tags/ric-06)
+[Andere Einträge für dieses Werk](/de/tags/ric-06)

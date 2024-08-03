@@ -18,6 +18,6 @@ resources:
 
 **Kurze Beschreibung:** Segelboote
 
-**Anmerkungen:** Etwas andere Farbgebung als [andere Versionen](/tags/ric-07).
+**Anmerkungen:** Etwas andere Farbgebung als [andere Versionen](/de/tags/ric-07).
 
-[Andere Einträge für dieses Werk](/tags/ric-07)
+[Andere Einträge für dieses Werk](/de/tags/ric-07)
