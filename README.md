@@ -62,14 +62,22 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 * https://www.ebay.de/itm/204761420081
 * https://www.ebay.de/itm/145501070096
 
-## Later posts
+### Later posts
 
 * https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
 
 
+## Updated post
+
+### Ric 27
+Old Windmill Montmartre: https://frenchmoments.eu/windmills-of-montmartre-paris/
+https://www.solosophie.com/lost-paris-windmills/
+
+### Ric 29
+Pont des Arts https://en.wikipedia.org/wiki/Pont_des_Arts
+
 ## Functionality
-* Translate to German
-  * 99% done
+
 ```
 find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
 ```
