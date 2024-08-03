@@ -39,13 +39,6 @@ Run the following script to generate assets
 
 ## Text Posts
 
-### More Ric
-
-* Two images
-  * https://auctionet.com/de/986026-farben-2-stk-signiert-ric
-  * Crafoord Auktioner Lund
-
-
 ### Neumann Paintings
 * https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236
 
