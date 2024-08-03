@@ -51,6 +51,8 @@ Link to https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356869/fragment/page=1121
 https://digital.zlb.de/viewer/berliner-adressbuecher/
 
+-> fritz-neumann-address-book-berlin
+
 ### Fritz Neumann Prints
 
 Listings of https://www.dresden-antiquariat.de/presse.html
@@ -63,8 +65,6 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 ## Later posts
 
 * https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
-
-* https://www.herder.de/hk/hefte/archiv/2020/7-2020/blumenbergs-engel-zum-100-geburtstag-des-philosophen-hans-blumenberg/
 
 
 ## Functionality
