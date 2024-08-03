@@ -1,5 +1,5 @@
 ---
-title: "Similar artist"
+title: "Ähnliche Künstler"
 metaPage: true
 displayInList: false
 disableImageViewer: true

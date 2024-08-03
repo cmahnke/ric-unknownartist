@@ -78,11 +78,7 @@ Pont des Arts https://en.wikipedia.org/wiki/Pont_des_Arts
 
 ## Functionality
 
-```
-find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
-```
-
-* Enable lang switch
+* Show tag frequency, to illustrate distribution / number of charges
 
 # Notes
 
@@ -90,4 +86,10 @@ find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md"
 
 ```
 find content -name "*dex.de.md" -print -exec grep -E ']\(/[^d]' {} \;
+```
+
+## Find untranslated
+
+```
+find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
 ```
