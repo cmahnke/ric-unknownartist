@@ -56,7 +56,7 @@ enableGitInfo = true
         [languages.de.menu]
 
             [[languages.de.menu.main]]
-                name = "Home"
+                name = "Start"
                 weight = 1
                 url = "/"
 
@@ -66,17 +66,17 @@ enableGitInfo = true
                 url = "ric/"
 
             [[languages.de.menu.main]]
-                name = "Further hints"
+                name = "Weitere Hinweise"
                 weight = 3
                 url = "hints/"
 
             [[languages.de.menu.main]]
-                name = "Known works"
+                name = "Bekannte Werke"
                 weight = 4
                 url = "works/"
 
             [[languages.de.menu.main]]
-                name = "Map"
+                name = "Karte"
                 weight = 5
                 url = "map/"
 
