@@ -7,6 +7,8 @@ disableImageViewer: true
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-STREETSCENE-/143672853431
 ---
 
+**[Update 26. July 2024]: [The solution of the mystery didn't work out](/post/mystery-again)**
+
 This is the relevant section of the eBay listing offering [Ric 27](/post/ric27) and [Ric 28](/post/ric28). Thanks to Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/) for finding Ric and granting permission to use his text.
 
 He created some sections on [meibohmfinearts.com](http://meibohmfinearts.com/) if you just want to get more infomation on a specific topic:

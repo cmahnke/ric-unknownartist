@@ -5,7 +5,7 @@ metaPage: true
 displayInList: false
 disableImageViewer: true
 ---
-Es ist derzeit nicht bekannt, wer hinter der Signatur "RIC" steckt.</s> <s>**[Update 1. Oktober 2020]: [Das Geheimnis ist gelöst!](/de/ric/mystery-solved)**<s> **[Update 25. Juli 2024]: [Die vorherige Enthüllung erwies sich als falsch](/de/post/mystery-again/)** Es scheint Gemälde von "Ric" zu geben, aber die meisten derzeit bekannten Werke sind Drucke. Einige Internetseiten sind ziemlich irreführend, was die von ihm verwendete Technik angeht. Einige werden als (Farb-)Holzdrucke bezeichnet, aber es handelt sich mit Sicherheit um kolorierte Radierungen. Auffallend ist, dass "Ric" seine Drucke nie zu nummerieren scheint. Dies kann als Zeichen dafür gewertet werden, dass sie ziemlich oft nachgedruckt wurden.
+Es ist derzeit nicht bekannt, wer hinter der Signatur "RIC" steckt.</s> <s>**[Update 1. Oktober 2020]: [Das Geheimnis ist gelöst!](/de/ric/mystery-solved)**</s> **[Update 25. Juli 2024]: [Die vorherige Enthüllung erwies sich als falsch](/de/post/mystery-again/)** Es scheint Gemälde von "Ric" zu geben, aber die meisten derzeit bekannten Werke sind Drucke. Einige Internetseiten sind ziemlich irreführend, was die von ihm verwendete Technik angeht. Einige werden als (Farb-)Holzdrucke bezeichnet, aber es handelt sich mit Sicherheit um kolorierte Radierungen. Auffallend ist, dass "Ric" seine Drucke nie zu nummerieren scheint. Dies kann als Zeichen dafür gewertet werden, dass sie ziemlich oft nachgedruckt wurden.
 
 Die meisten seiner Werke scheinen in Europa zu erscheinen, genauer gesagt in Deutschland. Wenn Sie etwas mit dem Hinweis auf eine Galerie finden (wie auf [diesem](/de/post/sailing-boats-ric06)), lassen Sie es mich bitte wissen!
 

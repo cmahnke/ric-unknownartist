@@ -18,4 +18,4 @@ For examples of the blind stamp in use, see:
  * [Fox Terrier by Fritz Neumann](/post/two-prints-from-one-plate-fritz-neumann/) (First image, lower right corner)
  * [Two Fox Terriers by Fritz Neumann](/post/two-dogs-fox-terrier-fritz-neumann/) (Last image)
 
-You can also look at the [pages tagged with "Stamp"](/tags/Stamp).
+You can also look at the [pages tagged with "Blind embossing"](/tags/blindembossing).

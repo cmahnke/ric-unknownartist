@@ -37,7 +37,7 @@ Run the following script to generate assets
 
 # TODO
 
-## Text Posts
+## Posts
 
 ### Neumann Paintings
 * https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236
@@ -59,7 +59,6 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 * https://www.ebay.de/itm/204761420081
 * https://www.ebay.de/itm/145501070096
 
-
 ## Later posts
 
 * https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
@@ -73,9 +72,13 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 ```
 find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
 ```
-  * Fix links
+
+* Enable lang switch
+
+# Notes
+
+## Find wrong translation links
+
 ```
 find content -name "*dex.de.md" -print -exec grep -E ']\(/[^d]' {} \;
 ```
-
-* Add lang switch to theme
