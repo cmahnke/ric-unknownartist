@@ -22,7 +22,7 @@ Wenn Sie auf Kleinanzeigen (früher eBay Kleinanzeigen) oder einer ähnlichen Pl
 
 Es gibt einige Ausnahmen von dieser Regel:
 * Wenn Sie nicht aus Norddeutschland kommen und nur online kaufen können
-* Es scheint einige Drucke zu geben, die mehr oder weniger exklusiv bei [Meibohm Fine Arts](http://meibohmfinearts.com/) erhältlich sind, siehe diese [Liste](/tags/Meibohm-Fine-Arts/)
+* Es scheint einige Drucke zu geben, die mehr oder weniger exklusiv bei [Meibohm Fine Arts](http://meibohmfinearts.com/) erhältlich sind, siehe diese [Liste](/de/tags/Meibohm-Fine-Arts/)
 
 Letztendlich hängt es davon ab, wie viel man bereit ist zu zahlen...
 

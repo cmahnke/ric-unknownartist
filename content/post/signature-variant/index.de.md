@@ -17,4 +17,4 @@ resources:
 
 **Anmerkungen:** Gefunden auf [auctionet.com](https://auctionet.com/de/3052824-fritz-neumann-segelboote-farbradierung-signiert-ric).
 
-[Andere Einträge für dieses Werk](/tags/ric-05)
+[Andere Einträge für dieses Werk](/de/tags/ric-05)

@@ -21,6 +21,6 @@ Ich habe über 30 verschiedene Lithographien des unbekannten Künstlers RIC. Ebe
 
 Der Link zur Blogger.com-Profilseite könnte funktionieren, wenn Sie ein Blogger.com-Konto haben.
 
-Ich bin mir immer noch nicht sicher, wie man diesem Hinweis folgt, aber ich werde eine [Seite](/hints/han-van-meegeren) dafür einrichten.
+Ich bin mir immer noch nicht sicher, wie man diesem Hinweis folgt, aber ich werde eine [Seite](/de/hints/han-van-meegeren) dafür einrichten.
 
 Außerdem habe ich noch ein paar Bilder für diesen Blog gefunden. Bleibt dran!

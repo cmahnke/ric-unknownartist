@@ -8,7 +8,7 @@ displayInList: false
 
 Dieser Blog soll helfen, das Rätsel "Wer war Ric" zu lösen.
 
-**[Update 26. Juli 2024]: [Die Lösung des Rätsels ist leider falsch](/post/mystery-again), dies ist der alte [Artikel](/de/post/mystery-solved)**
+**[Update 26. Juli 2024]: [Die Lösung des Rätsels ist leider falsch](/de/post/mystery-again), dies ist der alte [Artikel](/de/post/mystery-solved)**
 
 Es geht um einen unbekannten Künstler, der seine Werke nur mit dem Namen "Ric" signierte. Es ist der Versuch, alle Funde im Netz zu sammeln. Es gab bereits einen früheren Versuch, der aber ins Stocken geraten ist. Der Autor dieses Blogs stand in Kontakt mit dem des Vorgängers und alle Hinweise und Informationen wurden hier eingearbeitet.
 
