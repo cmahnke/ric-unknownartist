@@ -44,6 +44,7 @@ Run the following script to generate assets
 
 Link to https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
 
+-> fritz-neumann-watercolour-paintings
 
 ### Fritz Neumann References
 
@@ -68,7 +69,7 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 
 ## Functionality
 * Translate to German
-  * 95% done
+  * 99% done
 ```
 find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
 ```

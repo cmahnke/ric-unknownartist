@@ -4,6 +4,7 @@ tags:
 - Fritz Neumann
 - Ric
 - Status
+- Hint
 title: "Fritz Neumann (1928–2014) is not Ric!"
 sticky: true
 ---
