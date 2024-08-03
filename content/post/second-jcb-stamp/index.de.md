@@ -15,7 +15,7 @@ Dies ist die wahrscheinlich ältere Version des Blindstempels, der auf einigen D
 Er imitiert das Holstentor in Lübeck (zweites Bild), ein weiterer Hinweis auf eine norddeutsche Herkunft. Anfragen an das Lübecker Stadtarchiv zu ehemaligen Kunstverlagen in der Stadt wurden bisher noch nicht beantwortet.
 
 Beispiele für die Verwendung des Blindstempels siehe:
- * [Foxterrier von Fritz Neumann](/post/zwei-drucke-von-einer-platte-fritz-neumann/) (Erstes Bild, rechte untere Ecke)
- * [Zwei Foxterrier von Fritz Neumann](/post/zwei-hunde-fox-terrier-fritz-neumann/) (Letztes Bild)
+ * [Foxterrier von Fritz Neumann](/de/post/zwei-drucke-von-einer-platte-fritz-neumann/) (Erstes Bild, rechte untere Ecke)
+ * [Zwei Foxterrier von Fritz Neumann](/de/post/zwei-hunde-fox-terrier-fritz-neumann/) (Letztes Bild)
 
-Sie können sich auch die [mit „Stamp“ getaggten Seiten](/tags/Stamp) ansehen.
+Sie können sich auch die [mit „Stamp“ getaggten Seiten](/de/tags/Stamp) ansehen.

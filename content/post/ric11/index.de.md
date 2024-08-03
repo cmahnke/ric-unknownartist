@@ -16,4 +16,4 @@ resources:
 
 **Anmerkungen:** Kein besseres Bild verfügbar
 
-[Andere Einträge für dieses Werk](/tags/ric-11)
+[Andere Einträge für dieses Werk](/de/tags/ric-11)

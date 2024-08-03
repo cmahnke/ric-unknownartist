@@ -8,20 +8,20 @@ displayInList: false
 
 Dieser Blog soll helfen, das Rätsel "Wer war Ric" zu lösen.
 
-**[Update 26. Juli 2024]: [Die Lösung des Rätsels ist leider falsch](/post/mystery-again), dies ist der alte [Artikel](/post/mystery-solved)**
+**[Update 26. Juli 2024]: [Die Lösung des Rätsels ist leider falsch](/post/mystery-again), dies ist der alte [Artikel](/de/post/mystery-solved)**
 
 Es geht um einen unbekannten Künstler, der seine Werke nur mit dem Namen "Ric" signierte. Es ist der Versuch, alle Funde im Netz zu sammeln. Es gab bereits einen früheren Versuch, der aber ins Stocken geraten ist. Der Autor dieses Blogs stand in Kontakt mit dem des Vorgängers und alle Hinweise und Informationen wurden hier eingearbeitet.
 
-Um sicherzustellen, dass dieser Blog nicht noch Verwirrung stiftet, habe ich mich entschlossen, die bereits verwendete Namensgebung wieder zu verwenden, siehe die [Liste der bekannten Werke](/works).
+Um sicherzustellen, dass dieser Blog nicht noch Verwirrung stiftet, habe ich mich entschlossen, die bereits verwendete Namensgebung wieder zu verwenden, siehe die [Liste der bekannten Werke](/de/works).
 
-Das derzeitige Ziel ist es, die Liste der bekannten Werke zu erweitern, einige [Hinweise](/hints) weiter zu untersuchen und einige andere auszuschließen. Um weitere Informationen zu sammeln und das Vorhandene zu bewahren, werden verschiedene Ansätze verfolgt:
+Das derzeitige Ziel ist es, die Liste der bekannten Werke zu erweitern, einige [Hinweise](/de/hints) weiter zu untersuchen und einige andere auszuschließen. Um weitere Informationen zu sammeln und das Vorhandene zu bewahren, werden verschiedene Ansätze verfolgt:
 
 * Beobachtung von eBay-Angeboten
 * Untersuchung von Hinweisen, die von den Lesern gegeben werden
-* Hinweise zu erhalten, indem die [globale Verteilung](/map) von Rics Werken visualisiert wird
+* Hinweise zu erhalten, indem die [globale Verteilung](/de/map) von Rics Werken visualisiert wird
 * Speichern von Seiten mit Werken in der [Wayback Machine](https://archive.org/web/)
 
-Jeder Druck wird in einem eigenen Eintrag präsentiert, (fast) jedes Mal wenn ein neues Exemplar gefunden wird, wird ein neuer Beitrag erstellt. Jeder Beitrag wird mit einem Tag versehen, diese können auf der Seite ["Bekannte Werke"](/works) gesucht werden
+Jeder Druck wird in einem eigenen Eintrag präsentiert, (fast) jedes Mal wenn ein neues Exemplar gefunden wird, wird ein neuer Beitrag erstellt. Jeder Beitrag wird mit einem Tag versehen, diese können auf der Seite ["Bekannte Werke"](/de/works) gesucht werden
 
 ## Fragen?
 
@@ -77,7 +77,7 @@ Kontakt ist über [E-Mail](mailto:ric-unknownartist@projektemacher.org) möglich
 
 # Datenschutz
 
-Die Datenschutzbestimmungen sind [hier](/privacy) verfügbar.
+Die Datenschutzbestimmungen sind [hier](/de/privacy) verfügbar.
 
 ## Meine anderen Blogs
 

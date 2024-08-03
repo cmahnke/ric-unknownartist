@@ -14,6 +14,6 @@ resources:
 
 **Kurze Beschreibung:** Segelschiff neben einem Hafen / einer Stadt
 
-**Anmerkungen:** Gefunden bei eBay. Ähnlich wie [Ric 17](/tags/ric-17), aber dieses ist ein wenig anders signiert.
+**Anmerkungen:** Gefunden bei eBay. Ähnlich wie [Ric 17](/de/tags/ric-17), aber dieses ist ein wenig anders signiert.
 
-[Andere Einträge für dieses Werk](/tags/ric-03)
+[Andere Einträge für dieses Werk](/de/tags/ric-03)

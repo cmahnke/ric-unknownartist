@@ -7,7 +7,7 @@ title: "Ric on TV 2"
 disableImageViewer: true
 ---
 
-Nachdem mir schon [aufgefallen](/post/ric-on-tv) war, dass Ric auch einen Auftritt im Tatort hatte, habe ich mal beim NDR als produzierende Rundfunkanstalt nachgefragt. Meine Anfrage wurde vom Archiv direkt an die Produktion weitergeleitet.
+Nachdem mir schon [aufgefallen](/de/post/ric-on-tv) war, dass Ric auch einen Auftritt im Tatort hatte, habe ich mal beim NDR als produzierende Rundfunkanstalt nachgefragt. Meine Anfrage wurde vom Archiv direkt an die Produktion weitergeleitet.
 
 Kerstin Ramcke, die Produzentin des Kieler Tatorts hat dankenswerterweise die Anfrage direkt beantwortet. Diese Antwort gebe ich hier wieder:
 

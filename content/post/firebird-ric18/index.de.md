@@ -17,4 +17,4 @@ resources:
 
 Bild von Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/).
 
-**Die Beschreibung bei eBay ist sehr interessant, es gibt einen [Beitrag](/post/mystery-solved)
+**Die Beschreibung bei eBay ist sehr interessant, es gibt einen [Beitrag](/de/post/mystery-solved)
