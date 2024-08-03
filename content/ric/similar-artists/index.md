@@ -3,7 +3,6 @@ title: "Similar artist"
 metaPage: true
 displayInList: false
 disableImageViewer: true
-draft: true
 ---
 
 If you like the works of Ric, you might want have a look at the following artist (not in any particular order):

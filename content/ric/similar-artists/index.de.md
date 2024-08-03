@@ -3,7 +3,6 @@ title: "Ähnliche Künstler"
 metaPage: true
 displayInList: false
 disableImageViewer: true
-draft: true
 ---
 
 Wenn Sie die Werke von Ric mögen, sollten Sie sich die folgenden Künstler ansehen (nicht in einer bestimmten Reihenfolge):
