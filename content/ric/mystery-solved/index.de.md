@@ -20,3 +20,5 @@ Er hat einige Sektionen auf [meibohmfinearts.com](http://meibohmfinearts.com/) e
 Seine verschiedenen Erkenntnisse verdienen auch in diesem Blog einige zusätzliche Seiten oder Beiträge, ich lasse ihn erst einmal sprechen:
 
 {{< quote file="ric/mystery-solved/ebay-description.de.md" from="Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/)" />}}
+
+Die original Version ist in der  [](/ric/mystery-solved/)
