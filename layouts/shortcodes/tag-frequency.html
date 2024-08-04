@@ -1,0 +1,43 @@
+{{- $prefix := "" -}}
+{{- if (.Get "prefix") }}
+    {{ $prefix = .Get "prefix" -}}
+{{- end -}}
+
+{{- $tags := $.Site.Taxonomies.tags.ByCount -}}
+{{- $filtered := where $tags "Count" ">=" 1 -}}
+{{- $filtered = where $filtered "Term" "not in" (slice "hugo" "tags" "rss") -}}
+
+{{- if len $filtered -}}
+  {{- $tags = slice -}}
+  {{- $mermaid := "xychart-beta" -}}
+  {{- $xaxis := "x-axis [" -}}
+  {{- $bar := "bar [" -}}
+  {{- range $filtered -}}
+    {{- if hasPrefix .Term $prefix -}}
+      {{- $slug := replace (.Term | lower) " " "-" -}}
+      {{- $tagURL := printf "tags/%s" $slug | relURL -}}
+      {{- $tag := .Page.Title -}}
+      {{- if ne (i18n $tag) "" -}}
+        {{- $tag = i18n $tag -}}
+      {{- end -}}
+      {{- $tags = append (dict "count" .Count "tag" $tag) $tags -}}
+      {{- $chartTag := replace (printf "<a href=\"%s\">%s</a>" $tagURL $tag) "\"" "\\\"" -}}
+      {{- $xaxis = printf "%s \"%s\","  $xaxis $chartTag -}}
+      {{- $bar = printf "%s %d," $bar .Count -}}
+    {{- end -}}
+
+  {{- end -}}
+  {{- $xaxis = substr $xaxis 0 (sub ($xaxis | len) 1) -}}
+  {{- $xaxis = printf "%s]" $xaxis -}}
+  {{- $bar = substr $bar 0 (sub ($bar | len) 1) -}}
+  {{- $bar = printf "%s]" $bar -}}
+  {{- $mermaid = printf "%s\n\t%s\n\t%s" $mermaid $xaxis $bar -}}
+
+  <script type="text/javascript">
+    var tags = {{ jsonify $tags | safeJS }}
+  </script>
+  <pre>
+    {{ $mermaid }}
+  </pre>
+
+{{- end -}}
