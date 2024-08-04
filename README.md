@@ -69,14 +69,10 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 
 ## Updated post
 
-### Ric 21
-
 ### Ric 27
 Old Windmill Montmartre: https://frenchmoments.eu/windmills-of-montmartre-paris/
 https://www.solosophie.com/lost-paris-windmills/
 
-### Ric 29
-Pont des Arts https://en.wikipedia.org/wiki/Pont_des_Arts
 
 ### Ric 34
 

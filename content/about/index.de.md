@@ -29,7 +29,7 @@ Ich beantworte gerne Fragen unter [mail](mailto:ric-unknownartist@projektemacher
 
 ## Warum Ric?
 
-Vor einigen Jahren entdeckte ich einen seiner Drucke im Haus meiner Eltern, und Jahre später bekam ich ihn als Weihnachtsgeschenk. Ich war immer fasziniert von dem geometrischen Stil, der mich an die Werke von [Lyonel Feininger] (https://en.wikipedia.org/wiki/Lyonel_Feininger) erinnerte. Ich versuchte, mehr darüber herauszufinden, war aber nicht wirklich erfolgreich.
+Vor einigen Jahren entdeckte ich einen seiner Drucke im Haus meiner Eltern, und Jahre später bekam ich ihn als Weihnachtsgeschenk. Ich war immer fasziniert von dem geometrischen Stil, der mich an die Werke von [Lyonel Feininger](https://de.wikipedia.org/wiki/Lyonel_Feininger) erinnerte. Ich versuchte, mehr darüber herauszufinden, war aber nicht wirklich erfolgreich.
 
 Einige Jahre später fand ich auf einem Flohmarkt einen weiteren Druck von Ric, der mir nicht so gut gefiel wie der erste, aber ich beschloss, erneut zu recherchieren, und fand den [ursprünglichen Blog](http://ric-unknownartist.blogspot.com/). Zu diesem Zeitpunkt war er bereits aufgegeben. Daher beschloss ich, die Arbeit wiederaufzunehmen bzw. fortzusetzen.
 

@@ -18,7 +18,7 @@ Aber wie Simon schon sagte, ist diese Spur ziemlich schwer zu verfolgen, da es m
 Die verschiedenen Fritz Neumann's
 ---------------------------------
 
-Es gibt auch einige Fritz Neumanns in der [deutschen Wikipedia] (https://de.wikipedia.org/wiki/Fritz_Neumann), aber die relevanten haben keine Einträge. "Fritz Neumann (Bildhauer)" und "Fritz Neumann (Maler)" sind im selben Jahr geboren. Der erste ist in der [Thieme-Becker](https://en.wikipedia.org/wiki/Thieme-Becker) und [Vollmer](https://de.wikipedia.org/wiki/Thieme-Becker#Vollmer). Der zweite ist wahrscheinlich unser _FN2_.
+Es gibt auch einige Fritz Neumanns in der [deutschen Wikipedia](https://de.wikipedia.org/wiki/Fritz_Neumann), aber die relevanten haben keine Einträge. "Fritz Neumann (Bildhauer)" und "Fritz Neumann (Maler)" sind im selben Jahr geboren. Der erste ist in der [Thieme-Becker](https://en.wikipedia.org/wiki/Thieme-Becker) und [Vollmer](https://de.wikipedia.org/wiki/Thieme-Becker#Vollmer). Der zweite ist wahrscheinlich unser _FN2_.
 
 Um zwischen den Arbeiten unserer Kandidaten unterscheiden zu können, verwenden wir einen Code (_FN1_ bis _FNX_).
 
