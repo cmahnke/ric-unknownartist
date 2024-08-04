@@ -70,6 +70,7 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 ## Functionality
 
 * Show tag frequency, to illustrate distribution / print runs
+* Show cont on tag pages
 * Update Map data
 * Replace map implementation
 

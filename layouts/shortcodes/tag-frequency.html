@@ -7,6 +7,8 @@
 {{- $filtered := where $tags "Count" ">=" 1 -}}
 {{- $filtered = where $filtered "Term" "not in" (slice "hugo" "tags" "rss") -}}
 
+
+
 {{- if len $filtered -}}
   {{- $tags = slice -}}
   {{- $mermaid := "xychart-beta" -}}
@@ -22,7 +24,10 @@
       {{- end -}}
       {{- $tags = append (dict "count" .Count "tag" $tag) $tags -}}
       {{- $chartTag := replace (printf "<a href=\"%s\">%s</a>" $tagURL $tag) "\"" "\\\"" -}}
-      {{- $xaxis = printf "%s \"%s\","  $xaxis $chartTag -}}
+      {{/*
+        {{- $xaxis = printf "%s [%s](%s),"  $xaxis $tag $tagURL -}}
+      */}}
+      {{- $xaxis = printf "%s \"%s\","  $xaxis $tag -}}
       {{- $bar = printf "%s %d," $bar .Count -}}
     {{- end -}}
 
@@ -33,11 +38,25 @@
   {{- $bar = printf "%s]" $bar -}}
   {{- $mermaid = printf "%s\n\t%s\n\t%s" $mermaid $xaxis $bar -}}
 
-  <script type="text/javascript">
-    var tags = {{ jsonify $tags | safeJS }}
-  </script>
-  <pre>
-    {{ $mermaid }}
+  <pre class="mermaid">
+---
+config:
+    xyChart:
+        width: 640
+        height: 480
+        chartOrientation: 'horizontal'
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+{{ $mermaid }}
   </pre>
+
+  <script type="text/javascript">
+    mermaid.initialize({
+      securityLevel: 'loose',
+    });
+  </script>
+
 
 {{- end -}}

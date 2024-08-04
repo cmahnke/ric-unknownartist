@@ -137,8 +137,16 @@ enableGitInfo = true
         target = "assets/scss"
 
     [[module.mounts]]
+        source = "assets/js"
+        target = "assets/js"
+
+    [[module.mounts]]
         source = "static"
         target = "static"
+
+    [[module.mounts]]
+        source = "node_modules/mermaid"
+        target = "assets/js/mermaid"
 
     [[module.mounts]]
         source = "node_modules/lightgallery"

@@ -239,3 +239,9 @@ h1.term {
 .term-description {
   margin: .6rem 0;
 }
+
+pre.mermaid {
+  font-family: $font-header;
+  display: flex;
+  justify-content: center;
+}
