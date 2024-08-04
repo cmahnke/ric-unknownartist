@@ -67,15 +67,6 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 * https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
 
 
-## Updated post
-
-### Ric 27
-Old Windmill Montmartre: https://frenchmoments.eu/windmills-of-montmartre-paris/
-https://www.solosophie.com/lost-paris-windmills/
-
-
-### Ric 34
-
 ## Functionality
 
 * Show tag frequency, to illustrate distribution / print runs
