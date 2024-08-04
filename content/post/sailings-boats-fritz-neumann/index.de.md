@@ -14,6 +14,6 @@ resources:
 
 **Kurze Beschreibung:** Ein weiteres Werk über Segelboote von Fritz Neumann.
 
-**Anmerkungen:** Gefunden bei [eBay] (https://www.ebay.de/itm/Ric-Neumann-Ankernde-Yacht-mit-altem-Rahmen-hinter-Glas/164337910448?hash=item26434d82b0:g:GLEAAOSw2TFfHwIX). Es gibt einen Aufkleber auf der Rückseite, aber er ist unleserlich.
+**Anmerkungen:** Gefunden bei [eBay](https://www.ebay.de/itm/Ric-Neumann-Ankernde-Yacht-mit-altem-Rahmen-hinter-Glas/164337910448?hash=item26434d82b0:g:GLEAAOSw2TFfHwIX). Es gibt einen Aufkleber auf der Rückseite, aber er ist unleserlich.
 
 **Interessanterweise wird das Bild einem Ric Neumann zugeschrieben**

@@ -42,7 +42,7 @@ Um zwischen den Arbeiten unserer Kandidaten unterscheiden zu können, verwenden 
 Signaturen
 ----------
 
-Es sind einige Unterschriften von einigen unserer Kandidaten im Netz verfügbar. Beachten Sie, dass falsche Zuschreibungen, auch von Experten, diese Zuordnungen unzuverlässig machen. Einige weitere Beispiele finden Sie im [ursprünglichen Blogeintrag] (http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html).
+Es sind einige Unterschriften von einigen unserer Kandidaten im Netz verfügbar. Beachten Sie, dass falsche Zuschreibungen, auch von Experten, diese Zuordnungen unzuverlässig machen. Einige weitere Beispiele finden Sie im [ursprünglichen Blogeintrag](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html).
 
 
 * FN1: Noch keine eindeutig zugeordnete Probe

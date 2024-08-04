@@ -16,4 +16,4 @@ resources:
 
 Größe mit breiten Rändern 25-1/16" (ca. 63cm) x 42-5/8" (ca. 108cm), Bildgröße 15-5/8" (ca. 40cm) x 32-7/8" (ca. 83cm).
 
-**Anmerkungen:** Dank an Mark Strong von [Meibohm Fine Arts] (http://meibohmfinearts.com/) für den Hinweis, erhältlich bei [eBay] (https://www.ebay.com/itm/134264241066).
+**Anmerkungen:** Dank an Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/) für den Hinweis, erhältlich bei [eBay](https://www.ebay.com/itm/134264241066).

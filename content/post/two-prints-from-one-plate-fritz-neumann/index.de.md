@@ -15,5 +15,5 @@ source: http://www.cofart.be/wp-content/uploads/2015/12/Hermann-Fritz-Neumann-Ge
 
 **Kurzbeschreibung:** Zwei Abdrücke von einer Platte, ein weiterer Foxterrier.
 
-**Anmerkungen:** Der erste stammt aus dem [Linosaurus Blog] (http://gerrie-thefriendlyghost.blogspot.com/2016/04/margarete-donath-quest-for-forgotten_15.html). Beachten Sie die Markierung unter der Signatur, Holstentor Variante.  
+**Anmerkungen:** Der erste stammt aus dem [Linosaurus Blog](http://gerrie-thefriendlyghost.blogspot.com/2016/04/margarete-donath-quest-for-forgotten_15.html). Beachten Sie die Markierung unter der Signatur, Holstentor Variante.  
 Das zweite stammt von [Cofart.be](http://www.cofart.be/wp-content/uploads/2015/12/Hermann-Fritz-Neumann-Germany-Elmshorn-1858-Dresden-1920-Ali-Baba-Wirehaired-Fox-Terrier.jpg). Die Färbung oberhalb des Auges ist anders. Beachten Sie, dass die Unterschrift anders ist und einen Titel ("Ali Baba") trägt, ohne dass ein Stempel sichtbar ist.
