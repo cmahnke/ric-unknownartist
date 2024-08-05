@@ -61,10 +61,19 @@ Namenteil. 1957. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15357662/fragme
 Strassenteil. 1970. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356982/fragment/page=1035
 
 
+#### Telefonbücher
+
+1978. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-6587414/fragment/page=1915
+
+1984. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-6810838/fragment/page=1589
+
 #### Prüfen
 
 1933. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4187665/fragment/page=1902
   Odinstr 17
+
+
+
 
 -> fritz-neumann-address-book-berlin
 
@@ -82,6 +91,8 @@ http://www.content.landesarchiv-berlin.de/php-bestand/arep243-04-pdf/arep243-04.
 z (*18.06.1905)
 
 https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?facetValues%5B%5D=context%3DQJVTTAHPPRLVR6UOZ4YOSBKZMFULKXMO&rows=20&sort=&offset=0&viewType=list&lang=en&hitNumber=16
+Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
+
 
 ### Fritz Neumann Prints
 
