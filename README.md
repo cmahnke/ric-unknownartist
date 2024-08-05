@@ -48,10 +48,40 @@ Link to https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
 
 ### Fritz Neumann References
 
-https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356869/fragment/page=1121
+https://www.meibohmfinearts.com/artists/details/155
+
+Gartenfelder Str. 132 h
+
+Namenteil. 1961. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356869/fragment/page=1139
 https://digital.zlb.de/viewer/berliner-adressbuecher/
 
+
+Namenteil. 1957. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15357662/fragment/page=1499
+1937. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-2207597/fragment/page=1948
+Strassenteil. 1970. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356982/fragment/page=1035
+
+
+#### Prüfen
+
+1933. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4187665/fragment/page=1902
+  Odinstr 17
+
 -> fritz-neumann-address-book-berlin
+
+### Biiographien
+
+https://de.artprice.com/artist/521366/fritz-neumann
+
+### Archive
+https://www.archivportal-d.de/item/QJUPPPAVF3VLFDVAHPWA7BM4QPBNDYHQ?query=Fritz+Neumann&offset=0&rows=20&filterValues=state_Berlin&_=1722805218794&sort=&viewType=list&hitNumber=3
+
+A Rep. 243-04 Reichskammer der bildenden Künste, Landesleitung Berlin >> 06. Mitgliedsakten von Personen und Firmen
+
+http://www.content.landesarchiv-berlin.de/php-bestand/arep243-04-pdf/arep243-04.pdf
+
+z (*18.06.1905)
+
+https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?facetValues%5B%5D=context%3DQJVTTAHPPRLVR6UOZ4YOSBKZMFULKXMO&rows=20&sort=&offset=0&viewType=list&lang=en&hitNumber=16
 
 ### Fritz Neumann Prints
 
@@ -70,7 +100,7 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 ## Functionality
 
 * Show tag frequency, to illustrate distribution / print runs
-* Show cont on tag pages
+* Show count on tag pages
 * Update Map data
 * Replace map implementation
 
