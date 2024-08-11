@@ -245,3 +245,7 @@ pre.mermaid {
   display: flex;
   justify-content: center;
 }
+
+figure.center figcaption p {
+  padding-top: unset !important;
+}
