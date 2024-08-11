@@ -5,6 +5,7 @@ tags:
 - Painting
 - Hint
 title: "Fritz Neumann watercolor paintings"
+disableImageViewer: true
 #resources:
 #- src: "1.jpeg"
 #- src: "2.jpeg"

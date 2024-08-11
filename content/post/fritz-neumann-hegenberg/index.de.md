@@ -4,6 +4,7 @@ tags:
 - Fritz Neumann
 - Hint
 title: "Fritz Neumann-Hegenberg"
+disableImageViewer: true
 ---
 
 Auch wenn Fritz Neumann-Hegenberg von Anfang an als "unser" Fritz Neumann ausgeschlossen werden konnte. Gibt es weitere Hinweise die dies untermauern.
