@@ -13,5 +13,3 @@ Already on 31 August 2021, three years ago, [a work by Fritz Neumann-Hegenberg a
 His works are also represented in various online collections
 * [In the MoMA Collection of German Expressionism](https://www.moma.org/s/ge/collection_ge/objbyartist/objbyartist_artid-36797_role-1_thumbs.html)
 * [In the Museum of Cultural History in Görlitz](https://sachsen.museum-digital.de/objects?s=persinst:163699&style=browse)
-
-Translated with www.DeepL.com/Translator (free version)
