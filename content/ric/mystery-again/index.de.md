@@ -5,6 +5,8 @@ tags:
 - Ric
 - Status
 title: "Fritz Neumann (1928–2014) ist nicht Ric!"
+metaPage: true
+displayInList: false
 ---
 
 # Fritz Neumann (1928–2014) ist nicht Ric!
@@ -24,4 +26,4 @@ Die Verbindung zwischen Fritz Neumann (1928-2014) und Ric ist seit ca. vier Jahr
 # Nächste Schritte
 
   * Visualisierung der Zeitlinie verschiedener Fritz Neumann's
-  * Alte Berliner Adressbücher sind eine Spur, die noch nicht komplett verfolgt wurden
+  * Alte Berliner Adressbücher sind eine Spur, die noch nicht komplett verfolgt wurde
