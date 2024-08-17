@@ -39,13 +39,6 @@ Run the following script to generate assets
 
 ## Posts
 
-### Neumann Paintings
-* https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236
-
-Link to https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
-
--> fritz-neumann-watercolour-paintings
-
 ### Fritz Neumann References
 
 https://www.meibohmfinearts.com/artists/details/155
@@ -68,16 +61,16 @@ Strassenteil. 1970. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356982/fra
 1984. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-6810838/fragment/page=1589
 
 #### Prüfen
-
+1932 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4111925/fragment/page=2353
 1933. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4187665/fragment/page=1902
   Odinstr 17
 
 
 
 
--> fritz-neumann-address-book-berlin
+-> fritz-neumann-address-book-berlin 2024-08-24
 
-### Biiographien
+### Biographien
 
 https://de.artprice.com/artist/521366/fritz-neumann
 
@@ -92,6 +85,14 @@ z (*18.06.1905)
 
 https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?facetValues%5B%5D=context%3DQJVTTAHPPRLVR6UOZ4YOSBKZMFULKXMO&rows=20&sort=&offset=0&viewType=list&lang=en&hitNumber=16
 Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
+
+### Postkarten Leo Wilk
+https://www.ansichtskarten-center.de/scherenschnitte-druck/kuenstlerkarte-scherenschnitt-segelboot-kreuzer-handschnitt-von-fritz-neumann-gute
+
+https://www.abebooks.com/paper-collectibles/Ansichtskarte-Postkarte-Rauhhaar-Foxterrier-Hundeportrait-Foto/22846319196/bd
+https://www.akpool.de/ansichtskarten/28993381-kuenstler-ansichtskarte-postkarte-neumann-fritz-langhaariger-teckel-langhaardackel
+
+
 
 
 ### Fritz Neumann Prints
