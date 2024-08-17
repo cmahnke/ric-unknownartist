@@ -15,7 +15,7 @@ The original note where our Fritz Neumann confirms that he is Ric, published by 
 
 His address is **Gartenfelder Str. 132 h** in **Berlin Haselhorst**.
 
-Since the author of the ad mentioned in the [last post](/post/fritz-neumann-watercolour-paintings/) wrote about the [old address books of Berlin] I tried to do the same. This are the results, the first result was from 1937:
+Since Torsten Steinberg, the author of the ad mentioned in the [last post](/post/fritz-neumann-watercolour-paintings/) wrote about the [old address books of Berlin](https://digital.zlb.de/viewer/berliner-adressbuecher/) I tried to do the same. This are the results, the first result was from 1937:
 
 {{< figure src="1937.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-2207597/fragment/page=1948" caption="Address book 1937" class="center" >}}
 
