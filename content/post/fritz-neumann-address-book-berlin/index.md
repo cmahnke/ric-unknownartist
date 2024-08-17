@@ -6,7 +6,6 @@ tags:
 - Hint
 title: "Fritz Neumann in old address books from Berlin"
 disableImageViewer: true
-
 ---
 
 The original note where our Fritz Neumann confirms that he is Ric, published by Mark Strong of Meibohm Fine Arts included an address:
