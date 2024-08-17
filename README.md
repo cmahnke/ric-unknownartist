@@ -86,6 +86,14 @@ z (*18.06.1905)
 https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?facetValues%5B%5D=context%3DQJVTTAHPPRLVR6UOZ4YOSBKZMFULKXMO&rows=20&sort=&offset=0&viewType=list&lang=en&hitNumber=16
 Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
 
+
+### Fritz Neumann, Studienrat
+
+* Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
+  * https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?rows=20&sort=&offset=0&viewType=list&hitNumber=16&lang=en
+  * https://www.deutsche-digitale-bibliothek.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ
+
+
 ### Postkarten Leo Wilk
 https://www.ansichtskarten-center.de/scherenschnitte-druck/kuenstlerkarte-scherenschnitt-segelboot-kreuzer-handschnitt-von-fritz-neumann-gute
 

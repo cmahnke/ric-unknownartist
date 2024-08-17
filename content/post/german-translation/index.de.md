@@ -2,7 +2,7 @@
 date: 2024-08-03T20:09:56+02:00
 tags:
 - Status
-title: Deutsche Überetzung
+title: Deutsche Übersetzung
 disableImageViewer: true
 ---
 
