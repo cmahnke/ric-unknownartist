@@ -14,7 +14,11 @@ Die Originalnotiz, in der unser Fritz Neumann bestätigt, dass er Ric ist, verö
 
 Seine Adresse lautet **Gartenfelder Str. 132 h** in **Berlin Haselhorst**.
 
-Da Torsten Steinberg, der Autor der im [letzten Beitrag](/de/post/fritz-neumann-watercolour-paintings/) erwähnten Anzeige, über die [alten Berliner Adressbücher](https://digital.zlb.de/viewer/berliner-adressbuecher/) geschrieben hat, habe ich versucht, dasselbe zu tun. Dies sind die Ergebnisse, das erste Ergebnis war von 1937:
+Da Torsten Steinberg, der Autor der im [letzten Beitrag](/de/post/fritz-neumann-watercolour-paintings/) erwähnten Anzeige, über die [alten Berliner Adressbücher](https://digital.zlb.de/viewer/berliner-adressbuecher/) geschrieben hat, habe ich versucht, dasselbe zu tun. Dies sind die Ergebnisse, das erste Ergebnis war von 1934:
+
+{{< figure src="1934.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4256192/fragment/page=4930" caption="Adressbuch 1934" class="center" >}}
+
+{{< figure src="1936.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-2141620/fragment/page=5361" caption="Adressbuch 1936" class="center" >}}
 
 {{< figure src="1937.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-2207597/fragment/page=1948" caption="Adressbuch 1937" class="center" >}}
 

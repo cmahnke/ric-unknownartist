@@ -94,6 +94,16 @@ Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
   * https://www.deutsche-digitale-bibliothek.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ
 
 
+### Adressen 2
+
+
+1930 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-3955025/fragment/page=2370
+1931 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4034689/fragment/page=2419
+1932 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4111925/fragment/page=2353
+
+https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4187665/fragment/page=1902
+1933 KArlshorst Odinstr. 17
+
 ### Postkarten Leo Wilk
 https://www.ansichtskarten-center.de/scherenschnitte-druck/kuenstlerkarte-scherenschnitt-segelboot-kreuzer-handschnitt-von-fritz-neumann-gute
 
