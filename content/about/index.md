@@ -54,6 +54,7 @@ Tags with less then three occurrences aren't shown.
 *   Thanks to [Gerbrand Caspers](https://gerrie-thefriendlyghost.blogspot.com/) for his support and for encouraging me
 *   Thanks to [Wolfgang Barina](http://www.wolfgang-barina.de/) for some links he provided
 *   Thanks to Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/) for finding Ric and granting permission to use his text and images.
+*   Thanks to Torsten Steinberg for the idea with the [address books](https://ric-unknownartist.projektemacher.org/post/fritz-neumann-address-book-berlin/).
 
 ## Colophon
 

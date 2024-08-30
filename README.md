@@ -110,7 +110,9 @@ https://www.ansichtskarten-center.de/scherenschnitte-druck/kuenstlerkarte-schere
 https://www.abebooks.com/paper-collectibles/Ansichtskarte-Postkarte-Rauhhaar-Foxterrier-Hundeportrait-Foto/22846319196/bd
 https://www.akpool.de/ansichtskarten/28993381-kuenstler-ansichtskarte-postkarte-neumann-fritz-langhaariger-teckel-langhaardackel
 
+Artists of the World
 
+https://aow.degruyter.com/artist/_00141795?currentIndex=2&prevPackageType=Index&prevPackageFileName=&nextPackageType=Index&nextPackageFileName=&search_url=%252Fresults%253Ftype%253D1%2526field0%253D0%2526val0%253DFritz%252BNeumann
 
 
 ### Fritz Neumann Prints
