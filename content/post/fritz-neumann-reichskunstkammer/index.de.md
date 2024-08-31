@@ -1,5 +1,5 @@
 ---
-date: 2024-08-31T19:08:00+02:00
+date: 2024-08-31T15:08:00+02:00
 tags:
 - Fritz Neumann
 - Status

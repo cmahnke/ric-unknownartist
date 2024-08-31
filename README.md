@@ -66,9 +66,26 @@ Strassenteil. 1970. https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356982/fra
   Odinstr 17
 
 
+  1930 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-3955025/fragment/page=2370
+  1931 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4034689/fragment/page=2419
+  1932 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4111925/fragment/page=2353
+
+  https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4187665/fragment/page=1902
+  1933 KArlshorst Odinstr. 17
 
 
 -> fritz-neumann-address-book-berlin 2024-08-24
+
+# Copyright
+
+* https://www.google.de/books/edition/Catalogue_of_Copyright_Entries/HAZhAAAAIAAJ?hl=en&gbpv=1&dq=fritz%20neumann&pg=RA1-PA28&printsec=frontcover
+
+Copyright Records
+* https://archive.org/details/copyrightrecords?tab=collection&query=%22fritz+neumann%22&sin=TXT
+
+https://en.wikipedia.org/wiki/Copyright_Catalog
+
+-> fritz-neumann-copyright-records
 
 ### Biographien
 
@@ -81,28 +98,17 @@ A Rep. 243-04 Reichskammer der bildenden Künste, Landesleitung Berlin >> 06. Mi
 
 http://www.content.landesarchiv-berlin.de/php-bestand/arep243-04-pdf/arep243-04.pdf
 
+Fritz Neumann, Studienrat
+
 z (*18.06.1905)
 
 https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?facetValues%5B%5D=context%3DQJVTTAHPPRLVR6UOZ4YOSBKZMFULKXMO&rows=20&sort=&offset=0&viewType=list&lang=en&hitNumber=16
 Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
 
-
-### Fritz Neumann, Studienrat
-
 * Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
   * https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?rows=20&sort=&offset=0&viewType=list&hitNumber=16&lang=en
   * https://www.deutsche-digitale-bibliothek.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ
 
-
-### Adressen 2
-
-
-1930 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-3955025/fragment/page=2370
-1931 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4034689/fragment/page=2419
-1932 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4111925/fragment/page=2353
-
-https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4187665/fragment/page=1902
-1933 KArlshorst Odinstr. 17
 
 ### Postkarten Leo Wilk
 https://www.ansichtskarten-center.de/scherenschnitte-druck/kuenstlerkarte-scherenschnitt-segelboot-kreuzer-handschnitt-von-fritz-neumann-gute
@@ -110,10 +116,9 @@ https://www.ansichtskarten-center.de/scherenschnitte-druck/kuenstlerkarte-schere
 https://www.abebooks.com/paper-collectibles/Ansichtskarte-Postkarte-Rauhhaar-Foxterrier-Hundeportrait-Foto/22846319196/bd
 https://www.akpool.de/ansichtskarten/28993381-kuenstler-ansichtskarte-postkarte-neumann-fritz-langhaariger-teckel-langhaardackel
 
-Artists of the World
+# Artists of the World
 
 https://aow.degruyter.com/artist/_00141795?currentIndex=2&prevPackageType=Index&prevPackageFileName=&nextPackageType=Index&nextPackageFileName=&search_url=%252Fresults%253Ftype%253D1%2526field0%253D0%2526val0%253DFritz%252BNeumann
-
 
 ### Fritz Neumann Prints
 
