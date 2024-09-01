@@ -1,0 +1,24 @@
+{{- $timeline := .Get "timeline" -}}
+{{- $groups := .Get "groups" -}}
+{{- if len .Inner -}}
+    {{- $timeline = .Inner -}}
+{{- end -}}
+{{- $timeline = replace $timeline "\n" "" -}}
+
+{{- $id := printf "_timeline-%s" (md5 (printf "%s-%s" $timeline now.UnixNano)) -}}
+
+{{/* Check contents */}}
+{{- $check := unmarshal $groups -}}
+{{- $check := unmarshal $timeline -}}
+
+<div class="timeline" id="{{ $id }}">
+</div>
+<script type="text/javascript">
+  const container = document.getElementById("{{ $id | safeJS }}");
+  var options = {};
+  var timeline = addTimeline(container, {{ $timeline | safeJS }}, options {{ if ne $groups nil }}, {{ $groups | safeJS }}{{ end }});
+</script>
+
+{{- define "partials/shortcodes/timeline-metadata.html" -}}
+  {{- (dict "css" slice "js" (slice "js/timeline.js") "scss" (slice "scss/timeline.scss")) | jsonify -}}
+{{- end -}}

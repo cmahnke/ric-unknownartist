@@ -29,9 +29,18 @@
       <link rel="canonical" href="{{ .Permalink }}">
     {{- end -}}
 
+    {{- $includes := unmarshal (partial "shortcodes/shortcode-helper.html" .) -}}
+
     {{- $js := "" -}}
-    {{- $defines := dict "process.env.NODE_ENV" `"production"` -}}
-    {{- $opts := dict "targetPath" "js/main.js" "defines" $defines "minify" true -}}
+    {{- $defines := dict -}}
+    {{- $opts := dict -}}
+    {{- if hugo.IsServer -}}
+      {{- $defines = dict "process.env.NODE_ENV" `"development"` -}}
+      {{- $opts = dict "targetPath" "js/main.js" "defines" $defines "minify" false -}}
+    {{- else -}}
+      {{- $defines = dict "process.env.NODE_ENV" `"production"` -}}
+      {{- $opts = dict "targetPath" "js/main.js" "defines" $defines "minify" true -}}
+    {{- end -}}
     {{- if and .Site.Params.enableImageViewer .Site.Params.enablePDFViewer -}}
         {{- $viewers := slice (resources.Get "js/image-viewer.js") (resources.Get "js/pdf-viewer.js") | js.Build $opts -}}
         {{- $js = slice $viewers -}}
@@ -43,18 +52,29 @@
         {{- $js = slice $pdfViewer -}}
     {{- end }}
 
+    {{- if isset $includes "js" -}}
+      {{- range (index $includes "js") -}}
+        {{- warnf "Adding JS '%s'" . -}}
+        {{- $js = $js | append (resources.Get . | js.Build $opts) -}}
+      {{- end -}}
+    {{- end -}}
+
     {{- if .Page.Params.js -}}
         {{- $pageJS := resources.Get .Page.Params.js | js.Build $opts -}}
         {{- if reflect.IsSlice $js -}}
           {{- $js = append $pageJS $js -}}
         {{- else -}}
-          {{- $js = slice $pageJS -}}
+          {{- $js = $js | append $pageJS -}}
         {{- end -}}
-
     {{- end -}}
 
     {{- if reflect.IsSlice $js -}}
+      {{- if not hugo.IsServer -}}
         {{- $js = $js | resources.Concat (printf "js/concated-%d.js" (len $js)) | minify | fingerprint -}}
+      {{- else -}}
+        {{- $js = $js | resources.Concat (printf "js/concated-%d.js" (len $js)) | fingerprint -}}
+      {{- end -}}
+
         <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
     {{ end }}
 
@@ -62,13 +82,35 @@
     {{- $ourTemplate := resources.Get "scss/base.scss" -}}
     {{- $ourStyle := $ourTemplate | resources.ExecuteAsTemplate "scss/base.scss" . | toCSS $options -}}
 
+    {{- if isset $includes "scss" -}}
+      {{- $ourStyle = slice $ourStyle  -}}
+      {{- range (index $includes "scss") -}}
+        {{- warnf "Adding SCSS '%s'" . -}}
+        {{- $ourStyle = $ourStyle | append (resources.Get . | toCSS $options) -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if not (reflect.IsSlice $ourStyle) -}}
+      {{- $ourStyle = slice $ourStyle -}}
+    {{- end -}}
+
     {{- $style := slice -}}
     {{- if .Site.Params.enableImageViewer -}}
         {{- $lightgalleryStyle := resources.Get "css/lightgallery/lightgallery-bundle.css" -}}
-        {{- $style = slice $lightgalleryStyle $ourStyle | resources.Concat "css/concated.css" | minify | fingerprint -}}
+        {{- $ourStyle = $ourStyle | append $lightgalleryStyle -}}
+        {{- $style = $ourStyle | resources.Concat (printf "css/concated-%d.css" 2) -}}
+    {{- else if reflect.IsSlice $ourStyle -}}
+        {{- $style = $ourStyle | resources.Concat (printf "css/concated-%d.css" (len $ourStyle)) -}}
     {{- else -}}
-        {{- $style = slice $ourStyle | resources.Concat "css/concated.css" | minify | fingerprint -}}
+        {{- $style = slice $ourStyle | resources.Concat (printf "css/concated-%d.css" (len $ourStyle))  -}}
     {{ end }}
+
+    {{- if not hugo.IsServer -}}
+      {{- $style = $style | minify | fingerprint -}}
+    {{- else -}}
+      {{- $style = $style | fingerprint -}}
+    {{- end -}}
+
     <link href="{{ $style.RelPermalink }}" rel="stylesheet" integrity="{{ $style.Data.Integrity }}">
 
     {{/* External Styles - Fonts etc */}}
