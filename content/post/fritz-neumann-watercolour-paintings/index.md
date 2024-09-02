@@ -25,7 +25,9 @@ resources:
 ---
 # Another clue
 
-After receiving the news that Fritz Neumann (1928-2014) is not our Fritz Neumann, it was time to re-examine possible candidates. An interesting new clue was [this offer](https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236) on classifieds (formerly ‘eBay Kleinanzeigen’). In the ad dated 08.07.2024, 8 paintings (watercolours) by a Fritz Neumann are offered, the signature is very similar to that of the prints by ‘our’ Fritz Neumann...
+After receiving the news that Fritz Neumann (1928-2014) is not our Fritz Neumann, it was time to re-examine possible candidates. An interesting new clue was [this offer](https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236) on classifieds (formerly ‘eBay Kleinanzeigen’). In the ad dated 08.07.2024, 8 paintings (watercolours) by a Fritz Neumann are offered, the signature is very similar to that of the prints by ‘our’ Fritz Neumann. And there also is a [known painting](/post/fritz-neumann-charlottenburg) of the [Charlottenburg Palace](https://en.wikipedia.org/wiki/Schloss_Charlottenburg) by our Fritz Neumann...
+
+
 
 Here is the text of the advert:
 
