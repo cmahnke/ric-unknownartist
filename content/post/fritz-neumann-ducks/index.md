@@ -13,4 +13,4 @@ resources:
 
 **Short description:** Coloured etching of a duck pond by Fritz Neumann
 
-**Notes:** Found on a flea market (Flohmarkt Flohschanze) in Hamburg.
+**Notes:** Found on a flea market (Flohmarkt Flohschanze) in Hamburg. The embossed mark of [J.C. Blumenberg](/hints/j-c-b/) is clearly recognisable.

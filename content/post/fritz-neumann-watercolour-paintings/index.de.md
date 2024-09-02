@@ -26,7 +26,7 @@ resources:
 
 # Eine weitere Spur
 
-Nachdem ich die Nachricht erhalten hatte, dass Fritz Neumann (1928-2014) nicht unser Fritz Neumann ist, war es an der Zeit, mögliche Kandidaten erneut zu prüfen. Ein interessanter neuer Hinweis war [dieses Angebot](https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236) auf Kleinanzeigen (früher "eBay Kleinanzeigen"). In der Anzeige vom 08.07.2024 werden 8 Gemälde (Aquarelle) eines Fritz Neumann angeboten, die Signatur ist sehr ähnlich zu der der Drucke "unseres" Fritz Neumann. Und es gibt auch eine [bekanntes Gemälde](/post/fritz-neumann-charlottenburg) des [Schlosses Charlottenburg](https://en.wikipedia.org/wiki/Schloss_Charlottenburg) von unserem Fritz Neumann...
+Nachdem ich die Nachricht erhalten hatte, dass Fritz Neumann (1928-2014) nicht unser Fritz Neumann ist, war es an der Zeit, mögliche Kandidaten erneut zu prüfen. Ein interessanter neuer Hinweis war [dieses Angebot](https://www.kleinanzeigen.de/s-anzeige/8-gemaelde-aquarelle-fritz-neumann-1928-2014-berlin/2807167569-240-1236) auf Kleinanzeigen (früher "eBay Kleinanzeigen"). In der Anzeige vom 08.07.2024 werden 8 Gemälde (Aquarelle) eines Fritz Neumann angeboten, die Signatur ist sehr ähnlich zu der der Drucke "unseres" Fritz Neumann. Und es gibt auch eine [bekanntes Gemälde](/de/post/fritz-neumann-charlottenburg) des [Schlosses Charlottenburg](https://en.wikipedia.org/wiki/Schloss_Charlottenburg) von unserem Fritz Neumann...
 
 Hier der Text der Anzeige:
 
