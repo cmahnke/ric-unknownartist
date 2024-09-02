@@ -5,15 +5,12 @@ tags:
 - Hint
 title: 'Fritz Neumann im "Catalog of Copyright Entries"'
 disableImageViewer: true
-draft: true
 ---
 
 Das [United States Copyright Office (USCO)] (https://en.wikipedia.org/wiki/United_States_Copyright_Office) ist ein Verwalter verschiedener Arten von Urheberrechtseinträgen. Es gab früher einen gedruckten Katalog der registrierten Urheberrechtsansprüche heraus.
 Da die USA schon vor dem Zweiten Weltkrieg ein globaler Markt waren, gab es in den dreißiger Jahren Copyright-Registrierungen von [J.C. Blumenberg](/hints/j-c-b/). Einige davon, vor allem im Teil 4: Kunstwerke, betreffen auch Werke unseres Fritz Neumann. Dies gibt uns Daten für bestimmte Werke unseres Fritz und ist ein Indikator dafür, wann sie begannen, miteinander zu arbeiten.
 
-
 Die gedruckten [Copyright-Kataloge](https://en.wikipedia.org/wiki/Copyright_Catalog) wurden digitalisiert und sind im [Internet Archive](https://archive.org/details/copyrightrecords) verfügbar.
-
 
 # 1936
 
@@ -29,18 +26,17 @@ Die gedruckten [Copyright-Kataloge](https://en.wikipedia.org/wiki/Copyright_Cata
 
 {{< figure src="img/1939-28.png" width="400px" link="https://archive.org/details/catalogofcopyrig344lib/page/28/mode/1up" caption="Catalog of Copyright Entries, New Series. Part 4: Works of Art 1939: Vol 34 No 1-4, Seite 28" class="center" >}}
 
-
 {{< figure src="img/1939-143.png" width="400px" link="https://archive.org/details/catalogofcopyrig344lib/page/143/mode/1up" caption="Catalog of Copyright Entries, New Series. Part 4: Works of Art 1939: Vol 34 No 1-4, Seite 143" class="center" >}}
 
-
-# Summary
+# Zusammenfassung
 
 | Werk                                      | Datum          |
 |-------------------------------------------|----------------|
 | Bestrafte raufbold                        | September 1936 |
 | Sieger                                    | September 1936 |
 | Jagdflieger                               | Januar 1937    |    
-| Ferienerinnerungen                        | Mai 1938       |
+| Ferienerinnerungen (from my window)       | May 1938       |
+| Cup race                                  | December 1938  |
 | Dem endkampf entgegen                     | Juli 1937      |
 | Ran an den wind                           | März 1936      |
 | Hol an die schooten (Taking it cleverly)  | Juli 1936      |
