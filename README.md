@@ -87,6 +87,26 @@ https://en.wikipedia.org/wiki/Copyright_Catalog
 
 -> fritz-neumann-copyright-records
 
+### Sonstige
+
+https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz
+
+#### Find a grave
+https://de.findagrave.com/memorial/251647917/fritz-neumann
+
+Name
+Fritz Neumann
+Geburtsinfo
+25. Jul 1907
+Tod
+6 Jan 1989 (06 Jan 1989)
+
+#### Erbhof
+https://www.abebooks.com/art-prints/Tukan-V%C3%B6gel/31138391025/bd
+https://www.invaluable.com/auction-lot/fritz-neumann-ca-1900-1930-t-8186-c-abc47a2b80
+https://www.ebay.de/itm/315513565614?mkevt=1&mkcid=1&mkrid=707-53477-19255-0&campid=5338722076&customid=&toolid=10050
+
+
 ### Biographien
 
 https://de.artprice.com/artist/521366/fritz-neumann
@@ -132,6 +152,8 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 ### Later posts
 
 * https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
+* https://www.askart.com/auction_records/Fritz_Neumann/11057559/Fritz_Neumann.aspx
+--> also link "Statdschloss Charlottenburg" https://ric-unknownartist.projektemacher.org/post/fritz-neumann-watercolour-paintings/
 
 
 ## Functionality
