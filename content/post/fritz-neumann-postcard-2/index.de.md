@@ -7,9 +7,9 @@ tags:
 resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-1.jpg"
-title: Postkarte von Fritz Neumann 2
+title: Postkarte von Fritz Neumann 2 ("Freund Harras")
 ---
 
-**Kurze Beschreibung:** Eine Postkarte von Fritz Neumann
+**Kurze Beschreibung:** Eine Postkarte von Fritz Neumann - "Freund Harras"
 
 **Anmerkungen:** Gefunden bei [eBay](https://www.ebay.de/itm/156164746631)

@@ -7,9 +7,9 @@ tags:
 resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-1.jpg"
-title: Postcard by Fritz Neumann 1
+title: Postcard by Fritz Neumann 1 ("Miese Zeiten")
 ---
 
-**Short description:** A postcard by Fritz Neumann
+**Short description:** A postcard by Fritz Neumann - "Bad Times"
 
 **Notes:** Found on [eBay](https://www.ebay.de/itm/135098484862)

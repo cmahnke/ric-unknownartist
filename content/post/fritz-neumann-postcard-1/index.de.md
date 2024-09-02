@@ -7,9 +7,9 @@ tags:
 resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-1.jpg"
-title: Postkarte von Fritz Neumann 1
+title: Postkarte von Fritz Neumann 1 ("Miese Zeiten")
 ---
 
-**Kurze Beschreibung:** Eine Postkarte von Fritz Neumann
+**Kurze Beschreibung:** Eine Postkarte von Fritz Neumann - "Miese Zeiten"
 
 **Anmerkungen:** Gefunden bei [eBay](https://www.ebay.de/itm/135098484862)
