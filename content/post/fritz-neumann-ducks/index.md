@@ -5,7 +5,6 @@ tags:
 - Etching
 - BlindEmbossing
 title: 'An unknown etching by Fritz Neumann'
-draft: true
 resources:
 - src: "image.jpg"
 - src: "stamp.jpg"
