@@ -22,6 +22,8 @@ Da Torsten Steinberg, der Autor der im [letzten Beitrag](/de/post/fritz-neumann-
 
 {{< figure src="1937.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-2207597/fragment/page=1948" caption="Adressbuch 1937" class="center" >}}
 
+{{< figure src="1943.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-1655597/fragment/page=2108" caption="Adressbuch 1943" class="center" >}}
+
 {{< figure src="1957.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15357662/fragment/page=1499" caption="Adressbuch 1957" class="center" >}}
 
 {{< figure src="1961.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356869/fragment/page=1139" caption="Adressbuch 1961" class="center" >}}

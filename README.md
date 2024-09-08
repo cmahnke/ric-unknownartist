@@ -156,6 +156,10 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 
 * https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx
 
+* https://de.wikipedia.org/wiki/Ernst_Zipperer - Another Artist from Berlin working for Blumenberg
+
+https://www.ebth.com/items/6839331-fritz-neumann-drypoint-engravings-of-terrier-puppies
+
 ## Functionality
 
 * Show tag frequency, to illustrate distribution / print runs

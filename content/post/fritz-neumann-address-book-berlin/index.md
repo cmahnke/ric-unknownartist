@@ -22,6 +22,8 @@ Since Torsten Steinberg, the author of the ad mentioned in the [last post](/post
 
 {{< figure src="1937.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-2207597/fragment/page=1948" caption="Address book 1937" class="center" >}}
 
+{{< figure src="1943.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-1655597/fragment/page=2108" caption="Address book 1943" class="center" >}}
+
 {{< figure src="1957.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15357662/fragment/page=1499" caption="Address book 1957" class="center" >}}
 
 {{< figure src="1961.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-15356869/fragment/page=1139" caption="Address book 1961" class="center" >}}
