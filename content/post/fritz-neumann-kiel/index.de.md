@@ -1,5 +1,5 @@
 ---
-date: 2024-09-08T21:33:00+02:00
+date: 2024-09-21T21:33:00+02:00
 tags:
 - Fritz Neumann
 - Etching

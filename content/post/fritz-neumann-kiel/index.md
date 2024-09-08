@@ -1,5 +1,5 @@
 ---
-date: 2024-09-08T21:33:00+02:00
+date: 2024-09-21T21:33:00+02:00
 tags:
 - Fritz Neumann
 - Etching
@@ -18,4 +18,4 @@ resources:
 
 **Short description:** A etching of a the war harbour Kiel by Fritz Neumann.
 
-**Notes:** Found on [eBay](https://www.ebay.de/itm/315513565614). this has been brought to my attention by Torsten Steinberg. As he has noted this has almost certainly a wrong attribution: The stem points to a ship after the First World War, probably the [Königsberg or a ship from the class](https://en.wikipedia.org/wiki/K%C3%B6nigsberg-class_cruiser_(1927)), built after 1927, so the authorship of Hermann Fritz Neumann (1858 - 1920) can be ruled out. 
+**Notes:** Found on [eBay](https://www.ebay.de/itm/315513565614). this has been brought to my attention by Torsten Steinberg. As he has noted this has almost certainly a wrong attribution: The stem points to a ship after the First World War, probably the [Königsberg or a ship from the class](https://en.wikipedia.org/wiki/K%C3%B6nigsberg-class_cruiser_(1927)), built after 1927, so the authorship of Hermann Fritz Neumann (1858 - 1920) can be ruled out.
