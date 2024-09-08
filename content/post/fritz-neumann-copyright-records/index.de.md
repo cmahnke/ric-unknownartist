@@ -34,7 +34,7 @@ Die gedruckten [Copyright-Kataloge](https://en.wikipedia.org/wiki/Copyright_Cata
 |-------------------------------------------|----------------|
 | Bestrafte raufbold                        | September 1936 |
 | Sieger                                    | September 1936 |
-| Jagdflieger                               | Januar 1937    |    
+| Jagdflieger                               | Januar 1937    |
 | Ferienerinnerungen (from my window)       | May 1938       |
 | Cup race                                  | December 1938  |
 | Dem endkampf entgegen                     | Juli 1937      |
