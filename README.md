@@ -132,6 +132,7 @@ Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
   * https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?rows=20&sort=&offset=0&viewType=list&hitNumber=16&lang=en
   * https://www.deutsche-digitale-bibliothek.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ
 
+-> Ergänzen https://invenio.bundesarchiv.de/invenio/direktlink/9ebb8a1f-a41c-4594-afcc-38b5aafe7e93/
 
 ### Postkarten Leo Wilk
 https://www.ansichtskarten-center.de/scherenschnitte-druck/kuenstlerkarte-scherenschnitt-segelboot-kreuzer-handschnitt-von-fritz-neumann-gute
@@ -159,6 +160,12 @@ Listings of https://www.dresden-antiquariat.de/presse.html
 * https://de.wikipedia.org/wiki/Ernst_Zipperer - Another Artist from Berlin working for Blumenberg
 
 https://www.ebth.com/items/6839331-fritz-neumann-drypoint-engravings-of-terrier-puppies
+
+
+https://www.auktion-dannenberg.de/de/l/722672/neumann_fritz_geb_1915?aid=296335&aname=177_varia-_spielzeugauktion&Q=%208651&Atype=0&Lstatus=1&currentpos=1
+
+
+https://de.geneanet.org/fonds/individus/?categories_1__arbres__=arbres&categories_2__arbres%23geneastar__=arbres%23geneastar&categories_2__arbres%23utilisateur__=arbres%23utilisateur&country__0__=&country__1__=&country__2__=&country__3__=&country__4__=&exact_day=&exact_month=&exact_year=&from=&go=1&ignore_each_patronyme=&ignore_each_prenom=&nom=NEUMANN&page=1&place__0__=&place__1__=&place__2__=&place__3__=&place__4__=&prenom=Fritz&prenom_operateur=and&region__0__=&region__1__=&region__2__=&region__3__=&region__4__=&sexe=&size=50&subregion__0__=&subregion__1__=&subregion__2__=&subregion__3__=&subregion__4__=&to=&type_periode=between&zonegeo__0__=&zonegeo__1__=&zonegeo__2__=&zonegeo__3__=&zonegeo__4__=
 
 ## Functionality
 
