@@ -1155,10 +1155,10 @@ marked@^13.0.2:
   resolved "https://registry.yarnpkg.com/marked/-/marked-13.0.3.tgz#5c5b4a5d0198060c7c9bc6ef9420a7fed30f822d"
   integrity sha512-rqRix3/TWzE9rIoFGIn8JmsVfhiuC8VIQ8IdX5TfzmeBucdY05/0UlzKaw0eVtpcN/OdVFpBk7CjKGo9iHJ/zA==
 
-mermaid@11.2.0:
-  version "11.2.0"
-  resolved "https://registry.yarnpkg.com/mermaid/-/mermaid-11.2.0.tgz#b9703e23155c70853925590dcd849fa5ffed0728"
-  integrity sha512-ZinOa063lk81lujX8vkINNqmFaNMk1A95Z4kCL7fE6QLAi01CxeiUJVw+tpXU+lAM73utO39G+2PLjxS2GYS/w==
+mermaid@11.2.1:
+  version "11.2.1"
+  resolved "https://registry.yarnpkg.com/mermaid/-/mermaid-11.2.1.tgz#b168c6f862268f77a0d3559926b193926ddc60bc"
+  integrity sha512-F8TEaLVVyxTUmvKswVFyOkjPrlJA5h5vNR1f7ZnSWSpqxgEZG1hggtn/QCa7znC28bhlcrNh10qYaIiill7q4A==
   dependencies:
     "@braintree/sanitize-url" "^7.0.1"
     "@iconify/utils" "^2.1.32"
