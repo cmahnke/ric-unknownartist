@@ -1,5 +1,5 @@
 ---
-date: 2020-08-229T15:23:44Z
+date: 2020-08-29T15:23:44Z
 tags:
 - Fritz Neumann
 - Painting
