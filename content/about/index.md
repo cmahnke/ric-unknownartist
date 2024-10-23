@@ -55,6 +55,7 @@ Tags with less then three occurrences aren't shown.
 *   Thanks to [Wolfgang Barina](http://www.wolfgang-barina.de/) for some links he provided
 *   Thanks to Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/) for finding Ric and granting permission to use his text and images.
 *   Thanks to Torsten Steinberg for the idea with the [address books](https://ric-unknownartist.projektemacher.org/post/fritz-neumann-address-book-berlin/).
+*   Thanks to Sebastian Schuth, head of the archive of the Spandau City History Museum for finding and providing the [newspaper article about Fritz Neumann](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 
 ## Colophon
 

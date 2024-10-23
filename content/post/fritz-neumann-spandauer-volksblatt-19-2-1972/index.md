@@ -23,8 +23,9 @@ The article is about the person who has been sought after here for years, the Sp
 * Was in Verdun during the First World War
 * Managed an advertising studio afterwards
 * Started his own business as a painter and etcher in 1930. (This can be roughly traced in the [address books](/post/fritz-neumann-address-book-berlin/))
+* Took part in World War 2 "from the very beginning"
 
-We also learn that his wife published her works under her maiden name, Hede Klinge, even after their marriage.
+We also learn that his wife published her works under her maiden name, Hede Klinge, even after their marriage. As well as the fact that he worked for the ["Deutsche Allgemeine Zeitung"](https://en.wikipedia.org/wiki/Deutsche_Allgemeine_Zeitung) - certainly after the First World War.
 
 In addition to the stages of his life, the various motifs and places from which Neumann drew his inspiration are also discussed.
 

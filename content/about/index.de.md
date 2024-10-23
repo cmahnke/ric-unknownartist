@@ -55,6 +55,7 @@ Tags, die weniger als drei Mal vorkommen, werden nicht angezeigt.
 * Dank an [Wolfgang Barina](http://www.wolfgang-barina.de/) für einige von ihm zur Verfügung gestellte Links
 * Dank an Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/) für die Suche nach Ric und die Erlaubnis, seinen Text und seine Bilder zu verwenden.
 * Dank an Torsten Steinberg für die Idee mit den [Adressbüchern](https://ric-unknownartist.projektemacher.org/post/fritz-neumann-address-book-berlin/).
+* Dank an Sebastian Schuth, Leiter des Archivs des Stadtgeschichtlichen Museums Spandau, für das Auffinden und die Bereitstellung des [Zeitungsartikels über Fritz Neumann](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 
 ## Kolophon
 

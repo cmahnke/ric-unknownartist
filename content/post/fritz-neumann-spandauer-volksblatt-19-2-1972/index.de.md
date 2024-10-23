@@ -24,6 +24,7 @@ Darin geht es um die Person, die hier schon seit Jahren gesucht wird, den Spanda
 * War im ersten Weltkrieg in Verdun
 * Leitete danach ein "Reklameatelier"
 * Machte sich 1930 als Maler und Radierer selbständig. (Das lässt sich grob in den [Adressbüchern](/post/fritz-neumann-address-book-berlin/) nachvollziehen)
+* Nahm "von Anfang an" am 2. Weltkrieg teil
 
 Zusätzlich ist zu erfahren, dass seine Frau auch nach der Hochzeit ihre Werke unter ihrem Mädchennamen Hede Klinge veröffentlichte.
 
