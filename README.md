@@ -87,23 +87,10 @@ https://en.wikipedia.org/wiki/Copyright_Catalog
 
 -> fritz-neumann-copyright-records
 
-### Familienanzeigen
-
-https://familienanzeigen.genealogy.net/detailsheirat.php?ID=119604&PID=306
-
-### Sonstige
-
-https://freundeskreis-kunst.de/?kuenstler_oldenburg=neumann-fritz
 
 #### Find a grave
 https://de.findagrave.com/memorial/251647917/fritz-neumann
 
-Name
-Fritz Neumann
-Geburtsinfo
-25. Jul 1907
-Tod
-6 Jan 1989 (06 Jan 1989)
 
 #### Erbhof
 https://www.abebooks.com/art-prints/Tukan-V%C3%B6gel/31138391025/bd
@@ -115,15 +102,6 @@ https://www.ebay.de/itm/315513565614?mkevt=1&mkcid=1&mkrid=707-53477-19255-0&cam
 https://de.artprice.com/artist/521366/fritz-neumann
 
 ### Archive
-https://www.archivportal-d.de/item/QJUPPPAVF3VLFDVAHPWA7BM4QPBNDYHQ?query=Fritz+Neumann&offset=0&rows=20&filterValues=state_Berlin&_=1722805218794&sort=&viewType=list&hitNumber=3
-
-A Rep. 243-04 Reichskammer der bildenden Künste, Landesleitung Berlin >> 06. Mitgliedsakten von Personen und Firmen
-
-http://www.content.landesarchiv-berlin.de/php-bestand/arep243-04-pdf/arep243-04.pdf
-
-Fritz Neumann, Studienrat
-
-z (*18.06.1905)
 
 https://www.archivportal-d.de/item/ZYUW2IF7OHSUHFV4ATCFS7ZJBIQ47JCJ?facetValues%5B%5D=context%3DQJVTTAHPPRLVR6UOZ4YOSBKZMFULKXMO&rows=20&sort=&offset=0&viewType=list&lang=en&hitNumber=16
 Neumann, Fritz, geb. 18.06.1905, Studienrat, Staatsbauschule Berlin-Neukölln
@@ -166,6 +144,24 @@ https://www.auktion-dannenberg.de/de/l/722672/neumann_fritz_geb_1915?aid=296335&
 
 
 https://de.geneanet.org/fonds/individus/?categories_1__arbres__=arbres&categories_2__arbres%23geneastar__=arbres%23geneastar&categories_2__arbres%23utilisateur__=arbres%23utilisateur&country__0__=&country__1__=&country__2__=&country__3__=&country__4__=&exact_day=&exact_month=&exact_year=&from=&go=1&ignore_each_patronyme=&ignore_each_prenom=&nom=NEUMANN&page=1&place__0__=&place__1__=&place__2__=&place__3__=&place__4__=&prenom=Fritz&prenom_operateur=and&region__0__=&region__1__=&region__2__=&region__3__=&region__4__=&sexe=&size=50&subregion__0__=&subregion__1__=&subregion__2__=&subregion__3__=&subregion__4__=&to=&type_periode=between&zonegeo__0__=&zonegeo__1__=&zonegeo__2__=&zonegeo__3__=&zonegeo__4__=
+
+
+Fritz NEUMANN
+Male
+16 August 1903–25 March 1989
+•
+L7F4-BS9
+
+https://ancestors.familysearch.org/en/L7F4-BS9/fritz-neumann-1903-1989
+
+
+# Hede Klinge (Hedwig Neumann)
+
+https://archive.org/stream/catalogofcopyrig344lib/catalogofcopyrig344lib_djvu.txt
+https://archive.org/details/catalogofcopyrig344lib/page/143/mode/1up
+
+https://gw.geneanet.org/mhayda?n=neumann&oc=&p=franz+robert+fritz
+
 
 ## Further research
 

@@ -11,6 +11,7 @@ resources:
 - src: "item_3052824_1.jpg"
 - src: "item_3052824_2.jpg"
 - src: "item_3052824_3.jpg"
+- src: "item_3052824_4.jpg"
 ---
 
 **Kurze Beschreibung:** Variante der Segelboote (bekannt als Ric 05) mit einer ungewöhnliche Lage der Signatur - innerhalb des Drucks.

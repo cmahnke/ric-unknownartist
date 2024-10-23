@@ -11,6 +11,7 @@ resources:
 - src: "item_3052824_1.jpg"
 - src: "item_3052824_2.jpg"
 - src: "item_3052824_3.jpg"
+- src: "item_3052824_4.jpg"
 ---
 
 **Short description:** Sailing boats, known as Ric 05. This one has a unusual location of the signature - within the print.
