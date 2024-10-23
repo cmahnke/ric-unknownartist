@@ -143,14 +143,6 @@ https://www.ebth.com/items/6839331-fritz-neumann-drypoint-engravings-of-terrier-
 https://www.auktion-dannenberg.de/de/l/722672/neumann_fritz_geb_1915?aid=296335&aname=177_varia-_spielzeugauktion&Q=%208651&Atype=0&Lstatus=1&currentpos=1
 
 
-https://de.geneanet.org/fonds/individus/?categories_1__arbres__=arbres&categories_2__arbres%23geneastar__=arbres%23geneastar&categories_2__arbres%23utilisateur__=arbres%23utilisateur&country__0__=&country__1__=&country__2__=&country__3__=&country__4__=&exact_day=&exact_month=&exact_year=&from=&go=1&ignore_each_patronyme=&ignore_each_prenom=&nom=NEUMANN&page=1&place__0__=&place__1__=&place__2__=&place__3__=&place__4__=&prenom=Fritz&prenom_operateur=and&region__0__=&region__1__=&region__2__=&region__3__=&region__4__=&sexe=&size=50&subregion__0__=&subregion__1__=&subregion__2__=&subregion__3__=&subregion__4__=&to=&type_periode=between&zonegeo__0__=&zonegeo__1__=&zonegeo__2__=&zonegeo__3__=&zonegeo__4__=
-
-
-Fritz NEUMANN
-Male
-16 August 1903–25 March 1989
-•
-L7F4-BS9
 
 https://ancestors.familysearch.org/en/L7F4-BS9/fritz-neumann-1903-1989
 
