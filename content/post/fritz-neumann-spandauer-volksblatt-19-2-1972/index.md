@@ -8,11 +8,11 @@ sticky: true
 ---
 Today I received an e-mail from Sebastian Schuth, head of the archive of the Spandau City History Museum. Attached to it was a newspaper article from the Spandauer Volksblatt of 19 February 1972, the title:
 
-<p style="text-align: centre; font-weight: bold;">
+<p style="text-align: center; font-weight: bold;">
   Segelboote für Millionäre und Vögel für sich selbst<br/>
   (Sailboats for millionaires and birds for themselves)
 </p>
-<p style="text-align: centre; font-style: italic;">
+<p style="text-align: center; font-style: italic;">
   Fritz Neumann: "Ich male am liebsten, was ich sehe ..."<br/>
   (Fritz Neumann: "My favourite thing to paint is what I see ...")
 </p>
