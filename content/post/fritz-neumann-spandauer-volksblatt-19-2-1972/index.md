@@ -51,6 +51,6 @@ By the way, the name "Hede Klinge" already appears by pure luck in an older arti
 
 And it is also clear that the Fritz Neumann from the [Archiv der Reichskunstkammer](https://ric-unknownartist.projektemacher.org/post/fritz-neumann-reichskunstkammer/) is not "our" Fritz Neumann.
 
-## Update Addendum 24.10.2024
+## Update 24.10.2024
 
 In the meantime, I have also received another reference from Torsten Steinberg: He sent me an extract from the death register. According to this, Fritz Neumann died on 8 June 1984 in the Havelhöhe Community Hospital in Berlin Spandau.

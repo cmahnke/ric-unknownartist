@@ -160,6 +160,10 @@ https://gw.geneanet.org/mhayda?n=neumann&oc=&p=franz+robert+fritz
 * Andre Hans Ficus https://de.wikipedia.org/wiki/Andr%C3%A9_Ficus
 
 * Which Kunstschule?
+https://www.udk-berlin.de/fileadmin/2_dezentral/FR_Universitaetsarchiv/PDFs/006_Alphabet._Namensverzeichnisse/WS_1909_10_-_SS_1924_01.pdf
+
+Akademische Hochschule für die Bildenden Künste
+
 * Sterbedatum
 
 
