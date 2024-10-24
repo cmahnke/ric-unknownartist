@@ -9,7 +9,7 @@ sticky: true
 
 # Der richtige Fritz Neumann ist gefunden!
 
-Heute erreichte mich eine Mail von Sebastian Schuth, Leiter des Archivs des Stadtgeschichtlichen Museums Spandau. Daran angehängt war eine Zeitungsartikel aus dem Spandauer Volksblatt vom 19.02.1972, der Titel:
+Heute erreichte mich eine Mail von Sebastian Schuth, Leiter des Archivs des Stadtgeschichtlichen Museums Spandau. Daran angehängt war eine Zeitungsartikel aus dem Spandauer Volksblatt vom 19.02.1972 (Archivsignatur IV C Z ZA PA 1038), der Titel:
 
 <p style="text-align: center; font-weight: bold;">
   Segelboote für Millionäre und Vögel für sich selbst

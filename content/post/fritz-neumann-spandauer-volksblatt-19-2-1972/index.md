@@ -6,7 +6,7 @@ tags:
 title: "Article on Fritz Neumann in Spandauer Volksblatt 19.2.1972"
 sticky: true
 ---
-Today I received an e-mail from Sebastian Schuth, head of the archive of the Spandau City History Museum. Attached to it was a newspaper article from the Spandauer Volksblatt of 19 February 1972, the title:
+Today I received an e-mail from Sebastian Schuth, head of the archive of the Spandau City History Museum. Attached to it was a newspaper article from the Spandauer Volksblatt of 19 February 1972 (Archive signature IV C Z ZA PA 1038), the title:
 
 <p style="text-align: center; font-weight: bold;">
   Segelboote für Millionäre und Vögel für sich selbst<br/>
