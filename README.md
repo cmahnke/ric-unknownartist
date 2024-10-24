@@ -159,6 +159,10 @@ https://gw.geneanet.org/mhayda?n=neumann&oc=&p=franz+robert+fritz
 
 * Andre Hans Ficus https://de.wikipedia.org/wiki/Andr%C3%A9_Ficus
 
+* Which Kunstschule?
+* Sterbedatum
+
+
 ## Functionality
 
 * Show tag frequency, to illustrate distribution / print runs

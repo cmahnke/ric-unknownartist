@@ -49,3 +49,7 @@ Mit diesen Daten lässt sich z.B. ein [Eintrag auf Geneanet.org](https://gw.gene
 Übrigens taucht der Name "Hede Klinge" schon zufällig in einem älteren Artikel über [Copyright Einträge](/post/fritz-neumann-copyright-records/) auf, jetzt wird offenbar, dass es nicht so zufällig war.
 
 Und ist aber auch klar, dass der Fritz Neumann aus dem [Archiv der Reichskunstkammer](https://ric-unknownartist.projektemacher.org/post/fritz-neumann-reichskunstkammer/) nicht "unser" Fritz Neumann ist.
+
+## Nachtrag 24.10.2024
+
+Inzwischen habe ich auch einen weiteren Hinweis von Torsten Steinberg erhalten: Er hat mir ein Auszug aus dem Sterberegister geschickt. Demnach ist Fritz Neumann am 8.6.1984 im Gemeinschaftskrankenhaus Havelhöhe in Berlin Spandau verstorben.
