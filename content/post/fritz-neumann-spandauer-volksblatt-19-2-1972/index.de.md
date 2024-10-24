@@ -35,10 +35,11 @@ Neben den Lebensstationen werden noch die verschieden Motive und Ort, von dem Ne
 Mit diesen Daten lässt sich z.B. ein [Eintrag auf Geneanet.org](https://gw.geneanet.org/mhayda?n=neumann&oc=&p=franz+robert+fritz) finden, der es erlaubt die Daten weiter einzugrenzen:
 
 * Voller Name: **Franz Robert Fritz Neumann**
-* Geburtstag: **6.12.1897**
-* Todestag: **8.6.1984**
+* Geburtstag: **6. Dezember 1897**
+* Todestag: **8. Juni 1984**
 * Ehefrau: **Anna Hedwig Klinge**
-  * Geburtstag 21. September 1895
+  * Geburtstag: 21. September 1895
+  * Todestag: 5. November 1980
   * Hochzeitstag 2. Mai 1925
 * Eltern:
   * Ludwig Karl Franz Neumann 1858-1933

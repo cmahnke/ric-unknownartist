@@ -34,10 +34,11 @@ In addition to the stages of his life, the various motifs and places from which 
 With this data, for example, an [entry on Geneanet.org](https://gw.geneanet.org/mhayda?n=neumann&oc=&p=franz+robert+fritz) can be found, which allows the data to be narrowed down further:
 
 * Full name: **Franz Robert Fritz Neumann**
-* Date of birth: **6.12.1897**
-* Date of death: **8.6.1984**
+* Date of birth: **6 December 1897**
+* Date of death: **8 June 1984**
 * Wife: **Anna Hedwig Klinge**
-  * Birthday 21 September 1895
+  * Date of birth: 21 September 1895
+  * Date of death: 5 November 1980
   * Wedding day 2 May 1925
 * Parents:
   * Ludwig Karl Franz Neumann 1858-1933
