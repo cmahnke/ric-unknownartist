@@ -36,6 +36,7 @@ Mit diesen Daten lässt sich z.B. ein [Eintrag auf Geneanet.org](https://gw.gene
 
 * Voller Name: **Franz Robert Fritz Neumann**
 * Geburtstag: **6.12.1897**
+* Todestag: **8.6.1984**
 * Ehefrau: **Anna Hedwig Klinge**
   * Geburtstag 21. September 1895
   * Hochzeitstag 2. Mai 1925

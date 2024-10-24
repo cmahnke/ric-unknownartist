@@ -35,6 +35,7 @@ With this data, for example, an [entry on Geneanet.org](https://gw.geneanet.org/
 
 * Full name: **Franz Robert Fritz Neumann**
 * Date of birth: **6.12.1897**
+* Date of death: **8.6.1984**
 * Wife: **Anna Hedwig Klinge**
   * Birthday 21 September 1895
   * Wedding day 2 May 1925
