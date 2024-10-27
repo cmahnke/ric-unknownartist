@@ -19,6 +19,10 @@ Zu Fritz Neumann ist als Geburtstag der **6. Dezember 1897** und die Adresse **L
 
 Anna Hedwig Neumann wurde am **21. September 1895** geboren und wohnte in der **Alten Schönhauser Straße 61**.
 
+Am Rand der Urkunde ist ist auch das Todesdatum von Anna Hedwig Neumann, der **5. November 1980** vermerkt, dazu das zuständige Standesamt (Berlin Spandau) und die Nummer 3262/1980.
+
+**Quelle:** Standesamt Berlin 9 (IX), Heiratsregister, Nr. 131/1925
+
 ### Trauzeugen
 
 Torsten Steinberg ergänzt auch die Trauzeugen:
@@ -36,3 +40,5 @@ Dies ist die Sterbeurkunde für **Franz Robert Fritz Neumann**, Kunstmaler. Die 
 Er starb am **8. Juni 1984** im Krankenhaus Spandau.
 
 Zusätzlich angegeben ist das Geburtsdatum, der  **6. Dezember 1897** und das er Witwer von **Anna Hedwig Neumann, geb. Klinge**, mit der er seit dem **2. Mai 1925** verheiratet war (siehe oben), war.
+
+**Quelle:** Standesamt Spandau von Berlin, Sterberegister, Nr. 1476/1984

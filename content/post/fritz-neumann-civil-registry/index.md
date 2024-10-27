@@ -19,6 +19,8 @@ Fritz Neumann's birthday is given as **6 December 1897** and his address as **Le
 
 Anna Hedwig Neumann was born on **21 September 1895** and lived at **Alten Schönhauser Straße 61**.
 
+**Source:** Standesamt Berlin 9 (IX), Heiratsregister, Nr. 131/1925
+
 ### Witnesses
 
 Torsten Steinberg also adds the witnesses:
@@ -36,3 +38,5 @@ This is the death certificate for **Franz Robert Fritz Neumann**, painter. The a
 He died on **8 June 1984** in Spandau Hospital.
 
 In addition, the date of birth is given as **6 December 1897** and that he was the widower of **Anna Hedwig Neumann, née Klinge**, to whom he had been married since 2 May 1925 (see above).
+
+**Source:** Standesamt Spandau von Berlin, Sterberegister, Nr. 1476/1984
