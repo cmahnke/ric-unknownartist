@@ -7,7 +7,7 @@ title: "Civil register entries for Fritz Neumann"
 disableImageViewer: true
 ---
 
-Thanks to Torten Steinberg, we now have two civil register entries for Fritz Neumann. These are partly the source for the dates in the [main entry](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
+Thanks to Torsten Steinberg, we now have two civil register entries for Fritz Neumann. These are partly the source for the dates in the [main entry](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 
 ## Marriage certificate
 
@@ -21,7 +21,7 @@ Anna Hedwig Neumann was born on **21 September 1895** and lived at **Alten Schö
 
 ### Witnesses
 
-Torten Steinberg also adds the witnesses:
+Torsten Steinberg also adds the witnesses:
 * The craftswoman Erna Dombrowski, 30 years old, living in Berlin-Friedenau, Fregestraße 78.
 
   Erna Luise Adele was born on 9.4.1895. On 16.3.1934 she married the senior teacher Otto Wilhelm Alfred Büchner (died 1952). Her profession at the time of marriage was draughtswoman. At the time of her husband's death, they both lived in Bergmannstraße in Berlin.

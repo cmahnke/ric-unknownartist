@@ -7,7 +7,7 @@ title: "Personenstandsregisterauszüge für Fritz Neumann"
 disableImageViewer: true
 ---
 
-Dank Torten Steinberg haben wir jetzt zwei Personenstandsregistereinträge für Fritz Neumann. Diese sind teilweise die Quelle für die Daten im [Hauptartikel](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
+Dank Torsten Steinberg haben wir jetzt zwei Personenstandsregistereinträge für Fritz Neumann. Diese sind teilweise die Quelle für die Daten im [Hauptartikel](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 
 ## Heiratsurkunde
 
@@ -21,7 +21,7 @@ Anna Hedwig Neumann wurde am **21. September 1895** geboren und wohnte in der **
 
 ### Trauzeugen
 
-Torten Steinberg ergänzt auch die Trauzeugen:
+Torsten Steinberg ergänzt auch die Trauzeugen:
 * Die Kunstgewerblerin Erna Dombrowski, 30 Jahre alt, wohnhaft Berlin-Friedenau, Fregestraße 78.
 
   Erna Luise Adele wurde am 9.4.1895. Am 16.3.1934 heiratete sie den Gewerbeoberlehrer Otto Wilhelm Alfred Büchner (gestorben 1952). Ihr Beruf zum Zeitpunkt der Heirat war Zeichnerin. Zum Zeitpunkt des Todes ihrese Mannes wohnten beide in der Berliner Bergmannstraße.
