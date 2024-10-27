@@ -1,0 +1,17 @@
+{{- $include := "" -}}
+{{- $file := "" -}}
+
+{{- if (.Get "src") }}
+  {{- $file = path.Join .Page.File.Dir (.Get "src") -}}
+  {{ $include = readFile $file | markdownify -}}
+{{- else -}}
+  <div class="image-viewer-error">No source in include given</div>
+{{- end -}}
+
+{{- if not (fileExists $file) -}}
+  <div class="image-viewer-error">Couldn't find file to include "{{ $file }}"</div>
+{{- end -}}
+
+<div class="include">
+  {{- $include -}}
+</div>
