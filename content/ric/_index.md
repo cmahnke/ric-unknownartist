@@ -6,7 +6,8 @@ displayInList: false
 disableImageViewer: true
 ---
 <s>It’s currently unknown who’s behind the signature “RIC”.</s> <s>**[Update 1. October 2020]: [The mystery is solved!](/ric/mystery-solved)**</s> **[Update 25. July 2024]: [The previous unveiling turned out to wrong](/post/mystery-again/)**
-All we currently know, ist that the real name of Ric is Fritz Neumann, but not much more.
+<s>All we currently know, ist that the real name of Ric is Fritz Neumann, but not much more.</s>
+**[Update 23. October 2024]: Ric has been found (again), since we now know a bit about Fritz Neumann, the [artist behind the pseudonym](http://localhost:1313/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).**
 
 There seem to exist paintings by “Ric”, but most currently known works are prints. some Internet sites are quite misleading about the technique he used. Some are stated to be (colour) wood block prints, but they are almost certainly colourized etchings. Quite striking, “Ric” never seem to number his prints. This can be taken as a sign that they have been reprinted quite often.
 
