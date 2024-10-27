@@ -37,7 +37,7 @@ Um zwischen den Arbeiten unserer Kandidaten unterscheiden zu können, verwenden 
 
     Er ist auf der [Liste der vergangenen Ausstellungen](http://www.kunstverein-nordenham.de/verzeichnis.html) des Kunstvereins Nordenham (eine Stadt in der Nähe von Oldenburg in Norddeutschland) aufgeführt. Und es gibt mehrere Treffer, wenn man im [Archiv der Lokalzeitung](https://epaper.nwzonline.de/archiv/) von Oldenburg nach ihm sucht.
 
-* Fritz Neumann - _FNX_ - es gibt tatsächlich einen anderen Fritz Neumann (1897 - 1984), der nicht viele Spuren hinterlassen hat, zumindest keine, die es in online durchsuchbare Archive geschafft haben. Siehe [Blog-Artikel über einen Fund in einem Zeitungsarchiv](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
+* [Fritz Neumann](/ric/fritz-neumann-1897-1984) - _FNX_ - es gibt tatsächlich einen anderen Fritz Neumann (1897 - 1984), der nicht viele Spuren hinterlassen hat, zumindest keine, die es in online durchsuchbare Archive geschafft haben. Siehe [Blog-Artikel über einen Fund in einem Zeitungsarchiv](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 
 Signaturen
 ----------

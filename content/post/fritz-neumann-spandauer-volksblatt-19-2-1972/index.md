@@ -6,7 +6,7 @@ tags:
 title: "Article on Fritz Neumann in Spandauer Volksblatt 19.2.1972"
 sticky: true
 ---
-Today I received an e-mail from Sebastian Schuth, head of the archive of the Spandau City History Museum. Attached to it was a newspaper article from the Spandauer Volksblatt of 19 February 1972 (Archive signature IV C Z ZA PA 1038), the title:
+Today I received an e-mail from Sebastian Schuth, head of the archive of the Spandau City History Museum. Attached to it was a newspaper article from the Spandauer Volksblatt of 19 February 1972 (Archive signature IV C Z ZA PA 1038), written by a Uwe-Michael Troppenz, the title:
 
 <p style="text-align: center; font-weight: bold;">
   Segelboote für Millionäre und Vögel für sich selbst<br/>
@@ -41,9 +41,10 @@ With this data, for example, an [entry on Geneanet.org](https://gw.geneanet.org/
   * Date of death: 5 November 1980
   * Wedding day 2 May 1925
 * Parents:
-  * Ludwig Karl Franz Neumann 1858-1933
-  * Clara Emilie Emma Wusterhausen 1871-1942
-* Brother: Wilhelm Franz Rudolf Neumann 1901-
+  * Ludwig Karl Franz Neumann, 1858-1933, (Letterpress) printer
+  * Clara Emilie Emma Wusterhausen, 1871-1942
+* Brother: Wilhelm Franz Rudolf Neumann, 1901-
+
 
 ## Connections to other articles
 
@@ -53,4 +54,9 @@ And it is also clear that the Fritz Neumann from the [Archiv der Reichskunstkamm
 
 ## Update 24.10.2024
 
-In the meantime, I have also received another reference from Torsten Steinberg: He sent me an extract from the death register. According to this, Fritz Neumann died on 8 June 1984 in the Havelhöhe Community Hospital in Berlin Spandau.
+In the meantime, I have also received another reference from Torsten Steinberg: He sent me an [extract from the death register](/post/fritz-neumann-civil-registry). According to this, Fritz Neumann died on 8 June 1984 in the Havelhöhe Community Hospital in Berlin Spandau.
+
+## Documents
+
+* [Civil register entries for Fritz Neumann](/post/fritz-neumann-civil-registry)
+* [Fritz Neumann at the Academy of Fine Arts, Berlin](/post/fritz-neumann-academic-college-of-fine-arts/)

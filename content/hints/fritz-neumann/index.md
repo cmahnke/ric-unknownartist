@@ -36,7 +36,7 @@ To be able to distinguish between the work of our candidates we use a code (_FN1
 
     He is listed on the [list of past exhibitions](http://www.kunstverein-nordenham.de/verzeichnis.html) of the Kunstverein Nordenham (A city near Oldenburg in the north of Germany). And there are several hits if you search for him in the [archive of the local newspaper](https://epaper.nwzonline.de/archiv/) of Oldenburg.
 
-*   Fritz Neumann - _FNX_ - there indeed is another Fritz Neumann (1897 - 1984), who left not much traced behind, at least none that have made it to online searchable archives. See [the blog article on a find in a newspaper archive](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
+*   [Fritz Neumann](/ric/fritz-neumann-1897-1984) - _FNX_ - there indeed is another Fritz Neumann (1897 - 1984), who left not much traced behind, at least none that have made it to online searchable archives. See [the blog article on a find in a newspaper archive](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 
 Signatures
 ----------

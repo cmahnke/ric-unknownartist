@@ -9,7 +9,7 @@ sticky: true
 
 # Der richtige Fritz Neumann ist gefunden!
 
-Heute erreichte mich eine Mail von Sebastian Schuth, Leiter des Archivs des Stadtgeschichtlichen Museums Spandau. Daran angehängt war eine Zeitungsartikel aus dem Spandauer Volksblatt vom 19.02.1972 (Archivsignatur IV C Z ZA PA 1038), der Titel:
+Heute erreichte mich eine Mail von Sebastian Schuth, Leiter des Archivs des Stadtgeschichtlichen Museums Spandau. Daran angehängt war eine Zeitungsartikel aus dem Spandauer Volksblatt vom 19.02.1972 (Archivsignatur IV C Z ZA PA 1038), geschrieben von einem Uwe-Michael Troppenz, der Titel:
 
 <p style="text-align: center; font-weight: bold;">
   Segelboote für Millionäre und Vögel für sich selbst
@@ -28,7 +28,7 @@ Darin geht es um die Person, die hier schon seit Jahren gesucht wird, den Spanda
 
 Zusätzlich ist zu erfahren, dass seine Frau auch nach der Hochzeit ihre Werke unter ihrem Mädchennamen Hede Klinge veröffentlichte. Sowie, dass er für die ["Deutschen Allgemeinen Zeitung"](https://de.wikipedia.org/wiki/Deutsche_Allgemeine_Zeitung_(1919%E2%80%931945)) arbeitete - sicherlich nach dem ersten Weltkrieg.
 
-Neben den Lebensstationen werden noch die verschieden Motive und Ort, von dem Neumann seine Inspirationen bezog, besprochen.
+Neben den Lebensstationen werden noch die verschieden Motive und Orte, von dem Neumann seine Inspirationen bezog, besprochen.
 
 ## Herkunft und Familie
 
@@ -42,9 +42,9 @@ Mit diesen Daten lässt sich z.B. ein [Eintrag auf Geneanet.org](https://gw.gene
   * Todestag: 5. November 1980
   * Hochzeitstag 2. Mai 1925
 * Eltern:
-  * Ludwig Karl Franz Neumann 1858-1933
-  * Clara Emilie Emma Wusterhausen 1871-1942
-* Bruder:  Wilhelm Franz Rudolf Neumann 1901-
+  * Ludwig Karl Franz Neumann, 1858-1933, Buchdrucker
+  * Clara Emilie Emma Wusterhausen, 1871-1942
+* Bruder:  Wilhelm Franz Rudolf Neumann, 1901-
 
 ## Verbindungen zu anderen Artikeln
 
@@ -54,4 +54,9 @@ Und ist aber auch klar, dass der Fritz Neumann aus dem [Archiv der Reichskunstka
 
 ## Nachtrag 24.10.2024
 
-Inzwischen habe ich auch einen weiteren Hinweis von Torsten Steinberg erhalten: Er hat mir ein Auszug aus dem Sterberegister geschickt. Demnach ist Fritz Neumann am 8.6.1984 im Gemeinschaftskrankenhaus Havelhöhe in Berlin Spandau verstorben.
+Inzwischen habe ich auch einen weiteren Hinweis von Torsten Steinberg erhalten: Er hat mir ein [Auszug aus dem Sterberegister]((/post/fritz-neumann-civil-registry)) geschickt. Demnach ist Fritz Neumann am 8. Juni 1984 im heutigen Gemeinschaftskrankenhaus Havelhöhe in Berlin Spandau verstorben.
+
+## Dokumente
+
+* [Personenstandsregisterauszüge für Fritz Neumann](/de/post/fritz-neumann-civil-registry)
+* [Fritz Neumann an der Akademische Hochschule für die Bildenden Künste](/de/post/fritz-neumann-academic-college-of-fine-arts/)
