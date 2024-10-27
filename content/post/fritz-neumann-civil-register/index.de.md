@@ -5,6 +5,8 @@ tags:
 - Hint
 title: "Personenstandsregisterauszüge für Fritz Neumann"
 disableImageViewer: true
+alias:
+- fritz-neumann-civil-registry
 ---
 
 Dank Torsten Steinberg haben wir jetzt zwei Personenstandsregistereinträge für Fritz Neumann. Diese sind teilweise die Quelle für die Daten im [Hauptartikel](/de/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).

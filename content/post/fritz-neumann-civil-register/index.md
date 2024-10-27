@@ -5,6 +5,8 @@ tags:
 - Hint
 title: "Civil register entries for Fritz Neumann"
 disableImageViewer: true
+alias:
+- fritz-neumann-civil-registry
 ---
 
 Thanks to Torsten Steinberg, we now have two civil register entries for Fritz Neumann. These are partly the source for the dates in the [main entry](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
@@ -17,7 +19,7 @@ This is the marriage certificate of **Franz Robert Fritz Neumann** and **Anna He
 
 Fritz Neumann's birthday is given as **6 December 1897** and his address as **Lettestraße 1**.
 
-Anna Hedwig Neumann was born on **21 September 1895** and lived at **Alten Schönhauser Straße 61**.
+Anna Hedwig Neumann was born on **21 September 1895** and lived at **Alte Schönhauser Straße 61**.
 
 **Source:** Standesamt Berlin 9 (IX), Heiratsregister, Nr. 131/1925
 
