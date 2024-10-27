@@ -37,3 +37,7 @@ Above only random samples, therefore the cut-outs are not continuous. No address
 {{< figure src="1984.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-6810838/fragment/page=1589" caption="Phone book 1984" class="center" >}}
 
 This at least makes it clear that our Fritz Neumann lived and worked in Berlin for around 50 years. And perhaps died in 1984, or at least stopped working as a graphic designer, e.g. because he went into an old people's home.
+
+## Sources
+
+The digital copies of the sources are linked to the respective excerpts. As the URN:NBN resolver of the DNB is used, these can also be cited.

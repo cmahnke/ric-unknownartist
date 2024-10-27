@@ -164,7 +164,9 @@ https://www.udk-berlin.de/fileadmin/2_dezentral/FR_Universitaetsarchiv/PDFs/006_
 
 Akademische Hochschule für die Bildenden Künste
 
-* Sterbedatum
+
+https://nbn-resolving.org/urn:nbn:de:kobv:109-1-3569947/fragment/page=5303
+
 
 
 ## Functionality

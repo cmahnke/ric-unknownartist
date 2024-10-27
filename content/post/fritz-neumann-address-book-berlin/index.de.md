@@ -37,3 +37,7 @@ Oben nur Stichproben, daher sind die Ausschnitte nicht fortlaufend. Nach 1970 si
 {{< figure src="1984.png" width="400px" link="https://nbn-resolving.org/urn:nbn:de:kobv:109-1-6810838/fragment/page=1589" caption="Telefonbuch 1984" class="center" >}}
 
 Damit ist zumindest klar, dass unser Fritz Neumann rund 50 Jahre lang in Berlin gelebt und gearbeitet hat. Und vielleicht ist er 1984 gestorben oder hat zumindest aufgehört, als Grafiker zu arbeiten, z.B. weil er in ein Altersheim ging.
+
+## Quellen
+
+Die Digitalisate der Quellen sind bei den jeweiligen Ausschnitten verlinkt. Da der URN:NBN Resolver der DNB genutzt weird, können diese auch zitiert werden.
