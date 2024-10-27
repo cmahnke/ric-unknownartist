@@ -33,7 +33,7 @@ Torsten Steinberg also adds the witnesses:
 
 {{< figure src="Fritz Neumann Sterbeurkunde.jpg" caption="" alt="" >}}
 
-This is the death certificate for **Franz Robert Fritz Neumann**, painter. The address Gartenfelder Str. 132 h is the one known from the old [address books](https://ric-unknownartist.projektemacher.org/post/fritz-neumann-address-book-berlin/).
+This is the death certificate for **Franz Robert Fritz Neumann**, painter. The address Gartenfelder Str. 132 h is the one known from the old [address books](/post/fritz-neumann-address-book-berlin/).
 
 He died on **8 June 1984** in Spandau Hospital.
 

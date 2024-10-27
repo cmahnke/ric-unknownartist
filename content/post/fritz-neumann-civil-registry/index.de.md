@@ -7,7 +7,7 @@ title: "Personenstandsregisterauszüge für Fritz Neumann"
 disableImageViewer: true
 ---
 
-Dank Torsten Steinberg haben wir jetzt zwei Personenstandsregistereinträge für Fritz Neumann. Diese sind teilweise die Quelle für die Daten im [Hauptartikel](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
+Dank Torsten Steinberg haben wir jetzt zwei Personenstandsregistereinträge für Fritz Neumann. Diese sind teilweise die Quelle für die Daten im [Hauptartikel](/de/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 
 ## Heiratsurkunde
 
@@ -35,7 +35,7 @@ Torsten Steinberg ergänzt auch die Trauzeugen:
 
 {{< figure src="Fritz Neumann Sterbeurkunde.jpg" caption="" alt="Sterbeurkunde Fritz Neumann" >}}
 
-Dies ist die Sterbeurkunde für **Franz Robert Fritz Neumann**, Kunstmaler. Die Adresse Gartenfelder Str. 132 h ist die aus den alten [Adressbüchern bekannte](https://ric-unknownartist.projektemacher.org/post/fritz-neumann-address-book-berlin/).
+Dies ist die Sterbeurkunde für **Franz Robert Fritz Neumann**, Kunstmaler. Die Adresse Gartenfelder Str. 132 h ist die aus den alten [Adressbüchern bekannte](/de/post/fritz-neumann-address-book-berlin/).
 
 Er starb am **8. Juni 1984** im Krankenhaus Spandau.
 
