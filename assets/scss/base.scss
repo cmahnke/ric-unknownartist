@@ -250,3 +250,13 @@ pre.mermaid {
 figure.center figcaption p {
   padding-top: unset !important;
 }
+
+.post.text {
+  h3 {
+    margin-bottom: 1rem;
+  }
+
+  details summary {
+    margin-bottom: 1rem;
+  }
+}

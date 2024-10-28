@@ -167,6 +167,11 @@ Akademische Hochschule für die Bildenden Künste
 
 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-3569947/fragment/page=5303
 
+##
+
+https://nbn-resolving.org/urn:nbn:de:kobv:109-1-3955025/fragment/page=2370 Zeichner Tannhäuserstr 96
+
+1934 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4256192/fragment/page=1775
 
 
 ## Functionality
