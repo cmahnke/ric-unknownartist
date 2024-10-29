@@ -78,7 +78,7 @@
         <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
     {{ end }}
 
-    {{- $options := (dict "targetPath" "base.css" "outputStyle" "compressed") -}}
+    {{- $options := (dict "transpiler" "dartsass" "targetPath" "base.css" "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) "includePaths" "node_modules/ol") -}}
     {{- $ourTemplate := resources.Get "scss/base.scss" -}}
     {{- $ourStyle := $ourTemplate | resources.ExecuteAsTemplate "scss/base.scss" . | toCSS $options -}}
 

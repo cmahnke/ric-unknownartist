@@ -5,9 +5,10 @@ $font-body: 'Calluna Regular';
 $font-sec: 'Calluna Regular', georgia, serif;
 $font-menu: 'Calluna Regular', georgia, serif;
 
-@import "observer.scss";
-@import "./table";
-@import "./include";
+@use "observer.scss";
+@use "./table";
+@use "./include";
+@use "ol-iiif";
 /* @import "./disable-lang"; */
 
 @font-face {
@@ -153,11 +154,12 @@ $font-menu: 'Calluna Regular', georgia, serif;
 .caption {
     figure {
         width: max-content;
+        max-width: 95%;
+        margin: auto;
+
         @media screen and (max-width: 740px) {
             width: unset;
         }
-        max-width: 95%;
-        margin: auto;
 
         a {
             img {
