@@ -22,3 +22,7 @@ i18n/ric-unknownartist.en.toml
 data/stats.json
 content/**/front/
 **/vips-properties.xml
+static/fonts/**
+assets/css/**
+static/pdfjs/**
+patches/**
