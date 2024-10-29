@@ -37,7 +37,7 @@ The printed [copyright catalogs](https://en.wikipedia.org/wiki/Copyright_Catalog
 | Jagdflieger                               | January 1937   |
 | Ferienerinnerungen (from my window)       | May 1938       |
 | Cup race                                  | December 1938  |
-| Dem endkampf entgegen                     | July 1937      |
-| Ran an den wind                           | March 1936     |
-| Hol an die schooten (Taking it cleverly)  | July 1936      |
+| Dem endkampf entgegen                     | July 1937      |
+| Ran an den wind                           | March 1936     |
+| Hol an die schooten (Taking it cleverly)  | July 1936      |
 | Mercurius                                 | March 1937     |
