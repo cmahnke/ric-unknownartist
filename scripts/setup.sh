@@ -30,8 +30,14 @@ convert static/images/favicon-256.png -resize 64x64 static/images/favicon-64.png
 convert static/images/favicon-256.png -resize 128x128 static/images/favicon-128.png
 convert static/images/favicon-16.png static/images/favicon-32.png static/images/favicon-64.png static/images/favicon-128.png static/images/favicon-256.png -colors 256 static/images/favicon.ico
 
+echo "Calling theme scripts"
+for SCRIPT in $PWD/themes/projektemacher-base/scripts/init/*.sh ; do
+    echo "Running $SCRIPT"
+    bash "$SCRIPT"
+done
+
 # NPM dependencies
-yarn install
+#yarn install
 yarn run logo
 
 # Language files
