@@ -88,3 +88,5 @@ In addition, already known data can also be found in name directories of Berlin 
 
 * [Name index birth register 1897 registry office Berlin Xb](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_221_0605.pdf#page=167)
 * [Name index marriage register 1925 registry office Berlin IX](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_806_0658.pdf#page=33)
+
+Dank an Evelyn Kraßmann für den Hinweis.
