@@ -11,6 +11,6 @@ resources:
 - src: "signature.jpg"
 ---
 
-**Short description:** Kolorierte Radierung eines Ententeichs von Fritz Neumann
+**Kurze Beschreibung:** Kolorierte Radierung eines Ententeichs von Fritz Neumann
 
-**Notes:** Gefunden auf einem Flohmarkt (Flohmarkt Flohschanze) in Hamburg. Die Prägemarke von [J.C. Blumenberg](/de/hints/j-c-b/) ist gut erkennbar.
+**Anmerkungen:** Gefunden auf einem Flohmarkt (Flohmarkt Flohschanze) in Hamburg. Die Prägemarke von [J.C. Blumenberg](/de/hints/j-c-b/) ist gut erkennbar.

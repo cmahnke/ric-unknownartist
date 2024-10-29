@@ -1,0 +1,12 @@
+---
+date: 2024-11-01T10:33:00+02:00
+tags:
+- Fritz Neumann
+- Etching
+title: 'Kolorierte Radierung eines Flamingos von Fritz Neumann'
+draft: true
+---
+
+**Kurze Beschreibung:** Kolorierte Radierung eines Flamingos von Fritz Neumann
+
+**Anmerkungen:** Gefunden in einem Antiquariat in Hannover. Passend zum Titel des [Zeitungsartikels zu Fritz Neumann](/de/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
