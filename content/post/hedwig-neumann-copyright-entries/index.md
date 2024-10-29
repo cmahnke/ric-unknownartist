@@ -3,6 +3,7 @@ date: 2024-10-30T15:08:00+02:00
 tags:
 - Fritz Neumann
 - Hede Klinge-Neumann
+- Hedwig Neumann
 - Hint
 title: 'Hede Klinge-Neumann in the "Catalog of Copyright Entries"'
 disableImageViewer: true
