@@ -1,0 +1,30 @@
+@use "iiif";
+@use "ol-iiif";
+
+html, body {
+  height: 100%;
+}
+
+.iiif-image {
+
+  .viewer {
+    margin: auto;
+    display: block;
+    min-height: 50vh;
+
+    /*
+    .ol-viewport {
+      position: unset !important;
+    }
+    */
+
+    &.portrait {
+      min-height: 70vh;
+    }
+
+    &.landscape {
+
+    }
+
+  }
+}

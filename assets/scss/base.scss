@@ -5,10 +5,10 @@ $font-body: 'Calluna Regular';
 $font-sec: 'Calluna Regular', georgia, serif;
 $font-menu: 'Calluna Regular', georgia, serif;
 
-@use "observer.scss";
 @use "./table";
 @use "./include";
-@use "ol-iiif";
+@use "./iiif-content";
+@import "observer.scss";
 /* @import "./disable-lang"; */
 
 @font-face {
