@@ -4,7 +4,16 @@ tags:
 - Fritz Neumann
 - Etching
 title: 'Kolorierte Radierung eines Flamingos von Fritz Neumann'
-draft: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "front.jxl"
+  name: front
+  params:
+    iiif: front/info.json
+disableImageViewer: true
+js: js/iiif-image-viewer.js
 ---
 
 **Kurze Beschreibung:** Kolorierte Radierung eines Flamingos von Fritz Neumann

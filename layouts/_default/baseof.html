@@ -59,23 +59,54 @@
       {{- end -}}
     {{- end -}}
 
-    {{- if .Page.Params.js -}}
+    {{- if .IsHome -}}
+      {{- with .Site.RegularPages -}}
+        {{- range . -}}
+          {{- if .Params.js -}}
+            {{- $pageJS := resources.Get .Params.js | js.Build $opts -}}
+            {{- if reflect.IsSlice $js -}}
+              {{- $js = append $pageJS $js -}}
+            {{- else -}}
+              {{- $js = $js | append $pageJS -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else if (len .Pages) -}}
+      {{- with .Pages -}}
+        {{- range . -}}
+          {{- if .Params.js -}}
+            {{- $pageJS := resources.Get .Params.js | js.Build $opts -}}
+            {{- if reflect.IsSlice $js -}}
+              {{- $js = append $pageJS $js -}}
+            {{- else -}}
+              {{- $js = $js | append $pageJS -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else  -}}
+      {{- if .Page.Params.js -}}
         {{- $pageJS := resources.Get .Page.Params.js | js.Build $opts -}}
         {{- if reflect.IsSlice $js -}}
           {{- $js = append $pageJS $js -}}
         {{- else -}}
           {{- $js = $js | append $pageJS -}}
         {{- end -}}
+      {{- end -}}
     {{- end -}}
 
     {{- if reflect.IsSlice $js -}}
+      {{- $concatFileId := delimit $js "" | sha256 -}}
       {{- if not hugo.IsServer -}}
-        {{- $js = $js | resources.Concat (printf "js/concated-%d.js" (len $js)) | minify | fingerprint -}}
+        {{- $js = $js | resources.Concat (printf "js/concated-%s.js" $concatFileId) | minify | fingerprint -}}
       {{- else -}}
-        {{- $js = $js | resources.Concat (printf "js/concated-%d.js" (len $js)) | fingerprint -}}
+        {{- $js = $js | resources.Concat (printf "js/concated-%s.js" $concatFileId) | fingerprint -}}
       {{- end -}}
 
         <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+    {{- else -}}
+      {{- errorf "[baseof.html] Provided JavaScript shpuld be slice of resources" -}}
     {{ end }}
 
     {{- $options := (dict "transpiler" "dartsass" "targetPath" "base.css" "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) "includePaths" "node_modules/ol") -}}
