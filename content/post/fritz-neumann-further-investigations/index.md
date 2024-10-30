@@ -86,7 +86,7 @@ The digital copies of the sources are linked to the respective excerpts. As the 
 
 In addition, already known data can also be found in name directories of Berlin registry offices:
 
-* [Name index birth register 1897 registry office Berlin Xb](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_221_0605.pdf#page=167)
-* [Name index marriage register 1925 registry office Berlin IX](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_806_0658.pdf#page=33)
+* [Landesarchiv Berlin, P Rep. 221 registry office Berlin Xb Nr. 605 Name index birth register 1897, S. 167](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_221_0605.pdf#page=167) -
+* [Landesarchiv Berlin, P Rep.806 registry office Berlin IX Nr. 658 Name index marriage register 1925, S. 33](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_806_0658.pdf#page=33)
 
 Thanks to Evelyn Kraßmann for the tip.

@@ -86,7 +86,7 @@ Die Digitalisate der Quellen sind bei den jeweiligen Ausschnitten verlinkt. Da d
 
 Zusätzlich lassen sich bereits bekannte Daten auch in Namensverzeichnissen von Berliner Standesämtern finden:
 
-* [Namensverzeichnis Geburtenregister 1897 Standesamt Berlin Xb](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_221_0605.pdf#page=167)
-* [Namensverzeichnis Heiratsregister 1925 Standesamt Berlin IX](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_806_0658.pdf#page=33)
+* [Landesarchiv Berlin, P Rep. 221 Standesamt Berlin Xb Nr. 605 Namensverzeichnis Geburtenregister 1897, S. 167](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_221_0605.pdf#page=167) -
+* [Landesarchiv Berlin, P Rep.806 Standesamt Berlin IX Nr. 658 Namensverzeichnis Heiratsregister 1925, S. 33](http://www.content.landesarchiv-berlin.de/labsa/pdf/P_Rep_806_0658.pdf#page=33)
 
 Dank an Evelyn Kraßmann für den Hinweis.
