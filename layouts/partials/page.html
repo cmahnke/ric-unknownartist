@@ -39,7 +39,9 @@
       {{- $contextPath := path.Dir .File.Path -}}
       {{- range .Params.resources -}}
         {{- if .params.iiif -}}
-          {{ partial "iiif/iiif-image.html" (dict "context" . "contextPath" $contextPath "pageURL" .Permalink "pageContext" $.Page "site" $.Site) }}
+          <div class="iiif">
+            {{ partial "iiif/iiif-image.html" (dict "context" . "contextPath" $contextPath "pageURL" .Permalink "pageContext" $.Page "site" $.Site) }}
+          </div>
         {{- end -}}
       {{- end -}}
     {{- else -}}
