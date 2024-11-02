@@ -40,7 +40,14 @@ jobs:
         with:
           node-version-file: '.nvmrc'
 
+      - name: Create IIIF derivates
+        run: docker run -e CHOWN_UID=${UID} -e URL_PREFIX="https://ric-unknownartist.projektemacher.org/" -v ${PWD}:${PWD} ghcr.io/cmahnke/iiif-action:latest-jxl-uploader sh -c "cd ${PWD} && ./scripts/iiif.sh"
+
       - name: Generate Files
+        #environment:
+        #  URL_PREFIX: https://ric-unknownartist.projektemacher.org/
+        env:
+          SKIP_IIIF: yes
         run: |
           ./scripts/setup.sh
 
