@@ -19,4 +19,4 @@ Da aus dem [Zeitungsartikel](/de/post/fritz-neumann-spandauer-volksblatt-19-2-19
 |-------------------------------------------|----------------|
 | Frühing und jugend                        | Mai 1938       |
 | Schwesterchen wacht                       | Mai 1937       |
-| Mutties herzblaettchen                    | Dezember 1937  |
+| Mutties herzblaettchen                    | Dezember 1937  |

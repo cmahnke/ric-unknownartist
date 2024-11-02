@@ -19,4 +19,4 @@ As it is known from the [newspaper article](/post/fritz-neumann-spandauer-volksb
 |-------------------------------------------|----------------|
 | Frühing und jugend                        | May 1938       |
 | Schwesterchen wacht                       | May 1937       |
-| Mutties herzblaettchen                    | December 1937  |
+| Mutties herzblaettchen                    | December 1937  |
