@@ -98,7 +98,7 @@
 
     {{- if reflect.IsSlice $js -}}
       {{- $concatFileId := delimit $js "" | sha256 -}}
-      {{- if not hugo.IsServer -}}
+      {{- if eq hugo.Environment "production" -}}
         {{- $js = $js | resources.Concat (printf "js/concated-%s.js" $concatFileId) | minify | fingerprint -}}
       {{- else -}}
         {{- $js = $js | resources.Concat (printf "js/concated-%s.js" $concatFileId) | fingerprint -}}
