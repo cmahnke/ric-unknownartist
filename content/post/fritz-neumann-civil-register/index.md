@@ -13,7 +13,7 @@ Thanks to Torsten Steinberg, we now have two civil register entries for Fritz Ne
 
 ## Marriage certificate
 
-{{< figure src="Fritz Neumann Heirat.jpg" caption="" alt="" >}}
+{{< figure src="Fritz Neumann Heirat.jpg" caption="" alt="" class="civil-register" >}}
 
 This is the marriage certificate of **Franz Robert Fritz Neumann** and **Anna Hedwig Klinge**, married on **2 May 1925**. The occupation of both is given as "draughtsman" and "draughtswoman".
 
@@ -33,7 +33,7 @@ Torsten Steinberg also adds the witnesses:
 
 ## Death certificate
 
-{{< figure src="Fritz Neumann Sterbeurkunde.jpg" caption="" alt="" >}}
+{{< figure src="Fritz Neumann Sterbeurkunde.jpg" caption="" alt="" class="civil-register" >}}
 
 This is the death certificate for **Franz Robert Fritz Neumann**, painter. The address Gartenfelder Str. 132 h is the one known from the old [address books](/post/fritz-neumann-address-book-berlin/).
 

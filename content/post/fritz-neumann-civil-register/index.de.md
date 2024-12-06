@@ -13,7 +13,7 @@ Dank Torsten Steinberg haben wir jetzt zwei Personenstandsregistereinträge für
 
 ## Heiratsurkunde
 
-{{< figure src="Fritz Neumann Heirat.jpg" caption="" alt="Heiratsurkunde Fritz Neumann" >}}
+{{< figure src="Fritz Neumann Heirat.jpg" caption="" alt="Heiratsurkunde Fritz Neumann" class="civil-register" >}}
 
 Dies ist die Urkunde der Ehe von **Franz Robert Fritz Neumann** und **Anna Hedwig Klinge**, geschlossen am **2. Mai 1925**. Als Beruf von beiden ist "Zeichner" bzw. "Zeichnerin" angegeben.
 
@@ -35,7 +35,7 @@ Torsten Steinberg ergänzt auch die Trauzeugen:
 
 ## Sterbeurkunde
 
-{{< figure src="Fritz Neumann Sterbeurkunde.jpg" caption="" alt="Sterbeurkunde Fritz Neumann" >}}
+{{< figure src="Fritz Neumann Sterbeurkunde.jpg" caption="" alt="Sterbeurkunde Fritz Neumann" class="civil-register" >}}
 
 Dies ist die Sterbeurkunde für **Franz Robert Fritz Neumann**, Kunstmaler. Die Adresse Gartenfelder Str. 132 h ist die aus den alten [Adressbüchern bekannte](/de/post/fritz-neumann-address-book-berlin/).
 
