@@ -5,7 +5,7 @@ tags:
 - Hint
 title: "Civil register entries for Fritz Neumann"
 disableImageViewer: true
-alias:
+aliases:
 - fritz-neumann-civil-registry
 ---
 

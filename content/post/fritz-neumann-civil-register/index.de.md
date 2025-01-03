@@ -5,7 +5,7 @@ tags:
 - Hint
 title: "Personenstandsregisterauszüge für Fritz Neumann"
 disableImageViewer: true
-alias:
+aliases:
 - fritz-neumann-civil-registry
 ---
 
