@@ -58,5 +58,5 @@ Inzwischen habe ich auch einen weiteren Hinweis von Torsten Steinberg erhalten: 
 
 ## Dokumente
 
-* [Personenstandsregisterauszüge für Fritz Neumann](/de/post/fritz-neumann-civil-registry)
+* [Personenstandsregisterauszüge für Fritz Neumann](/de/post/fritz-neumann-civil-register)
 * [Fritz Neumann an der Akademische Hochschule für die Bildenden Künste](/de/post/fritz-neumann-academic-college-of-fine-arts/)

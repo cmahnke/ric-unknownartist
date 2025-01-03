@@ -58,5 +58,5 @@ In the meantime, I have also received another reference from Torsten Steinberg: 
 
 ## Documents
 
-* [Civil register entries for Fritz Neumann](/post/fritz-neumann-civil-registry)
+* [Civil register entries for Fritz Neumann](/post/fritz-neumann-civil-register)
 * [Fritz Neumann at the Academy of Fine Arts, Berlin](/post/fritz-neumann-academic-college-of-fine-arts/)
