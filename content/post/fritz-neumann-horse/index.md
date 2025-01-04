@@ -3,7 +3,7 @@ date: 2024-07-10T21:33:00+02:00
 tags:
 - Fritz Neumann
 - Etching
-title: "Fritz Neumann Pferdekopf"
+title: "Fritz Neumann Horse"
 source: https://www.ebay.de/itm/144093927618
 resources:
 - src: "s-l1600.jpg"
