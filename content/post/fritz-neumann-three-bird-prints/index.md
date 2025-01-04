@@ -6,12 +6,12 @@ tags:
 title: "Three Fritz Neumann prints of birds"
 source: https://www.kleinanzeigen.de/s-anzeige/3-bilder-von-fritz-neumann-tukan/2939689425-240-21101
 resources:
-- src: "img1.jpg"
-- src: "img2.jpg"
-- src: "img3.jpg"
-- src: "img4.jpg"
-- src: "img5.jpg"
-- src: "img6.jpg"
+- src: "img1.jpeg"
+- src: "img2.jpeg"
+- src: "img3.jpeg"
+- src: "img4.jpeg"
+- src: "img5.jpeg"
+- src: "img6.jpeg"
 place: Duisburg
 ---
 

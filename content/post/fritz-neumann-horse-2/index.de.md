@@ -6,9 +6,9 @@ tags:
 - Etching
 source: https://www.ebay.at/itm/126864808668
 resources:
-- src: "s-l1600-1.jpg"
-- src: "s-l1600-2.jpg"
-- src: "s-l1600-3.jpg"
+- src: "s-l1600-1.jpeg"
+- src: "s-l1600-2.jpeg"
+- src: "s-l1600-3.jpeg"
 ---
 
 **Kurze Beschreibung:** Eine kolorierte Radierung eines Pferdekopfs

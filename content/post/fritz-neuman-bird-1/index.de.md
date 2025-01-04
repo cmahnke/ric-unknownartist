@@ -5,9 +5,9 @@ tags:
 - Fritz Neumann
 - Etching
 resources:
-- src: "s-l1600-1.jpg"
-- src: "s-l1600-2.jpg"
-- src: "s-l1600-3.jpg"
+- src: "s-l1600-1.jpeg"
+- src: "s-l1600-2.jpeg"
+- src: "s-l1600-3.jpeg"
 source: https://www.ebay.de/itm/126818672851
 place: Oldenburg
 ---
