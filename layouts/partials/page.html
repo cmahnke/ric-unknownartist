@@ -81,9 +81,9 @@
             {{- end -}}
         </div>
         {{- with .Params.source -}}
-          {{- sources := . -}}
+          {{- $sources := . -}}
           {{- if not (reflect.isSlice .) -}}
-            {{- sources = slice . -}}
+            {{- $sources = slice . -}}
           {{- end -}}
           {{- range $sources -}}
             {{- if hasPrefix . "http" -}}
