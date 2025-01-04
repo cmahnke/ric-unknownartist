@@ -194,3 +194,8 @@ find content -name "*dex.de.md" -print -exec grep -E ']\(/[^d]' {} \;
 ```
 find content/ -mindepth 2 -maxdepth 2 -type d '!' -exec test -e "{}/index.de.md" ';' -print
 ```
+
+---
+
+Deutsche allgemeine Zeitung 10.02.1928 Werbebeilige
+Screenshot 1928-03-24

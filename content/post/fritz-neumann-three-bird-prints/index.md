@@ -15,6 +15,6 @@ resources:
 place: Duisburg
 ---
 
-**Short description:** Three etchings of Birds. Two of them already known: [1](/post/fritz-neuman-bird-1), [3](/post/another-work-by-our-fritz-neumann).
+**Short description:** Three colorized etchings of Birds. Two of them already known: [1](/post/fritz-neuman-bird-1), [3](/post/another-work-by-our-fritz-neumann).
 
 **Notes:** Found on Kleinanzeigen.
