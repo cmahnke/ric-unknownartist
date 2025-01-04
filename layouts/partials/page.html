@@ -82,7 +82,7 @@
         </div>
         {{- with .Params.source -}}
           {{- $sources := . -}}
-          {{- if not (reflect.isSlice .) -}}
+          {{- if not (reflect.IsSlice .) -}}
             {{- $sources = slice . -}}
           {{- end -}}
           {{- range $sources -}}
