@@ -80,6 +80,11 @@
                 {{ end -}}
             {{- end -}}
         </div>
+        {{- with .Params.source -}}
+          {{- if hasPrefix . "http" -}}
+            <a style="display: none;" href="{{ . }}">
+          {{- end -}}
+        {{- end -}}
       </div>
     {{- end -}}
   </div>
