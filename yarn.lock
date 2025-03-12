@@ -1329,10 +1329,10 @@ layout-base@^2.0.0:
   resolved "https://registry.yarnpkg.com/layout-base/-/layout-base-2.0.1.tgz#d0337913586c90f9c2c075292069f5c2da5dd285"
   integrity sha512-dp3s92+uNI1hWIpPGH3jK2kxE2lMjdXdr+DH8ynZHpd6PUlH6x6cbuXnoMmiNumznqaNO31xu9e79F0uuZ0JFg==
 
-lightgallery@^2.8.2:
-  version "2.8.2"
-  resolved "https://registry.yarnpkg.com/lightgallery/-/lightgallery-2.8.2.tgz#7f2d1b75a640c60cda274b52a4f3d4164a47f116"
-  integrity sha512-6BV7joQtgdHUhDgNPeGu/RWqcGvmvwbyJpTdB5jgKX5nhU5yGEG3PVaETIlAEEV15Uop+8p+F3PqnokFUlywZA==
+lightgallery@^2.8.3:
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/lightgallery/-/lightgallery-2.8.3.tgz#4e90b331a5db5433567d64baac338a1d8fe528df"
+  integrity sha512-s67Z7KZAhIu/io7qs2yIM+8+hUyDQ1ufRtCQwhFnmHVzRQ8cKlxf53CxS/DpJ0sDGOWHNx5L6Y3PfACQxiH+8A==
 
 local-pkg@^0.5.0:
   version "0.5.0"
