@@ -7,7 +7,6 @@ title: 'Fritz Neumann "Kiel Kriegshafen"'
 source:
   - https://www.ebay.de/itm/315513565614
   - https://www.irrgangfinearts.de/Fritz-Neumann-Kiel-Kriegshafen-oJ-Radierung-auf-Buettenpapier
-draft: true
 resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-1.jpg"
