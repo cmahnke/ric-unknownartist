@@ -93,5 +93,15 @@
         {{- end -}}
       </div>
     {{- end -}}
+
+    {{- with .Params.source -}}
+      {{- $sources := . -}}
+      {{- if not (reflect.IsSlice .) -}}
+        {{- $sources = slice . -}}
+      {{- end -}}
+      {{- range $sources -}}
+        <a href="{{ . }}" class="hidden">{{ . }}</a>
+      {{- end -}}
+    {{- end -}}
   </div>
 </div>
