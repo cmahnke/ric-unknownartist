@@ -174,6 +174,9 @@ https://nbn-resolving.org/urn:nbn:de:kobv:109-1-3955025/fragment/page=2370 Zeich
 1934 https://nbn-resolving.org/urn:nbn:de:kobv:109-1-4256192/fragment/page=1775
 
 
+## Update page on possible candidates
+* Add https://de.artprice.com/artist/521366/fritz-neumann as FN1
+
 ## Functionality
 
 * Show tag frequency, to illustrate distribution / print runs
