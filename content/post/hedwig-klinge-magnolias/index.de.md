@@ -6,7 +6,7 @@ tags:
 - Signature
 - Meibohm Fine Arts
 - BlindEmbossing
-title: "Hegwig Klinge Magnolien"
+title: "Hedwig Klinge Magnolien"
 resources:
 - src: "Hede_Klinge_Magnolias_Etching.jpg"
 ---

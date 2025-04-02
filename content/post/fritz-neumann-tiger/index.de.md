@@ -14,6 +14,6 @@ resources:
 
 **Kurze Beschreibung:** Radierung eines Tigers von Fritz Neumann.
 
-**Anmerkungen:** Dank an Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/) für die Bilder
+**Anmerkungen:** Dank an Mark Strong von [Meibohm Fine Arts](http://meibohmfinearts.com/) für die Bilder.
 
 Bild von Mark Strong, [Meibohm Fine Arts](http://meibohmfinearts.com/).
