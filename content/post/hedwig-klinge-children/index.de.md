@@ -10,6 +10,6 @@ resources:
 - src: "img2.jpg"
 ---
 
-**Kurze Beschreibung:** Ein Druck von Kindern auf einer Wiese von Hedwig Klinge, Ehefrau von Fritz Neumann, [wieder](/post/hedwig-klinge-kind-hund/) falsch zugeschrieben.
+**Kurze Beschreibung:** Ein Druck von Kindern auf einer Wiese von Hedwig Klinge, Ehefrau von Fritz Neumann, [wieder](/de/post/hedwig-klinge-kind-hund/) falsch zugeschrieben.
 
 **Anmerkungen:** Gefunden auf Kleinanzeigen.

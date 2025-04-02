@@ -4,6 +4,7 @@ tags:
 - Fritz Neumann
 - Hede Klinge-Neumann
 - Hedwig Neumann
+- Hedwig Klinge
 - Hint
 title: 'Hede Klinge-Neumann in the "Catalog of Copyright Entries"'
 disableImageViewer: true
