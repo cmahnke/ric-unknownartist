@@ -12,4 +12,5 @@
     enableImageViewer = true
     enablePDFViewer = false
     copyrightYears = "MMXXI - MMXXV"
+    wikidata = false
     disableScale = true
