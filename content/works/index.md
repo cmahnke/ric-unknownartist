@@ -93,4 +93,6 @@ Additions
 
 <li>{{< post-image section="post" post="ric34" width="250" link="/tags/ric-34" caption="RIC 34" class="static-content-image" >}}</li>
 
+<li>{{< post-image section="post" post="ric35" width="250" link="/tags/ric-35" caption="RIC 35" class="static-content-image" >}}</li>
+
 </ul>
