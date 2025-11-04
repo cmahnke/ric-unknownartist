@@ -178,6 +178,11 @@ $font-menu: 'Calluna Regular', georgia, serif;
 
 .tagcloud {
     margin-bottom: 1rem;
+
+    .cloud-tag {
+      padding: .2rem;
+      display: inline-block;
+    }
 }
 
 .error404 {
