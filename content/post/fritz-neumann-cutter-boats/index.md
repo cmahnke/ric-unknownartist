@@ -3,6 +3,8 @@ date: 2025-12-07T07:36:00+02:00
 tags:
 - Fritz Neumann
 - Etching
+- Signature
+- BlindEmbossing
 title: 'Fritz Neumann Etching of Cutter Boats'
 resources:
 - src: "Neumann1.jpg"

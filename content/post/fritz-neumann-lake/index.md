@@ -3,6 +3,8 @@ date: 2025-11-04T18:33:00+02:00
 tags:
 - Fritz Neumann
 - Etching
+- Signature
+- BlindEmbossing
 title: "Fritz Neumann Lake"
 source:
    - https://www.ebay.de/itm/317378464195

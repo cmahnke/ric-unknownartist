@@ -3,6 +3,8 @@ date: 2024-06-26T21:33:00+02:00
 tags:
 - Fritz Neumann
 - Etching
+- Signature
+- BlindEmbossing
 title: "Fritz Neumann Seemotiv"
 source:
    - https://www.ebay.de/itm/317378464195
