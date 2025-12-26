@@ -1,0 +1,114 @@
+{"@context": "http://iiif.io/api/presentation/3/context.json",
+"type": "Manifest",
+"id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/",
+"viewingDirection": "left-to-right","behavior":["paged"],"requiredStatement": {
+  "label": { "en": [ "Attribution" ],
+    "de": [ "Namensnennung" ]
+  },
+  "value": {"en": ["Provided by Projektemacher"],"de": ["Bereitgestellt von Projektemacher"]}
+}
+,"thumbnail": [{
+    "id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/front/full/full/0/default_hu_312d2068fb903a8e.jpg",
+    "format": "image/jpeg",
+    "type":"Image",
+    "height": 667,
+    "width": 300
+  },{
+        "id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/front/full/full/0/default.jpg",
+        "format": "image/jpeg",
+        "type":"Image",
+        "height": 14513,
+        "width": 6523,
+        "service": [{
+          "id":"https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/front",
+          "type": "ImageService2",
+          "profile":"level0"
+        }]
+      }],"provider": [
+  {
+    "id": "https://projektemacher.org/",
+    "type": "Agent",
+    "label": { "en": [ "Projektemacher" ], "de": [ "Projektemacher" ] },
+    "homepage": [
+      {
+        "id": "https://projektemacher.org/",
+        "type": "Text",
+        "label": { "en": [ "Projektemacher" ], "de": [ "Projektemacher" ] },
+        "format": "text/html"
+    }
+  ],
+  "logo": [
+    {"id": "https://projektemacher.org/images/logo.png",
+        "type": "Image",
+        "format": "image/png",
+        "height": 1024,
+        "width": 1024}
+  ],
+  "seeAlso": [
+    {
+      "id": "https://projektemacher.org/projektemacher.json",
+      "type": "Dataset",
+      "format": "application/ld+json",
+      "profile": "https://schema.org/"
+    }
+  ]
+  }
+]
+,
+
+"homepage": [
+  {
+    "id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/",
+    "type": "Text",
+    "format": "text/html",
+
+    "label": {
+        "en": [
+          "Ric - An unknown artist: An unknown etching of a flamingo by Fritz Neumann"
+        ],
+          "de": [
+            "Ric - An unknown artist: Kolorierte Radierung eines Flamingos von Fritz Neumann"
+          ]
+        }
+  }
+],"label": {
+    "en": [
+      "An unknown etching of a flamingo by Fritz Neumann"
+    ],
+      "de": [
+        "Kolorierte Radierung eines Flamingos von Fritz Neumann"
+      ]
+    }
+,"items": [{
+          "id":"https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/canvas/front",
+          "type": "Canvas","label": {"de":["Vorderansicht"],"en":["Front"]},"height": 14513,
+            "width": 6523,
+            "thumbnail": [{
+                "id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/front/full/full/0/default_hu_312d2068fb903a8e.jpg",
+                "format": "image/jpeg",
+                "type":"Image",
+                "height": 667,
+                "width": 300
+              }
+            ],"items": [{
+            "id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/annotation/front",
+            "type": "AnnotationPage",
+            "items":[{
+              "id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/annotation/front/image",
+              "type": "Annotation",
+              "motivation":"painting",
+              "body":{"id": "https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/front/full/full/0/default.jpg",
+                  "type": "Image",
+                  "format": "image/jpeg",
+                  "height": 14513,
+                  "width": 6523,
+                  "service": [{
+                    "id":"https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/front",
+                    "type": "ImageService2",
+                    "profile":"level0"
+                  }]},
+              "target":"https://ric-unknownartist.projektemacher.org/post/fritz-neumann-flamingo/canvas/front"
+            }]
+          }]
+       }]
+}
