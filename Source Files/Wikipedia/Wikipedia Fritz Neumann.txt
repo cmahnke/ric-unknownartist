@@ -1,43 +1,46 @@
 '''Fritz Neumann''', gebürtig ''Franz Robert Fritz Neumann'' (* 6 Dezember 1897 in [[Berlin]];  † 8 Juni 1984 ebenda) war ein deutscher Maler und Grafiker. Er veröffentlichte Druckgrafiken auch unter dem Pseudonym „Ric“. Seine Motive sind hauptsächlich Stadt- und Landschaftsansichten aus Berlin und Umgebung, Vögel und maritime Motive, zu denen er auf seinen Reisen inspirieren ließ.
 
-Er starb 1984 im [[Krankenhaus in Berlin Spandau|Vivantes Klinikum Spandau]].
+Er starb 1984 im [[Gemeinschaftskrankenhaus Havelhöhe|Krankenhaus in Berlin Spandau]].
 
 == Familie und Leben ==
 
-Neumann wurde als Sohn von Ludwig Karl Franz Neumann, 1858-1933, Buchdrucker und seiner Ehefrau Clara Emilie Emma Wusterhausen, 1871-1942 geboren. 1901 wurde sein Bruder Wilhelm Franz Rudolf Neumann geboren.
+Neumann wurde als Sohn von Ludwig Karl Franz Neumann, 1858-1933, Buchdrucker und seiner Ehefrau Clara Emilie Emma Wusterhausen, 1871-1942, geboren. 1901 wurde sein Bruder Wilhelm Franz Rudolf Neumann geboren.
 
-Am 2. Mai 1925 heirate er Anna Hedwig Klinge, die er im Rahmen seiner Ausbildung kennen lernte. Sie veröffentlichte ihre Werke auch nach der Hochzeit noch unter ihrem Mädchennamen Hede Klinge.
+Am 2. Mai 1925 heirate er [[Anna Hedwig Klinge]], die er im Rahmen seiner Ausbildung kennen lernte. Sie veröffentlichte ihre Werke auch nach der Hochzeit noch unter ihrem Mädchennamen Hede Klinge.
 
-Eigenen Angaben nach, machte er von 1912 bis 1916 eine Kunstschulausbildung (für das Wintersemester 1912/13 ist eine Immatrikulation an der Akademische Hochschule für die Bildenden Künste nachweisbar) und war in Verdun stationiert. Danach arbeitet er für die „[[Deutsche Allgemeine Zeitung|Deutsche Allgemeine Zeitung]]“.
+Eigenen Angaben nach, machte er von 1912 bis 1916 eine Kunstschulausbildung (für das Wintersemester 1912/13 ist eine Immatrikulation an der [[Akademische Hochschule für die bildenden Künste|Akademischen Hochschule für die Bildenden Künste]] nachweisbar) und war in Verdun stationiert. Danach arbeitet er für die „[[Deutsche Allgemeine Zeitung|Deutsche Allgemeine Zeitung]]“.
 
-1930 machte er sich als „Kunstmaler“ (später Grafiker) in selbstständig, ca. 1934 zog er in die Gartenfelder Str. 132 h in [[Berlin Haselhorst|Berlin-Haselhorst]].
+1930 machte er sich als „Kunstmaler“ (später Grafiker) in selbstständig, ca. 1934 zog er in die Gartenfelder Str. 132 h in [[Berlin-Haselhorst|Berlin Haselhorst]].
 
 Nach eigenem Bekunden <ref>{{Literatur |Autor= |Titel=Segelboote für Millionäre und Vögel für sich selbst |Sammelwerk=[[Spandauer Volksblatt]] |Datum=1972-02-19}}</ref> hat er während des zweiten Weltkriegs, an dem er von Anfang an teilnahm, „mehr gemalt als gekämpft“.
 
 == Künstlerischer Werdegang ==
 
-Aus seiner Zeit als Kunstmaler (vor dem zweiten Weltkrieg) sind einige Ölgemälde bekannt, einige seiner Werke auch abgedruckt bzw. als Postkarten vom Verlag Leo Wilk veröffentlicht.
+Aus seiner Zeit als Kunstmaler (vor dem zweiten Weltkrieg) sind einige Ölgemälde bekannt, einige seiner Werke auch abgedruckt bzw. als Postkarten vom [[Verlag Leo Wilk]] veröffentlicht.
 
 Bekannte Aquarelle zeigen häufig Motive direkt aus Berlin.
 
-Seine Radierungen erschienen auch bei dem Kunstverlag J.C. Blumenberg, der seine Sitze in [[Schleswig-Holstein]] ([[Lübeck]], [[Bargteheide]], [[Heiligenhafen]]) hatte. Dieser Verlag verbreitete auch die unter dem Pseudonym „Ric“ veröffentlichten Werke.
+Seine Radierungen erschienen auch bei dem [[Kunstverlag J.C. Blumenberg]], der seine Sitze in [[Schleswig-Holstein]] ([[Lübeck]], [[Bargteheide]], [[Heiligenhafen]]) hatte. Dieser Verlag verbreitete auch die unter dem Pseudonym „Ric“ veröffentlichten Werke.
 
 Nach dem Krieg wechselte von Kaltnadel- zur Ätzradierung.
 
 Er unternahm er Studienreisen nach [[Paris]], [[Griechenland]], [[Venedig]] und [[Amsterdam]]. Dort entstanden Skizzen, die später die Grundlage seiner Grafiken bildeten.
 
-= Pseudonym „Ric“ =
+== Pseudonym „Ric“ ==
 
 Mit dem Pseudonym „Ric“ signierte Neumann abstrahierte Grafiken seiner Sujets.
+
+== Weblinks ==
+* [https://global.museum-digital.org/objects?persinst_id=310033 ''Fritz Neumann''] bei ''[[museum-digital]]''
+* [https://www.meibohmfinearts.com/artists/details/2873 ''Fritz Neumann (AKA Ric)''] bei ''Meibohm Fine Arts, Inc''
 
 == Einzelnachweise und Anmerkungen ==
 <references />
 
-
-
 {{SORTIERUNG:Neumann, Franz Robert Fritz}}
 [[Kategorie:Maler (Berlin)]]
-[[Kategorie:Grafiker]]
+[[Kategorie:Grafiker (Deutschland)]]
+[[Kategorie:Künstler (Berlin)]]
 [[Kategorie:Person (Berlin)]]
 [[Kategorie:Deutscher]]
 [[Kategorie:Geboren 1897]]
@@ -52,4 +55,5 @@ Mit dem Pseudonym „Ric“ signierte Neumann abstrahierte Grafiken seiner Sujet
 |GEBURTSORT=[[Berlin]]
 |STERBEDATUM=8. Juni 1984
 |STERBEORT=[[Berln]]
+|WIKIDATA=Q137662135
 }}
