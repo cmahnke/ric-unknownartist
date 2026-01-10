@@ -167,6 +167,13 @@ enableGitInfo = true
     baseName = "collection"
     notAlternative = true
 
+  [outputFormats.linkedart]
+    mediaType = "application/ld+json"
+    isPlainText = true
+    isHTML = false
+    baseName = "linkedart"
+    notAlternative = true
+
 [sitemap]
   changeFreq = 'weekly'
 

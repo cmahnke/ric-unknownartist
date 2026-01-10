@@ -162,6 +162,9 @@
 
     <link rel="{{- $faviconRelPrefix }}icon" href="{{ .Site.Params.icon | default "/images/favicon.ico" | absURL }}">
     {{ hugo.Generator }}
+    {{- if .OutputFormats.Get "linkedart" -}}
+      <link rel="describedby" href="{{ .RelPermalink }}" type="application/ld+json;profile='https://linked.art/ns/v1/linked-art.json'"/>
+    {{- end -}}
   </head>
     {{- $class := "" -}}
     {{- with .Page.File -}}
