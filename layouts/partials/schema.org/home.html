@@ -1,0 +1,40 @@
+{{- $about := unmarshal `{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://ric-unknownartist.projektemacher.org/#artist",
+  "name": "Franz Robert Fritz Neumann",
+  "alternateName": ["Ric", "Fritz Neumann"],
+  "description": "Franz Robert Fritz Neumann (1897–1984) was a German painter, etcher and graphic artist who aslo signed his work under the enigmatic signature “Ric”. Born on 6 December 1897, Neumann studied art as a young man and went on to work as a painter and etcher from the early 20th century onward. He died in 1984 in Berlin",
+  "nationality": {
+    "@type": "Country",
+    "name": "Germany"
+  },
+  "jobTitle": [
+    "Graphic Designer",
+    "Graphic Artist",
+    "Printmaker",
+    "Painter"
+  ],
+  "sameAs": [
+    "https://www.wikidata.org/wiki/Q137662135"
+  ],
+  "birthDate": "1897-12-06",
+  "birthPlace": {
+    "@type": "Place",
+    "name": "Berlin, Germany"
+  },
+  "deathDate": "1984-06-08",
+  "deathPlace": {
+    "@type": "Place",
+    "name": "Berlin, Germany"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ric-unknownartist.projektemacher.org/"
+  }
+}` -}}
+
+
+<script type="application/ld+json">
+  {{ jsonify $about | safeJS }}
+</script>
