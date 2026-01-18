@@ -37,8 +37,7 @@ for SCRIPT in $PWD/themes/projektemacher-base/scripts/init/*.sh ; do
 done
 
 # NPM dependencies
-#yarn install
-yarn run logo
+npm run logo
 
 # Language files
 mv i18n/de.toml i18n/ric-unknownartist.de.toml
