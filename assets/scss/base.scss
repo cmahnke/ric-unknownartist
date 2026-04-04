@@ -8,7 +8,10 @@ $font-menu: 'Calluna Regular', georgia, serif;
 @use "./table";
 @use "./include";
 @use "./iiif-content";
+/*
 @import "observer.scss";
+*/
+@use "observer";
 /* @import "./disable-lang"; */
 
 @font-face {
