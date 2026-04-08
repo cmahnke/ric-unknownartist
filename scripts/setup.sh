@@ -38,8 +38,8 @@ for SCRIPT in $PWD/themes/projektemacher-base/scripts/init/*.sh ; do
     bash "$SCRIPT"
 done
 
-# NPM dependencies
-npm run logo
+npx imagemin static/images/logo.png --out-dir=static/images/ --plugin=pngcrush
+
 
 # Language files
 mv i18n/de.toml i18n/ric-unknownartist.de.toml
