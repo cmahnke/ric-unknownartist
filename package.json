@@ -1,7 +1,6 @@
 {
   "scripts": {
     "build": "hugo",
-    "logo": "node_modules/.bin/pngcrush -ow static/images/logo.png ",
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {
@@ -10,6 +9,6 @@
     "mermaid": "11.14.0"
   },
   "devDependencies": {
-    "pngcrush-bin": "^7.0.0"
+    "pngquant": "^4.2.0"
   }
 }
