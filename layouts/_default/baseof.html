@@ -28,7 +28,7 @@
     {{- if .Permalink -}}
       <link rel="canonical" href="{{ .Permalink }}">
     {{- end -}}
-    {{- partial "data/schema.org.html" . -}}
+    {{- partial "metadata/schema.org/schema.org.html" . -}}
 
     {{- $includes := unmarshal (partial "shortcodes/shortcode-helper.html" .) -}}
 
