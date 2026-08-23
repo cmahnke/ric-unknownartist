@@ -73,13 +73,6 @@ jobs:
           ./themes/projektemacher-base/scripts/init/package.json.sh
           ./themes/projektemacher-base/scripts/github/check-js-errors.sh
 
-      - name: Archive links
-        run: python ./themes/projektemacher-base/scripts/archive.py -d docs/ -e ric-unknownartist.projektemacher.org,projektemacher.org -a 14 -o archived-urls.txt
-
-      - name: Save URL list
-        run: |
-          cp archived-urls.txt docs/
-
       - name: Deploy site
         uses: peaceiris/actions-gh-pages@v4
         with:
