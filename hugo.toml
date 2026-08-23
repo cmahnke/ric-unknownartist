@@ -1,9 +1,8 @@
 baseURL = "https://ric-unknownartist.projektemacher.org/"
-languageCode = "en"
+locale = "en"
 title = "Ric - An unknown artist"
 publishDir = "docs"
 canonifyurls = true
-languagecode = "en"
 defaultcontentlanguage = "en"
 DefaultContentLanguage = "en"
 disablePathToLower = false
@@ -13,7 +12,7 @@ enableGitInfo = true
 
 [languages]
     [languages.en]
-        languagename = "English"
+        lable = "English"
 
         [languages.en.menu]
 
@@ -49,7 +48,7 @@ enableGitInfo = true
 
 
     [languages.de]
-        languagename = "Deutsch"
+        label = "Deutsch"
 
         [languages.de.params]
 
