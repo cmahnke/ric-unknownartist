@@ -10,7 +10,7 @@ resources:
   - src: "img005.jpeg"
 ---
 
-It was more of a chance discovery: While conducting a routine search for previously unrecorded works by Ric or Fritz Neumann, I came across this exhibition catalog by Fritz Neumann.
+It was more of a chance discovery: While conducting a routine search for previously unrecorded works by Ric or Fritz Neumann, I came across this exhibition catalog by Fritz Neumann. The images [from the last post](/post/fritz-neumann-watercolour-grunewald) included some information about the painting's provenance.
 
 Apparently, a sales exhibition of watercolors by Fritz Neumann took place from November 9, 1978, to January 2, 1979. The venue listed is the Siemenshaus at Salzufer 6–8 in Berlin. This is a [former telephone factory](https://de.wikipedia.org/wiki/Spreestadt_Charlottenburg#Siemens-Gel%C3%A4nde) (German).
 

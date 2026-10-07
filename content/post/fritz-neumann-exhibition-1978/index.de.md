@@ -10,7 +10,7 @@ resources:
   - src: "img005.jpeg"
 ---
 
-Eher ein Zufallsfund: Bei einer routinemäßigen Suche nach bisher nicht verzeichneten Werken von Ric oder Fritz Neumann bin ich auf diesen Ausstellungs-Katalog von Fritz Neumann gestoßen.
+Eher ein Zufallsfund: Bei einer routinemäßigen Suche nach bisher nicht verzeichneten Werken von Ric oder Fritz Neumann bin ich auf diesen Ausstellungs-Katalog von Fritz Neumann gestoßen. Bei den Bildern [des letzten Beitrags](/de/post/fritz-neumann-watercolour-grunewald) fand sich etwas zur Provenienz des Bildes.
 
 Offenbar fand vom 9. November 1978 bis zum 2. Januar 1979 eine Verkaufsausstellung von Aquarellen von Fritz Neumann statt. Als Ort wird das Siemenshaus am Salzufer 6–8 in Berlin genannt. Dabei handelt es sich um eine [alte Telefonfabrik](https://de.wikipedia.org/wiki/Spreestadt_Charlottenburg#Siemens-Gel%C3%A4nde).
 
