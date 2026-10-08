@@ -4,7 +4,6 @@
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {
-    "jquery": "^4.0.0",
     "lightgallery": "^2.9.0"
   },
   "devDependencies": {
