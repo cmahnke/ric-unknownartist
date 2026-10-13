@@ -4,7 +4,7 @@
     "start": "hugo server -D --debug --disableFastRender --buildFuture"
   },
   "dependencies": {
-    "lightgallery": "^2.9.0"
+    "lightgallery": "^3.0.0"
   },
   "devDependencies": {
     "pngquant": "^4.2.0"
