@@ -14,6 +14,7 @@
   copyrightYears = "MMXXI - MMXXVI"
   wikidata = false
   disableScale = true
+  schemaPerson = "https://christianmahnke.de/person.jsonld"
 
 [params.author]
   email = 'mail@christianmahnke.de'
