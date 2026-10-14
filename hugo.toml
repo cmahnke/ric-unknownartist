@@ -218,3 +218,4 @@ enableGitInfo = true
 [security]
   [security.http]
     mediaTypes = ['^application/json$', '^application/json;\s?charset=[uU][tT][fF]-8$', '^application/sparql-results\+json;\s?charset=[uU][tT][fF]-8$']
+    urls = ['^https://query.wikidata.org/sparql.*', 'https://www.wikidata.org', '^https://christianmahnke.de/*']
