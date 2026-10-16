@@ -12,7 +12,7 @@ outputs:
 - html
 - iiif-manifest
 resources:
-- src: "_blogspot-21.jpg"
+- src: "_blogspot-21.JPG"
 ---
 
 **Kurze Beschreibung:** Die [Gedächniskirche in Berlin](https://de.wikipedia.org/wiki/Kaiser-Wilhelm-Ged%C3%A4chtniskirche)
