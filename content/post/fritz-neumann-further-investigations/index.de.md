@@ -5,6 +5,22 @@ tags:
 - Hint
 title: "Weitere Dokumente zu Fritz Neumann"
 disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "Adressbuch 1904.png"
+- src: "Adressbuch 1915.png"
+- src: "Adressbuch 1917.png"
+- src: "Adressbuch 1920.png"
+- src: "Adressbuch 1925.png"
+- src: "Adressbuch 1926.png"
+- src: "Adressbuch 1927.png"
+- src: "Adressbuch 1929.png"
+- src: "Adressbuch 1930.png"
+- src: "Adressbuch 1931.png"
+- src: "Adressbuch 1932.png"
+- src: "Adressbuch 1933.png"
 ---
 
 Aus der [Heiratsurkunde](/post/fritz-neumann-civil-registry/) geht eine weitere Adresse von Fritz Neumann hervor: Die Lettestraße 1.

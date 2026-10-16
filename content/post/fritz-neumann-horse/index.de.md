@@ -6,6 +6,9 @@ tags:
 - Meibohm Fine Arts
 title: "Fritz Neumann Pferdekopf"
 source: https://www.ebay.de/itm/144093927618
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 

@@ -5,6 +5,9 @@ tags:
 - Painting
 title: "Fritz Neumann: Aquarell des Jagdschloss Grunewald"
 source: https://www.ebay.de/itm/336468286188
+outputs:
+- html
+- iiif-manifest
 resources:
   - src: "img001.jpeg"
   - src: "img002.jpeg"

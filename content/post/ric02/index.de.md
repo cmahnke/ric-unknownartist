@@ -8,6 +8,9 @@ title: Ric 02
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469477637/ric02
 alias:
 - 183469477637
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "_blogspot-02.jpg"
 source: https://www.worthpoint.com/worthopedia/ric-signed-original-modernist-etching-307017596

@@ -10,6 +10,9 @@ source:
    - https://www.ebay.de/itm/317378464195
    - https://www.kleinanzeigen.de/s-anzeige/aquarell-wechsel-bilderrahmen-drucke-div-groessen-farben/2722268316-246-3537
 place: Berlin - Wilmersdorf
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img001.jpeg"
 - src: "img002.jpeg"

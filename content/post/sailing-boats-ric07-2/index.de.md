@@ -10,6 +10,9 @@ alias:
 - 183633242049
 source: https://auctionet.com/de/639077-oidentifierad-konstnar-etsning-signerad-ric
 place: Norrköping, Schweden
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "IMG_0891.JPG"
 - src: "hd_item_639077_ec4e98b85b.JPG"

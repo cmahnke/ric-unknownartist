@@ -7,6 +7,9 @@ tags:
 title: "A new work of Ric discovered!"
 source: https://www.ebay.de/itm/145006855670
 description: Zur Fischerin (Lindau / Lake Constance)
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-5.jpg"
 - src: "s-l1600.jpg"

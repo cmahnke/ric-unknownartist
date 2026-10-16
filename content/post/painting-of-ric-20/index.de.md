@@ -7,6 +7,9 @@ tags:
 - Painting
 - Signature
 title: Ein Gemälde von Ric 20
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "ric-painting.jpg"
 ---

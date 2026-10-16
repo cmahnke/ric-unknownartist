@@ -6,6 +6,9 @@ tags:
 - BlindEmbossing
 title: "Fritz Neumann Parforcejagd"
 source: https://www.eppli.com/neumann-hermann-fritz-1858-1920-parforcejagd.html#&gid=1&pid=6
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"

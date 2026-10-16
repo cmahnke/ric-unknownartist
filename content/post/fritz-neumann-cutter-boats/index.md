@@ -6,6 +6,9 @@ tags:
 - Signature
 - BlindEmbossing
 title: 'Fritz Neumann Etching of Cutter Boats'
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "Neumann1.jpg"
 - src: "Neumann2.jpg"

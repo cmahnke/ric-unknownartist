@@ -5,6 +5,9 @@ tags:
 - Etching
 title: "Fritz Neumann Sailing yacht"
 source: https://www.ebay.de/itm/198313101176
+outputs:
+- html
+- iiif-manifest
 resources:
   - src: "img001.jpeg"
   - src: "img002.jpeg"

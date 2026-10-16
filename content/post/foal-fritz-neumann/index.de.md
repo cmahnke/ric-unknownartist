@@ -4,6 +4,9 @@ title: Druck eines Fohlens von Fritz Neumann
 tags:
 - Fritz Neumann
 - Etching
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-2.jpg"

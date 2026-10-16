@@ -9,6 +9,9 @@ tags:
 title: Segelboote (Ric 06)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183501026812/short-description-sailing-boats-notes-sold
 alias: 183501026812
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-2.jpg"

@@ -8,6 +8,9 @@ tags:
 title: "Fritz Neumann etching of a yacht anchored near a shoreline"
 source:
    - https://www.ebay.de/itm/187627194678
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img001.webp"
 - src: "img002.webp"

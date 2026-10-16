@@ -6,6 +6,9 @@ tags:
 - Painting
 title: "Hedwig Klinge Kleines Kind im Bett"
 source: https://www.kleinanzeigen.de/s-anzeige/orginal-kunstgemaelde-coach-von-klinge-kinderbildniss/2998645291-240-199
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"

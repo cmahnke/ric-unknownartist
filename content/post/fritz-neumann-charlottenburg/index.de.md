@@ -4,6 +4,9 @@ tags:
 - Fritz Neumann
 - Painting
 title: "Fritz Neumann Gemälde des Schloss Charlottenburg"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "Neumann_ViewOfCharlottenburgPalace_WithTheCarpPondInForeground_WC_slr_1200.jpg"
 ---

@@ -7,6 +7,9 @@ title: Sailing boats in a harbour (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183582046002/short-description-sailing-boats-in-a-harbour
 alias:
 - 183582046002
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "IMG_0882.JPG"
 - src: "IMG_0884.JPG"

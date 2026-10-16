@@ -4,6 +4,9 @@ tags:
 - Fritz Neumann
 - Etching
 title: "Fritz Neumann Pudels"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img001.jpg"
 ---

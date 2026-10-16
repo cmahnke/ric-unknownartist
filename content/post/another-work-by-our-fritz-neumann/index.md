@@ -7,6 +7,9 @@ title: Another work by our Fritz Neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183548567747/description-another-work-by-our-fritz-neumann
 alias:
 - 183548567747
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "_57.JPG"
 - src: "_57-2.JPG"

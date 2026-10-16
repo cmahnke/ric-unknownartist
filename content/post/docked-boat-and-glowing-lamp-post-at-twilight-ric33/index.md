@@ -8,6 +8,9 @@ tags:
 - Meibohm Fine Arts
 title: Another new Ric found by Mark Strong
 source: https://www.ebay.com/itm/134264241066
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "12UntDockedBoat_And_GlowingLampPostAtTwilight_Neumann.jpg"
 ---

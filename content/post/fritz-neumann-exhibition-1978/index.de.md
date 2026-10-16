@@ -4,6 +4,9 @@ tags:
 - Fritz Neumann
 title: "Fritz Neumann Ausstellung 1978/1979"
 source: https://www.ebay.de/itm/336468286188
+outputs:
+- html
+- iiif-manifest
 resources:
   - src: "img003.jpeg"
   - src: "img004.jpeg"

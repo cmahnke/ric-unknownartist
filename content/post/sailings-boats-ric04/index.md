@@ -7,6 +7,9 @@ tags:
 - Signature
 title: Sailing boats (Ric 04)
 source: https://www.ebay.de/itm/156169926540
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-1.jpg"

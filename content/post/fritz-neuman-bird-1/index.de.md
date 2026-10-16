@@ -4,6 +4,9 @@ title: Druck eines Vogels von Fritz Neumann
 tags:
 - Fritz Neumann
 - Etching
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-1.jpeg"
 - src: "s-l1600-2.jpeg"

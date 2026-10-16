@@ -7,6 +7,12 @@ title: "Civil register entries for Fritz Neumann"
 disableImageViewer: true
 aliases:
 - fritz-neumann-civil-registry
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "Fritz Neumann Heirat.jpg"
+- src: "Fritz Neumann Sterbeurkunde.jpg"
 ---
 
 Thanks to Torsten Steinberg, we now have two civil register entries for Fritz Neumann. These are partly the source for the dates in the [main entry](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).

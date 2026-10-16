@@ -7,6 +7,9 @@ title: Two prints by Fritz Neumann
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183678121235/short-description-two-prints-by-fritz-neumann
 alias:
 - 183678121235
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "3320_5.jpg"
 - src: "3320_5_1476107202.jpg"

@@ -9,6 +9,11 @@ alias:
 - 183548092937
 disableImageViewer: true
 source: http://www.findartinfo.com/english/3/0/artist-signatures/page/39245.html
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "s0064330-007.jpg"
 ---
 {{< figure src="s0064330-007.jpg" class="shadow" >}}
 

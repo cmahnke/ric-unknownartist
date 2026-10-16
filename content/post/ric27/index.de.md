@@ -7,6 +7,9 @@ tags:
 - eBay
 - Meibohm Fine Arts
 title: "Ein weiteres neues Werk von Ric entdeckt!"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-STREETSCENE-/143672853431

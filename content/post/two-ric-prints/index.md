@@ -8,6 +8,9 @@ tags:
 title: Two Ric prints
 source: https://auctionet.com/de/3052824-fritz-neumann-segelboote-farbradierung-signiert-ric
 place: Lund, Schweden
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "item_986026_1.jpg"
 - src: "item_986026_2.jpg"

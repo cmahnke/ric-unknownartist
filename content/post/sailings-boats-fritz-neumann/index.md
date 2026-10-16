@@ -6,6 +6,9 @@ tags:
 - Signature
 place: Büchen, Deutschland
 title: "Another work of sailing boats by Fritz Neumann"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-3.jpg"

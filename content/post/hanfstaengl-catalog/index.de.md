@@ -6,6 +6,9 @@ tags:
 - Kurt Meyer-Eberhardt
 title: Hanfstaengl-Drucke
 #disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "title.jpg"
 - src: "page168.jpg"

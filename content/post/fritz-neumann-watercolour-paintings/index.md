@@ -6,6 +6,9 @@ tags:
 - Hint
 title: "Fritz Neumann watercolor paintings"
 #disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "1.jpeg"
 - src: "2.jpeg"

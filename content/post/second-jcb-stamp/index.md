@@ -5,6 +5,11 @@ tags:
 - BlindEmbossing
 title: Another version of the "JCB" blind stamp
 disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "Holstentor_Stadtseite.jpg"
 ---
 {{< figure src="Stamp2.svg" width="400px" class="shadow" >}}
 

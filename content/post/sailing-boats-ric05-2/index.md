@@ -8,6 +8,9 @@ tags:
 - eBay
 source: https://www.ebay.co.uk/itm/Unknown-Artist-RIC-Etching-Cubist-Midcentury-MCM-Sailboat-Maritime-JCB/193218427336?hash=item2cfcb739c8:g:hzYAAOSw0LldyxW1
 title: More sailing boats (Ric 05)
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-3.jpg"

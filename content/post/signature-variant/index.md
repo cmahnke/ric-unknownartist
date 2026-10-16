@@ -7,6 +7,9 @@ tags:
 title: Sailing boats (Ric 05) signed in print
 source: https://auctionet.com/de/3052824-fritz-neumann-segelboote-farbradierung-signiert-ric
 place: Norrköping, Schweden
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "item_3052824_1.jpg"
 - src: "item_3052824_2.jpg"

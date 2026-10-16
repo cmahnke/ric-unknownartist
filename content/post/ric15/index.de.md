@@ -8,6 +8,9 @@ title: Ric 15
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469555407/ric15
 -alias:
 - 183469555407
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "_blogspot-15.png"
 ---

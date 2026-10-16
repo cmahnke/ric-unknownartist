@@ -8,6 +8,9 @@ title: A german shepherd (Fritz Neumann)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/184220725262/short-description-a-german-shepherd-notes-bought
 alias:
 - 184220725262
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "IMG_0922.JPG"
 - src: "IMG_0924.JPG"

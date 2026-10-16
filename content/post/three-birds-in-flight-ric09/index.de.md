@@ -7,6 +7,9 @@ tags:
 - Meibohm Fine Arts
 title: "Drei Vögel im Flug - Ric09"
 source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-THREE-BIRDS-FLIGHT-/133483534357?hash=item1f143d1815
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 ---

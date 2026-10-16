@@ -5,6 +5,15 @@ tags:
 - Hint
 title: 'Fritz Neumann in the "Catalog of Copyright Entries"'
 disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "img/1936.png"
+- src: "img/1938-145.png"
+- src: "img/1938-43.png"
+- src: "img/1939-143.png"
+- src: "img/1939-28.png"
 ---
 
 The [United States Copyright Office (USCO)](https://en.wikipedia.org/wiki/United_States_Copyright_Office) is a keeper of differend kind of copyright entries. It used to issue a printed catalogue of those registered copyright claims.

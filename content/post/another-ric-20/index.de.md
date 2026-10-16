@@ -7,6 +7,9 @@ tags:
 title: "Alley - Ric20"
 source: https://www.ebay.de/itm/235585314197
 place: Bad Oeynhausen
+outputs:
+- html
+- iiif-manifest
 resources:
 #- src: "s-l1600.jpg"
 - src: "s-l1600-1.jpg"

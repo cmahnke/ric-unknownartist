@@ -5,6 +5,13 @@ tags:
 title: Another wrong attribution
 disableImageViewer: true
 source: http://www.artnet.de/k%C3%BCnstler/fritz-neumann/
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "fritz-neumann-skerry-cruisers-off-laboe-hq.jpg"
+- src: "fritz-neumann-skerry-cruisers-off-laboe.jpg"
+- src: "screenshoot.png"
 ---
 
 {{< figure src="screenshoot.png" link="http://www.artnet.de/k%C3%BCnstler/fritz-neumann/" class="shadow" >}}

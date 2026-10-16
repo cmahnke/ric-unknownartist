@@ -6,6 +6,9 @@ tags:
 - eBay
 - Meibohm Fine Arts
 title: "Albergo - Ric24"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-ALBERGO-MILAN-ITALY-/133483534360?hash=item1f143d1818

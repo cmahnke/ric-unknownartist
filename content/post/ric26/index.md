@@ -7,6 +7,9 @@ tags:
 - eBay
 source: https://www.ebay.de/itm/402008313142
 title: "New work of Ric discovered!"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-2.jpg"
 - src: "s-l1600-3.jpg"

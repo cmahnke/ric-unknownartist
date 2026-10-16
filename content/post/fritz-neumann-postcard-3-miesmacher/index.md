@@ -4,6 +4,9 @@ date: 2024-09-02T18:19:31Z
 tags:
 - Fritz Neumann
 - Postcard
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "580142.jpg"
 - src: "580142r.jpg"

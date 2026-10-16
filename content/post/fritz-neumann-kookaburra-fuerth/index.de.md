@@ -6,6 +6,9 @@ tags:
 - Signature
 title: "Fritz Neumann Lake"
 place: Fürth
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "IMG_20261005_213547.jpg"
 - src: "IMG_20261005_213535.jpg"

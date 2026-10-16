@@ -6,6 +6,9 @@ tags:
 - Signature
 - BlindEmbossing
 title: "Hedwig Klinge Sonnenblume"
+outputs:
+- html
+- iiif-manifest
 resources:
   - src: "print.jpg"
   - src: "signature.jpg"

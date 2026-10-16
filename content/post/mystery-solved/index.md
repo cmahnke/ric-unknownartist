@@ -5,6 +5,9 @@ tags:
 - Status
 - eBay
 title: "The Ric mystery has been solved!"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "Fritz_Neumann_RIC_Signed_Letter_For_Pseudonym_Sept_24_1963.jpg"
 - src: "JC_Blumenberg_WalterTetzlaff_March_21_1956_CroppedLogo.jpg"

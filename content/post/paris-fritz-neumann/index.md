@@ -6,6 +6,9 @@ tags:
 - Signature
 title: Good old Fritz in Paris
 source: https://www.ebay-kleinanzeigen.de/s-anzeige/alter-druck-im-rahmen-alter-holzdruck-signiert-altes-bild/1400008402-240-8144
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "_57-2.jpeg"
 - src: "_57-4.jpeg"

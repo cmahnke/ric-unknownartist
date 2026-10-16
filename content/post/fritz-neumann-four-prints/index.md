@@ -7,6 +7,9 @@ title: 'Fritz Neumann: Four prints of the same plate'
 source:
   - https://www.ebth.com/items/6839331-fritz-neumann-drypoint-engravings-of-terrier-puppies
 draft: true
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "overview.jpg"
 - src: "sheet.jpg"

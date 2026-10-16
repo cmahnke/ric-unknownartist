@@ -8,6 +8,9 @@ tags:
 title: "Noch ein weiteres neues Werk von Ric entdeckt!"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-LES-PONT-DES-ARTS-Paris-/133441517510?hash=item1f11bbf7c6
 description: In den letzten Tagen gab es mehrere neue Einträge in der Liste.
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 ---

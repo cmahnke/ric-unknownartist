@@ -5,6 +5,9 @@ tags:
 - Etching
 title: "Fritz Neumann Horse"
 source: https://www.ebay.at/itm/126864808668
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-1.jpeg"
 - src: "s-l1600-2.jpeg"

@@ -9,6 +9,9 @@ title: Sailing boat (Ric 05)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183516900367/short-description-sailing-boat-notes-see-antik
 alias:
 - 183516900367
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "Segelboote_Ric_0x.jpg"
 - src: "Segelboote_Ric_1x.jpg"

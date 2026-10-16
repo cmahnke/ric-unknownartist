@@ -5,6 +5,9 @@ tags:
 - Etching
 title: "Fritz Neumann Pelikane"
 source: https://www.ebay.de/itm/318203623770
+outputs:
+- html
+- iiif-manifest
 resources:
   - src: "img001.jpeg"
   - src: "img002.jpeg"

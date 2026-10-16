@@ -5,6 +5,9 @@ tags:
 - Signature
 title: "Hedwig Klinge Kinder auf einer Wiese"
 source: https://www.kleinanzeigen.de/s-anzeige/maler-harald-klinge-kunstdruck-alt-gemaelde/2720907383-240-92
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"

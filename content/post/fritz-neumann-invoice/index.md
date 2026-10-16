@@ -5,6 +5,9 @@ tags:
 - Document
 - Hint
 title: "Invoice of a Fritz Neumann painting"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "neumann-sagert.jpg"
 ---

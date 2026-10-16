@@ -5,6 +5,9 @@ tags:
 - Etching
 - BlindEmbossing
 title: 'Eine unbekannte Radierung von Fritz Neumann'
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "image.jpg"
 - src: "stamp.jpg"

@@ -6,6 +6,9 @@ tags:
 - Signature
 title: "Hedwig Klinge Mädchen und Hund"
 source: https://auctionet.com/de/3501953-max-klinger-1857-1920-madchen-und-hund-signiert-klinger-radierung
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"

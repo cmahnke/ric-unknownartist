@@ -6,6 +6,9 @@ tags:
 - Signature
 - Meibohm Fine Arts
 title: Fritz Neumann Terrier found by Mark Strong
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "Fritz_Neumann_Tiger_Etching_2.jpg"
 - src: "Fritz_Neumann_Tiger_Etching.jpg"

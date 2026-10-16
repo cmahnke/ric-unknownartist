@@ -5,6 +5,9 @@ tags:
 - Fritz Neumann
 title: "Cover of Genossenschaftsfamilie Nr. 16 August 1935"
 source: https://www.ebay.com/itm/325640736520
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "cover.jpg"
 ---

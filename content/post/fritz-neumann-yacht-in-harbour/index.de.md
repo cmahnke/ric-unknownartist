@@ -8,6 +8,9 @@ tags:
 title: "Radierung von Fritz Neumann, die eine vor der Küste vor Anker liegende Yacht zeigt"
 source:
    - https://www.ebay.de/itm/187627194678
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img001.webp"
 - src: "img002.webp"

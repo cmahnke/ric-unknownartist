@@ -6,6 +6,9 @@ tags:
 title: "Fritz Neumann Boats"
 source: https://www.ebay.de/itm/266094049481
 place: Cologne
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img001.jpg"
 - src: "img002.png"

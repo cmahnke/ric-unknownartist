@@ -8,6 +8,9 @@ title: Sailing boats (Ric 05)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499552452/short-description-sailing-boat-notes-found-on
 alias:
 - 183499552452
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "u2v350.jpg"
 ---

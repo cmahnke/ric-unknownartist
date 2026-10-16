@@ -3,6 +3,9 @@ date: 2020-09-29T19:08:00+02:00
 tags:
 - Fritz Neumann
 title: "Fritz Neumann Birch Way"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img001.jpg"
 - src: "signature.jpg"

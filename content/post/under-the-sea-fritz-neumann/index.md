@@ -7,6 +7,9 @@ source:
 - http://www.ebay.com/itm/FRITZ-NEUMANN-SIGNED-AKA-RIC-Vintage-c-1960s-Etching-THREE-OCEAN-FISH-CORAL-/133483534362?hash=item1f143d181a
 - http://www.ebay.com/itm/FRITZ-NEUMANN-SIGNED-AKA-RIC-Vintage-c-1960s-Etching-TWO-OCEAN-FISH-CORAL-/133483534355?hash=item1f143d1813
 title: "Under the Sea - Fritz Neumann"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-2.jpg"

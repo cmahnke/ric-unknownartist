@@ -8,6 +8,11 @@ tags:
 - Hint
 title: 'Hede Klinge-Neumann im "Catalog of Copyright Entries"'
 disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "copyright-klinge-1939.png"
 ---
 
 Da aus dem [Zeitungsartikel](/de/post/fritz-neumann-spandauer-volksblatt-19-2-1972/) bekannt ist, dass die Frau von Fritz Neumann auch als Künstlerin arbeitete, hier Fundstellen aus dem Katalog der Copyright Einträge. Mehr zum diesem Katalog findet sich in dem [entsprechendem Beitrag zu Fritz Neumann](/de/post/fritz-neumann-copyright-records/).

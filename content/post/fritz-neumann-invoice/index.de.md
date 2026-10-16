@@ -5,6 +5,9 @@ tags:
 - Document
 - Hint
 title: "Rechnung für ein Fritz Neumann Gemälde"
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "neumann-sagert.jpg"
 ---

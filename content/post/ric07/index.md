@@ -8,6 +8,9 @@ title: Ric 07
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183469502697/ric07
 alias:
 - 183469502697
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "_blogspot-07.png"
 ---

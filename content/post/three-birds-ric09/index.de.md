@@ -8,6 +8,9 @@ title: Drei Vögel (Ric 09)
 tumblr_url: https://ric-unknownartist.tumblr.com/post/183499551357/short-description-three-birds-notes-see-antik
 alias:
 - 183499551357
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "RIG_Farbradierung_Vogel_6850x.jpg"
 - src: "RIG_Farbradierung_Vogel_6851x.jpg"

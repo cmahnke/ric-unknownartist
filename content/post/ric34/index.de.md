@@ -7,6 +7,9 @@ tags:
 title: "Ein neues Werk von Ric entdeckt!"
 source: https://www.ebay.de/itm/145006855670
 description: Zur Fischerin (Lindau / Bodensee)
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600-5.jpg"
 - src: "s-l1600.jpg"

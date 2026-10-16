@@ -6,6 +6,9 @@ tags:
 - Ric
 - Signature
 title: Segelboote (Ric 06)
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "_57-4.jpeg"
 - src: "_57-2.jpeg"

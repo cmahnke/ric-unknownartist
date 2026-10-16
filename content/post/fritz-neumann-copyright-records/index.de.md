@@ -5,6 +5,15 @@ tags:
 - Hint
 title: 'Fritz Neumann im "Catalog of Copyright Entries"'
 disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "img/1936.png"
+- src: "img/1938-145.png"
+- src: "img/1938-43.png"
+- src: "img/1939-143.png"
+- src: "img/1939-28.png"
 ---
 
 Das [United States Copyright Office (USCO)] (https://en.wikipedia.org/wiki/United_States_Copyright_Office) ist ein Verwalter verschiedener Arten von Urheberrechtseinträgen. Es gab früher einen gedruckten Katalog der registrierten Urheberrechtsansprüche heraus.

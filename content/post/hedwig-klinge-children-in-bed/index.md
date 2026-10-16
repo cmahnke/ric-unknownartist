@@ -5,6 +5,9 @@ tags:
 - Signature
 title: "Hedwig Klinge Small children in bed"
 source: https://www.kleinanzeigen.de/s-anzeige/bild-druck-unter-glas-mit-rahmen-kinder-im-bett-klinge-vintage/3032341351-240-786
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"

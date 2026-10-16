@@ -5,6 +5,11 @@ tags:
 - Ric 05
 title: "Ric im Fernsehen"
 disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "Tatort-Ric.png"
 ---
 
 Vor ein paar Tagen habe ich eine Folge der Fernsehserie [Tatort](https://en.wikipedia.org/wiki/Tatort) heruntergeladen. Die Episode [**"Tatort: Borowski und eine Frage von reinem Geschmack “**](https://de.wikipedia.org/wiki/Tatort:_Borowski_und_eine_Frage_von_reinem_Geschmack) wurde am 24. Oktober 2010 ausgestrahlt.

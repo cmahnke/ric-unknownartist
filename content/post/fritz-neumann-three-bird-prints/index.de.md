@@ -6,6 +6,9 @@ tags:
   - BlindEmbossing
 title: "Drei Fritz Neumann Drucke von Vögeln"
 source: https://www.kleinanzeigen.de/s-anzeige/3-bilder-von-fritz-neumann-tukan/2939689425-240-21101
+outputs:
+- html
+- iiif-manifest
 resources:
   - src: "img1.jpeg"
   - src: "img2.jpeg"

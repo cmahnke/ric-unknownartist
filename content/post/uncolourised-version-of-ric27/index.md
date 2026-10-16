@@ -6,6 +6,9 @@ tags:
 - eBay
 title: "Uncolourised version of Ric27"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c-1960s-B-W-Etching-STREETSCENE-/133483534361?hash=item1f143d1819
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 ---

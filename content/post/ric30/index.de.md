@@ -8,6 +8,9 @@ tags:
 title: "Ein neues Werk von Ric entdeckt! Wieder von Mark Strong (Eins von zwei)"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Etching-Water-Fowl-Birds-CORMORANTS-/143761721763?hash=item2178ddc9a3
 description: Ein Druck mit drei Kormoranen
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 ---

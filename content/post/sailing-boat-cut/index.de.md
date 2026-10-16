@@ -4,6 +4,9 @@ tags:
 - Ric 07
 - Ric
 title: Segelboote (Ric 07)
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "Ric07.jpeg"
 ---

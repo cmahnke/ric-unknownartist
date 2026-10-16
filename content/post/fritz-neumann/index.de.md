@@ -5,6 +5,12 @@ tags:
 - Fritz Neumann
 - Meibohm Fine Arts
 disableImageViewer: true
+outputs:
+- html
+- iiif-manifest
+resources:
+- src: "Fritz-Neumann.jpg"
+- src: "Fritz_Neumann_SpandauerVolksblatt_19.02.1972_V3_Nero_AI_Image_Upscaler_Sepia.jpg"
 ---
 
 Für die Überarbeitung der Biografie von Fritz Neumann bei [AskArt](https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx), die damit nun auch die letzten Erkenntnisse aus diesem Blog beinhaltet, hat [Mark Strong von Meibohm Fine Arts](https://www.meibohmfinearts.com/) das Foto von Fritz Neumann aus dem [Spandauer Volksblatt vom 19 Februar 1972](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/) mittels künstliche Intelligenz verbessert:

@@ -1,13 +1,15 @@
 ---
-date: 2022-09-10T17:37:31Z
+date: 2025-03-07T18:32:31Z
 tags:
-- Ric
-- Ric 33
-- eBay
+- Fritz Neumann
+- Etching
 - Signature
 - Meibohm Fine Arts
 title: Ein weiterer neuer Ric, gefunden von Mark Strong
 source: https://www.ebay.com/itm/134264241066
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "12UntDockedBoat_And_GlowingLampPostAtTwilight_Neumann.jpg"
 ---

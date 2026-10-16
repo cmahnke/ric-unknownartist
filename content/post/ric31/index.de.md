@@ -8,6 +8,9 @@ tags:
 title: "Ein neues Werk von Ric entdeckt! Wieder von Mark Strong (Zwei von zwei)"
 source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Etching-Water-Birds-TWO-FLYING-SWANS-/143761721771?hash=item2178ddc9ab
 description: Ein Druck von zwei Schwänen im Flug
+outputs:
+- html
+- iiif-manifest
 resources:
 - src: "s-l1600.jpg"
 ---
