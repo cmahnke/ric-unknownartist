@@ -16,6 +16,22 @@
   disableScale = true
   schemaPerson = "https://christianmahnke.de/person.jsonld"
 
+[params.preview]
+    outputPrefix = "ogPreview"
+    outputSuffix = ".webp"
+    format = "svg"
+    source = "post"
+    [params.preview.size]
+        height = 630
+        width = 1200
+    [params.preview.svg]
+        template = "./Source Files/preview-template.svg"
+        scale = "width"
+        removeMissing = true
+        minFontSize = 32
+    [params.preview.og]
+        format = "webp"
+
 [params.author]
   email = 'mail@christianmahnke.de'
   name = 'Christian Mahnke'

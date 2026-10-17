@@ -40,6 +40,9 @@ done
 
 npx pngquant --ext .png --force static/images/logo.png
 
+# Generate OpenGraph previews
+TARGETFORMAT=webp ./themes/projektemacher-base/scripts/preview.sh
+
 # Language files
 mv i18n/de.toml i18n/ric-unknownartist.de.toml
 mv i18n/en.toml i18n/ric-unknownartist.en.toml
