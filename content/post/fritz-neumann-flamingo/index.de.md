@@ -14,7 +14,7 @@ resources:
   params:
     iiif: front/info.json
 disableImageViewer: true
-js: js/iiif-image-viewer.js
+js: ts/iiif-image-viewer.ts
 ---
 
 **Kurze Beschreibung:** Kolorierte Radierung eines Flamingos von Fritz Neumann

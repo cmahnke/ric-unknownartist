@@ -14,7 +14,7 @@ resources:
   params:
     iiif: front/info.json
 disableImageViewer: true
-js: js/iiif-image-viewer.js
+js: ts/iiif-image-viewer.ts
 ---
 
 **Short description:** Coloured etching of a flamingo by Fritz Neumann
