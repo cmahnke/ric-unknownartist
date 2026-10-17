@@ -3,6 +3,7 @@ packages:
 allowBuilds:
   canvas: true
   esbuild: true
+  gl: true
   pngquant-bin: true
   protobufjs: true
   puppeteer: true
