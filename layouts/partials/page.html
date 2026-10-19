@@ -14,7 +14,7 @@
   </div>
 {{- end -}}
   {{- $postClass := "narrow" -}}
-  {{- if .Site.Params.widePosts -}}
+  {{- if site.Params.widePosts -}}
     {{- $postClass = "wide" -}}
   {{- end }}
   <div class="{{ $postClass }}">
@@ -23,7 +23,7 @@
       {{- $title = printf "<a href=\"%s\">%s</a>" .Params.linkTarget .Params.linkTitle | safeHTML -}}
     {{ end }}
     {{- if or (not .Params.postType) (ne .Params.postType "video") -}}
-      {{- if not .Site.Params.hideTitle -}}
+      {{- if not site.Params.hideTitle -}}
         <div class="title">
           <h1>{{ $title }}</h1>
         </div>
@@ -45,7 +45,7 @@
         {{- end -}}
       {{- end -}}
     {{- else -}}
-      {{- if and (and .Resources .Site.Params.enableImageViewer) (not .Params.disableImageViewer) -}}
+      {{- if and (and .Resources site.Params.enableImageViewer) (not .Params.disableImageViewer) -}}
         {{- partial "image-viewer.html" . -}}
       {{- end -}}
     {{- end -}}
@@ -61,7 +61,7 @@
           <a href="{{ .RelPermalink }}">
             {{- .Date | time.Format ":date_full" -}}
           </a>
-          {{- if .Site.Params.linkTumblr -}}
+          {{- if site.Params.linkTumblr -}}
               {{- if .Params.tumblr_url -}}
                 <span class="tumblr-url">
                   <a href="{{ .Params.tumblr_url }}">{{ i18n "tumblrOriginal" }}</a>

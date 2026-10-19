@@ -1,19 +1,19 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
+<html lang="{{ site.Language.Lang }}">
 
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Language" content="{{ .Site.Language.Lang }}">
-    {{- with .Site.Params.author -}}
+    <meta http-equiv="Content-Language" content="{{ site.Language.Lang }}">
+    {{- with site.Params.author -}}
       {{- $author := . -}}
       {{- if reflect.IsMap $author -}}
         {{- $author = index $author "name" -}}
       {{- end -}}
       <meta name="author" content="{{ $author }}">
     {{- end -}}
-    <meta name="description" content="{{ .Description | default (.Summary | default .Site.Params.description ) }}">
-    <meta name="keywords" content="{{ (delimit .Keywords ",") | default .Site.Params.keywords }}">
+    <meta name="description" content="{{ .Description | default (.Summary | default site.Params.description ) }}">
+    <meta name="keywords" content="{{ (delimit .Keywords ",") | default site.Params.keywords }}">
     {{ partial "html/head/og-meta.html" . }}
     <meta name="projektemacher.org:build-date" content="{{ now }}">
     {{- if ne .GitInfo nil -}}
@@ -27,7 +27,7 @@
     {{ if .Permalink }}
        <base href="{{ .Permalink }}">
     {{ end }}
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ block "title" . }}{{ site.Title }}{{ end }}</title>
 
     {{- if .Permalink -}}
       <link rel="canonical" href="{{ .Permalink }}">
@@ -47,13 +47,13 @@
       {{- $opts = dict "targetPath" "js/main.js" "defines" $defines "minify" false -}}
     {{- end -}}
     {{- $js := slice (resources.Get "ts/menu.ts" | js.Build $opts) -}}
-    {{- if and .Site.Params.enableImageViewer .Site.Params.enablePDFViewer -}}
+    {{- if and site.Params.enableImageViewer site.Params.enablePDFViewer -}}
         {{- $viewers := slice (resources.Get "ts/image-viewer.ts" | js.Build $opts) (resources.Get "ts/pdf-viewer.ts" | js.Build $opts) -}}
         {{- $js = $js | append $viewers -}}
-    {{- else if .Site.Params.enableImageViewer -}}
+    {{- else if site.Params.enableImageViewer -}}
         {{- $imageViewer := resources.Get "ts/image-viewer.ts" | js.Build $opts -}}
         {{- $js = $js | append $imageViewer -}}
-    {{- else if .Site.Params.enablePDFViewer -}}
+    {{- else if site.Params.enablePDFViewer -}}
         {{- $pdfViewer := resources.Get "ts/pdf-viewer.ts" | js.Build $opts -}}
         {{- $js = $js | append $pdfViewer -}}
     {{- end }}
@@ -66,7 +66,7 @@
     {{- end -}}
 
     {{- if .IsHome -}}
-      {{- with .Site.RegularPages -}}
+      {{- with site.RegularPages -}}
         {{- range . -}}
           {{- if .Params.js -}}
             {{- $pageJS := resources.Get .Params.js | js.Build $opts -}}
@@ -131,7 +131,7 @@
     {{- end -}}
 
     {{- $style := slice -}}
-    {{- if .Site.Params.enableImageViewer -}}
+    {{- if site.Params.enableImageViewer -}}
         {{- $lightgalleryStyle := resources.Get "css/lightgallery/lightgallery-bundle.css" -}}
         {{- $ourStyle = $ourStyle | append $lightgalleryStyle -}}
         {{- $style = $ourStyle | resources.Concat (printf "css/concated-%d.css" 2) -}}
@@ -150,21 +150,21 @@
     <link href="{{ $style.RelPermalink }}" rel="stylesheet" integrity="{{ $style.Data.Integrity }}">
 
     {{/* External Styles - Fonts etc */}}
-    {{ range .Site.Params.stylesheets -}}
+    {{ range site.Params.stylesheets -}}
         <link href="{{ . }}" rel="stylesheet">
     {{- end -}}
 
     {{ $faviconRelPrefix := "" }}
-    {{ if .Site.Params.svgIcon }}
-        <link rel="icon" type="image/svg+xml" href="{{ .Site.Params.svgIcon }}">
+    {{ if site.Params.svgIcon }}
+        <link rel="icon" type="image/svg+xml" href="{{ site.Params.svgIcon }}">
         {{ $faviconRelPrefix = "alternate " }}
     {{ end }}
 
     {{ range .AlternativeOutputFormats -}}
-      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
     {{ end -}}
 
-    <link rel="{{- $faviconRelPrefix }}icon" href="{{ .Site.Params.icon | default "/images/favicon.ico" | absURL }}">
+    <link rel="{{- $faviconRelPrefix }}icon" href="{{ site.Params.icon | default "/images/favicon.ico" | absURL }}">
     {{ hugo.Generator }}
     {{- if .OutputFormats.Get "linkedart" -}}
       <link rel="describedby" href="{{ .RelPermalink }}" type="application/ld+json;profile='https://linked.art/ns/v1/linked-art.json'"/>

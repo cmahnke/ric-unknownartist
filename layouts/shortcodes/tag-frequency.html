@@ -3,11 +3,9 @@
     {{ $prefix = .Get "prefix" -}}
 {{- end -}}
 
-{{- $tags := $.Site.Taxonomies.tags.ByCount -}}
+{{- $tags := site.Taxonomies.tags.ByCount -}}
 {{- $filtered := where $tags "Count" ">=" 1 -}}
 {{- $filtered = where $filtered "Term" "not in" (slice "hugo" "tags" "rss") -}}
-
-
 
 {{- if len $filtered -}}
   {{- $tags = slice -}}
@@ -32,9 +30,9 @@
     {{- end -}}
 
   {{- end -}}
-  {{- $xaxis = substr $xaxis 0 (sub ($xaxis | len) 1) -}}
+  {{- $xaxis = strings.Substr $xaxis 0 (sub ($xaxis | len) 1) -}}
   {{- $xaxis = printf "%s]" $xaxis -}}
-  {{- $bar = substr $bar 0 (sub ($bar | len) 1) -}}
+  {{- $bar = strings.Substr $bar 0 (sub ($bar | len) 1) -}}
   {{- $bar = printf "%s]" $bar -}}
   {{- $mermaid = printf "%s\n\t%s\n\t%s" $mermaid $xaxis $bar -}}
 
@@ -57,6 +55,5 @@ config:
       securityLevel: 'loose',
     });
   </script>
-
 
 {{- end -}}

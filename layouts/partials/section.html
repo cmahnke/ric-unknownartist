@@ -1,5 +1,5 @@
 {{ $postClass := "narrow" }}
-{{ if .Site.Params.widePosts }}
+{{ if site.Params.widePosts }}
 {{ $postClass = "wide" }}
 {{ end }}
 <div class="{{ $postClass }}">

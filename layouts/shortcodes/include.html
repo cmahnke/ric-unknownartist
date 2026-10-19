@@ -3,7 +3,7 @@
 
 {{- if (.Get "src") }}
   {{- $file = path.Join .Page.File.Dir (.Get "src") -}}
-  {{ $include = readFile $file | markdownify -}}
+  {{ $include = os.ReadFile $file | markdownify -}}
 {{- else -}}
   <div class="image-viewer-error">No source in include given</div>
 {{- end -}}
