@@ -13,7 +13,6 @@
   enablePDFViewer = false
   copyrightYears = "MMXXI - MMXXVI"
   wikidata = false
-  disableScale = true
   schemaPerson = "https://christianmahnke.de/person.jsonld"
 
 [params.preview]
