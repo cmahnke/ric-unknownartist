@@ -19,6 +19,7 @@ resources:
 - src: "ric-pencil-signed-cubist-sailboats-1960-s-2-811-p.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555972/short-description-three-sailing-boats
+---
 
 **Kurze Beschreibung:** Vier Segelboote ([Spinnaker](https://de.wikipedia.org/wiki/Spinnaker))
 

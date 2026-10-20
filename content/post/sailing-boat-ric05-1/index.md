@@ -17,6 +17,7 @@ resources:
 - src: "Segelboote_Ric_15x.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183516900367/short-description-sailing-boat-notes-see-antik
+---
 
 **Short description:** Sailing boat
 

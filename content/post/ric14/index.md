@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-14.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469551082/ric14
+---
 
 **Short description:** A latern next to a stair (alley)
 

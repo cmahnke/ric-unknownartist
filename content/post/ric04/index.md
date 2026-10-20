@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-04.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469485442/ric04
+---
 
 **Short description:** Ships (fishing boats) at a harbour
 

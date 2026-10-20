@@ -22,6 +22,7 @@ resources:
 - src: "Adressbuch 1933.png"
 params:
   disableImageViewer: true
+---
 
 Aus der [Heiratsurkunde](/post/fritz-neumann-civil-registry/) geht eine weitere Adresse von Fritz Neumann hervor: Die Lettestraße 1.
 

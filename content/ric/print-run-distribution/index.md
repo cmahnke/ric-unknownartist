@@ -6,6 +6,7 @@ params:
   displayInList: false
   disableImageViewer: true
   js: ts/mermaid.ts
+---
 
 In order to better illustrate the frequency of the respective prints, the frequencies of the contributions to a day are visualised here. This is of course not an exact measure, but should at least provide an indicator. Therefore, the estimates become more accurate with additional, possibly redundant, contributions.
 

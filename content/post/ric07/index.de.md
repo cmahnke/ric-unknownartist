@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-07.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469502697/ric07
+---
 
 **Kurze Beschreibung:** Zwei Segelboote
 

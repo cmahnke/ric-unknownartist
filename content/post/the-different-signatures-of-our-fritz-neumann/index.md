@@ -17,6 +17,7 @@ resources:
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183675057762/the-different-signatures-of-our-fritz-neumann
   disableImageViewer: true
+---
 
 One possibility to distinguish between our different Fritz Neumann's is to compare the signature. The following list shows examples of Fritz Neumanns signatures, the source images are linked in the image caption:
 

@@ -13,6 +13,7 @@ resources:
 - src: "copyright-klinge-1939.png"
 params:
   disableImageViewer: true
+---
 
 Wie Mark Strong von [Meibohm Fine Arts] (http://meibohmfinearts.com/) feststellte, gibt es auch ein Pseudonym von Hede Klinge-Neumann im "Catalog of Copyright Entries" 1939, Vol 34 No 1-4. Der Name "Dienhoff" ist als Pseudonym von H. Neumann-Klinge vermerkt.
 

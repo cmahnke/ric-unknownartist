@@ -11,6 +11,7 @@ resources:
 - src: "UdK-Archiv 6-204.png"
 params:
   disableImageViewer: true
+---
 
 The newspaper article in the [Spandauer Volksblatt of 19 February 1972](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/) shows that he attended an art school between 1912 and 1916. Now there is the first indication that he was enrolled for one semester at the Akademische Hochschule für die Bildenden Künste in the winter semester of 1912/13:
 

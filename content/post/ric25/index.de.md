@@ -14,6 +14,7 @@ resources:
 - src: "25-s-l1600.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183498396317/short-description-sailing-ship-notes-found-on
+---
 
 **Kurze Beschreibung:** Ein großes Segelschiff
 

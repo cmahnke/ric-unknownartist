@@ -11,6 +11,7 @@ resources:
 - src: "Tango-fuer-Borowski-0-03-38.jpg"
 params:
   disableImageViewer: true
+---
 
 Nachdem mir schon [aufgefallen](/de/post/ric-on-tv) war, dass Ric auch einen Auftritt im Tatort hatte, habe ich mal beim NDR als produzierende Rundfunkanstalt nachgefragt. Meine Anfrage wurde vom Archiv direkt an die Produktion weitergeleitet.
 

@@ -21,6 +21,7 @@ resources:
 - src: "Fritz_Neumann_RIC_Signed_Letter_For_Pseudonym_Sept_24_1963_Sm.jpg"
 params:
   disableImageViewer: true
+---
 
 Die Originalnotiz, in der unser Fritz Neumann bestätigt, dass er Ric ist, veröffentlicht von Mark Strong von Meibohm Fine Arts, enthielt eine Adresse:
 

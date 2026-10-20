@@ -5,6 +5,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 Fritz Neumann hatte zwei künstlerische Persönlichkeiten / Stile:
 

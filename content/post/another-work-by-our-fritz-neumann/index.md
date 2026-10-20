@@ -16,6 +16,7 @@ resources:
 source: https://www.ebay-kleinanzeigen.de/s-anzeige/radierung-fritz-neumann-vogel-voegel-tukan-30er-jahre-sign-/1072820687-240-1562
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183548567747/description-another-work-by-our-fritz-neumann
+---
 
 **Description:** Another work by our Fritz Neumann, look at the signature and the stamp mark on the third picture.
 

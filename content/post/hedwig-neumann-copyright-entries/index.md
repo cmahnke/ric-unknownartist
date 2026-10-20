@@ -14,6 +14,7 @@ resources:
 - src: "copyright-klinge-1939.png"
 params:
   disableImageViewer: true
+---
 
 As it is known from the [newspaper article](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/) that Fritz Neumann's wife also worked as an artist, here are some references from the catalogue of copyright entries. More about this catalogue can be found in the [corresponding article on Fritz Neumann](/post/fritz-neumann-copyright-records/).
 

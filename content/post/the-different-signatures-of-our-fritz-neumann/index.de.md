@@ -17,6 +17,7 @@ resources:
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183675057762/the-different-signatures-of-our-fritz-neumann
   disableImageViewer: true
+---
 
 Eine Möglichkeit, zwischen unseren verschiedenen Fritz Neumanns zu unterscheiden, ist der Vergleich der Signatur. Die folgende Liste zeigt Beispiele für Fritz Neumanns Unterschriften, die Quellbilder sind in der Bildunterschrift verlinkt:
 

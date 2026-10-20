@@ -8,6 +8,7 @@ title: "Fritz Neumann (1897-1984) is Ric!"
 params:
   metaPage: true
   displayInList: false
+---
 
 This page is currently being prepared in the meantime have a look at the pages, that are be used to write this one:
 

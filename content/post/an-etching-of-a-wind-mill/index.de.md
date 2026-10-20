@@ -17,6 +17,7 @@ resources:
 - src: "s-l1600-3.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183702884249/short-description-an-etching-of-a-wind-mill-by
+---
 
 **Kurz Beschreibung:** Eine Radierung einer Windmühle von (irgendeinem) Fritz Neumann
 

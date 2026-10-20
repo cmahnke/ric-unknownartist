@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-12.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469542862/ric12
+---
 
 **Kurze Beschreibung:** Gasse mit drei Lampen
 

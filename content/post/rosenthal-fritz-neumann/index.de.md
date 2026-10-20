@@ -16,6 +16,7 @@ resources:
 - src: "E65BEB165D7F9031A2DADEA795984676.jpeg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183548096912/notes-found-on-lauritzcom-there-are-many-other
+---
 
 **Kurze Beschreibung:** Eine Fliese mit dem Aufdruck "Am Wind" der Firma Rosenthal
 

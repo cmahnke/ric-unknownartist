@@ -6,6 +6,7 @@ tags:
 title: "Fritz Neumann-Hegenberg"
 params:
   disableImageViewer: true
+---
 
 Auch wenn Fritz Neumann-Hegenberg von Anfang an als "unser" Fritz Neumann ausgeschlossen werden konnte. Gibt es weitere Hinweise die dies untermauern.
 

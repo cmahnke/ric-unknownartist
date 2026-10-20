@@ -7,5 +7,6 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 Diese Liste enthält Beiträge mit Bildern, die von der [Original Website](http://ric-unknownartist.blogspot.com/p/blog-page.html) stammen.

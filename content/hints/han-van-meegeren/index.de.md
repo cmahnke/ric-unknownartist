@@ -5,6 +5,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 Vor kurzem habe ich einen weiteren [Hinweis](/de/post/a-clue-from-the-old-blog) gefunden, der auf [Han van Meegeren](https://en.wikipedia.org/wiki/Han_van_Meegeren) hinweist. Dieser Mann hat eine sehr interessante Biographie.
 

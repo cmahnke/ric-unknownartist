@@ -15,6 +15,7 @@ resources:
 - src: "img/1939-28.png"
 params:
   disableImageViewer: true
+---
 
 The [United States Copyright Office (USCO)](https://en.wikipedia.org/wiki/United_States_Copyright_Office) is a keeper of differend kind of copyright entries. It used to issue a printed catalogue of those registered copyright claims.
 Since the USA has been a global market already before world war two, there were copyright registrations by [J.C. Blumenberg](/hints/j-c-b/) in the thirties. Some of those, especially in Part 4: Works of Art, these also cover works by our Fritz Neumann. This gives us dates for certain works of our Fritz and is an indicator when they started to work with each other.

@@ -6,6 +6,7 @@ tags:
 title: "Fritz Neumann-Hegenberg"
 params:
   disableImageViewer: true
+---
 
 Even if Fritz Neumann-Hegenberg could be ruled out as "our" Fritz Neumann from the outset. There is further evidence to support this.
 

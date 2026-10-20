@@ -14,6 +14,7 @@ resources:
 - src: "s-l1600.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183592077032/short-description-a-kitten-notes-taken-from
+---
 
 **Kurze Beschreibung:** Ein Kätzchen
 

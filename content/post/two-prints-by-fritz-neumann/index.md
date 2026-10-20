@@ -15,6 +15,7 @@ resources:
 - src: "3320_5_1476107208.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183678121235/short-description-two-prints-by-fritz-neumann
+---
 
 **Short description:** Two prints by Fritz Neumann, sailings boats and a black-headed gull.
 

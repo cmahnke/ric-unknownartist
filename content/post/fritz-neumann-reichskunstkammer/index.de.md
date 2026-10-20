@@ -7,6 +7,7 @@ tags:
 title: "Fritz Neumann als Mitglied der Reichskunstkammer"
 params:
   disableImageViewer: true
+---
 
 Da sowohl die [Adressbucheinträge](/de/post/fritz-neumann-address-book-berlin/) als auch einige Werke von Fritz Neumann (wie [dieses](/de/post/fritz-neumann-painting-genossenschaftsfamilie/) vom August 1935 oder [diese](/de/post/rosenthal-fritz-neumann/) von zwischen 1934 und 1951) aus der Zeit des "3. Reiches" stammen, ist es relativ wahrscheinlich, dass er Mitglied der [Reichskunstkammer](https://de.wikipedia.org/wiki/Reichskammer_der_bildenden_K%C3%BCnste) gewesen ist. Die Mitgliedschaft war damals verpflichtend...
 

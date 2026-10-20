@@ -17,6 +17,7 @@ resources:
 - src: "IMG_0896.JPG"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183603798812/short-description-a-stair-alley-notes-better
+---
 
 **Kurze Beschreibung:** Eine Treppe (Straße / Weg)
 

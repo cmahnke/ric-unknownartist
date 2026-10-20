@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-20.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469585077/ric20
+---
 
 **Kurze Beschreibung:** Eine Gasse
 

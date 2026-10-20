@@ -13,6 +13,7 @@ resources:
 - src: "1-118-10470.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
+---
 
 **Kurze Beschreibung:** Fischernetz zum Trocknen aufgehängt in der untergehenden Sonne
 

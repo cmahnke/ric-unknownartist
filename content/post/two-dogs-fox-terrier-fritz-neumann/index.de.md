@@ -16,6 +16,7 @@ resources:
 - src: "P3390771.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183582606652/short-description-two-dogs-fox-terrier-notes
+---
 
 **Kurze Beschreibung:** Zwei Hunde, Foxterrier.
 

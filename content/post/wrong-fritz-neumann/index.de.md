@@ -13,6 +13,7 @@ resources:
 - src: "screenshoot.png"
 params:
   disableImageViewer: true
+---
 
 {{< figure src="screenshoot.png" link="http://www.artnet.de/k%C3%BCnstler/fritz-neumann/" class="shadow" >}}
 

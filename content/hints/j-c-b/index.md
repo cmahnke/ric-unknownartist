@@ -5,6 +5,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 The "Kunstverlag (fine art publisher) J.C. Blumenberg" was the publishing house for prints by Ric and Fritz Neumann. There are two embossing marks known.
 

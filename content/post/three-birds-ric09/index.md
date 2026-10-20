@@ -15,6 +15,7 @@ resources:
 - src: "RIG_Farbradierung_Vogel_6851x.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183499551357/short-description-three-birds-notes-see-antik
+---
 
 **Short description:** Three birds
 

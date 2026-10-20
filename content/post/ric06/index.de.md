@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-06.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469496942/ric06
+---
 
 **Kurze Beschreibung:** Segelboote
 

@@ -4,6 +4,7 @@ date: 2020-08-18T19:01:09+02:00
 params:
   metaPage: true
   displayInList: false
+---
 This page lists the currently known works including different images for each, the naming follows the [original blog](http://ric-unknownartist.blogspot.com/). The works with the names “RIC 01” to “RIC 22” are the ones from the original blog. The first picture an each page is from this blog as well.
 
 Since most of these works are prints some could be grouped together by the plates having been used.

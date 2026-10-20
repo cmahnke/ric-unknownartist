@@ -15,6 +15,7 @@ resources:
 source: https://www.worthpoint.com/worthopedia/ric-signed-original-modernist-etching-307017596
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469477637/ric02
+---
 
 **Kurze Beschreibung:** Zwei Segelboote
 

@@ -16,6 +16,7 @@ resources:
 - src: "Stempel.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/184220725262/short-description-a-german-shepherd-notes-bought
+---
 
 **Short description:** A German Shepherd
 

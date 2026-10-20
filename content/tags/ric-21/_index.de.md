@@ -4,6 +4,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 Das Motiv dieses Drucks ist die [Kaiser-Wilhelm-Gedächtniskirche](https://de.wikipedia.org/wiki/Kaiser-Wilhelm-Ged%C3%A4chtniskirche). Es ist derzeit das einzig bekannte Werk von Ric, das Berlin zeigt.
 

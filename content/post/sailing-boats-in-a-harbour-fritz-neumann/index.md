@@ -16,6 +16,7 @@ resources:
 - src: "IMG_0885.JPG"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183582046002/short-description-sailing-boats-in-a-harbour
+---
 
 **Short Description:** Sailing boats in a harbour / near a shore
 

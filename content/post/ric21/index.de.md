@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-21.JPG"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469588842/ric21
+---
 
 **Kurze Beschreibung:** Die [Gedächniskirche in Berlin](https://de.wikipedia.org/wiki/Kaiser-Wilhelm-Ged%C3%A4chtniskirche)
 

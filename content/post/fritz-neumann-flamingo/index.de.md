@@ -16,6 +16,7 @@ resources:
 params:
   disableImageViewer: true
   js: ts/iiif-image-viewer.ts
+---
 
 **Kurze Beschreibung:** Kolorierte Radierung eines Flamingos von Fritz Neumann
 

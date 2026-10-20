@@ -15,6 +15,7 @@ resources:
 source: http://www.cofart.be/wp-content/uploads/2015/12/Hermann-Fritz-Neumann-Germany-Elmshorn-1858-Dresden-1920-Ali-Baba-Wirehaired-Fox-Terrier.jpg
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183592197152/short-description-two-prints-from-one-plate
+---
 
 **Kurzbeschreibung:** Zwei Abdrücke von einer Platte, ein weiterer Foxterrier.
 

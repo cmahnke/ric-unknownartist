@@ -15,6 +15,7 @@ resources:
 source: http://www.cofart.be/gallery-2/animal-scenes/prints/fritz-neumann-dachshund-2/
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183591808247/short-description-a-dachshund-notes-taken-from
+---
 
 **Kurze Beschreibung:** Ein Dachshund
 

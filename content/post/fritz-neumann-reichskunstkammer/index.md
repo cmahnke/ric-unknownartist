@@ -7,6 +7,7 @@ tags:
 title: "Fritz Neumann as a member of the Reichskunstkammer"
 params:
   disableImageViewer: true
+---
 
 Since both the [address book entries](/en/post/fritz-neumann-address-book-berlin/) and some of Fritz Neumann's works (such as [this](/en/post/fritz-neumann-painting-genossenschaftsfamilie/) from August 1935 or [this](/en/post/rosenthal-fritz-neumann/) from between 1934 and 1951) date from the time of the ‘3rd Reich’, it is relatively likely that he was a member of the [Reichskunstkammer](https://de.wikipedia.org/wiki/Reichskammer_der_bildenden_K%C3%BCnste). Membership was compulsory at the time...
 

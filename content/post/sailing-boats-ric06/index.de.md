@@ -19,6 +19,7 @@ resources:
 - src: "s-l1600.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183501026812/short-description-sailing-boats-notes-sold
+---
 
 **Kurze Beschreibung:** Segelboote
 

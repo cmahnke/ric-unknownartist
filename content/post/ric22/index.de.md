@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-22.jpeg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469594072/ric22
+---
 
 **Kurze Beschreibung:** Drei Segelboote (Spinnaker)
 

@@ -6,6 +6,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 **[Update 26. Juli 2024]: [Die Lösung des Rätsels ist leider falsch](/de/post/mystery-again)**
 

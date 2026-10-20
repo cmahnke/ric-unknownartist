@@ -14,6 +14,7 @@ resources:
 - src: "16-9164F4E8-B49C-478E-BEFD-977389B17BAB.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183498399732/short-description-two-sailings-boats-notes
+---
 
 **Short description:** Two sailings boats
 

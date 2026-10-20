@@ -4,6 +4,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 Wenn Sie die Werke von Ric mögen, sollten Sie sich die folgenden Künstler ansehen (nicht in einer bestimmten Reihenfolge):
 * [Lyonel Feininger](https://de.wikipedia.org/wiki/Lyonel_Feininger)

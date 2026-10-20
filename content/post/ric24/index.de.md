@@ -16,6 +16,7 @@ resources:
 - src: "DADE14CD-B21B-4A44-B4FA-1203F48559FA.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469623317/ric24
+---
 
 **Kurze Beschreibung:** Eine Gasse vor einem Hafen
 

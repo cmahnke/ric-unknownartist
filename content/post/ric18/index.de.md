@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-18.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469576457/ric18
+---
 
 **Kurze Beschreibung:** Ein Marabu
 

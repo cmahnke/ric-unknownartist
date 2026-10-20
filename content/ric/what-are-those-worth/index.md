@@ -5,6 +5,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 Due to popular demand (this question is responsible for 90% of inquiries), I'll try to answer the question:
 

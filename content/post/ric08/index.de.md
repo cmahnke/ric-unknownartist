@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-08.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469508052/ric08
+---
 
 **Kurzbeschreibung:** Segelboot neben einem Hafen / Slip
 

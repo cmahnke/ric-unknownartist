@@ -4,6 +4,7 @@ date: 2020-08-18T19:01:09+02:00
 params:
   metaPage: true
   displayInList: false
+---
 # Einführung
 
 Dieser Blog soll helfen, das Rätsel "Wer war Ric" zu lösen.

@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-01.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469414917/ric01
+---
 
 **Kurze Beschreibung:** Zwei Segelboote ([Spinnaker](https://en.wikipedia.org/wiki/Spinnaker))
 

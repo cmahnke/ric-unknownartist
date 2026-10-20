@@ -22,6 +22,7 @@ resources:
 - src: "Adressbuch 1933.png"
 params:
   disableImageViewer: true
+---
 
 The [marriage certificate](/post/fritz-neumann-civil-registry/) shows another address for Fritz Neumann: Lettestraße 1.
 

@@ -11,6 +11,7 @@ resources:
 - src: "UdK-Archiv 6-204.png"
 params:
   disableImageViewer: true
+---
 
 Aus dem Zeitungsartikel im [Spandauer Volksblatt vom 19.2.1972](/de/post/fritz-neumann-spandauer-volksblatt-19-2-1972/) geht hervor, dass er zwischen 1912 und 1916 an einer Kunstschule war. Nun liegt der erste Hinweis vor, dass er ein Semester an der im Wintersemester 1912/13 an der Akademische Hochschule für die Bildenden Künste eingeschrieben war:
 

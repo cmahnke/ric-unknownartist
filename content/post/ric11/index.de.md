@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-11.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469524202/ric11
+---
 
 **Kurze Beschreibung:** Fischernetze und ein Schiff
 

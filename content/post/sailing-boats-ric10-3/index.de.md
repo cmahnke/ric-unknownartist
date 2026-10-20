@@ -20,6 +20,7 @@ resources:
 - src: "s-l1600-3.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183726997179/short-description-sailing-boats-notes-taken-from
+---
 
 **Kurzbeschreibung:** Segelboote
 

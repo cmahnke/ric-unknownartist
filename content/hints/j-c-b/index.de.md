@@ -5,6 +5,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 Der "Kunstverlag J.C. Blumenberg" war der Verlag für Grafiken von Ric und Fritz Neumann. Es sind zwei Prägestempel bekannt.
 

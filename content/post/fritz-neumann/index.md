@@ -12,6 +12,7 @@ resources:
 - src: "Fritz_Neumann_SpandauerVolksblatt_19.02.1972_V3_Nero_AI_Image_Upscaler_Sepia.jpg"
 params:
   disableImageViewer: true
+---
 
 For the revision of the biography of Fritz Neumann at [AskArt](https://www.askart.com/artist/Fritz_Neumann/11057559/Fritz_Neumann.aspx), which now also contains the latest findings from this blog, [Mark Strong from Meibohm Fine Arts](https://www.meibohmfinearts.com/) has improved the photo of Fritz Neumann from the [Spandauer Volksblatt of 19 February 1972](/post/fritz-neumann-spandauer-volksblatt-19-2-1972/) using artificial intelligence:
 

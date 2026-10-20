@@ -16,6 +16,7 @@ resources:
 - src: "s-l1600.jpg"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183499559772/short-description-alley-with-three-lamps-notes
+---
 
 **Short description** Alley with three lamps
 

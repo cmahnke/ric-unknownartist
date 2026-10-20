@@ -14,6 +14,7 @@ resources:
 - src: "_blogspot-03.png"
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469467147/ric03
+---
 
 **Short description:** Sailing ship next to a harbour / town
 

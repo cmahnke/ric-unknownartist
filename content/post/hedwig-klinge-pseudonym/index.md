@@ -13,6 +13,7 @@ resources:
 - src: "copyright-klinge-1939.png"
 params:
   disableImageViewer: true
+---
 
 As Mark Strong of [Meibohm Fine Arts](http://meibohmfinearts.com/) pointed out, there is also a Pseudonym of Hede Klinge-Neumann in the "Catalog of Copyright Entries" 1939, Vol 34 No 1-4. A the name "Dienhoff" is noted to be a pseudonym of H. Neumann-Klinge.
 

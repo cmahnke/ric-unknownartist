@@ -8,6 +8,7 @@ title: "Fritz Neumann (1928–2014) is not Ric!"
 params:
   metaPage: true
   displayInList: false
+---
 
 # Fritz Neumann (1928–2014) is not Ric!
 

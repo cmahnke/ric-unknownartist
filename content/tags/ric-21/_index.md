@@ -4,6 +4,7 @@ params:
   metaPage: true
   displayInList: false
   disableImageViewer: true
+---
 
 The motif of this print is the [Kaiser Wilhelm Memorial Church](https://en.wikipedia.org/wiki/Kaiser_Wilhelm_Memorial_Church). It's the only currently known work of Ric showing Berlin.
 
