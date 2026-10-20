@@ -41,10 +41,10 @@
     {{- if not (eq hugo.Environment "production") -}}
     {{/* {{- if hugo.IsServer -}} */}}
       {{- $defines = dict "process.env.NODE_ENV" `"development"` -}}
-      {{- $opts = dict "targetPath" "js/main.js" "defines" $defines "minify" false -}}
+      {{- $opts = dict "targetPath" "js/main.js" "defines" $defines "format" "esm" "minify" false -}}
     {{- else -}}
       {{- $defines = dict "process.env.NODE_ENV" `"production"` -}}
-      {{- $opts = dict "targetPath" "js/main.js" "defines" $defines "minify" false -}}
+      {{- $opts = dict "targetPath" "js/main.js" "defines" $defines "format" "esm" "minify" false -}}
     {{- end -}}
     {{- $js := slice (resources.Get "ts/menu.ts" | js.Build $opts) -}}
     {{- if and site.Params.enableImageViewer site.Params.enablePDFViewer -}}
@@ -110,7 +110,7 @@
         {{- $js = $js | resources.Concat (printf "js/concated-%s.js" $concatFileId) | fingerprint -}}
       {{- end -}}
 
-        <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+        <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" type="module"></script>
     {{- end }}
     <script>document.documentElement.classList.add('js');</script>
 
