@@ -8,22 +8,22 @@
 @use "observer" with (
   $font-header: ('Montserrat Variable', futura, sans-serif, helvetica, arial, sans-serif),
   $font-title: 'Montserrat Variable',
-  $font-body: 'Spectral',
-  $font-sec: ('Spectral', georgia, serif),
-  $font-menu: ('Spectral', georgia, serif)
+  $font-body: 'Lora Variable',
+  $font-sec: ('Lora Variable', georgia, serif),
+  $font-menu: ('Lora Variable', georgia, serif)
 );
 
 /* Site font stack, also passed to the observer module above */
 $font-header: 'Montserrat Variable', futura, sans-serif, helvetica, arial, sans-serif;
 $font-title: 'Montserrat Variable';
-$font-body: 'Spectral';
-$font-sec: 'Spectral', georgia, serif;
-$font-menu: 'Spectral', georgia, serif;
+$font-body: 'Lora Variable';
+$font-sec: 'Lora Variable', georgia, serif;
+$font-menu: 'Lora Variable', georgia, serif;
 
 /* @import "./disable-lang"; */
 
-/* spectral (provided by the theme's Fontsource pipeline) */
-@use "npm-fonts/spectral";
+/* lora (provided by the theme's Fontsource pipeline) */
+@use "npm-fonts/lora-variable";
 
 /* spinnaker-regular - latin (provided by the theme's Fontsource pipeline) */
 @use "npm-fonts/spinnaker";
