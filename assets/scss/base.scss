@@ -23,10 +23,10 @@ $font-menu: 'Spectral', georgia, serif;
 /* @import "./disable-lang"; */
 
 /* spectral (provided by the theme's Fontsource pipeline) */
-@import "npm-fonts/spectral";
+@use "npm-fonts/spectral";
 
 /* spinnaker-regular - latin (provided by the theme's Fontsource pipeline) */
-@import "npm-fonts/spinnaker";
+@use "npm-fonts/spinnaker";
 
 .blog-title {
     h1 {
