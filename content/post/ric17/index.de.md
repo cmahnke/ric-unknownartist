@@ -5,7 +5,6 @@ tags:
 - Ric
 - SourceBlogspot
 title: Ric 17
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469567082/ric17
 alias:
 - 183469567082
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-17.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469567082/ric17
 
 **Kurze Beschreibung:** Zwei Segelboote
 

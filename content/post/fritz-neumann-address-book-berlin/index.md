@@ -5,7 +5,6 @@ tags:
 - Status
 - Hint
 title: "Fritz Neumann in old address books from Berlin"
-disableImageViewer: true
 outputs:
 - html
 - iiif-manifest
@@ -20,7 +19,8 @@ resources:
 - src: "1978.png"
 - src: "1984.png"
 - src: "Fritz_Neumann_RIC_Signed_Letter_For_Pseudonym_Sept_24_1963_Sm.jpg"
----
+params:
+  disableImageViewer: true
 
 The original note where our Fritz Neumann confirms that he is Ric, published by Mark Strong of Meibohm Fine Arts included an address:
 

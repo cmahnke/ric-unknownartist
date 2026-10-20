@@ -3,7 +3,6 @@ date: 2020-03-21T12:32:56Z
 tags:
 - Fritz Neumann
 title: Another wrong attribution
-disableImageViewer: true
 source: http://www.artnet.de/k%C3%BCnstler/fritz-neumann/
 outputs:
 - html
@@ -12,7 +11,8 @@ resources:
 - src: "fritz-neumann-skerry-cruisers-off-laboe-hq.jpg"
 - src: "fritz-neumann-skerry-cruisers-off-laboe.jpg"
 - src: "screenshoot.png"
----
+params:
+  disableImageViewer: true
 
 {{< figure src="screenshoot.png" link="http://www.artnet.de/k%C3%BCnstler/fritz-neumann/" class="shadow" >}}
 

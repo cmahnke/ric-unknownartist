@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 07
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469502697/ric07
 alias:
 - 183469502697
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-07.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469502697/ric07
 
 **Short description:** Two sailings boats
 

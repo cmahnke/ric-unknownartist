@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - Hint
 title: 'Fritz Neumann im "Catalog of Copyright Entries"'
-disableImageViewer: true
 outputs:
 - html
 - iiif-manifest
@@ -14,7 +13,8 @@ resources:
 - src: "img/1938-43.png"
 - src: "img/1939-143.png"
 - src: "img/1939-28.png"
----
+params:
+  disableImageViewer: true
 
 Das [United States Copyright Office (USCO)] (https://en.wikipedia.org/wiki/United_States_Copyright_Office) ist ein Verwalter verschiedener Arten von Urheberrechtseinträgen. Es gab früher einen gedruckten Katalog der registrierten Urheberrechtsansprüche heraus.
 Da die USA schon vor dem Zweiten Weltkrieg ein globaler Markt waren, gab es in den dreißiger Jahren Copyright-Registrierungen von [J.C. Blumenberg](/hints/j-c-b/). Einige davon, vor allem im Teil 4: Kunstwerke, betreffen auch Werke unseres Fritz Neumann. Dies gibt uns Daten für bestimmte Werke unseres Fritz und ist ein Indikator dafür, wann sie begannen, miteinander zu arbeiten.

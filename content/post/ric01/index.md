@@ -5,7 +5,6 @@ tags:
 - Ric
 - Ric 01
 title: Ric 01
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469414917/ric01
 alias:
 - 183469414917
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-01.jpg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469414917/ric01
 
 **Short description:** Two sailing boats ([Spinnaker](https://en.wikipedia.org/wiki/Spinnaker))
 

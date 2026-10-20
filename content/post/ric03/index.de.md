@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 03
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469467147/ric03
 alias:
 - 183469467147
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-03.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469467147/ric03
 
 **Kurz Beschreibung:** Segelschiff neben einem Hafen / einer Stadt
 

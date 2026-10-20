@@ -5,9 +5,9 @@ tags:
 - Ric
 - Status
 title: "Fritz Neumann (1928–2014) is not Ric!"
-metaPage: true
-displayInList: false
----
+params:
+  metaPage: true
+  displayInList: false
 
 # Fritz Neumann (1928–2014) is not Ric!
 

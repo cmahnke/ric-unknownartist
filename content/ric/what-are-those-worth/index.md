@@ -1,10 +1,10 @@
 ---
 date: 2023-06-10T10:32:44Z
 title: "What are those prints worth?"
-metaPage: true
-displayInList: false
-disableImageViewer: true
----
+params:
+  metaPage: true
+  displayInList: false
+  disableImageViewer: true
 
 Due to popular demand (this question is responsible for 90% of inquiries), I'll try to answer the question:
 

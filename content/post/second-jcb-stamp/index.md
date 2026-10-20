@@ -4,13 +4,13 @@ tags:
 - Status
 - BlindEmbossing
 title: Another version of the "JCB" blind stamp
-disableImageViewer: true
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "Holstentor_Stadtseite.jpg"
----
+params:
+  disableImageViewer: true
 {{< figure src="Stamp2.svg" width="400px" class="shadow" >}}
 
 {{< figure src="Holstentor_Stadtseite.jpg" class="shadow" caption="Image by [Christian Wolf](www.c-w-design.de) - taken from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Holstentor_Stadtseite.jpg)" link="https://en.wikipedia.org/wiki/Holstentor" >}}

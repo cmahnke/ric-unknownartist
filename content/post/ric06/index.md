@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 06
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469496942/ric06
 alias:
 - 183469496942
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-06.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469496942/ric06
 
 **Short description:** Sailing Boats
 

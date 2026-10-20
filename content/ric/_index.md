@@ -1,10 +1,10 @@
 ---
 title: Ric
 date: 2020-08-18T19:01:09+02:00
-metaPage: true
-displayInList: false
-disableImageViewer: true
----
+params:
+  metaPage: true
+  displayInList: false
+  disableImageViewer: true
 <s>It’s currently unknown who’s behind the signature “RIC”.</s> <s>**[Update 1. October 2020]: [The mystery is solved!](/ric/mystery-solved)**</s> **[Update 25. July 2024]: [The previous unveiling turned out to wrong](/post/mystery-again/)**
 <s>All we currently know, ist that the real name of Ric is Fritz Neumann, but not much more.</s>
 **[Update 23. October 2024]: Ric has been found (again), since we now know a bit about Fritz Neumann, the [artist behind the pseudonym](http://localhost:1313/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).**

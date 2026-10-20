@@ -5,9 +5,9 @@ tags:
 - Ric
 - Status
 title: "Fritz Neumann (1897-1984) is Ric!"
-metaPage: true
-displayInList: false
----
+params:
+  metaPage: true
+  displayInList: false
 
 Diese Seite wird derzeit geschrieben. In der Zwischenzeit können Sie sich die Seiten ansehen, die zum Schreiben dieser Seite verwendet werden:
 

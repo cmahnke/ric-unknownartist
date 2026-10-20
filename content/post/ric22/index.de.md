@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 22
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469594072/ric22
 alias:
 - 183469594072
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-22.jpeg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469594072/ric22
 
 **Kurze Beschreibung:** Drei Segelboote (Spinnaker)
 

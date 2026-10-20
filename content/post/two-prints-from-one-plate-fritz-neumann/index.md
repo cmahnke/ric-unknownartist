@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: Two prints from one plate (Fritz Neumann)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183592197152/short-description-two-prints-from-one-plate
 alias:
 - 183592197152
 outputs:
@@ -14,7 +13,8 @@ resources:
 - src: "12we-kopie.jpg"
 - src: "Hermann-Fritz-Neumann-Germany-Elmshorn-1858-Dresden-1920-Ali-Baba-Wirehaired-Fox-Terrier.jpg"
 source: http://www.cofart.be/wp-content/uploads/2015/12/Hermann-Fritz-Neumann-Germany-Elmshorn-1858-Dresden-1920-Ali-Baba-Wirehaired-Fox-Terrier.jpg
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183592197152/short-description-two-prints-from-one-plate
 
 **Short description:** Two prints from one plate, another fox terrier.
 

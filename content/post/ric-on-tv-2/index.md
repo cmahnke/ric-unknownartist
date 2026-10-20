@@ -4,13 +4,13 @@ tags:
 - Ric
 - Ric 05
 title: "Ric on TV 2"
-disableImageViewer: true
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "Tango-fuer-Borowski-0-03-38.jpg"
----
+params:
+  disableImageViewer: true
 
 After I had already [noticed](/post/ric-on-tv) that Ric also had an appearance in Tatort, I asked the NDR as the producing broadcaster. The archive forwarded my enquiry directly to the production.
 

@@ -1,9 +1,9 @@
 ---
 title: "Similar artist"
-metaPage: true
-displayInList: false
-disableImageViewer: true
----
+params:
+  metaPage: true
+  displayInList: false
+  disableImageViewer: true
 
 If you like the works of Ric, you might want have a look at the following artist (not in any particular order):
 * [Lyonel Feininger](https://en.wikipedia.org/wiki/Lyonel_Feininger)

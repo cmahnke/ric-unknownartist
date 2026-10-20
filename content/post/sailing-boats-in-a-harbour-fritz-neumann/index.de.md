@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - BlindEmbossing
 title: Segelboote im Hafen (Fritz Neumann)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183582046002/short-description-sailing-boats-in-a-harbour
 alias:
 - 183582046002
 outputs:
@@ -15,7 +14,8 @@ resources:
 - src: "IMG_0884.JPG"
 - src: "IMG_0883.JPG"
 - src: "IMG_0885.JPG"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183582046002/short-description-sailing-boats-in-a-harbour
 
 **Kurze Beschreibung:** Segelboote in einem Hafen / in Ufernähe
 

@@ -1,10 +1,10 @@
 ---
 title: Die Fritz Neumann Spur
 date: 2020-08-18T19:01:09+02:00
-metaPage: true
-displayInList: false
-disableImageViewer: true
----
+params:
+  metaPage: true
+  displayInList: false
+  disableImageViewer: true
 Die Spur von Fritz Neumann wurde ursprünglich [von Simon](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html) entdeckt: Fritz Neumann benutzte dieselbe Papierstempelmarke (Beiträge, die einige Detailfotos der Stempelmarke enthalten, sind [getaggt](/tags/Stamp)).
 
 {{< figure src="/post/this-is-the-stamp-mark-used-on-the-prints-of-ric/stamp1.svg" class="static-content-image" width="250px" caption="A drawing of the blind stamp" >}}

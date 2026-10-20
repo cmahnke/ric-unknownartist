@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: A kitten by Fritz Neumann
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183592077032/short-description-a-kitten-notes-taken-from
 alias:
 - 183592077032
 source: https://www.ebay.de/itm/HERMANN-FRITZ-NEUMANN-Katzen-Radierung-/381209669600?nma=true&si=dOmDB2y2YiaUL1H2H%252Bvgp4%252F8D4w%253D&orig_cvip=true&nordt=true&rt=nc&_trksid=p2047675.l2557
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183592077032/short-description-a-kitten-notes-taken-from
 
 **Short description:** A kitten
 

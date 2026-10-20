@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 09
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469534337/ric09
 alias:
 - 183469534337
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-09.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469534337/ric09
 
 **Short description:** Three birds
 

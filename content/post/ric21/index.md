@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 21
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469588842/ric21
 alias:
 - 183469588842
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-21.JPG"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469588842/ric21
 
 **Short description:** The [Gedächniskirche in Berlin](https://en.wikipedia.org/wiki/Kaiser_Wilhelm_Memorial_Church)
 

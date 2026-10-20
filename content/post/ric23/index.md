@@ -4,7 +4,6 @@ tags:
 - Ric 23
 - Ric
 title: Ric 23
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
 alias:
 - 183469611577
 outputs:
@@ -12,7 +11,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "1-118-10470.jpg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
 
 **Short description:** Fishing net hung up to dry in the setting sun
 

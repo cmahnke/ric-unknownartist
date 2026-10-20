@@ -5,7 +5,6 @@ tags:
 - Ric
 - Signature
 title: Three birds (Ric 09)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183499551357/short-description-three-birds-notes-see-antik
 alias:
 - 183499551357
 outputs:
@@ -14,7 +13,8 @@ outputs:
 resources:
 - src: "RIG_Farbradierung_Vogel_6850x.jpg"
 - src: "RIG_Farbradierung_Vogel_6851x.jpg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183499551357/short-description-three-birds-notes-see-antik
 
 **Short description:** Three birds
 

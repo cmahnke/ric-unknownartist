@@ -5,7 +5,6 @@ tags:
 - eBay
 - Ric
 title: Segelboote (Ric 10)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555272/short-description-sailing-boats-notes-found-on
 alias:
 - 183499555272
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "10-DSC_1329.JPG"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183499555272/short-description-sailing-boats-notes-found-on
 
 **Kurze Beschreibung:** Segelboote
 

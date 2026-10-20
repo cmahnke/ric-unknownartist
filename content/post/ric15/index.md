@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 15
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469555407/ric15
 -alias:
 - 183469555407
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-15.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469555407/ric15
 
 **Short description:** People on the shore next to a sailing boat
 

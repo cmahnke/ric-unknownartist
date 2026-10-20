@@ -5,7 +5,6 @@ tags:
 - eBay
 - Ric
 title: Segelboot am Hafen (Ric 08)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183499557752/short-description-sailing-boat-next-to-a-harbour
 alias:
 - 183499557752
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "1EE81929-5275-498C-8E9D-C263F0A63981.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183499557752/short-description-sailing-boat-next-to-a-harbour
 
 **Kurze Beschreibung:** Segelboot neben einem Hafen / Slip
 

@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - Hint
 title: "Personenstandsregisterauszüge für Fritz Neumann"
-disableImageViewer: true
 aliases:
 - fritz-neumann-civil-registry
 outputs:
@@ -13,7 +12,8 @@ outputs:
 resources:
 - src: "Fritz Neumann Heirat.jpg"
 - src: "Fritz Neumann Sterbeurkunde.jpg"
----
+params:
+  disableImageViewer: true
 
 Dank Torsten Steinberg haben wir jetzt zwei Personenstandsregistereinträge für Fritz Neumann. Diese sind teilweise die Quelle für die Daten im [Hauptartikel](/de/post/fritz-neumann-spandauer-volksblatt-19-2-1972/).
 

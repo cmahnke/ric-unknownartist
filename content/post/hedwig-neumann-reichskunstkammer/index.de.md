@@ -4,8 +4,8 @@ tags:
 - Hedwig Neumann
 - Hede Klinge-Neumann
 title: "Hedwig Neumann als Mitglied der Reichskunstkammer"
-disableImageViewer: true
----
+params:
+  disableImageViewer: true
 
 Die Frau von Fritz Neumann, Hedwig, auch bekannt als Hede Klinge (ihr Geburtsname), lässt sich, [anders als Fritz](/de/post/fritz-neumann-reichskunstkammer/), in der Mitgliedskartei der [Reichskunstkammer Berlin](http://www.content.landesarchiv-berlin.de/php-bestand/arep243-04-pdf/arep243-04.pdf#page=758) finden:
 * Mitgliedaschaft 1933 - 1945

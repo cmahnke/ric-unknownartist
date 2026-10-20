@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 10
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183495422607/ric10
 alias:
 - 183495422607
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-10.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183495422607/ric10
 
 **Kurze Beschreibung:** Segelboot
 

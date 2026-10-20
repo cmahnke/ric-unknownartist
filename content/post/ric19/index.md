@@ -5,7 +5,6 @@ tags:
 - Ric
 - SourceBlogspot
 title: Ric 19
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469580377/ric19
 alias:
 - 183469580377
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-19.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469580377/ric19
 
 **Short description:** Sailing ship next to a harbour / town
 

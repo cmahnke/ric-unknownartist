@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 20
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469585077/ric20
 alias:
 - 183469585077
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-20.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469585077/ric20
 
 **Short description:** An alley
 

@@ -7,7 +7,6 @@ tags:
 - Ric
 - Signature
 title: Sailing boats (Ric 06)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183501026812/short-description-sailing-boats-notes-sold
 alias: 183501026812
 outputs:
 - html
@@ -18,7 +17,8 @@ resources:
 - src: "s-l1600-3.jpg"
 - src: "s-l1600-4.jpg"
 - src: "s-l1600.jpg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183501026812/short-description-sailing-boats-notes-sold
 
 **Short description:** Sailing Boats
 

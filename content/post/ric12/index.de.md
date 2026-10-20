@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 12
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469542862/ric12
 alias:
 - 183469542862
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-12.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469542862/ric12
 
 **Kurze Beschreibung:** Gasse mit drei Lampen
 

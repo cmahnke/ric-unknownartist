@@ -1,10 +1,10 @@
 ---
 title: The Fritz Neumann trace
 date: 2020-08-18T19:01:09+02:00
-metaPage: true
-displayInList: false
-disableImageViewer: true
----
+params:
+  metaPage: true
+  displayInList: false
+  disableImageViewer: true
 The Fritz Neumann trace was originally [discovered by Simon](http://ric-unknownartist.blogspot.com/2013/02/fritz-neumann-used-same-paper.html): Fritz Neumann used the same paper stamp mark (posts which feature some detail photographs of the stamp mark are [tagged](/tags/Stamp)).
 
 {{< figure src="/post/this-is-the-stamp-mark-used-on-the-prints-of-ric/stamp1.svg" class="static-content-image" width="250px" caption="A drawing of the blind stamp" >}}

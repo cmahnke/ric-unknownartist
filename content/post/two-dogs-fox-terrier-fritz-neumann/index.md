@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - BlindEmbossing
 title: Two dogs - fox terrier (Fritz Neumann)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183582606652/short-description-two-dogs-fox-terrier-notes
 alias:
 - 183582606652
 outputs:
@@ -15,7 +14,8 @@ resources:
 - src: "P3390777.jpg"
 - src: "P3390776.jpg"
 - src: "P3390771.jpg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183582606652/short-description-two-dogs-fox-terrier-notes
 
 **Short description:** Two dogs, fox terrier.
 

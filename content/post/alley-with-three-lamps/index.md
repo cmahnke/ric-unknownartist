@@ -5,7 +5,6 @@ tags:
 - eBay
 - Ric
 title: Alley with three lamps (Ric 12)
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183499559772/short-description-alley-with-three-lamps-notes
 alias:
 - 183499559772
 outputs:
@@ -15,7 +14,8 @@ resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-2.jpg"
 - src: "s-l1600.jpg"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183499559772/short-description-alley-with-three-lamps-notes
 
 **Short description** Alley with three lamps
 

@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 18
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469576457/ric18
 alias:
 - 183469576457
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-18.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469576457/ric18
 
 **Kurze Beschreibung:** Ein Marabu
 

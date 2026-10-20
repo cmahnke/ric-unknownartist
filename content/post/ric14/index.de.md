@@ -5,7 +5,6 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 14
-tumblr_url: https://ric-unknownartist.tumblr.com/post/183469551082/ric14
 alias:
 - 183469551082
 outputs:
@@ -13,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "_blogspot-14.png"
----
+params:
+  tumblr_url: https://ric-unknownartist.tumblr.com/post/183469551082/ric14
 
 **Kurze Beschreibung:** Eine Laterne neben einer Treppe (Gasse)
 

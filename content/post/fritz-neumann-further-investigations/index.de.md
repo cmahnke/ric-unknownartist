@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - Hint
 title: "Weitere Dokumente zu Fritz Neumann"
-disableImageViewer: true
 outputs:
 - html
 - iiif-manifest
@@ -21,7 +20,8 @@ resources:
 - src: "Adressbuch 1931.png"
 - src: "Adressbuch 1932.png"
 - src: "Adressbuch 1933.png"
----
+params:
+  disableImageViewer: true
 
 Aus der [Heiratsurkunde](/post/fritz-neumann-civil-registry/) geht eine weitere Adresse von Fritz Neumann hervor: Die Lettestraße 1.
 

@@ -1,9 +1,9 @@
 ---
 title: Bekannte Werke
 date: 2020-08-18T19:01:09+02:00
-metaPage: true
-displayInList: false
----
+params:
+  metaPage: true
+  displayInList: false
 Diese Seite listet die derzeit bekannten Werke mit jeweils verschiedenen Bildern auf, die Namensgebung folgt dem [Original-Blog](http://ric-unknownartist.blogspot.com/). Die Werke mit den Bezeichnungen "RIC 01" bis "RIC 22" sind die aus dem Original-Blog. Das erste Bild auf jeder Seite ist ebenfalls aus diesem Blog.
 
 Da es sich bei den meisten dieser Werke um Drucke handelt, können einige nach den verwendeten Platten gruppiert werden.
