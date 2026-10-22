@@ -6,8 +6,6 @@ tags:
 - Ric
 - Signature
 title: Segelboot (Ric 05)
-alias:
-- 183516900367
 outputs:
 - html
 - iiif-manifest
@@ -15,6 +13,8 @@ resources:
 - src: "Segelboote_Ric_0x.jpg"
 - src: "Segelboote_Ric_1x.jpg"
 - src: "Segelboote_Ric_15x.jpg"
+aliases:
+  - 183516900367
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183516900367/short-description-sailing-boat-notes-see-antik
 ---

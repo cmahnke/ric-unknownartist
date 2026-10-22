@@ -5,13 +5,14 @@ tags:
 - Signature
 - Etching
 title: "Hedwig Klinge Kleines Kind im Bett"
-source: https://www.kleinanzeigen.de/s-anzeige/klinge-radierung-sign-u-r-/2980859243-240-7947
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"
+params:
+  source: https://www.kleinanzeigen.de/s-anzeige/klinge-radierung-sign-u-r-/2980859243-240-7947
 ---
 
 **Kurze Beschreibung:** Eine Radierung eines kleinen Kindes im Bett von Hedwig Klinge, der Frau von Fritz Neumann..

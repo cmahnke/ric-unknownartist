@@ -5,16 +5,16 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 02
-alias:
-- 183469477637
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "_blogspot-02.jpg"
-source: https://www.worthpoint.com/worthopedia/ric-signed-original-modernist-etching-307017596
+aliases:
+  - 183469477637
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469477637/ric02
+  source: https://www.worthpoint.com/worthopedia/ric-signed-original-modernist-etching-307017596
 ---
 
 **Short description:** Two sailings boats

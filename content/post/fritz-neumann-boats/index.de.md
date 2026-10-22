@@ -4,8 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: "Fritz Neumann Boote"
-source: https://www.ebay.de/itm/266094049481
-place: Cologne
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +11,9 @@ resources:
 - src: "img001.jpg"
 - src: "img002.png"
 - src: "img003.jpg"
+params:
+  place: Cologne
+  source: https://www.ebay.de/itm/266094049481
 ---
 
 **Kurze Beschreibung:** Eine kolorierte Radierung von Booten von Fritz Neumann.

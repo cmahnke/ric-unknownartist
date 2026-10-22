@@ -5,7 +5,6 @@ tags:
 - Fritz Neumann
 - Signature
 title: Der gute alte Fritz in Paris
-source: https://www.ebay-kleinanzeigen.de/s-anzeige/alter-druck-im-rahmen-alter-holzdruck-signiert-altes-bild/1400008402-240-8144
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +12,8 @@ resources:
 - src: "_57-2.jpeg"
 - src: "_57-4.jpeg"
 - src: "_57-1.jpeg"
+params:
+  source: https://www.ebay-kleinanzeigen.de/s-anzeige/alter-druck-im-rahmen-alter-holzdruck-signiert-altes-bild/1400008402-240-8144
 ---
 
 **Kurze Beschreibung:** Paris, Montmartre mit der [Herz-Jesu-Basilika](https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris), gemeinhin als Sacré-Cœur-Basilika bekannt, im Hintergrund.

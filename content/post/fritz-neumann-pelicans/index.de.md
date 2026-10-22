@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: "Fritz Neumann Pelikane"
-source: https://www.ebay.de/itm/318203623770
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +12,8 @@ resources:
   - src: "img002.jpeg"
   - src: "img003.jpeg"
   - src: "img004.jpeg"
+params:
+  source: https://www.ebay.de/itm/318203623770
 ---
 
 **Kurze Beschreibung:** Eine Radierung von Pelikanen von Fritz Neumann.

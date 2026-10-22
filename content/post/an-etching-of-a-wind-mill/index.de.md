@@ -6,8 +6,6 @@ tags:
 - eBay
 - Etching
 title: Eine Radierung einer Windmühle von (einem) Fritz Neumann
-alias:
-- 183702884249
 outputs:
 - html
 - iiif-manifest
@@ -15,6 +13,8 @@ resources:
 - src: "s-l1600.jpg"
 - src: "s-l1600-2.jpg"
 - src: "s-l1600-3.jpg"
+aliases:
+  - 183702884249
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183702884249/short-description-an-etching-of-a-wind-mill-by
 ---

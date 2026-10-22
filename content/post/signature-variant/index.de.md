@@ -5,8 +5,6 @@ tags:
 - Signature
 - Ric 05
 title: Segelboote (Ric 05) signiert im Druck
-source: https://auctionet.com/de/3052824-fritz-neumann-segelboote-farbradierung-signiert-ric
-place: Norrköping, Schweden
 outputs:
 - html
 - iiif-manifest
@@ -15,6 +13,9 @@ resources:
 - src: "item_3052824_2.jpg"
 - src: "item_3052824_3.jpg"
 - src: "item_3052824_4.jpg"
+params:
+  place: Norrköping, Schweden
+  source: https://auctionet.com/de/3052824-fritz-neumann-segelboote-farbradierung-signiert-ric
 ---
 
 **Kurze Beschreibung:** Variante der Segelboote (bekannt als Ric 05) mit einer ungewöhnliche Lage der Signatur - innerhalb des Drucks.

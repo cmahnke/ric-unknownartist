@@ -4,7 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: "Fritz Neumann Sailing yacht"
-source: https://www.ebay.de/itm/198313101176
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +12,8 @@ resources:
   - src: "img002.jpeg"
   - src: "img003.jpeg"
   - src: "img004.jpeg"
+params:
+  source: https://www.ebay.de/itm/198313101176
 ---
 
 **Short description:** A etching of a single sailing yacht by Fritz Neumann.

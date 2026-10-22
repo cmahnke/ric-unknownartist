@@ -5,13 +5,14 @@ tags:
 - Signature
 - Etching
 title: "Hedwig Klinge Small child in bed"
-source: https://www.kleinanzeigen.de/s-anzeige/klinge-radierung-sign-u-r-/2980859243-240-7947
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"
+params:
+  source: https://www.kleinanzeigen.de/s-anzeige/klinge-radierung-sign-u-r-/2980859243-240-7947
 ---
 
 **Short description:** An etching of a small child in bed by Hedwig Klinge, wife of Fritz Neumann.

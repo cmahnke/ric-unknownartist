@@ -4,13 +4,14 @@ tags:
 - Fritz Neumann
 - Painting
 title: "Fritz Neumann: Aquarell des Jagdschloss Grunewald"
-source: https://www.ebay.de/itm/336468286188
 outputs:
 - html
 - iiif-manifest
 resources:
   - src: "img001.jpeg"
   - src: "img002.jpeg"
+params:
+  source: https://www.ebay.de/itm/336468286188
 ---
 
 **Kurze Beschreibung:** Gemälde des [Jagdschloss Grunewald](https://de.wikipedia.org/wiki/Jagdschloss_Grunewald), genauer des Jagdzeugmagazin, von Fritz Neumann.

@@ -5,13 +5,13 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 07
-alias:
-- 183469502697
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "_blogspot-07.png"
+aliases:
+  - 183469502697
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469502697/ric07
 ---

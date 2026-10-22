@@ -4,13 +4,13 @@ tags:
 - Ric 23
 - Ric
 title: Ric 23
-alias:
-- 183469611577
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "1-118-10470.jpg"
+aliases:
+  - 183469611577
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469611577/ric23
 ---

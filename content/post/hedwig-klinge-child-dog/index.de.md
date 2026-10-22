@@ -5,7 +5,6 @@ tags:
 - Etching
 - Signature
 title: "Hedwig Klinge Mädchen und Hund"
-source: https://auctionet.com/de/3501953-max-klinger-1857-1920-madchen-und-hund-signiert-klinger-radierung
 outputs:
 - html
 - iiif-manifest
@@ -14,6 +13,8 @@ resources:
 - src: "img2.jpg"
 - src: "img3.jpg"
 - src: "img4.jpg"
+params:
+  source: https://auctionet.com/de/3501953-max-klinger-1857-1920-madchen-und-hund-signiert-klinger-radierung
 ---
 
 **Kurze Beschreibung:** Eine Radierung von Magnolien von Hedwig Klinge, der Frau von Fritz Neumann.

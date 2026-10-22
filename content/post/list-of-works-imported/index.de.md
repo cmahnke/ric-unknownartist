@@ -3,8 +3,8 @@ date: 2019-03-16T17:33:02Z
 tags:
 - Status
 title: Liste der Werke importiert
-alias:
-- 183497058477
+aliases:
+  - 183497058477
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183497058477/list-of-works-imported
 ---

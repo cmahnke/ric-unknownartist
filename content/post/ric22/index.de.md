@@ -5,13 +5,13 @@ tags:
 - SourceBlogspot
 - Ric
 title: Ric 22
-alias:
-- 183469594072
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "_blogspot-22.jpeg"
+aliases:
+  - 183469594072
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183469594072/ric22
 ---

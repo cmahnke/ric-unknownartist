@@ -6,8 +6,6 @@ tags:
 - Signature
 - BlindEmbossing
 title: "Radierung von Fritz Neumann, die eine vor der Küste vor Anker liegende Yacht zeigt"
-source:
-   - https://www.ebay.de/itm/187627194678
 outputs:
 - html
 - iiif-manifest
@@ -18,6 +16,9 @@ resources:
 - src: "img004.webp"
 - src: "img005.webp"
 - src: "img006.webp"
+params:
+  source:
+     - https://www.ebay.de/itm/187627194678
 ---
 
 **Kurze Beschreibung:** Eine kolorierte Radierung einer vor der Küste vor Anker liegenden Yacht von Fritz Neumann.

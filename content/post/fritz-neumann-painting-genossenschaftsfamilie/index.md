@@ -4,12 +4,13 @@ tags:
 - eBay
 - Fritz Neumann
 title: "Cover of Genossenschaftsfamilie Nr. 16 August 1935"
-source: https://www.ebay.com/itm/325640736520
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "cover.jpg"
+params:
+  source: https://www.ebay.com/itm/325640736520
 ---
 
 **Short description:** This seems to be a cover of an issue of "Genossenschaftfamilie" with an painting by Fritz Neumann. It was a company magazine of the GEG (Deutsche Großeinkaufs-Gesellschaft) from Hamburg.

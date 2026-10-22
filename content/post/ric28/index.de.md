@@ -12,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
-source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-HARBOR-SCENE-BOATS-/133483534358
+params:
+  source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-HARBOR-SCENE-BOATS-/133483534358
 ---
 
 **Kurze Beschreibung:** Eine weitere Szene mit Schiffen in einem Hafen

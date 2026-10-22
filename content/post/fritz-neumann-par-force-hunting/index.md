@@ -5,7 +5,6 @@ tags:
 - Etching
 - BlindEmbossing
 title: "Fritz Neumann Par force hunting"
-source: https://www.eppli.com/neumann-hermann-fritz-1858-1920-parforcejagd.html#&gid=1&pid=6
 outputs:
 - html
 - iiif-manifest
@@ -15,6 +14,8 @@ resources:
 - src: "img3.jpg"
 - src: "img4.jpg"
 - src: "img5.jpg"
+params:
+  source: https://www.eppli.com/neumann-hermann-fritz-1858-1920-parforcejagd.html#&gid=1&pid=6
 ---
 
 **Short description:** A colorized etching of three hunter riders galloping by Fritz Neumann

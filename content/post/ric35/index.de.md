@@ -5,7 +5,6 @@ tags:
 - Ric 35
 - eBay
 title: "Ein weiteres Werk von Ric gefunden!"
-source: https://www.ebay.de/itm/205627913795
 outputs:
 - html
 - iiif-manifest
@@ -19,6 +18,8 @@ resources:
 - src: "s-l1600-6.jpeg"
 - src: "s-l1600-7.jpeg"
 - src: "s-l1600-8.jpeg"
+params:
+  source: https://www.ebay.de/itm/205627913795
 ---
 
 **Kurze Beschreibung:** Ein weitererer Vogel Druck von Ric gefunden.

@@ -63,7 +63,6 @@ Tags with less then three occurrences aren't shown.
 This page(s) have been generated with [Hugo](https://gohugo.io/). The Theme is a customized version of [Observer von Zack Sultan](http://zacksultan.com) for Tumblr. [Montserrat](github.com/JulietaUla/Montserrat) and [Calluna Regular](https://www.exljbris.com/calluna.html) are used as fonts - if installed on your computer.
 
 The following JavaScript and CSS frameworks are used:
-* [jQuery](https://jquery.com/)
 * [jQuery lightgallery](https://sachinchoolur.github.io/lightGallery/) - for the fullscreen image view.
 
 The [Tagcloud](http://www.johann-oberdorfer.eu/blog/2020/02/23/20-02-23_tag_cloud_for_hugo/) and the [lightGallery](https://sachinchoolur.github.io/lightGallery/) are taken from the provided links.

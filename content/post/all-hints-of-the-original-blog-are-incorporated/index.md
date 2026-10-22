@@ -2,8 +2,8 @@
 date: 2019-03-27T19:30:39Z
 tags:
 - Status
-alias:
-- 183750853579
+aliases:
+  - 183750853579
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183750853579/all-hints-of-the-original-blog-are-incorporated
 ---

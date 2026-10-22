@@ -4,8 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: "Fritz Neumann Reiher"
-source: https://www.ebay.de/itm/334171535067
-place: Munich
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +11,9 @@ resources:
 - src: "img001.jpg"
 - src: "img002.jpg"
 - src: "img003.jpg"
+params:
+  place: Munich
+  source: https://www.ebay.de/itm/334171535067
 ---
 
 **Kurze Beschreibung:** Eine kolorierte Radierung eines Reihers von Fritz Neumann.

@@ -4,8 +4,8 @@ tags:
 - Status
 - BlindEmbossing
 title: This is the stamp mark used on the prints of Ric
-alias:
-- 183569495882
+aliases:
+  - 183569495882
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183569495882/this-is-the-stamp-mark-used-on-the-prints-of-ric
   disableImageViewer: true

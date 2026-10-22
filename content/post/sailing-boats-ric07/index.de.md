@@ -6,8 +6,6 @@ tags:
 - BlindEmbossing
 - Signature
 title: Segelboote (Ric 07)
-alias:
-- 183603799352
 outputs:
 - html
 - iiif-manifest
@@ -16,6 +14,8 @@ resources:
 - src: "IMG_0893.JPG"
 - src: "IMG_0890.JPG"
 - src: "IMG_0891.JPG"
+aliases:
+  - 183603799352
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183603799352/short-description-sailing-boats-notes-slightly
 ---

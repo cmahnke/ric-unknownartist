@@ -5,7 +5,6 @@ tags:
 - Signature
 - BlindEmbossing
 - Ric 16
-source: charish
 title: Sailing boats by Ric (Ric 16)
 outputs:
 - html
@@ -15,6 +14,8 @@ resources:
 - src: "mid-20th-c-modern-sailboats-etching-1186.png"
 - src: "mid-20th-c-modern-sailboats-etching-2987.png"
 - src: "mid-20th-c-modern-sailboats-etching-7516.png"
+params:
+  source: charish
 ---
 
 **Short description:** Sailing boats

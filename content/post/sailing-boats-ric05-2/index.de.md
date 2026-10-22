@@ -6,7 +6,6 @@ tags:
 - BlindEmbossing
 - Ric 05
 - eBay
-source: https://www.ebay.co.uk/itm/Unknown-Artist-RIC-Etching-Cubist-Midcentury-MCM-Sailboat-Maritime-JCB/193218427336?hash=item2cfcb739c8:g:hzYAAOSw0LldyxW1
 title: Mehr Segelboote (Ric 05)
 outputs:
 - html
@@ -20,6 +19,8 @@ resources:
 - src: "s-l1600-7.jpg"
 - src: "s-l1600-8.jpg"
 - src: "s-l1600.jpg"
+params:
+  source: https://www.ebay.co.uk/itm/Unknown-Artist-RIC-Etching-Cubist-Midcentury-MCM-Sailboat-Maritime-JCB/193218427336?hash=item2cfcb739c8:g:hzYAAOSw0LldyxW1
 ---
 
 **Kurze Beschreibung:** Segelboote

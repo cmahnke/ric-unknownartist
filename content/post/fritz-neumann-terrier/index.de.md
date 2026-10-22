@@ -4,8 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: "Fritz Neumann Terrier"
-source: https://www.ebay.de/itm/204578771394
-place: Dresden
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +11,9 @@ resources:
 - src: "img001.jpg"
 - src: "img002.jpg"
 - src: "img003.jpg"
+params:
+  place: Dresden
+  source: https://www.ebay.de/itm/204578771394
 ---
 
 **Kurze Beschreibung:** Eine kolorierte Radierung mit Terriern von Fritz Neumann.

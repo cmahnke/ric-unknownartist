@@ -4,13 +4,14 @@ tags:
 - Fritz Neumann
 - Painting
 title: "Fritz Neumann: Watercolor of the Grunewald Hunting Lodge"
-source: https://www.ebay.de/itm/336468286188
 outputs:
 - html
 - iiif-manifest
 resources:
   - src: "img001.jpeg"
   - src: "img002.jpeg"
+params:
+  source: https://www.ebay.de/itm/336468286188
 ---
 
 

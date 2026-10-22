@@ -5,12 +5,13 @@ tags:
 - Ric 27
 - eBay
 title: "Unkolorierte Version von Ric27"
-source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c-1960s-B-W-Etching-STREETSCENE-/133483534361?hash=item1f143d1819
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
+params:
+  source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c-1960s-B-W-Etching-STREETSCENE-/133483534361?hash=item1f143d1819
 ---
 
 **Kurzbeschreibung:** Eine weitere Straßenszene mit einer Laterne und einer Windmühle.

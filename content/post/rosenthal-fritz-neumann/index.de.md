@@ -3,8 +3,6 @@ date: 2019-03-18T21:21:18Z
 tags:
 - Fritz Neumann
 title: Am Wind (Fritz Neumann)
-alias:
-- 183548096912
 outputs:
 - html
 - iiif-manifest
@@ -14,6 +12,8 @@ resources:
 - src: "7A9C08FA35A075AB1584A172C22E1C36.jpeg"
 - src: "F57D1953887503C0A84825106ADE58E7.jpeg"
 - src: "E65BEB165D7F9031A2DADEA795984676.jpeg"
+aliases:
+  - 183548096912
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183548096912/notes-found-on-lauritzcom-there-are-many-other
 ---

@@ -5,7 +5,6 @@ tags:
 - Ric 34
 - eBay
 title: "Ein neues Werk von Ric entdeckt!"
-source: https://www.ebay.de/itm/145006855670
 description: Zur Fischerin (Lindau / Bodensee)
 outputs:
 - html
@@ -18,6 +17,8 @@ resources:
 - src: "s-l1600-3.jpg"
 - src: "s-l1600-4.jpg"
 
+params:
+  source: https://www.ebay.de/itm/145006855670
 ---
 
 **Kurze Beschreibung:** Ein bisher unbekannter Ric, der die Galerie "Zur Fischerin" in Lindau am Bodensee zeigt.

@@ -3,8 +3,8 @@ date: 2019-03-16T21:32:35Z
 tags:
 - Status
 title: Zusätzliche Fotos hochgeladen
-alias:
-- 183501419362
+aliases:
+  - 183501419362
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183501419362/additional-photos-uploaded
 ---

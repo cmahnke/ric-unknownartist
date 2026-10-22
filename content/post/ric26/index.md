@@ -5,7 +5,6 @@ tags:
 - Signature
 - Ric 26
 - eBay
-source: https://www.ebay.de/itm/402008313142
 title: "New work of Ric discovered!"
 outputs:
 - html
@@ -16,6 +15,8 @@ resources:
 - src: "s-l1600-4.jpg"
 - src: "s-l1600-5.jpg"
 - src: "s-l1600.jpg"
+params:
+  source: https://www.ebay.de/itm/402008313142
 ---
 
 **Short description:** A bird, maybe a [Marabou](https://en.wikipedia.org/wiki/Marabou_stork)

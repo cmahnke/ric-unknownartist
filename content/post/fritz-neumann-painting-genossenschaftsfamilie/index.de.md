@@ -4,12 +4,13 @@ tags:
 - eBay
 - Fritz Neumann
 title: "Titelblatt Genossenschaftsfamilie Nr. 16 August 1935"
-source: https://www.ebay.com/itm/325640736520
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "cover.jpg"
+params:
+  source: https://www.ebay.com/itm/325640736520
 ---
 
 **Kurze Beschreibung:** Dies scheint das Titelbild einer Ausgabe der "Genossenschaftsfamilie" mit einem Bild von Fritz Neumann zu sein. Es war eine Firmenzeitschrift der GEG (Deutsche Großeinkaufs-Gesellschaft) aus Hamburg.

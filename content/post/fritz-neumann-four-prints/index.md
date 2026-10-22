@@ -4,8 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: 'Fritz Neumann: Four prints of the same plate'
-source:
-  - https://www.ebth.com/items/6839331-fritz-neumann-drypoint-engravings-of-terrier-puppies
 draft: true
 outputs:
 - html
@@ -14,6 +12,9 @@ resources:
 - src: "overview.jpg"
 - src: "sheet.jpg"
 - src: "large.jpg"
+params:
+  source:
+    - https://www.ebth.com/items/6839331-fritz-neumann-drypoint-engravings-of-terrier-puppies
 ---
 
 **Short description:** Four prints of Terrier puppies by Fritz Neumann.

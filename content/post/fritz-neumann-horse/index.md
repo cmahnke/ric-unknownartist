@@ -4,12 +4,13 @@ tags:
 - Fritz Neumann
 - Etching
 title: "Fritz Neumann Horse"
-source: https://www.ebay.de/itm/144093927618
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
+params:
+  source: https://www.ebay.de/itm/144093927618
 ---
 
 **Short description:** A horse

@@ -6,8 +6,6 @@ tags:
 - Signature
 - BlindEmbossing
 title: "Fritz Neumann etching of a yacht anchored near a shoreline"
-source:
-   - https://www.ebay.de/itm/187627194678
 outputs:
 - html
 - iiif-manifest
@@ -18,6 +16,9 @@ resources:
 - src: "img004.webp"
 - src: "img005.webp"
 - src: "img006.webp"
+params:
+  source:
+     - https://www.ebay.de/itm/187627194678
 ---
 
 **Short description:** A colourised etching of a yacht anchored near a shoreline by Fritz Neumann.

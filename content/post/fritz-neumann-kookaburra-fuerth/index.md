@@ -5,7 +5,6 @@ tags:
 - Etching
 - Signature
 title: "Fritz Neumann Lake"
-place: Fürth
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +12,8 @@ resources:
 - src: "IMG_20261005_213547.jpg"
 - src: "IMG_20261005_213535.jpg"
 - src: "IMG_20261005_212949.jpg"
+params:
+  place: Fürth
 ---
 
 **Short description:**  Eine kolorierte Radierung von zwei Kookaburras von Fritz Neumann.

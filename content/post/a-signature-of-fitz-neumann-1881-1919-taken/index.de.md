@@ -4,17 +4,17 @@ tags:
 - Fritz Neumann
 - Signature
 title: Eine Signatur von Fritz Neumann (1881 - 1919)
-alias:
-- 183548092937
-source: http://www.findartinfo.com/english/3/0/artist-signatures/page/39245.html
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "s0064330-007.jpg"
+aliases:
+  - 183548092937
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183548092937/a-signature-of-fitz-neumann-1881-1919-taken
   disableImageViewer: true
+  source: http://www.findartinfo.com/english/3/0/artist-signatures/page/39245.html
 ---
 {{< figure src="s0064330-007.jpg" class="shadow" >}}
 

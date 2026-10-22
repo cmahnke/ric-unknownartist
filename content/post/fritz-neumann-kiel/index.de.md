@@ -4,9 +4,6 @@ tags:
 - Fritz Neumann
 - Etching
 title: 'Fritz Neumann "Kiel Kriegshafen"'
-source:
-  - https://www.ebay.de/itm/315513565614
-  - https://www.irrgangfinearts.de/Fritz-Neumann-Kiel-Kriegshafen-oJ-Radierung-auf-Buettenpapier
 outputs:
 - html
 - iiif-manifest
@@ -16,6 +13,10 @@ resources:
 - src: "s-l1600-2.jpg"
 - src: "s-l1600-3.jpg"
 - src: "s-l1600-4.jpg"
+params:
+  source:
+    - https://www.ebay.de/itm/315513565614
+    - https://www.irrgangfinearts.de/Fritz-Neumann-Kiel-Kriegshafen-oJ-Radierung-auf-Buettenpapier
 ---
 
 **Kurze Beschreibung:** Eine Radierung des Kriegshafens Kiel von Fritz Neumann.

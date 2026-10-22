@@ -5,8 +5,6 @@ tags:
 - Signature
 - BlindEmbossing
 title: Ein deutscher Schäferhund (Fritz Neumann)
-alias:
-- 184220725262
 outputs:
 - html
 - iiif-manifest
@@ -14,6 +12,8 @@ resources:
 - src: "IMG_0922.JPG"
 - src: "IMG_0924.JPG"
 - src: "Stempel.png"
+aliases:
+  - 184220725262
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/184220725262/short-description-a-german-shepherd-notes-bought
 ---

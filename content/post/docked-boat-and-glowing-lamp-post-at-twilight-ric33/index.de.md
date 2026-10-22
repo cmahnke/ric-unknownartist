@@ -6,12 +6,13 @@ tags:
 - Signature
 - Meibohm Fine Arts
 title: Ein weiterer neuer Ric, gefunden von Mark Strong
-source: https://www.ebay.com/itm/134264241066
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "12UntDockedBoat_And_GlowingLampPostAtTwilight_Neumann.jpg"
+params:
+  source: https://www.ebay.com/itm/134264241066
 ---
 
 **Kurze Beschreibung:** Angedocktes Boot und leuchtender Laternenpfahl in der Dämmerung

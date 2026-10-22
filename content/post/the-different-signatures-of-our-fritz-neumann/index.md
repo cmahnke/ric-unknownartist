@@ -4,8 +4,6 @@ tags:
 - Fritz Neumann
 - Signature
 title: The different signatures of our Fritz Neumann
-alias:
-- 183675057762
 outputs:
 - html
 - iiif-manifest
@@ -14,6 +12,8 @@ resources:
 - src: "Terrier-signature-1.png"
 - src: "Terrier-signature2.png"
 - src: "Two-terrier-signature.png"
+aliases:
+  - 183675057762
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183675057762/the-different-signatures-of-our-fritz-neumann
   disableImageViewer: true

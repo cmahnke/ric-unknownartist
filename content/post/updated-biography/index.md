@@ -6,7 +6,8 @@ tags:
 - Hint
 - Meibohm Fine Arts
 title: Updated biograpies available
-source: https://www.meibohmfinearts.com/artists/details/2873
+params:
+  source: https://www.meibohmfinearts.com/artists/details/2873
 ---
 
 

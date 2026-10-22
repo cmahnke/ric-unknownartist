@@ -5,7 +5,6 @@ tags:
 - Signature
 - BlindEmbossing
 - Ric 25
-source: charish
 title: Large sailing ship by Ric (Ric 25)
 outputs:
 - html
@@ -14,6 +13,8 @@ resources:
 - src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3373.jpeg"
 - src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-2131.jpeg"
 - src: "large-vintage-ltd-ed-etching-signed-modernist-sailboats-3163.jpeg"
+params:
+  source: charish
 ---
 
 **Short description**: Large sailing ship

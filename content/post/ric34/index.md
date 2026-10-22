@@ -5,7 +5,6 @@ tags:
 - Ric 34
 - eBay
 title: "A new work of Ric discovered!"
-source: https://www.ebay.de/itm/145006855670
 description: Zur Fischerin (Lindau / Lake Constance)
 outputs:
 - html
@@ -18,6 +17,8 @@ resources:
 - src: "s-l1600-3.jpg"
 - src: "s-l1600-4.jpg"
 
+params:
+  source: https://www.ebay.de/itm/145006855670
 ---
 
 **Short description:** A previously unknown Ric showing the gallery "Zur Fischerin" in Lindau / Lake Constance

@@ -5,8 +5,6 @@ tags:
 - eBay
 - Signature
 title: Drei Boote (Ric 06)
-alias:
-- 183499558837
 outputs:
 - html
 - iiif-manifest
@@ -14,6 +12,8 @@ resources:
 - src: "midcentury-modern-signed-ric-original_1_da0310ac82f14a2c81c1f679e742340a-1.jpg"
 - src: "midcentury-modern-signed-ric-original_1_da0310ac82f14a2c81c1f679e742340a-2.jpg"
 - src: "midcentury-modern-signed-ric-original_1_da0310ac82f14a2c81c1f679e742340a.jpg"
+aliases:
+  - 183499558837
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183499558837/short-description-three-boats-notes-found-on
 ---

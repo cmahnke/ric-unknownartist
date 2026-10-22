@@ -6,7 +6,6 @@ tags:
 - Ric
 - Signature
 title: Segelboote (Ric 04)
-source: https://www.ebay.de/itm/156169926540
 outputs:
 - html
 - iiif-manifest
@@ -20,6 +19,8 @@ resources:
 - src: "s-l1600-6.jpg"
 - src: "s-l1600-7.jpg"
 - src: "s-l1600-8.jpg"
+params:
+  source: https://www.ebay.de/itm/156169926540
 ---
 
 **Kurze Beschreibung:** Schiffe (Fischerboote) in einem Hafen

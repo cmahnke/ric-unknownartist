@@ -5,13 +5,13 @@ tags:
 - eBay
 - Ric
 title: Ric 25
-alias:
-- 183498396317
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "25-s-l1600.jpg"
+aliases:
+  - 183498396317
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183498396317/short-description-sailing-ship-notes-found-on
 ---

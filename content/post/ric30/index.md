@@ -6,13 +6,14 @@ tags:
 - eBay
 - Meibohm Fine Arts
 title: "A new work of Ric discovered! Again by Mark Strong (One of two)"
-source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Etching-Water-Fowl-Birds-CORMORANTS-/143761721763?hash=item2178ddc9a3
 description: A print of three cormorans
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
+params:
+  source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Etching-Water-Fowl-Birds-CORMORANTS-/143761721763?hash=item2178ddc9a3
 ---
 
 **Short description:** Three cormorans, one drying it's wings

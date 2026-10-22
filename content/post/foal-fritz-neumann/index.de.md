@@ -13,8 +13,9 @@ resources:
 - src: "s-l1600-3.jpg"
 - src: "s-l1600-4.jpg"
 - src: "s-l1600-5.jpg"
-source: ebay
-place: Wilhelmshaven
+params:
+  place: Wilhelmshaven
+  source: ebay
 ---
 
 **Kurze Beschreibung:** Ein kolorierter Druck eines Fohlens von Fritz Neumann

@@ -14,7 +14,8 @@ resources:
 - src: "513f34ae-d738-445a-b763-eb957e561ef9.jpg"
 - src: "b57e8d92-ea1f-4a72-83be-a398d139089f.jpg"
 - src: "9558ca07-20e8-4e30-9497-7e0084935390.jpg"
-source: ebay
+params:
+  source: ebay
 ---
 
 **Short description:** An etching after Albrecht Dürer's ["Preying Hands"](https://en.wikipedia.org/wiki/Praying_Hands_(D%C3%BCrer)) by Fritz Neumann. Even if the motif and style doesn't match, the signature does.

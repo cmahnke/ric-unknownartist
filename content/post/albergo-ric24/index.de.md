@@ -11,7 +11,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
-source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-ALBERGO-MILAN-ITALY-/133483534360?hash=item1f143d1818
+params:
+  source: http://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vtg-c1960s-Color-Etching-ALBERGO-MILAN-ITALY-/133483534360?hash=item1f143d1818
 ---
 
 **Kurze Beschreibung:** Eine Gasse vor einem Hafen

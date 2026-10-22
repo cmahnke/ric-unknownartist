@@ -6,10 +6,6 @@ tags:
 - Signature
 - BlindEmbossing
 title: "Fritz Neumann Lake"
-source:
-   - https://www.ebay.de/itm/317378464195
-   - https://www.kleinanzeigen.de/s-anzeige/aquarell-wechsel-bilderrahmen-drucke-div-groessen-farben/2722268316-246-3537
-place: Berlin - Wilmersdorf
 outputs:
 - html
 - iiif-manifest
@@ -19,6 +15,11 @@ resources:
 - src: "img003.jpeg"
 - src: "img004.jpeg"
 - src: "img005.jpeg"
+params:
+  place: Berlin - Wilmersdorf
+  source:
+     - https://www.ebay.de/itm/317378464195
+     - https://www.kleinanzeigen.de/s-anzeige/aquarell-wechsel-bilderrahmen-drucke-div-groessen-farben/2722268316-246-3537
 ---
 
 **Short description:** A colourised etching of a lake by Fritz Neumann. The post shows two identical prints.

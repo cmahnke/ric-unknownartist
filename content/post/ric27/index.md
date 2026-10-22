@@ -12,7 +12,8 @@ outputs:
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
-source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-STREETSCENE-/143672853431
+params:
+  source: https://www.ebay.com/itm/FRITZ-NEUMANN-AKA-RIC-SIGNED-Vintage-c-1960s-Color-Etching-STREETSCENE-/143672853431
 ---
 
 **Short description:** Another street scene with a lantern and a wind mill (which isn't red - as one can suspect if this should be Paris).

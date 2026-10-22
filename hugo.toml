@@ -3,7 +3,6 @@ locale = "en"
 title = "Ric - An unknown artist"
 publishDir = "docs"
 canonifyURLs = true
-defaultcontentlanguage = "en"
 DefaultContentLanguage = "en"
 disablePathToLower = false
 theme = ["observer-hugo", "projektemacher-base"]
@@ -12,7 +11,7 @@ enableGitInfo = true
 
 [languages]
     [languages.en]
-        lable = "English"
+        label = "English"
 
         [languages.en.menu]
 

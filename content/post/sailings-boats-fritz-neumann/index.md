@@ -1,10 +1,8 @@
 ---
 date: 2020-08-20T10:20:19+02:00
-source: https://www.ebay.de/itm/Ric-Neumann-Ankernde-Yacht-mit-altem-Rahmen-hinter-Glas/164337910448?hash=item26434d82b0:g:GLEAAOSw2TFfHwIX
 tags:
 - Fritz Neumann
 - Signature
-place: Büchen, Deutschland
 title: "Another work of sailing boats by Fritz Neumann"
 outputs:
 - html
@@ -13,6 +11,9 @@ resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-3.jpg"
 - src: "s-l1600-4.jpg"
+params:
+  place: Büchen, Deutschland
+  source: https://www.ebay.de/itm/Ric-Neumann-Ankernde-Yacht-mit-altem-Rahmen-hinter-Glas/164337910448?hash=item26434d82b0:g:GLEAAOSw2TFfHwIX
 ---
 
 **Short description:** Another work of sailing boats by Fritz Neumann.

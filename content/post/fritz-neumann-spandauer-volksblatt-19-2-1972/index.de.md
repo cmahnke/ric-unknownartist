@@ -4,7 +4,8 @@ tags:
 - Fritz Neumann
 - Hint
 title: "Artikel über Fritz Neumann im Spandauer Volksblatt vom 19.2.1972"
-sticky: true
+params:
+  sticky: true
 ---
 
 # Der richtige Fritz Neumann ist gefunden!

@@ -6,8 +6,6 @@ tags:
 - Ric 25
 - Ric 14
 title: Zwei Drucke von Ric
-source: https://auctionet.com/de/3052824-fritz-neumann-segelboote-farbradierung-signiert-ric
-place: Lund, Schweden
 outputs:
 - html
 - iiif-manifest
@@ -17,6 +15,9 @@ resources:
 - src: "item_986026_3.jpg"
 - src: "item_986026_4.jpg"
 - src: "item_986026_5.jpg"
+params:
+  place: Lund, Schweden
+  source: https://auctionet.com/de/3052824-fritz-neumann-segelboote-farbradierung-signiert-ric
 ---
 
 **Kurze Beschreibung:** Segelboote (Ric 25) und eine Laterne neben einer Treppe (Ric 14)

@@ -5,13 +5,13 @@ tags:
 - eBay
 - Ric
 title: Segelschiff (Ric 03)
-alias:
-- 183499556947
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "19-s-l1600.jpg"
+aliases:
+  - 183499556947
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183499556947/short-description-sailing-ship-next-to-a-harbour
 ---

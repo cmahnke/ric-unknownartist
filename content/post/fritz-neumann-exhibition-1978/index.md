@@ -3,7 +3,6 @@ date: 2026-10-07T21:58:00+02:00
 tags:
 - Fritz Neumann
 title: "Fritz Neumann Exhibition 1978/1979"
-source: https://www.ebay.de/itm/336468286188
 outputs:
 - html
 - iiif-manifest
@@ -11,6 +10,8 @@ resources:
   - src: "img003.jpeg"
   - src: "img004.jpeg"
   - src: "img005.jpeg"
+params:
+  source: https://www.ebay.de/itm/336468286188
 ---
 
 It was more of a chance discovery: While conducting a routine search for previously unrecorded works by Ric or Fritz Neumann, I came across this exhibition catalog by Fritz Neumann. The images [from the last post](/post/fritz-neumann-watercolour-grunewald) included some information about the painting's provenance.

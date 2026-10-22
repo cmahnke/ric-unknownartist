@@ -5,8 +5,6 @@ tags:
 - eBay
 - Ric
 title: Gasse mit drei Lampen (Ric 12)
-alias:
-- 183499559772
 outputs:
 - html
 - iiif-manifest
@@ -14,6 +12,8 @@ resources:
 - src: "s-l1600-1.jpg"
 - src: "s-l1600-2.jpg"
 - src: "s-l1600.jpg"
+aliases:
+  - 183499559772
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183499559772/short-description-alley-with-three-lamps-notes
 ---

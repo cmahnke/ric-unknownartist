@@ -4,13 +4,14 @@ tags:
 - Hedwig Klinge
 - Signature
 title: "Hedwig Klinge Kinder auf einer Wiese"
-source: https://www.kleinanzeigen.de/s-anzeige/maler-harald-klinge-kunstdruck-alt-gemaelde/2720907383-240-92
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "img1.jpg"
 - src: "img2.jpg"
+params:
+  source: https://www.kleinanzeigen.de/s-anzeige/maler-harald-klinge-kunstdruck-alt-gemaelde/2720907383-240-92
 ---
 
 **Kurze Beschreibung:** Ein Druck von Kindern auf einer Wiese von Hedwig Klinge, Ehefrau von Fritz Neumann, [wieder](/de/post/hedwig-klinge-kind-hund/) falsch zugeschrieben.

@@ -5,7 +5,6 @@ tags:
   - Etching
   - BlindEmbossing
 title: "Drei Fritz Neumann Drucke von Vögeln"
-source: https://www.kleinanzeigen.de/s-anzeige/3-bilder-von-fritz-neumann-tukan/2939689425-240-21101
 outputs:
 - html
 - iiif-manifest
@@ -16,7 +15,9 @@ resources:
   - src: "img4.jpeg"
   - src: "img5.jpeg"
   - src: "img6.jpeg"
-place: Duisburg
+params:
+  place: Duisburg
+  source: https://www.kleinanzeigen.de/s-anzeige/3-bilder-von-fritz-neumann-tukan/2939689425-240-21101
 ---
 
 **Kurze Beschreibung:** Drei kolorierte Radierungen von Vögeln. Zwei davon sind bereits bekannt: [1](/de/post/fritz-neuman-bird-1), [3](/de/post/another-work-by-our-fritz-neumann).

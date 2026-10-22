@@ -5,7 +5,6 @@ tags:
   - Etching
   - BlindEmbossing
 title: "Three Fritz Neumann prints of birds"
-source: https://www.kleinanzeigen.de/s-anzeige/3-bilder-von-fritz-neumann-tukan/2939689425-240-21101
 outputs:
 - html
 - iiif-manifest
@@ -16,7 +15,9 @@ resources:
   - src: "img4.jpeg"
   - src: "img5.jpeg"
   - src: "img6.jpeg"
-place: Duisburg
+params:
+  place: Duisburg
+  source: https://www.kleinanzeigen.de/s-anzeige/3-bilder-von-fritz-neumann-tukan/2939689425-240-21101
 ---
 
 **Short description:** Three colorized etchings of Birds. Two of them already known: [1](/post/fritz-neuman-bird-1), [3](/post/another-work-by-our-fritz-neumann).

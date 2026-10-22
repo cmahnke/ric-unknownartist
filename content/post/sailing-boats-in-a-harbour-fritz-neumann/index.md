@@ -4,8 +4,6 @@ tags:
 - Fritz Neumann
 - BlindEmbossing
 title: Sailing boats in a harbour (Fritz Neumann)
-alias:
-- 183582046002
 outputs:
 - html
 - iiif-manifest
@@ -14,6 +12,8 @@ resources:
 - src: "IMG_0884.JPG"
 - src: "IMG_0883.JPG"
 - src: "IMG_0885.JPG"
+aliases:
+  - 183582046002
 params:
   tumblr_url: https://ric-unknownartist.tumblr.com/post/183582046002/short-description-sailing-boats-in-a-harbour
 ---

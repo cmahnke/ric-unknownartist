@@ -3,7 +3,6 @@ date: 2020-03-21T12:32:56Z
 tags:
 - Fritz Neumann
 title: Another wrong attribution
-source: http://www.artnet.de/k%C3%BCnstler/fritz-neumann/
 outputs:
 - html
 - iiif-manifest
@@ -13,6 +12,7 @@ resources:
 - src: "screenshoot.png"
 params:
   disableImageViewer: true
+  source: http://www.artnet.de/k%C3%BCnstler/fritz-neumann/
 ---
 
 {{< figure src="screenshoot.png" link="http://www.artnet.de/k%C3%BCnstler/fritz-neumann/" class="shadow" >}}

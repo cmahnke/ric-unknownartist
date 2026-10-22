@@ -6,12 +6,13 @@ tags:
 - Meibohm Fine Arts
 - Etching
 title: "Sea Gulls - Fritz Neumann"
-source: http://www.ebay.com/itm/FRITZ-NEUMANN-SIGNED-AKA-RIC-Vintage-c-1960s-Etching-TWO-GULLS-FLIGHT-/133483534356?hash=item1f143d1814
 outputs:
 - html
 - iiif-manifest
 resources:
 - src: "s-l1600.jpg"
+params:
+  source: http://www.ebay.com/itm/FRITZ-NEUMANN-SIGNED-AKA-RIC-Vintage-c-1960s-Etching-TWO-GULLS-FLIGHT-/133483534356?hash=item1f143d1814
 ---
 
 **Short description:** Two sea gulls in flight
