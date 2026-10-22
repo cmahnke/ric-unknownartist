@@ -1,0 +1,13 @@
+User-agent: *
+
+
+Disallow: /*.bib$
+
+Disallow: /*.json$
+
+Disallow: /*.xml$
+
+Sitemap: https://ric-unknownartist.projektemacher.org/de/sitemap.xml
+
+
+llms-txt: https://ric-unknownartist.projektemacher.org/llms.txt
