@@ -9,6 +9,8 @@ theme = ["observer-hugo", "projektemacher-base"]
 timeout = 120000
 enableGitInfo = true
 
+enableRobotsTXT = true
+
 [languages]
     [languages.en]
         label = "English"
@@ -217,4 +219,7 @@ enableGitInfo = true
                 '^application/ld\+json(;\s?charset=[uU][tT][fF]-8)?$',
                 '^application/sparql-results\+json;\s?charset=[uU][tT][fF]-8$',
                 '^application/sparql-results\+json$']
-    urls = ['^https://query.wikidata.org/sparql.*', 'https://www.wikidata.org', '^https://christianmahnke.de/*']
+    urls = ['^https://query.wikidata.org/sparql.*', 'https://www.wikidata.org', '^https://christianmahnke.de/*', '^https://static\.projektemacher\.org/.*']
+
+[params.robots]
+  llmsTXT = true

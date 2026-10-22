@@ -176,6 +176,7 @@
       <link rel="describedby" type="application/ld+json;profile=http://iiif.io/api/presentation/3/context.json" href="{{ .Permalink }}">
     {{- end -}}
     {{ partial "html/head/og-meta.html" . }}
+    {{- partialCached "html/head/webmention.html" . "webmentions" -}}
   </head>
     {{- $class := "" -}}
     {{- with .Page.File -}}
