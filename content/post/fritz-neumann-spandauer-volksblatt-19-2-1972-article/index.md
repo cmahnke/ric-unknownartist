@@ -8,7 +8,7 @@ outputs:
 - html
 - iiif-manifest
 resources:
-- src: "Spandauer_Volksblatt-19.02.1972-Segelboote_für_Millionäre_und_Vögel_für_sich_selbst.jpg"
+- src: "spandauer-volksblatt-1972-02-19-segelboote.jpg"
 ---
 
 The article "Segelboote für Millionäre und Vögel für sich selbst" (Sailboats for millionaires and birds for themselves) by Uwe-Michael Troppenz from the [previous post](/en/post/fritz-neumann-spandauer-volksblatt-19-2-1972/), published in the Spandauer Volksblatt on 19 February 1972, archive shelfmark IV C Z ZA PA 1038 (Archive of the Spandau City History Museum).
