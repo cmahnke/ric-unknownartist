@@ -10,6 +10,8 @@
   hideListTitle = true
   widePosts = true
   enableImageViewer = true
+  imageViewerMaxWidth = 2560
+  imageViewerPageWidth = 1280
   enablePDFViewer = false
   copyrightYears = "MMXXI - MMXXVI"
   wikidata = false
