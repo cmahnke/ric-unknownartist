@@ -5,4 +5,4 @@ params:
   metaPage: true
   displayInList: false
 ---
-<iframe height="480" src="https://www.google.com/maps/d/embed?mid=1LkIJxmlXCwhyPd7IhpXck0DZMgM" width="640" class="map"></iframe>
+{{< maps/osm-vector-tiles src="map.geojson" style="map-styles/shortbread.json" cluster="true" >}}

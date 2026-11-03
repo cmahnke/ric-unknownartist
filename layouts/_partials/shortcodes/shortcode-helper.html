@@ -1,0 +1,37 @@
+{{/* Just set the Site parameter 'skipShortcodeAssets' to true to disable processing of shortcode specific assets.  */}}
+
+{{- $context := . -}}
+{{- $debug := partialCached "functions/debug/enabled.html" . -}}
+{{- $js := slice -}}
+{{- $css := slice -}}
+{{- $scss := slice -}}
+
+{{- if or (not site.Params.skipShortcodeAssets) (and site.Params.skipShortcodeAssets (eq site.Params.skipShortcodeAssets true)) -}}
+  {{- $includes := partialCached "shortcodes/shortcode-helper-cache.html" . | transform.Unmarshal (dict "format" "json") -}}
+  {{- if $debug -}}
+    {{- warnf "[partials/shortcodes/shortcode-helper.html] Include cache is %#v (type %T)" $includes $includes -}}
+  {{- end -}}
+
+  {{- if reflect.IsMap $includes -}}
+    {{/* Loop through the shortcode cache, check if one is used in the current page and collect the necessary requirements (includes) */}}
+    {{- range $shortcodeName, $refs := $includes  -}}
+      {{- if $context.HasShortcode $shortcodeName -}}
+        {{- if isset $refs "js" -}}
+          {{- $js = $js | append (index $refs "js") -}}
+        {{- end -}}
+        {{- if isset $refs "css" -}}
+          {{- $css = $css | append (index $refs "css") -}}
+        {{- end -}}
+        {{- if isset $refs "scss" -}}
+          {{- $scss = $scss | append (index $refs "scss") -}}
+        {{- end -}}
+        {{- if $debug -}}
+          {{- warnf "[partials/shortcodes/shortcode-helper.html] Found %s with css %#v, js %#v, scss %#v for page %s" $shortcodeName $css $js $scss $context.RelPermalink -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- warnf "[partials/shortcodes/shortcode-helper.html] Include Map is of wrong type: %#v (type %T)" $includes $includes -}}
+  {{- end -}}
+{{- end -}}
+{{- (dict "js" $js "scss" $scss "css" $css)  | jsonify -}}
