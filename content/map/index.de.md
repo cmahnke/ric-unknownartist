@@ -5,4 +5,7 @@ params:
   metaPage: true
   displayInList: false
 ---
-{{< maps/osm-vector-tiles src="map.geojson" style="map-styles/shortbread.json" cluster="true" >}}
+
+{{< html/iframe-consent >}}
+  {{< maps/osm-vector-tiles src="map.geojson" style="map-styles/shortbread.json" cluster="true" >}}
+{{< /html/iframe-consent >}}
