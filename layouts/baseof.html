@@ -131,14 +131,26 @@
     {{- end -}}
 
     {{- $style := slice -}}
+    {{/*
+        Hugo caches 'resources.Concat' results by target path, so the path must
+        be unique per input set - a hardcoded name would make every page reuse
+        the bundle of whichever page rendered first, silently dropping
+        page specific styles (e.g. the shortcode SCSS of the map page).
+        The JS block above does the same with a sha256 over the bundled files.
+    */}}
+    {{- $concatId := "" -}}
+    {{- range $ourStyle -}}
+        {{- $concatId = printf "%s%s" $concatId .Key -}}
+    {{- end -}}
+    {{- $concatId = sha256 $concatId -}}
     {{- if site.Params.enableImageViewer -}}
         {{- $lightgalleryStyle := resources.Get "css/lightgallery/lightgallery-bundle.css" -}}
         {{- $ourStyle = $ourStyle | append $lightgalleryStyle -}}
-        {{- $style = $ourStyle | resources.Concat (printf "css/concated-%d.css" 2) -}}
+        {{- $style = $ourStyle | resources.Concat (printf "css/concated-%s.css" $concatId) -}}
     {{- else if reflect.IsSlice $ourStyle -}}
-        {{- $style = $ourStyle | resources.Concat (printf "css/concated-%d.css" (len $ourStyle)) -}}
+        {{- $style = $ourStyle | resources.Concat (printf "css/concated-%s.css" $concatId) -}}
     {{- else -}}
-        {{- $style = slice $ourStyle | resources.Concat (printf "css/concated-%d.css" (len $ourStyle))  -}}
+        {{- $style = slice $ourStyle | resources.Concat (printf "css/concated-%s.css" $concatId)  -}}
     {{ end }}
 
     {{- if not (eq hugo.Environment "production") -}}
