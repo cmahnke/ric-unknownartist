@@ -1,0 +1,55 @@
+files:
+  output: docs/index
+  source: docs
+  include:
+    - '**/*.htm'
+    - '**/*.html'
+  exclude:
+    - 'search/**'
+    - 'de/search/**'
+    - 'map/**'
+    - 'de/map/**'
+    - 'page/**'
+    - 'de/page/**'
+    - 'post/page/*/**'
+    - 'de/post/page/*/**'
+    - 'tags/**'
+    - 'de/tags/**'
+    - '404.html'
+
+content:
+  ignore:
+    - "<meta http-equiv=\"refresh\" content=\"0; url="
+index:
+  body:
+    - main#content
+  ignore:
+    - script: all
+  weight:
+    - "h1": 7.0
+    - "h2": 6.0
+    - "h3": 5.0
+    - "h4": 4.0
+    - "h5": 3.0
+    - "h6": 2.0
+  meta:
+    author: 'meta[name="author"]'
+    title:
+      - '.title h1'
+      - 'h1.term'
+    date:
+      - ".date time": "[datetime]"
+    image:
+      - "figure img": "[src]"
+    selector:
+      - "p, h1, h2":
+          function: generate_css_selector
+  sort:
+    date:
+      - ".date time": "[datetime]"
+  filter:
+    tag:
+      - ".tags a":
+          function: extract
+          args:
+            pattern: "s/#(.*)/$1/g"

@@ -58,8 +58,8 @@
     {{- if not .Params.metaPage -}}
       <div class="metadata">
         <div class="date">
-          <a href="{{ .RelPermalink }}">
-            {{- .Date | time.Format ":date_full" -}}
+          <a href="{{ .RelPermalink }}" aria-label="{{ .Title }}: {{ .Date | time.Format ":date_full" }}">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{- .Date | time.Format ":date_full" -}}</time>
           </a>
           {{- if site.Params.linkTumblr -}}
               {{- if .Params.tumblr_url -}}

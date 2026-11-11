@@ -28,6 +28,8 @@ $font-menu: 'Lora Variable', georgia, serif;
 /* spinnaker-regular - latin (provided by the theme's Fontsource pipeline) */
 @use "npm-fonts/spinnaker";
 
+@use "./pagefind";
+
 .blog-title {
     h1 {
         font-weight: 700;

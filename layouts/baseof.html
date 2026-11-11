@@ -14,6 +14,11 @@
     {{- end -}}
     <meta name="description" content="{{ .Description | default (.Summary | default site.Params.description ) }}">
     <meta name="keywords" content="{{ (delimit .Keywords ",") | default site.Params.keywords }}">
+    {{- $webmcpSearch := site.Params.webMcpSearch -}}
+    {{- if and (reflect.IsMap $webmcpSearch) $webmcpSearch.enabled -}}
+      <meta name="webmcp-search-bundle-path" content="{{ $webmcpSearch.bundlePath | default (absURL "index/") }}">
+      <meta name="webmcp-search-title" content="{{ i18n "Search" }}">
+    {{- end -}}
     {{ partial "html/head/og-meta.html" . }}
     <meta name="projektemacher.org:build-date" content="{{ now }}">
     {{- if ne .GitInfo nil -}}
@@ -57,6 +62,10 @@
         {{- $pdfViewer := resources.Get "ts/pdf-viewer.ts" | js.Build $opts -}}
         {{- $js = $js | append $pdfViewer -}}
     {{- end }}
+
+    {{- if and (reflect.IsMap $webmcpSearch) $webmcpSearch.enabled -}}
+        {{- $js = $js | append (resources.Get "ts/webmcp-search.ts" | js.Build $opts) -}}
+    {{- end -}}
 
     {{- if isset $includes "js" -}}
       {{- range (index $includes "js") -}}

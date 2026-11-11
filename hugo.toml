@@ -43,8 +43,13 @@ enableRobotsTXT = true
                 url = "map/"
 
             [[languages.en.menu.main]]
-                name = "About"
+                name = "Search"
                 weight = 6
+                url = "search/"
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 7
                 url = "about/"
 
 
@@ -81,8 +86,13 @@ enableRobotsTXT = true
                 url = "map/"
 
             [[languages.de.menu.main]]
-                name = "About"
+                name = "Suche"
                 weight = 6
+                url = "search/"
+
+            [[languages.de.menu.main]]
+                name = "About"
+                weight = 7
                 url = "about/"
 
 [markup]
@@ -209,6 +219,14 @@ enableRobotsTXT = true
         source = "node_modules/lightgallery/images"
         target = "static/images/lightgallery"
 
+    [[module.mounts]]
+        source = "assets/ts"
+        target = "assets/ts"
+
+    [[module.mounts]]
+        source = "node_modules/@pagefind/modular-ui/css/"
+        target = "assets/scss/pagefind"
+
 [build]
   writeStats = true
 
@@ -226,3 +244,6 @@ enableRobotsTXT = true
 
 [params.robots]
   llmsTXT = true
+
+[params.webMcpSearch]
+  enabled = true
