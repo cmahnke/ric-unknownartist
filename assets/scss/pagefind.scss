@@ -31,6 +31,13 @@
       font-size: inherit;
       line-height: unset;
       width: 50%;
+      /* Suppress WebKit's native clear button for type="search" */
+      appearance: none;
+
+      &:focus-visible {
+        outline: 2px solid currentcolor;
+        outline-offset: 2px;
+      }
 
       @media (max-width: 740px) {
         width: 60%;
@@ -47,6 +54,11 @@
       height: 2em;
       line-height: unset;
       padding: 0 0.8em;
+
+      &:focus-visible {
+        outline: 2px solid currentcolor;
+        outline-offset: 2px;
+      }
     }
   }
 
@@ -100,6 +112,12 @@
         border: 1px solid #595959;
         border-radius: 0.5em;
         color: inherit;
+        padding: 0 1rem;
+
+        &:focus-visible {
+          outline: 2px solid currentcolor;
+          outline-offset: 2px;
+        }
 
         &:has(span[data-filter-count="0"]) {
           display: none;
