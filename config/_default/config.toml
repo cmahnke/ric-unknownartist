@@ -33,6 +33,10 @@
     [params.preview.og]
         format = "webp"
 
+[params.iiif]
+  # Show each image as an individual page, not as double facing pages
+  defaultBehavior = "individuals"
+
 [params.author]
   email = 'mail@christianmahnke.de'
   name = 'Christian Mahnke'
