@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Unknown Artist Ric</name>
+    <description><![CDATA[This map shows known locations of images made by Ric. It's purpose is to narrow down the place he worked. Note that different colors are used to distinguish between current locations (mostly collectors) and the original find spot.]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Find spots</name>
+      <Placemark>
+        <name>Street lamp</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiLMTb21vEI9b0YKeHo79EZ2XhN40Bbp1RFID-SSyp6R0-3wTYv6RxTN0B9lBu2IdsF6Sy5voUYrLnbdW0jtML0WR3Ir0ipTT_rfn1fgPtjwBb9Q_Kf2rae9THDPEQ-Q66UL2KC0slcheuZ-qFdXGbJwoXiojLc6jH0UiG2phHRi6eo-AVFRS3tCjZgXAaav9zbNbw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Flohmarkt Hallen Wulsdorf (flea market)<br>Oct 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiLMTb21vEI9b0YKeHo79EZ2XhN40Bbp1RFID-SSyp6R0-3wTYv6RxTN0B9lBu2IdsF6Sy5voUYrLnbdW0jtML0WR3Ir0ipTT_rfn1fgPtjwBb9Q_Kf2rae9THDPEQ-Q66UL2KC0slcheuZ-qFdXGbJwoXiojLc6jH0UiG2phHRi6eo-AVFRS3tCjZgXAaav9zbNbw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.5952139,53.5082255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fishing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhW3qLKS9RsVcXhuzeYwG5Sw-4XQM5YpkIPoqOHrHt-gnjDK-NEVg4ITnmTLBH5uwgCv-p1W8_3nrMlRJHjBh6ftfRUM_eE27hf7oX7I3sn7r4J5-T3GVtNoTE7hhcJnbFQUjjieqeD4Uf7yRYJZBc12pxEjKz1fyVkkqEVAqrwf8aEKk2be8ngLy68dW6qwf7Ajj8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found in bulky waste, south of Bremerhaven<br>Around 2000]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhW3qLKS9RsVcXhuzeYwG5Sw-4XQM5YpkIPoqOHrHt-gnjDK-NEVg4ITnmTLBH5uwgCv-p1W8_3nrMlRJHjBh6ftfRUM_eE27hf7oX7I3sn7r4J5-T3GVtNoTE7hhcJnbFQUjjieqeD4Uf7yRYJZBc12pxEjKz1fyVkkqEVAqrwf8aEKk2be8ngLy68dW6qwf7Ajj8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.6477852,53.47027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi3VOQNfDW7nAhO6WYa8fw__yC0Z5vD4dzJwpZrRdbeHqesGYd963LPbK0dBGtg7hnRlV0Bc6a193fwZ01g8d8oq_x7rkAUuxUOXimnUKjG_31pBzX8oA5L8cXb0RdPyVIrg8TABS0G7eXAO0PnfNZWjTykhTfjtz7XIfD4bhP7F2ZCqihjI-6HxXz44NW_fAO8ikI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/361341543748<br>Aug. 2015]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi3VOQNfDW7nAhO6WYa8fw__yC0Z5vD4dzJwpZrRdbeHqesGYd963LPbK0dBGtg7hnRlV0Bc6a193fwZ01g8d8oq_x7rkAUuxUOXimnUKjG_31pBzX8oA5L8cXb0RdPyVIrg8TABS0G7eXAO0PnfNZWjTykhTfjtz7XIfD4bhP7F2ZCqihjI-6HxXz44NW_fAO8ikI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.1806348,51.7995338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhb55lA70axU6nBTm5Za-W9yD9M7m6kn-nnUqNITEP9KVCQaaeG5Ir-V3P8xgCQt55tG4HipbBFbb6pg5oVAMZfhNUiKb5aomP3Jl4lXWnq4CG13c10DxHTT7tkqS0xkfaPR-6nxRSnAesb6nBZuwmvdFCgAQ2Bve-6kam2RUVxDe20KN2L53rGMGeDJ-tRH7SYVWI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/381749116064<br>Oct. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhb55lA70axU6nBTm5Za-W9yD9M7m6kn-nnUqNITEP9KVCQaaeG5Ir-V3P8xgCQt55tG4HipbBFbb6pg5oVAMZfhNUiKb5aomP3Jl4lXWnq4CG13c10DxHTT7tkqS0xkfaPR-6nxRSnAesb6nBZuwmvdFCgAQ2Bve-6kam2RUVxDe20KN2L53rGMGeDJ-tRH7SYVWI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.6997168,53.8664717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats with tree</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiUPsEU6kM6D3Ro0wYJHaneLBEHBBiBknsBnNuxuwhFYioayXAirRbBA-CWpxKRirKYkELhjfHp67daXvpHNapVG4M2koRKve8IiRO79DxvPoZCLA5s1gAHguzB3irzrem5SyfEdH_BZlyabn-A1hfiYaA6N_YdQ_bU2IiodkqV7xIGhq2glxkvJINRY3wMpFDXDP8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/162228927691<br>Oct. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiUPsEU6kM6D3Ro0wYJHaneLBEHBBiBknsBnNuxuwhFYioayXAirRbBA-CWpxKRirKYkELhjfHp67daXvpHNapVG4M2koRKve8IiRO79DxvPoZCLA5s1gAHguzB3irzrem5SyfEdH_BZlyabn-A1hfiYaA6N_YdQ_bU2IiodkqV7xIGhq2glxkvJINRY3wMpFDXDP8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.867179,48.3896343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiosf4Jwwue0vEfeBwkFvmF1-P2SfxJqsBmyWvaXHMku_9ckpk5v5-dqxnJPl48xKgVWaOQs-zOxEkEaILsvL3FXJWArcxHndQzqZ12WfWgry0P_2gopCpqbSdO0i5yVIZBtXnzMbOhB-eDzdNzToSV5X0i7PjTMfRbRo0Te5RSCzH81kxuAcP-Pd6kwELZeMi26zE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/112149726698<br>Oct 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiosf4Jwwue0vEfeBwkFvmF1-P2SfxJqsBmyWvaXHMku_9ckpk5v5-dqxnJPl48xKgVWaOQs-zOxEkEaILsvL3FXJWArcxHndQzqZ12WfWgry0P_2gopCpqbSdO0i5yVIZBtXnzMbOhB-eDzdNzToSV5X0i7PjTMfRbRo0Te5RSCzH81kxuAcP-Pd6kwELZeMi26zE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.9905191,48.3951422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjiU6szPNoUZoM6U7q17X1WybCQprWKm_eOElXu6aicl50k8RDShjncJfsYWVGNCg062sqkALpVmi657fQgEjD1TeT_T2OnzLwgYW5QRRX2Q1fdUvnKJePxJle8IiAP8tW1aYytToRq-EJIXlWGtLSdEVOFO9z8F_GEgfaJDd622_qqGwWHknwVlfQ5J_brwKH6C2eU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/162186943975<br>Aug. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjiU6szPNoUZoM6U7q17X1WybCQprWKm_eOElXu6aicl50k8RDShjncJfsYWVGNCg062sqkALpVmi657fQgEjD1TeT_T2OnzLwgYW5QRRX2Q1fdUvnKJePxJle8IiAP8tW1aYytToRq-EJIXlWGtLSdEVOFO9z8F_GEgfaJDd622_qqGwWHknwVlfQ5J_brwKH6C2eU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.5692254,51.2092422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats in the habour</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiVdbr4Hov1dnxUaGZlUmCHvudS2L0vJbUTg7oOSmJcHbqAGevW2C-eQHJHQUcqBBJo52_AzCGmPsbvwbL3wD_zRXgosE_W_4GutvpT-uW8bFxUa4m-7X-gwDsCuTMi4vsXeBHv91J6Qu4oDxclUgGssN-elErw2UJmVs54BKjkzhM20bUoWiAvnBbAjwgCZYHBl6iQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/252503803915<br>Aug 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZiVdbr4Hov1dnxUaGZlUmCHvudS2L0vJbUTg7oOSmJcHbqAGevW2C-eQHJHQUcqBBJo52_AzCGmPsbvwbL3wD_zRXgosE_W_4GutvpT-uW8bFxUa4m-7X-gwDsCuTMi4vsXeBHv91J6Qu4oDxclUgGssN-elErw2UJmVs54BKjkzhM20bUoWiAvnBbAjwgCZYHBl6iQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.2419167,53.1030099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alleyway to the sea</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgMx0vHdy5tesU2pKJcrfuPrpY3HW11Dwsd4fDladteOxqu0ZUW-kYvjFWABYe2T5KgNYtxiF5eCPDqXOJpiljnznWubpJaS2ME_wgPRikjVxXQeSw8i11DSZz50XSZ_0pv8wRlvAXtMx-exBVK_ekMARDgRggav1hNtCUo4Q-S0nuczMosaDmMZhjd3_bRgls8tho?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/401009754667 <br>Aug. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgMx0vHdy5tesU2pKJcrfuPrpY3HW11Dwsd4fDladteOxqu0ZUW-kYvjFWABYe2T5KgNYtxiF5eCPDqXOJpiljnznWubpJaS2ME_wgPRikjVxXQeSw8i11DSZz50XSZ_0pv8wRlvAXtMx-exBVK_ekMARDgRggav1hNtCUo4Q-S0nuczMosaDmMZhjd3_bRgls8tho?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.9543685,51.4772602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg5OTkWz2m0RDMOODWa_aK2zaB_Xy3wgUwICdiZuhuCluTGZMdWcNxMGwsnvgEwNgie5xKbD1M4Q1Ta1JMLtBqGab8mDsyx_dVnJGMQ51rBwCkeDRMGOPbdQk3Rx4j9v65qIq-43ZZct4VDODlNucBRb5qS60g3MN_3pORVlkyFFlak93XWjvg3RMbjiFzy0kcQ3c08?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.com/itm/112162958225<br>Nov. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZg5OTkWz2m0RDMOODWa_aK2zaB_Xy3wgUwICdiZuhuCluTGZMdWcNxMGwsnvgEwNgie5xKbD1M4Q1Ta1JMLtBqGab8mDsyx_dVnJGMQ51rBwCkeDRMGOPbdQk3Rx4j9v65qIq-43ZZct4VDODlNucBRb5qS60g3MN_3pORVlkyFFlak93XWjvg3RMbjiFzy0kcQ3c08?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5137024,39.0980945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing ship</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjRsOGgm98W8Ya0tW6ouKcpj6pTKhbS4hCVsp7nCgU38cms7Hf6xfJ_t0MQvoJy-IsrFmLZGE7_C1KIlxVFtefII3-I97dbmgOFTu8RAOIIz2BqUZiiyBnPuXH5sAxEj9X1cvhS9g7zN3GP41H28nheYJsBgtocgwZ6Z_aTZBWPG4U9--EyWIZjUfko_pGOJHumWi0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.com/itm/112162958189<br>Oct. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjRsOGgm98W8Ya0tW6ouKcpj6pTKhbS4hCVsp7nCgU38cms7Hf6xfJ_t0MQvoJy-IsrFmLZGE7_C1KIlxVFtefII3-I97dbmgOFTu8RAOIIz2BqUZiiyBnPuXH5sAxEj9X1cvhS9g7zN3GP41H28nheYJsBgtocgwZ6Z_aTZBWPG4U9--EyWIZjUfko_pGOJHumWi0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5109558,39.1050216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhsdEcxsAm9AdekUK3KFujbsCPgLASS1XhqALBfk0DEGqc2lyyLkjW9v1r2pOr-JxfcYaIRynHIC3_73vc4c519is56w3EuFcYHBe0V--B7vlP0bK85dWzakWJraPSWGXyuauhWXrEEX8djXN8h04NQsWKh2hZ_YdZiQJfIMYpzS7EjEnr4ikqslFcuMjLKULMwKLN5?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.com/itm/112118987372<br>Sept. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhsdEcxsAm9AdekUK3KFujbsCPgLASS1XhqALBfk0DEGqc2lyyLkjW9v1r2pOr-JxfcYaIRynHIC3_73vc4c519is56w3EuFcYHBe0V--B7vlP0bK85dWzakWJraPSWGXyuauhWXrEEX8djXN8h04NQsWKh2hZ_YdZiQJfIMYpzS7EjEnr4ikqslFcuMjLKULMwKLN5?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.516449,39.1028903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fishing net</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjx5hAFZThEqDPMMu_EI43lYe3aIj1VN--fAG7bnnbOwKDlxQ49jJRUMj39EYsKeTbymL5LjaozWpjGpILlyvjOzHm5VwZ3CIipPuS_UyTfE1Awej13_Kwej1d0smIvI7_l69XW3SUD4od2SOCpyGJvYqnoQcTa3WjET2MUX2L0NdrOcz1fw_UwP8_7AUKpbOizHZZf?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found via Google Image Search http://www.historia.de/de/ric_um_1970/l/90693?aid=58&Lstatus=0&accid=115&ord=price_a&currentpos=1001<br>Jan. 2014]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjx5hAFZThEqDPMMu_EI43lYe3aIj1VN--fAG7bnnbOwKDlxQ49jJRUMj39EYsKeTbymL5LjaozWpjGpILlyvjOzHm5VwZ3CIipPuS_UyTfE1Awej13_Kwej1d0smIvI7_l69XW3SUD4od2SOCpyGJvYqnoQcTa3WjET2MUX2L0NdrOcz1fw_UwP8_7AUKpbOizHZZf?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.6821055,51.2567593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birds</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjeVZ3vl7X4s8gSnKEdQrRqLKgesqr-9bmimoqp-xbwkfgwIhmrWMMq69IP9EWvWPct8wcK5MWlknaYVvV6mMMzqmCeR8Z9c8XixHeqW1LAydlGYdaLBAxES2Mc3m2e_RD-anfo80oS4anFr1P6aPjzP_-4d4bO4O4IWVXH6rPTIhqwZvaiGtxyxkNn5_faCu1yJp8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found via Google Image Search http://www.antikbayreuth.de/kuenstlerverzeichnis/Kunstler_Q_bis_S/RIC_Radierung_Vogel/ric_radierung_vogel.html<br>Jun. 2011]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjeVZ3vl7X4s8gSnKEdQrRqLKgesqr-9bmimoqp-xbwkfgwIhmrWMMq69IP9EWvWPct8wcK5MWlknaYVvV6mMMzqmCeR8Z9c8XixHeqW1LAydlGYdaLBAxES2Mc3m2e_RD-anfo80oS4anFr1P6aPjzP_-4d4bO4O4IWVXH6rPTIhqwZvaiGtxyxkNn5_faCu1yJp8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.5825604,49.9437162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjrJhKlyx6c5CmhNJjeJHJVQFv-dHAwxbi0otAJcHwi1_AkWHiLGTEKYuNBrzmRCEJLX1wXXxR3OBh0VSAfnaatBxiS1zuC51fF8UhYF-k0Ay_yBob-kBodE0XzeXiHmKxpbh4QBgQ8BQT5zQKH-GiiNusxn5JxEQKFX78-OF5FmSu6D82i5rp3p6uKclKJnRGQUx0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found via Google Image Search http://www.antikbayreuth.de/kuenstlerverzeichnis/Kunstler_Q_bis_S/RIC_Radierung_Vogel/ric_radierung_vogel.html<br>Apr. 2012]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjrJhKlyx6c5CmhNJjeJHJVQFv-dHAwxbi0otAJcHwi1_AkWHiLGTEKYuNBrzmRCEJLX1wXXxR3OBh0VSAfnaatBxiS1zuC51fF8UhYF-k0Ay_yBob-kBodE0XzeXiHmKxpbh4QBgQ8BQT5zQKH-GiiNusxn5JxEQKFX78-OF5FmSu6D82i5rp3p6uKclKJnRGQUx0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            11.5825456,49.9437093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ship and town</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi_XLmEu2CuaMZlB4OhhXHsZmdQMGEZHKWCIGiaumr2r-0YI-bPprARWL2K6SqtrR5hdrz_zeN_3awG1M1oF02hUC3mQkFT1BR8sE2wGkv7_9cuk3loe-v0bcLonvPYa24B5W1Ljj8O4pJLAP8w06YYHvDNQBCd1eXIn_S3iZszGSLVxjgKIhg_8ZsaXYNSVqxA_kCx?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.co.uk/itm/311720497638<br>Oct. 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZi_XLmEu2CuaMZlB4OhhXHsZmdQMGEZHKWCIGiaumr2r-0YI-bPprARWL2K6SqtrR5hdrz_zeN_3awG1M1oF02hUC3mQkFT1BR8sE2wGkv7_9cuk3loe-v0bcLonvPYa24B5W1Ljj8O4pJLAP8w06YYHvDNQBCd1eXIn_S3iZszGSLVxjgKIhg_8ZsaXYNSVqxA_kCx?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -3.7842751,56.0020286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgI7cx_JJvGN9jbHE_LslZIpqOgHDGeYyyjzDaL888CwdfUpDeHBN9Ar6bufxSIYdsXUb7LXfj7kw5Kx2aQCah-KXr1aWr8Yc5qTipDmwa_ernvkoFNhVvKdO9XLfujhUxk3SjAH0c-J72TpzFJcDLl91wd4r-CQV5LEjaypxVIZac4Ww6yKTNnVnhcfjRkAM2f3-MA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/351892716096<br>Nov 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgI7cx_JJvGN9jbHE_LslZIpqOgHDGeYyyjzDaL888CwdfUpDeHBN9Ar6bufxSIYdsXUb7LXfj7kw5Kx2aQCah-KXr1aWr8Yc5qTipDmwa_ernvkoFNhVvKdO9XLfujhUxk3SjAH0c-J72TpzFJcDLl91wd4r-CQV5LEjaypxVIZac4Ww6yKTNnVnhcfjRkAM2f3-MA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.4624634,51.367065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjY7bfm43VTQ-qKZdVYqDUt1-eEAffzjCLhMgL_H2m4t2deCTHdeN_mtBco30rJBxEoX1S4RblSZk0xA2LMTG1aUNI5DCbWDlBWqMKz2m5c7QdScWQ8yMlPLpwCNy9aHZOpKQGlsJuW_nHmI3RWKPmcI5gkPffZihse5zUuGSqyoffaTpmM-g5Z18cC2d8MAwth47Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found via Google Image Search http://www.zeller.de/index.php?id=1002&backPID=1002&search_pid=1002&begin_at=2103<br>Apr. 2015]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjY7bfm43VTQ-qKZdVYqDUt1-eEAffzjCLhMgL_H2m4t2deCTHdeN_mtBco30rJBxEoX1S4RblSZk0xA2LMTG1aUNI5DCbWDlBWqMKz2m5c7QdScWQ8yMlPLpwCNy9aHZOpKQGlsJuW_nHmI3RWKPmcI5gkPffZihse5zUuGSqyoffaTpmM-g5Z18cC2d8MAwth47Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.6860033,47.5463719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats with tree</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh4i4083cPYG0bHAkOVIWOz83AJ95XRsAYyaJRDnHXk9fItqf2afi0-w83QCpyADzgdNRQqLkG-Pl6IiYSs8KfsDMCEkkUq_yBuCJlMHs8KYRVzzZs-aoIgAXg3BVl0yDXSV_hAreBTUXdJ32Zoz5GrxuF1gKL8eZQdfCN5Ob2r88ZXLZJU-ghLATB-pul1TjZN3Fnw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/141937904245<br>Oct 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZh4i4083cPYG0bHAkOVIWOz83AJ95XRsAYyaJRDnHXk9fItqf2afi0-w83QCpyADzgdNRQqLkG-Pl6IiYSs8KfsDMCEkkUq_yBuCJlMHs8KYRVzzZs-aoIgAXg3BVl0yDXSV_hAreBTUXdJ32Zoz5GrxuF1gKL8eZQdfCN5Ob2r88ZXLZJU-ghLATB-pul1TjZN3Fnw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.1994458,50.9212162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three lamps</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgtgDPC9CpHuw4sNHpSwp4AeikQf0TeNBt-Krwf0bOeEC7O7znXHngTxPq51FhDY1T27hCCwR9V6Pof8LGfIl90L273KUzCsYwgqBdVtYTd4wBF0c5tTga1F07AfVqe7qOXpnJVC0185UGxh7ep8kVqX3NVAFG-wzRHvxWh4yCDfYLz7cAv5YK55syHFCSYuD1NYllg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay<br>http://www.ebay.de/itm/142209311267<br>Dec 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgtgDPC9CpHuw4sNHpSwp4AeikQf0TeNBt-Krwf0bOeEC7O7znXHngTxPq51FhDY1T27hCCwR9V6Pof8LGfIl90L273KUzCsYwgqBdVtYTd4wBF0c5tTga1F07AfVqe7qOXpnJVC0185UGxh7ep8kVqX3NVAFG-wzRHvxWh4yCDfYLz7cAv5YK55syHFCSYuD1NYllg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.8785678,53.0962153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailings boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjFzxTbY8U19DX_D9m_99-giRKRohlmrRZUhi7Y-OT2nBqH_iltuT7ynSLrzJ7bJq5DdmYj-j0_CMt4sJ2XGGA4AjtA-5wN_kXPw9hjfnBKglc0AgfRE1N5d8qNIxD_wfWdcYAedbuYo8iR_Kz1AITfoJY8G0flW-on1WUsUW5OPtIIn_XVMkYA6BjdIPTlZbb6Bhg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay<br>http://www.ebay.de/itm/371815844556<br>Dec 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZjFzxTbY8U19DX_D9m_99-giRKRohlmrRZUhi7Y-OT2nBqH_iltuT7ynSLrzJ7bJq5DdmYj-j0_CMt4sJ2XGGA4AjtA-5wN_kXPw9hjfnBKglc0AgfRE1N5d8qNIxD_wfWdcYAedbuYo8iR_Kz1AITfoJY8G0flW-on1WUsUW5OPtIIn_XVMkYA6BjdIPTlZbb6Bhg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            8.6842056,48.889323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing Boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZijnaK8wedMcfbsXgq4SdijP_Yt2kXaq0psodLepT4ajgFEN_qVcNFVgmmnWC0rdsBfYC0qeBBraNrP_2qXQi5ukezErIzvhMkQZZ0Nc9NLQoPbPyhHBE1nciK9ixj7dgdqCvH-f47f9HbKAtgFN-jK8An5Si4BDJBKBbyZUQsJBj2W4daf_zezCsTY4qy0ldQQZAI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay<br>http://www.ebay.co.uk/itm/291972277578<br>Dec 2016]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZijnaK8wedMcfbsXgq4SdijP_Yt2kXaq0psodLepT4ajgFEN_qVcNFVgmmnWC0rdsBfYC0qeBBraNrP_2qXQi5ukezErIzvhMkQZZ0Nc9NLQoPbPyhHBE1nciK9ixj7dgdqCvH-f47f9HbKAtgFN-jK8An5Si4BDJBKBbyZUQsJBj2W4daf_zezCsTY4qy0ldQQZAI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -1.3086069,51.0578846,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sailing boats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZig8lbYp_Q1NThq4_3btsQLgXPDIHkFn1rMkV1QXbjhbJqc8venloAnPhgG6H8hEZheTRumdZyK27-eXANVZkpLS_s8vojOhKpCUS66QFw9YMjXunAerTuVZlUKdtOCLrwrU2F3gxeUe_feNznghSfNPfr60VUAvIx2WF2KcD8MTdyDwtXcrxLRcR87uDYxldGlHa68?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on ebay http://www.ebay.de/itm/302272205609<br>Apr. 2017]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZig8lbYp_Q1NThq4_3btsQLgXPDIHkFn1rMkV1QXbjhbJqc8venloAnPhgG6H8hEZheTRumdZyK27-eXANVZkpLS_s8vojOhKpCUS66QFw9YMjXunAerTuVZlUKdtOCLrwrU2F3gxeUe_feNznghSfNPfr60VUAvIx2WF2KcD8MTdyDwtXcrxLRcR87uDYxldGlHa68?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            6.7662048,51.4326615,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moulin de la Galette</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgn2AdE5opDbQxx9eIjj-CuFZgKCvWcKmLFZZRj1JwgfWpvqENe7zUpahwpQVxE-NMbn_wgzmVBjGDECLVkobenWE55GUW6yRlmnaD8e68Y7ui8ocAv3mNfmjq48voAj3lhBEOxxor7WEWQRHyN7yGaH2-wewWQoXABWJFvXme102R9wqQy-sTF6yclwY2_zloN7FSp?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found on eBay http://www.ebay.de/itm/162449224764<br>Apr. 2017]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZgn2AdE5opDbQxx9eIjj-CuFZgKCvWcKmLFZZRj1JwgfWpvqENe7zUpahwpQVxE-NMbn_wgzmVBjGDECLVkobenWE55GUW6yRlmnaD8e68Y7ui8ocAv3mNfmjq48voAj3lhBEOxxor7WEWQRHyN7yGaH2-wewWQoXABWJFvXme102R9wqQy-sTF6yclwY2_zloN7FSp?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.27923,53.64497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Street at night</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhawCc9gndRm6nwMkDB1Cx6TvYUkJT0o0STRCvLV3U-kMtqlSMoq2xzvHW-JLZ_yfo4B1zCcb3WKZasrUVfMI8hpUEpYXfaqSTVmsmIRpiMz9kDDu85VdBK5OXjqQLnf0zUm-kTAb1tVOiaAgCBCX_fcRlQN9HLEOL7MWRXf9Jz7umJ8W1oH7HFBGXmCaH8jc10bTs6?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Found via eBay http://www.ebay.de/itm/322484596699<br>Apr.2017]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3ABkJAZhawCc9gndRm6nwMkDB1Cx6TvYUkJT0o0STRCvLV3U-kMtqlSMoq2xzvHW-JLZ_yfo4B1zCcb3WKZasrUVfMI8hpUEpYXfaqSTVmsmIRpiMz9kDDu85VdBK5OXjqQLnf0zUm-kTAb1tVOiaAgCBCX_fcRlQN9HLEOL7MWRXf9Jz7umJ8W1oH7HFBGXmCaH8jc10bTs6?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.45183040000006,52.5035855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
