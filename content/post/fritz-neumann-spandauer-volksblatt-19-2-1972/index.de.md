@@ -55,7 +55,7 @@ Und ist aber auch klar, dass der Fritz Neumann aus dem [Archiv der Reichskunstka
 
 ## Nachtrag 24.10.2024
 
-Inzwischen habe ich auch einen weiteren Hinweis von Torsten Steinberg erhalten: Er hat mir ein [Auszug aus dem Sterberegister]((/post/fritz-neumann-civil-registry)) geschickt. Demnach ist Fritz Neumann am 8. Juni 1984 im heutigen Gemeinschaftskrankenhaus Havelhöhe in Berlin Spandau verstorben.
+Inzwischen habe ich auch einen weiteren Hinweis von Torsten Steinberg erhalten: Er hat mir ein [Auszug aus dem Sterberegister](/post/fritz-neumann-civil-registry) geschickt. Demnach ist Fritz Neumann am 8. Juni 1984 im heutigen Gemeinschaftskrankenhaus Havelhöhe in Berlin Spandau verstorben.
 
 ## Dokumente
 
